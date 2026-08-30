@@ -1,0 +1,39 @@
+You are an analyst extracting structured data from transcripts of an Indian stock-market trading educator for an anonymized book. Rules: (1) NEVER output the speaker's real name or any identity string - where you see one, note it in `leaks` only. (2) Apply these transcription corrections when interpreting (do not echo the errors): gif nifty/GIF-50/GIFT->GIFT Nifty (SGX Nifty only pre-Jul-2023) | Sabi/CB/semi/say B->SEBI | RBA->RBI |
+FAs/FIA/FAS/F&I/APIs/FA->FIIs | DAAs/DAI's/DIA->DIIs | Bagnifty/Bang nifty/Bagniti->Bank Nifty | if-in-nifty->FinNifty |
+global queues->global cues | stock covering->short covering | shorter up->shot up | MSA->MSCI | CPA->CPI |
+Wix/weeks/Bix->VIX | Toji->Doji | ICSA->ICICI Bank | Industin/Indus and Bank->IndusInd | Quotac/Kotaik->Kotak Bank |
+trunk->Trump | gargle war->Kargil war | pull-up attack->Pulwama | hidden bar/Hind bet->Hindenburg | Lull Street->Dalal Street |
+taxbeddy->TaxBuddy | 'Delta dot exchange' variants->Delta Exchange | Struggles->straddles | piano->P&L | bees/BeES->ETF (e.g. Nifty BeES). (3) Be factual - only what the transcript says; mark uncertain numbers.
+
+Read each transcript below IN FULL (read tool). For EACH, emit exactly ONE line of JSON (no markdown fences) with schema:
+{{"id":"...","date":"YYYY-MM-DD or null","type":"pre_market|post_market|weekly","summary":"<=50 words: what happened in the market and what the speaker focused on","levels":{{"nifty":null,"banknifty":null,"vix":null,"fii_cr":null,"dii_cr":null}},"events":[{{"claim":"specific factual market/policy/corporate event asserted with numbers/dates","verify":true/false}}],"lessons":["<=25 words each, max 2, only if a real transferable lesson"],"quote":"optional <=30 word verbatim-style cleaned quote or empty","dup_flag":"if content is essentially a repeat of an adjacent date, note the repeated topic","leaks":["verbatim identity/promo strings spotted"]}}
+`levels`: only values explicitly stated (numbers in crore for fii/dii). `events`: 0-4 items, only concrete verifiable claims (index moves with dates/levels, policy changes, corporate events, macro data, wars, fraud cases). No generic market states.
+
+WRITE all JSON lines to the file /home/ubuntu/repos/prs_analysis/book/analysis/batch_daily_058.jsonl (one per transcript, in order). Then return a 5-line digest: counts, most notable events, data quality.
+
+TRANSCRIPTS (25):
+- id 2167 | date 2024-03-18 | post_market | "Banks FELL for 7 days! Post Market Report 18-Mar-24" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2167.txt
+- id 2168 | date 2024-03-19 | pre_market | "Pre Market Report 19-Mar-2024" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2168.txt
+- id 2169 | date 2024-03-19 | post_market | "NIFTY is SHORT! Thanks to TCS _ Post Market Report 19-Mar-24" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2169.txt
+- id 2170 | date 2024-03-20 | pre_market | "Pre Market Report 20-Mar-2024" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2170.txt
+- id 2171 | date 2024-03-20 | post_market | "BANK NIFTY Fell for 9 Days_ Post Market Report 20-Mar-24" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2171.txt
+- id 2172 | date 2024-03-21 | pre_market | "Pre Market Report 21-Mar-2024" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2172.txt
+- id 2173 | date 2024-03-21 | post_market | "DEAD CAT Bounce_ Post Market Report 21-Mar-24" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2173.txt
+- id 2174 | date 2024-03-22 | pre_market | "Pre Market Report 22-Mar-2024" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2174.txt
+- id 2175 | date 2024-03-22 | post_market | "SHORT COVERING or Trend Reversal_ Post Market Report 22-Mar-24" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2175.txt
+- id 2178 | date 2024-03-26 | pre_market | "Pre Market Report 26-Mar-2024" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2178.txt
+- id 2179 | date 2024-03-26 | post_market | "Consolidation Continues_ Post Market Report 26-Mar-24" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2179.txt
+- id 2180 | date 2024-03-27 | pre_market | "Pre Market Report 27-Mar-2024" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2180.txt
+- id 2181 | date 2024-03-27 | post_market | "GAMMA EFFECT_ Post Market Report 27-Mar-24" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2181.txt
+- id 2182 | date 2024-03-28 | pre_market | "Pre Market Report 28-Mar-2024" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2182.txt
+- id 2183 | date 2024-03-28 | post_market | "Volatility due to WINDOW DRESSING_ Post Market Report 28-Mar-24" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2183.txt
+- id 2187 | date 2024-04-01 | pre_market | "Pre Market Report 01-Apr-2024" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2187.txt
+- id 2188 | date 2024-04-01 | post_market | "Nifty @ATH_ Post Market Report 01-Apr-24" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2188.txt
+- id 2189 | date 2024-04-02 | pre_market | "Pre Market Report 02-Apr-2024" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2189.txt
+- id 2190 | date 2024-04-02 | post_market | "HDFC bank BREAKS OUT_ Post Market Report 02-Apr-24" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2190.txt
+- id 2191 | date 2024-04-03 | pre_market | "Pre Market Report 03-Apr-2024" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2191.txt
+- id 2192 | date 2024-04-03 | post_market | "Consolidation CONTINUES_ Post Market Report 03-Apr-24" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2192.txt
+- id 2193 | date 2024-04-04 | pre_market | "Pre Market Report 04-Apr-2024" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2193.txt
+- id 2194 | date 2024-04-04 | post_market | "Finally BREAK OUT_ Post Market Report 04-Apr-24" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2194.txt
+- id 2195 | date 2024-04-05 | pre_market | "Pre Market Report 05-Apr-2024" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2195.txt
+- id 2196 | date 2024-04-05 | post_market | "Resilient Markets_ Post Market Report 05-Apr-24" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2196.txt

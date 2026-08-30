@@ -1,0 +1,34 @@
+You are an analyst extracting structured data from transcripts of an Indian stock-market trading educator for an anonymized book. Rules: (1) NEVER output the speaker's real name or any identity string - where you see one, note it in `leaks` only. (2) Apply these transcription corrections when interpreting (do not echo the errors): gif nifty/GIF-50/GIFT->GIFT Nifty (SGX Nifty only pre-Jul-2023) | Sabi/CB/semi/say B->SEBI | RBA->RBI |
+FAs/FIA/FAS/F&I/APIs/FA->FIIs | DAAs/DAI's/DIA->DIIs | Bagnifty/Bang nifty/Bagniti->Bank Nifty | if-in-nifty->FinNifty |
+global queues->global cues | stock covering->short covering | shorter up->shot up | MSA->MSCI | CPA->CPI |
+Wix/weeks/Bix->VIX | Toji->Doji | ICSA->ICICI Bank | Industin/Indus and Bank->IndusInd | Quotac/Kotaik->Kotak Bank |
+trunk->Trump | gargle war->Kargil war | pull-up attack->Pulwama | hidden bar/Hind bet->Hindenburg | Lull Street->Dalal Street |
+taxbeddy->TaxBuddy | 'Delta dot exchange' variants->Delta Exchange | Struggles->straddles | piano->P&L | bees/BeES->ETF (e.g. Nifty BeES). (3) Be factual - only what the transcript says; mark uncertain numbers.
+
+Read each transcript below IN FULL (read tool). For EACH, emit exactly ONE line of JSON (no markdown fences) with schema:
+{{"id":"...","date":"YYYY-MM-DD or null","type":"pre_market|post_market|weekly","summary":"<=50 words: what happened in the market and what the speaker focused on","levels":{{"nifty":null,"banknifty":null,"vix":null,"fii_cr":null,"dii_cr":null}},"events":[{{"claim":"specific factual market/policy/corporate event asserted with numbers/dates","verify":true/false}}],"lessons":["<=25 words each, max 2, only if a real transferable lesson"],"quote":"optional <=30 word verbatim-style cleaned quote or empty","dup_flag":"if content is essentially a repeat of an adjacent date, note the repeated topic","leaks":["verbatim identity/promo strings spotted"]}}
+`levels`: only values explicitly stated (numbers in crore for fii/dii). `events`: 0-4 items, only concrete verifiable claims (index moves with dates/levels, policy changes, corporate events, macro data, wars, fraud cases). No generic market states.
+
+WRITE all JSON lines to the file /home/ubuntu/repos/prs_analysis/book/analysis/batch_weekly_104.jsonl (one per transcript, in order). Then return a 5-line digest: counts, most notable events, data quality.
+
+TRANSCRIPTS (20):
+- id 1878 | date 2023-09-17 | week_ahead | "Dalal Street Week Ahead_ SEPTEMBER 3RD Week _ 2023 _ P R Sundar" | path: /home/ubuntu/repos/prs_analysis/book/corpus/1878.txt
+- id 1888 | date 2023-09-24 | week_ahead | "Dalal Street Week Ahead_ SEPTEMBER 4TH Week _ 2023 _ P R Sundar" | path: /home/ubuntu/repos/prs_analysis/book/corpus/1888.txt
+- id 1900 | date 2023-10-01 | week_ahead | "Dalal Street Week Ahead_ OCTOBER 1ST Week _ 2023 _ P R Sundar" | path: /home/ubuntu/repos/prs_analysis/book/corpus/1900.txt
+- id 1911 | date 2023-10-08 | week_ahead | "Dalal Street Week Ahead_ OCTOBER 2ND Week _ 2023 _ P R Sundar" | path: /home/ubuntu/repos/prs_analysis/book/corpus/1911.txt
+- id 1923 | date 2023-10-15 | week_ahead | "Dalal Street Week Ahead_ OCTOBER 3RD Week _ 2023 _ P R Sundar" | path: /home/ubuntu/repos/prs_analysis/book/corpus/1923.txt
+- id 1934 | date 2023-10-22 | week_ahead | "Dalal Street Week Ahead_ OCTOBER 4TH Week _ 2023 _ P R Sundar" | path: /home/ubuntu/repos/prs_analysis/book/corpus/1934.txt
+- id 1945 | date 2023-10-29 | week_ahead | "Dalal Street Week Ahead_ NOVEMBER 1ST Week _ 2023 _ P R Sundar" | path: /home/ubuntu/repos/prs_analysis/book/corpus/1945.txt
+- id 1956 | date 2023-11-05 | week_ahead | "Dalal Street Week Ahead_ NOVEMBER 2ND Week _ 2023 _ P R Sundar" | path: /home/ubuntu/repos/prs_analysis/book/corpus/1956.txt
+- id 1968 | date 2023-11-12 | week_ahead | "Dalal Street Week Ahead_ NOVEMBER 3RD Week _ 2023 _ P R Sundar" | path: /home/ubuntu/repos/prs_analysis/book/corpus/1968.txt
+- id 1979 | date 2023-11-19 | week_ahead | "Dalal Street Week Ahead_ NOVEMBER 4TH Week _ 2023 _ P R Sundar" | path: /home/ubuntu/repos/prs_analysis/book/corpus/1979.txt
+- id 1991 | date 2023-11-27 | week_ahead | "Dalal Street Week Ahead_ NOVEMBER 5TH Week _ 2023 _ P R Sundar" | path: /home/ubuntu/repos/prs_analysis/book/corpus/1991.txt
+- id 2000 | date 2023-12-03 | week_ahead | "Dalal Street Week Ahead_ DECEMBER 1ST Week _ 2023 _ P R Sundar" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2000.txt
+- id 2012 | date 2023-12-10 | week_ahead | "Dalal Street Week Ahead_ DECEMBER 2ND Week _ 2023 _ P R Sundar" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2012.txt
+- id 2023 | date 2023-12-17 | week_ahead | "Dalal Street Week Ahead_ DECEMBER 3RD Week _ 2023 _ P R Sundar" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2023.txt
+- id 2033 | date 2023-12-24 | week_ahead | "Dalal Street Week Ahead_ DECEMBER 4TH Week _ 2023 _ P R Sundar" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2033.txt
+- id 2044 | date 2023-12-31 | week_ahead | "Dalal Street Week Ahead_ JANUARY 1ST Week _ 2024 _ P R Sundar" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2044.txt
+- id 2064 | date 2024-01-14 | week_ahead | "Dalal Street Week Ahead_ JANUARY 3RD Week _ 2024 _ P R Sundar" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2064.txt
+- id 2077 | date 2024-01-22 | week_ahead | "Dalal Street Week Ahead_ JANUARY 4TH Week _ 2024 _ P R Sundar" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2077.txt
+- id 2084 | date 2024-01-28 | week_ahead | "Dalal Street Week Ahead_ FEBRUARY 1ST Week _ 2024 _ P R Sundar" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2084.txt
+- id 2096 | date 2024-02-04 | week_ahead | "Dalal Street Week Ahead_ FEBRUARY 2ND Week _ 2024 _ P R Sundar" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2096.txt

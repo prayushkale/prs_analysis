@@ -1,0 +1,84 @@
+Hi, this is Pierre Sundar, welcome to Post Market Report, sponsored by Edelta.exchange.
+An important announcement, so we have finalized the hotel for our Chennai workshop, so that's
+going to be a reddish and blue, that's Nier Nungambakam.
+So those who are interested may contact our office, and now is the right time to attend
+the workshop, because the problem faced by India is more or less gone, crude oil crashing,
+then Indian rupee appreciating, and as I told you yesterday in the post market, the average
+crew range, that means the intraday high and low, you know it is within 120 points, and
+this is a pre-budget low.
+So volatility index is very, very low, markets are not making big violent move, there's no
+big gap down, so this is the best time for option writers to enter into the markets.
+Having said that, so today, the Nifty rallied for the fifth straight day, and then India
+weeks fell for five straight days, so this is a double bonanza for option writers.
+And you know if a direction is right, now the price is also cooperating with you, a
+big sis also cooperating with you, a time is also cooperating with you, and then you know
+profits are really very, very good.
+And today, in the morning, the IT stocks came under selling pressure, emphasis was down
+more than 2%, a TCS was down more than 1%, so because of that, you know the markets
+were a little bit jittery, because the market has already gone up for four straight days,
+and then plus you know in US also, they are saying that the interest rate is likely to
+go up, but despite that the brand crew has broken 78 dollars on the downside, and so markets
+were very, very little bit of jittery trading between positive and negative, but though
+markets were little bit volatile, sometimes in the afternoon, the premium yesterday,
+if you look at the nifty future premium, was ugly 5 to 10 points, and today, sometimes
+in the afternoon, you know that premium has shot up to 25 to 30 points, so that is an
+indication that people are covering their shorts, so what has happened in the last
+one hour was even more dramatic, there was a huge shot covering, the nifty shot up more
+than 100 points within half an hour time frame, and nobody expected this 50 day also nifty
+will be closing a firmly positive and despite the underperformance by the IT index, the banking
+index has done exceedingly well, and now the bank nifty is very close to 58,000, so I said
+that is going to be the target, and nifty, the target I said is going to be 24, 300, and now
+the prime minister spoke few weeks before, you know, he was cautioning people mainly because
+of foreign exchange problem, and plus the crude oil problem, now both the problems, whatever
+was the concern raised by the prime minister, there is no such concern now, so therefore,
+now the market has come to a pre prime minister's statement level, that means whatever the market
+has fallen, after the prime minister spoke, the entire loss has been recovered now,
+so, logically speaking, the next target is 24, 300, which is a 50% frequency retracement,
+and meanwhile, I just discussed about one trade selling 24, 300 put options for the current week,
+and buying 24, 300 put options for the next week, and some people raised the concern,
+sir you said that the maximum margin will be 35,000, you know, my trading system is asking for
+65,000,000, but sometimes, you know, what the trading system shows may not be correct,
+and sometimes, you know, when I have a doubt, I check with the two or three different sides,
+so they are all showing different margin, and first let me tell you how the margin system works
+in India, if you take the position in the same contract, then all the broker website or whatever
+the system you are following, they will all show the margin exactly correct, and the problem comes
+only when you change the calendar month, so first let me tell you how the margin system works in
+India, when you take a position, you pay something called span margin, and something called exposure
+margin, so you pay two margin, and exposure margin is 2% of the total contract size,
+say for example, Nifty is approximately 24,000, multiplied by 65, whatever is the contract,
+about 15 lakh rupees, now 2% of that will be about 30,000, so the exact figure is about 31,000
+something, let us say 32,000, so as soon as you sell a call option or put option or where you sell
+both, for each leg, no, for each option you are selling, you have to pay about 32,000 as they
+exposure margin, then something called span margin, now if you are taking a hitched position,
+say for example, you are selling 24,500 call and buying 24,600 call, so that means 24,500
+sell, 24,600 by, that means your maximum risk is only 100 rupees, and it is not even 100 rupees,
+because in this process, you will be collecting about 10 rupees premium, so if you take that into
+account, your maximum loss is only 90 rupees, so span margin is equal to your maximum risk,
+so in this case, approximately your maximum risk is 100 rupees into 65, so it is 6500, so your
+total margin will be span margin of 6500 plus exposure margin of 32,000, let us say you are buying
+an option 200 point away, that means selling 24,500 call, buying 24,700 call, like that, your
+maximum risk is 200, so 200 into 65, so that will be 13,000, so your margin will be 13,000 span
+margin plus exposure margin 32,000, now when you do a calendar spread okay, so no broker system show
+exactly correct, a different broker system showed different numbers, but logically speaking,
+you are selling 24,300, buying 24,300, so which means that you know theoretically your risk is
+0, so therefore span margin should be 0, plus you have to pay the exposure margin 32,000,
+then in this case, we sell in the current series and buy in the next series, so they are actually
+the buy price will be higher than the sell price, so let us say you are selling for 100 rupees,
+buying for 150 rupees okay, so when you are selling that 100 rupees, come to your pocket,
+when you buy for 150 rupees, you pay from your pocket, that means net you have to pay about 50
+rupees, so that premium will also be added into the span margin, so that means you know,
+if your net you are paying 50 rupees, so that will be 3,250 rupees, exposure margin 32,000,
+so that is 35, 36,000, so that is what I said, it may not be very accurate, but I am confident
+that it cannot be more than 40,000 rupees, and as of today, I know the trade which I have given,
+sorry, I have not given, so I discussed, you know, it has given about 1500 rupees profit,
+approximately I am talking, so if the margin is only 35,000 rupees and 1500 rupees is the profit,
+so that means it is about 3 to 4 percent return in 3 to 4 days and with the less risk,
+so of course, there is a risk involved in this, so all that we discuss in our workshop,
+so right now, you know, market is bullish and the support is at 23500, resistance is 24300,
+so for the next, how many trading sessions, today is, Thursday, Friday, Monday, Tuesday,
+so we have only 3 more trading sessions for weekly expiry, so I will stand this 23500 to 24300,
+so if any changes, so we will let you know during the course of the period,
+and meanwhile, this Saturday coming out with a video, an interesting video,
+that's about the medium term to long term view of our market, the thumbnail is
+resignation of finance minister, so it's an interesting video, wait for the video, hope you
+enjoyed watching this video, thank you for watching.

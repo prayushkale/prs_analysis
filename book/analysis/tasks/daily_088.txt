@@ -1,0 +1,39 @@
+You are an analyst extracting structured data from transcripts of an Indian stock-market trading educator for an anonymized book. Rules: (1) NEVER output the speaker's real name or any identity string - where you see one, note it in `leaks` only. (2) Apply these transcription corrections when interpreting (do not echo the errors): gif nifty/GIF-50/GIFT->GIFT Nifty (SGX Nifty only pre-Jul-2023) | Sabi/CB/semi/say B->SEBI | RBA->RBI |
+FAs/FIA/FAS/F&I/APIs/FA->FIIs | DAAs/DAI's/DIA->DIIs | Bagnifty/Bang nifty/Bagniti->Bank Nifty | if-in-nifty->FinNifty |
+global queues->global cues | stock covering->short covering | shorter up->shot up | MSA->MSCI | CPA->CPI |
+Wix/weeks/Bix->VIX | Toji->Doji | ICSA->ICICI Bank | Industin/Indus and Bank->IndusInd | Quotac/Kotaik->Kotak Bank |
+trunk->Trump | gargle war->Kargil war | pull-up attack->Pulwama | hidden bar/Hind bet->Hindenburg | Lull Street->Dalal Street |
+taxbeddy->TaxBuddy | 'Delta dot exchange' variants->Delta Exchange | Struggles->straddles | piano->P&L | bees/BeES->ETF (e.g. Nifty BeES). (3) Be factual - only what the transcript says; mark uncertain numbers.
+
+Read each transcript below IN FULL (read tool). For EACH, emit exactly ONE line of JSON (no markdown fences) with schema:
+{{"id":"...","date":"YYYY-MM-DD or null","type":"pre_market|post_market|weekly","summary":"<=50 words: what happened in the market and what the speaker focused on","levels":{{"nifty":null,"banknifty":null,"vix":null,"fii_cr":null,"dii_cr":null}},"events":[{{"claim":"specific factual market/policy/corporate event asserted with numbers/dates","verify":true/false}}],"lessons":["<=25 words each, max 2, only if a real transferable lesson"],"quote":"optional <=30 word verbatim-style cleaned quote or empty","dup_flag":"if content is essentially a repeat of an adjacent date, note the repeated topic","leaks":["verbatim identity/promo strings spotted"]}}
+`levels`: only values explicitly stated (numbers in crore for fii/dii). `events`: 0-4 items, only concrete verifiable claims (index moves with dates/levels, policy changes, corporate events, macro data, wars, fraud cases). No generic market states.
+
+WRITE all JSON lines to the file /home/ubuntu/repos/prs_analysis/book/analysis/batch_daily_088.jsonl (one per transcript, in order). Then return a 5-line digest: counts, most notable events, data quality.
+
+TRANSCRIPTS (25):
+- id 3053 | date 2026-03-05 | post_market | "WAR coming to an END- Post Market Report 05-Mar-26" | path: /home/ubuntu/repos/prs_analysis/book/corpus/3053.txt
+- id 3054 | date 2026-03-06 | pre_market | "Pre Market Report 06-Mar-2026" | path: /home/ubuntu/repos/prs_analysis/book/corpus/3054.txt
+- id 3055 | date 2026-03-06 | post_market | "WAR FEAR again- Post Market Report 06-Mar-26" | path: /home/ubuntu/repos/prs_analysis/book/corpus/3055.txt
+- id 3057 | date 2026-03-09 | pre_market | "Pre Market Report 09-Mar-2026" | path: /home/ubuntu/repos/prs_analysis/book/corpus/3057.txt
+- id 3058 | date 2026-03-09 | post_market | "OIL on Boil- - BLOODBATH in Dalal Street- Post Market Report 09-Mar-26" | path: /home/ubuntu/repos/prs_analysis/book/corpus/3058.txt
+- id 3059 | date 2026-03-10 | pre_market | "Pre Market Report 10-Mar-2026" | path: /home/ubuntu/repos/prs_analysis/book/corpus/3059.txt
+- id 3060 | date 2026-03-10 | post_market | "Trend reversal or SHORT COVERING- Post Market Report 10-Mar-26" | path: /home/ubuntu/repos/prs_analysis/book/corpus/3060.txt
+- id 3061 | date 2026-03-11 | pre_market | "Pre Market Report 11-Mar-2026" | path: /home/ubuntu/repos/prs_analysis/book/corpus/3061.txt
+- id 3062 | date 2026-03-11 | post_market | "FREE FALL- Post Market Report 11-Mar-26" | path: /home/ubuntu/repos/prs_analysis/book/corpus/3062.txt
+- id 3063 | date 2026-03-12 | pre_market | "Pre Market Report 12-Mar-2026" | path: /home/ubuntu/repos/prs_analysis/book/corpus/3063.txt
+- id 3064 | date 2026-03-12 | post_market | "Another DOWN DAY- Post Market Report 12-Mar-26" | path: /home/ubuntu/repos/prs_analysis/book/corpus/3064.txt
+- id 3065 | date 2026-03-13 | post_market | "4% fall in 3 DAYS- Post Market Report 13-Mar-26" | path: /home/ubuntu/repos/prs_analysis/book/corpus/3065.txt
+- id 3067 | date 2026-03-16 | pre_market | "Pre Market Report 16-Mar-2026" | path: /home/ubuntu/repos/prs_analysis/book/corpus/3067.txt
+- id 3068 | date 2026-03-16 | post_market | "VALUE BUYING or Short covering- Post Market Report 16-Mar-26" | path: /home/ubuntu/repos/prs_analysis/book/corpus/3068.txt
+- id 3069 | date 2026-03-17 | pre_market | "Pre Market Report 17-Mar-2026" | path: /home/ubuntu/repos/prs_analysis/book/corpus/3069.txt
+- id 3070 | date 2026-03-17 | post_market | "SECOND DAY of rally! - WORST is over- Post Market Report 17-Mar-26" | path: /home/ubuntu/repos/prs_analysis/book/corpus/3070.txt
+- id 3071 | date 2026-03-18 | pre_market | "Pre Market Report 18-Mar-2026" | path: /home/ubuntu/repos/prs_analysis/book/corpus/3071.txt
+- id 3072 | date 2026-03-18 | post_market | "Worst is OVER- Post Market Report 18-Mar-26" | path: /home/ubuntu/repos/prs_analysis/book/corpus/3072.txt
+- id 3073 | date 2026-03-19 | pre_market | "Pre Market Report 19-Mar-2026" | path: /home/ubuntu/repos/prs_analysis/book/corpus/3073.txt
+- id 3074 | date 2026-03-19 | post_market | "PATHETIC Markets- Post Market Report 19-Mar-26" | path: /home/ubuntu/repos/prs_analysis/book/corpus/3074.txt
+- id 3075 | date 2026-03-20 | pre_market | "Pre Market Report 20-Mar-2026" | path: /home/ubuntu/repos/prs_analysis/book/corpus/3075.txt
+- id 3076 | date 2026-03-20 | post_market | "TOO VOLATILE Markets- Post Market Report 20-Mar-26" | path: /home/ubuntu/repos/prs_analysis/book/corpus/3076.txt
+- id 3078 | date 2026-03-24 | post_market | "MANIPULATED Markets- Post Market Report 24-Mar-26" | path: /home/ubuntu/repos/prs_analysis/book/corpus/3078.txt
+- id 3079 | date 2026-03-25 | pre_market | "Pre Market Report 25-Mar-2026" | path: /home/ubuntu/repos/prs_analysis/book/corpus/3079.txt
+- id 3080 | date 2026-03-25 | post_market | "SURPRISE rally- Post Market Report 25-Mar-26" | path: /home/ubuntu/repos/prs_analysis/book/corpus/3080.txt

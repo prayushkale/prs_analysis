@@ -1,0 +1,39 @@
+You are an analyst extracting structured data from transcripts of an Indian stock-market trading educator for an anonymized book. Rules: (1) NEVER output the speaker's real name or any identity string - where you see one, note it in `leaks` only. (2) Apply these transcription corrections when interpreting (do not echo the errors): gif nifty/GIF-50/GIFT->GIFT Nifty (SGX Nifty only pre-Jul-2023) | Sabi/CB/semi/say B->SEBI | RBA->RBI |
+FAs/FIA/FAS/F&I/APIs/FA->FIIs | DAAs/DAI's/DIA->DIIs | Bagnifty/Bang nifty/Bagniti->Bank Nifty | if-in-nifty->FinNifty |
+global queues->global cues | stock covering->short covering | shorter up->shot up | MSA->MSCI | CPA->CPI |
+Wix/weeks/Bix->VIX | Toji->Doji | ICSA->ICICI Bank | Industin/Indus and Bank->IndusInd | Quotac/Kotaik->Kotak Bank |
+trunk->Trump | gargle war->Kargil war | pull-up attack->Pulwama | hidden bar/Hind bet->Hindenburg | Lull Street->Dalal Street |
+taxbeddy->TaxBuddy | 'Delta dot exchange' variants->Delta Exchange | Struggles->straddles | piano->P&L | bees/BeES->ETF (e.g. Nifty BeES). (3) Be factual - only what the transcript says; mark uncertain numbers.
+
+Read each transcript below IN FULL (read tool). For EACH, emit exactly ONE line of JSON (no markdown fences) with schema:
+{{"id":"...","date":"YYYY-MM-DD or null","type":"pre_market|post_market|weekly","summary":"<=50 words: what happened in the market and what the speaker focused on","levels":{{"nifty":null,"banknifty":null,"vix":null,"fii_cr":null,"dii_cr":null}},"events":[{{"claim":"specific factual market/policy/corporate event asserted with numbers/dates","verify":true/false}}],"lessons":["<=25 words each, max 2, only if a real transferable lesson"],"quote":"optional <=30 word verbatim-style cleaned quote or empty","dup_flag":"if content is essentially a repeat of an adjacent date, note the repeated topic","leaks":["verbatim identity/promo strings spotted"]}}
+`levels`: only values explicitly stated (numbers in crore for fii/dii). `events`: 0-4 items, only concrete verifiable claims (index moves with dates/levels, policy changes, corporate events, macro data, wars, fraud cases). No generic market states.
+
+WRITE all JSON lines to the file /home/ubuntu/repos/prs_analysis/book/analysis/batch_daily_065.jsonl (one per transcript, in order). Then return a 5-line digest: counts, most notable events, data quality.
+
+TRANSCRIPTS (25):
+- id 2327a | date 2024-07-03 | post_market | "Another ALL TIME HIGH_ Post Market Report 03-July-24" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2327a.txt
+- id 2327b | date 2024-09-02 | post_market | "Markets are CONFUSED- Post Market Report 02-Sep-24" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2327b.txt
+- id 2328a | date 2024-09-03 | pre_market | "Pre Market Report 03-Sep-2024" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2328a.txt
+- id 2328b | date 2024-07-04 | pre_market | "Pre Market Report 04-Jul-2024" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2328b.txt
+- id 2329a | date 2024-07-04 | post_market | "Consolidation FINALLY_ Post Market Report 04-July-24" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2329a.txt
+- id 2330a | date 2024-09-03 | post_market | "Bank Nifty BREAKING OUT- Post Market Report 03-Sep-24" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2330a.txt
+- id 2330b | date 2024-07-05 | pre_market | "Pre Market Report 05-Jul-2024" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2330b.txt
+- id 2331a | date 2024-07-05 | post_market | "NIFTY UP for 10 straight┬ádays! Post Market Report 05-July-24" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2331a.txt
+- id 2331b | date 2024-09-04 | pre_market | "Pre Market Report 04-Sep-2024" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2331b.txt
+- id 2332b | date 2024-09-04 | post_market | "Trend Reversal- Post Market Report 04-Sep-24" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2332b.txt
+- id 2334a | date 2024-07-08 | pre_market | "Pre Market Report 08-Jul-2024" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2334a.txt
+- id 2334b | date 2024-09-05 | post_market | "RELIANCE Disappoints- Post Market Report 05-Sep-24" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2334b.txt
+- id 2335a | date 2024-07-08 | post_market | "GOOD consolidation_ Post Market Report 08-July-24" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2335a.txt
+- id 2335b | date 2024-09-06 | pre_market | "Pre Market Report 06-Sep-2024" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2335b.txt
+- id 2336a | date 2024-09-06 | post_market | "Markets BROKE DOWN- Post Market Report 06-Sep-24" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2336a.txt
+- id 2336b | date 2024-07-09 | pre_market | "Pre Market Report 09-Jul-2024" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2336b.txt
+- id 2337a | date 2024-07-09 | post_market | "Another All Time High! Post Market Report 09-July-24" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2337a.txt
+- id 2338a | date 2024-09-09 | pre_market | "Pre Market Report 09-Sep-2024" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2338a.txt
+- id 2338b | date 2024-07-10 | pre_market | "Pre Market Report 10-Jul-2024" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2338b.txt
+- id 2339a | date 2024-07-10 | post_market | "Correction OR Trend Reversal_ Post Market Report 10-July-24" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2339a.txt
+- id 2339b | date 2024-09-09 | post_market | "REBOUNDING from Support Level- Post Market Report 09-Sep-24" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2339b.txt
+- id 2340a | date 2024-09-10 | pre_market | "Pre Market Report 10-Sep-2024" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2340a.txt
+- id 2340b | date 2024-07-11 | pre_market | "Pre Market Report 11-Jul-2024" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2340b.txt
+- id 2341a | date 2024-07-11 | post_market | "Good CONSOLIDATION_ Post Market Report 11-July-24" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2341a.txt
+- id 2341b | date 2024-09-10 | post_market | "Nifty long AGAIN- Post Market Report 10-Sep-24" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2341b.txt

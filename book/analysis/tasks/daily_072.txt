@@ -1,0 +1,39 @@
+You are an analyst extracting structured data from transcripts of an Indian stock-market trading educator for an anonymized book. Rules: (1) NEVER output the speaker's real name or any identity string - where you see one, note it in `leaks` only. (2) Apply these transcription corrections when interpreting (do not echo the errors): gif nifty/GIF-50/GIFT->GIFT Nifty (SGX Nifty only pre-Jul-2023) | Sabi/CB/semi/say B->SEBI | RBA->RBI |
+FAs/FIA/FAS/F&I/APIs/FA->FIIs | DAAs/DAI's/DIA->DIIs | Bagnifty/Bang nifty/Bagniti->Bank Nifty | if-in-nifty->FinNifty |
+global queues->global cues | stock covering->short covering | shorter up->shot up | MSA->MSCI | CPA->CPI |
+Wix/weeks/Bix->VIX | Toji->Doji | ICSA->ICICI Bank | Industin/Indus and Bank->IndusInd | Quotac/Kotaik->Kotak Bank |
+trunk->Trump | gargle war->Kargil war | pull-up attack->Pulwama | hidden bar/Hind bet->Hindenburg | Lull Street->Dalal Street |
+taxbeddy->TaxBuddy | 'Delta dot exchange' variants->Delta Exchange | Struggles->straddles | piano->P&L | bees/BeES->ETF (e.g. Nifty BeES). (3) Be factual - only what the transcript says; mark uncertain numbers.
+
+Read each transcript below IN FULL (read tool). For EACH, emit exactly ONE line of JSON (no markdown fences) with schema:
+{{"id":"...","date":"YYYY-MM-DD or null","type":"pre_market|post_market|weekly","summary":"<=50 words: what happened in the market and what the speaker focused on","levels":{{"nifty":null,"banknifty":null,"vix":null,"fii_cr":null,"dii_cr":null}},"events":[{{"claim":"specific factual market/policy/corporate event asserted with numbers/dates","verify":true/false}}],"lessons":["<=25 words each, max 2, only if a real transferable lesson"],"quote":"optional <=30 word verbatim-style cleaned quote or empty","dup_flag":"if content is essentially a repeat of an adjacent date, note the repeated topic","leaks":["verbatim identity/promo strings spotted"]}}
+`levels`: only values explicitly stated (numbers in crore for fii/dii). `events`: 0-4 items, only concrete verifiable claims (index moves with dates/levels, policy changes, corporate events, macro data, wars, fraud cases). No generic market states.
+
+WRITE all JSON lines to the file /home/ubuntu/repos/prs_analysis/book/analysis/batch_daily_072.jsonl (one per transcript, in order). Then return a 5-line digest: counts, most notable events, data quality.
+
+TRANSCRIPTS (25):
+- id 2542 | date 2025-01-30 | post_market | "FOURTH MONTH of Negative closing- Post Market Report 30-Jan-25" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2542.txt
+- id 2543 | date 2025-01-31 | pre_market | "Pre Market Report 31-Jan-2025" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2543.txt
+- id 2544 | date 2025-01-31 | post_market | "Tomorrow NIRMALA CANDLE 2.0- Post Market Report 31-Jan-25" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2544.txt
+- id 2545 | date 2025-02-01 | post_market | "Is it a good BUDGET- Post Market Report 01-Feb-25" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2545.txt
+- id 2547 | date 2025-02-03 | pre_market | "Pre Market Report 03-Feb-2025" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2547.txt
+- id 2549 | date 2025-02-04 | pre_market | "Pre Market Report 04-Feb-2025" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2549.txt
+- id 2550 | date 2025-02-04 | post_market | "Markets TURNING AROUND- Post Market Report 04-Feb-25" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2550.txt
+- id 2552 | date 2025-02-05 | post_market | "RBI RATE Cut coming- Post Market Report 05-Feb-25" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2552.txt
+- id 2553 | date 2025-02-06 | pre_market | "Pre Market Report 06-Feb-2025" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2553.txt
+- id 2554 | date 2025-02-06 | post_market | "Will rally CONTINUE or STOP- Post Market Report 06-Feb-25" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2554.txt
+- id 2555 | date 2025-02-07 | pre_market | "Pre Market Report 07-Feb-2025" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2555.txt
+- id 2559 | date 2025-02-10 | pre_market | "Pre Market Report 10-Feb-2025" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2559.txt
+- id 2560 | date 2025-02-10 | post_market | "RUPEE and MARKETS are in free fall- Post Market Report 10-Feb-25" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2560.txt
+- id 2561 | date 2025-02-11 | pre_market | "Pre Market Report 11-Feb-2025" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2561.txt
+- id 2562 | date 2025-02-11 | post_market | "Markets BREAKING DOWN Again- Post Market Report 11-Feb-25" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2562.txt
+- id 2563 | date 2025-02-12 | pre_market | "Pre Market Report 12-Feb-2025" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2563.txt
+- id 2564 | date 2025-02-12 | post_market | "6th day of STRAIGHT FALL- Post Market Report 12-Feb-25" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2564.txt
+- id 2565 | date 2025-02-13 | pre_market | "Pre Market Report 13-Feb-2025" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2565.txt
+- id 2566 | date 2025-02-13 | post_market | "Market FALL CONTINUES- Post Market Report 13-Feb-25" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2566.txt
+- id 2567 | date 2025-02-14 | pre_market | "Pre Market Report 14-Feb-2025" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2567.txt
+- id 2568 | date 2025-02-14 | post_market | "Nifty made TRIPLE BOTTOM- Post Market Report 14-Feb-25" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2568.txt
+- id 2572 | date 2025-02-17 | pre_market | "Pre Market Report 17-Feb-2025" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2572.txt
+- id 2573 | date 2025-02-17 | post_market | "Nifty CLOSED POSITIVE after 8 days- Post Market Report 17-Feb-25" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2573.txt
+- id 2574 | date 2025-02-18 | pre_market | "Pre Market Report 18-Feb-2025" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2574.txt
+- id 2575 | date 2025-02-18 | post_market | "Markets FALLING AGAIN- Post Market Report 18-Feb-25" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2575.txt

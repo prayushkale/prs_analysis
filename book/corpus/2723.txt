@@ -1,0 +1,160 @@
+This is Pya Sundar. Welcome to this special episode where I am going to teach you a new strategy
+in options. In India, mostly people do straddle and strangle. Whenever you talk about the option
+sellers, they usually do either straddle or strangle. And if I'm not wrong, more than 90% of
+the option traders, they do trade straddle and strangle. And beyond that, there are some interesting
+strategies. One such strategy is called calendar spreads. Calendar spreads, there are two types of
+calendar spreads, call calendar spreads and put calendar spreads. Today, I'm going to explain to
+you what is called calendar. So first, let us understand what is the meaning of the word calendar.
+Calendar means, you know, in one calendar month, you sell an option and then another calendar month
+you buy an option. Say, for example, if this is June series, in June series, you sell a call
+option and July series, maybe you can buy a call option. So it's a two different expiry date. Then
+both selling and buying, if that happens in a call site, it is called call calendar. If that happens
+in a put site, it's called put calendar. So today, we are going to discuss about call
+calendar. And when is the best time to use the call calendar? So whenever the markets make a
+very big move, then logically, the next few trading sessions, the markets are likely to consolidate.
+So in a consolidation period, consolidation are slightly bearish. So that is the best time to
+call calendar spreads. So let me show you. Here, if you see the trading view, you can see very clearly.
+So this particular date, there was a very, very huge move. This is on 9th Friday, May,
+the Nifty opened around 23, 950. So that means we saw below 24,000. And then that day itself, it
+closed much higher. The next day, there was a huge gap up. Then next day, it was a huge rise.
+And the following day, it closed around 25,176. I'm looking at the future. I think better we look at
+the spot. So if you look at the spot, that was, yeah, so this is that date, May 12. So from here,
+which was 23, 933 to 24, 912. So that's almost 1,000 point shot up in just from previous day low to
+next day high. So once a 1,000 point move happens, you can see after that, there is a consolidation.
+Whenever there is a very big move, there may be some consolidation or there may be some kind of a
+slightly bearish base. You can see the same thing here. There was a very big, see from this low to
+this side was very big, the next few days consolidated. The next day, it went up but consolidated.
+So here also you can see, there was a big rally. Then there is some consolidation with a negative bias.
+The very big move consolidation. So very big move, it can go slightly higher also than after that
+it may consolidate. So whenever market is making a very big move like this, the probability of
+market consolidating is very high. So let us look at this one. This is a May 12.
+So I will just give you one example. So on May 12, you market as move nearly 1,000 point
+into trading session. Market moving 1,000 point into trading session is just definitely a very
+big positive and the markets are likely to consolidate. So what you do in that the near month,
+you sell a call option and for month, you buy a call option. So let me show you the example.
+So this is a, I go to this software, I use this option simulator.
+So in this option simulator, we take from 12th of May. So we take 12th of May.
+The nearest expiry will be 15th of May. 12th of May to 15th of May. So that means a current week.
+So current week, 15th May.
+Okay, a sell a call option, preferably sell a call option at the money. Again, if you look here,
+it is only at the end of the day there was very significantly higher. So maybe we have to go to
+the end of the day. This is not the end of the day, this is the beginning of the day.
+So we move forward the time and I move forward the time, you can see the time is also moving here.
+So we go to, we go to 315. Sorry, we have to move back.
+Maybe 315. Okay, we look at the option chain.
+Now look at the future prices around 25,000, spot prices 24,900. So if you are looking at
+at the money call, maybe it is 24,900. So you go and sell 124,900 call option.
+24,900 call option. That one trading around to 29 rupees, we have to sell.
+So left side is call, right side is put. I am sure you know this option chain.
+Okay, so when the markets move very big, markets are likely to consolidate. So we go and sell at
+the money call option. But then if the market continue to shoot up, then you sell a call option,
+it will be in trouble. So you need to have an hedge. So that hedge will be buying a call option
+of the same strike. Maybe the next week or maybe even the monthly. So maybe we look at the monthly one.
+Monthly one is 29th May. So 29th May.
+Okay, 29th May, the same strike price 24,900 call.
+You buy.
+So what you are doing actually, you are selling a call option and you are buying a call option.
+Let me tell you the biggest advantage in this. Number one, you know the margin money is very,
+very little for this. They are not showing the margin here. So maybe I will open another window,
+I will show you the margin money. The margin money for this is about like 40, 45,000 or the maximum
+50,000 only. That's one thing. Second thing is perfectly hedged. So you buy a call 24,900,
+sell a call 24,900. So if your view goes wrong, market not consolidating, market shooting up,
+you may lose the money here. But there will be some gain here. So therefore that,
+but it does not mean that you will not lose. It does not mean that you will not lose. There will be
+some loss. There's a possibility of loss. But only thing is that loss is limited. How much
+that limited loss also, it's very difficult to forecast. I can tell you roughly, roughly about
+10,000 rupees can be the maximum loss if you do this, right? For a lot.
+Now, what happens the next few days, we will move forward. Okay, let us see what happened after
+one day. This we have started on 12th May. If you have done one day later. See, one day later,
+what has happened? There is some loss because some markets crashed like anything.
+We have very next day, the 400 point fall has happened. Okay, so 400 point fall,
+but still your loss is only 2000 rupees. And see what happened the next day.
+So next day, market has recovered a little bit, but your loss has narrowed down to 23 rupees.
+So what has happened on Thursday, right? Market has recovered some more and now you ended up with
+the 2000 rupees profit. So market, you see on Monday also, it was around 25,000. Then next day,
+came down 400 point, the next few days, you know, again came back to 25,000. So market was
+consolidating, but what has happened here? You have gained about 5,000 rupees in selling the
+option, but there is a loss of 3000 rupees on buying of option. So there is a net profit of 2000
+rupees. 2000 rupees may look very, very small for you, but I will give you the example.
+I will open another window. So in this window, go to builder.
+Okay, now this week is 26th June and then right now the market is around 25,100. Suppose you sell
+25,100 call. So selling 25,100 call. That's a nearest expiry. Then for you need to buy the
+hedges. So in that case, we have bought the hedges two weeks later, but here I don't know whether
+there will be liquidity in two weeks later. So let us see. 26th June, two weeks later, yes,
+there is a trading happens. So buy. So this is the exact sector we have done just now, but look at
+no, there is already something else I did. I close that, okay. So I sold 25,100 call,
+bought 25,100 call three weeks later. Now look at the margin money shown here.
+This is only about 45,000. So let us say 50,000 maximum. So your capital is only 50,000
+and then the trade happened only for four trading sessions. If you look here, the simulation,
+we started at 12 May, they ended up on 15 May. That's a four trading session. Capital
+deployed is about 50,000, and the profit is about 2000. So that is a four percent return in
+just four trading session. So that is equivalent to one percent return per day.
+So however you know, don't go and do the same thing every week and then tell me, sir,
+I'm not getting profit, I'm getting loss. So trading is all about risk and reward.
+There is a risk, there is a reward. So market, you know, if you are expecting a market to consolidate
+with a slightly negative bias. If too much negative bias also, you will lose money. You can
+see the payoff chart. Too much negative bias you will lose. Too much positive bias also you will
+lose. The market should consolidate. So that's where you get the maximum profit. Of course,
+you cannot rely on the chart completely because these charts, you know, don't show the correct
+payoff chart when the calendar is changed. So you put all the things in one same expiry,
+then your payoff chart is very, very perfect. So otherwise, it may not show the same thing.
+Today, you learn a strategy called call calendar. Call calendar means selling a call in
+near month, buying a call in for month or selling the call in the current week, buying the call
+next week or two weeks later also. So you are to do this strategy when you are expecting market
+to consolidate with a slightly negative bias or slight positive bias is also okay. But if market
+moves too much higher or too much lower, there will be loss. But of course, the loss will be
+limited to some extent, although you cannot specifically tell exactly how much will be the maximum
+loss. But there will be some losses. So usually, traders that do straddle and strangle only in India.
+But here, maybe for the next few weeks, I will teach some. This one is a call calendar.
+Maybe I will do one video on put calendar or I will do some other videos. And maybe now I can show
+you just one paper trade, which I have done. If you look at the paper trade,
+okay. So this is the one I posted in my social media also. So this is a call calendar.
+Why I name this as a bull calendar? I am bullish in the long term, but, you know, consolidation,
+the short term. So because you have been saying right, you know, even the very first day on May 12
+when market shot up, then very same evening, I came out with the report post market report saying
+that markets are likely to consolidate between 24500 and 25200. So what I have done here,
+I am going to show you. This is a paper trade. So, you know, I have not taken this trade.
+It is just for, you know, even if I have taken that trade, I am not supposed to tell you.
+This is just for educational purpose. They are just discussing, okay.
+So what has actually happened here? I will go analyze the trade.
+Okay. So what was done? Bought 25000 call option in a monthly series.
+And then this one was created and think on sometime in the end of May.
+Maybe if I go back, you will be able to see that. So this one was done on 30th May.
+So because the 29th May was the expiry, May series expiry. So the first trading session in June
+series expiry. So I have taken this paper trade. So just because I was expecting some kind of a
+consolidation for the entire June series. And that is how it has happened actually. So entire June
+series it has market decent consolidation only, right. So what I did actually
+by 25000 call option in monthly series and weekly series. Weekly series was a 5th of June.
+Weekly series I sold a call option. Same, both 25000. So what has happened on the 5th of June,
+okay. This one has given about 9000 profit but I don't know how much was the last but last
+must be less only. So what I did instead of closing the position, I closed only the sold call
+option. Then again for the next week I sold 25000 call. Then I continued the trade. So earlier
+you know first week, fourth week, first week sell, fourth week buy. Then end of first week I closed
+it, second week I sold. So second week I sold, fourth week buy. Then at the end of second week,
+again I closed this, then sold the third week. Then I have sold the third week, part fourth week.
+Then again end of this you know I cannot, I closing this I cannot buy the fourth week because if I
+buy the fourth week, I cannot sell the fourth week because we have a buy the fourth week. So that
+means we close it, okay. So leave the first two strategies, you leave the first two strategies,
+okay. That was done for some other reason, okay. So only this calendar alone.
+So it has yielded a profit of about 5800 rupees, right. So I told you the maximum margin is about
+50,000. So for 50,000, if you are getting 5800 rupees profit, so that's about 11-12% return.
+So 11-12% return in a matter of three weeks or even if you take it as one month,
+one month the 12% return is a fantastic return. So this is the power of you know,
+calendar spread along with your knowledge, along with your estimate about the market. So I was
+expecting the market to consolidate. But assume that my view goes wrong, market shoots up,
+you know, nothing to worry because we have a buy call option that would have saved us,
+but it will not save us completely but still there will be some losses.
+So people who have got very small capital, you know, looking for a bigger return,
+you know, you one can try this kind of strategies. If your view is right, the profit will be very,
+very fantastic. So once again, I tell you the advantages, number one advantage, the margin money
+is very less, less than 50,000. Whereas if you do naked straddle strangle, you know, it will cost
+about 1.7 lakhs. That's one thing. Second thing, this is a limited risk strategy, right. So the market
+go, your view goes wrong, you still have one buy oneself, so your loss will be limited.
+And number three, because the margin is very less, even if the profit is very less,
+but in terms of percentage return, so this return will be very, very good.
+So I hope you learn this strategy very well. There are many modifications to the strategies
+that we do. Of course, we cannot discuss everything because, you know, if we discuss everything
+here, we will attend our workshop, right. So we teach a lot of strategies like this in our workshop,
+very soon I'm conducting workshop in Chennai and Bangalore also. So those who are interested in
+our workshop, you can check the description, contact our office. So hope you enjoyed watching this
+video. Thank you for watching.

@@ -1,0 +1,26 @@
+You are an analyst extracting structured content from a SPECIAL-EPISODE transcript of an Indian stock-market trading educator, for an anonymized book with these 31 chapters: 1 why traders lose; 2 anatomy of failure; 3 discipline/process; 4 FII/DII flows; 5 VIX regimes; 6 option chain; 7 microstructure (gaps/expiry/index construction); 8 why derivatives exist; 9 calls and puts; 10 greeks; 11 implied volatility; 12 margins/collateral; 13 short straddles/strangles; 14 spreads & ratio spreads; 15 calendar spreads; 16 butterflies/condors; 17 portfolio hedges; 18 firefighting/adjustments; 19 event playbook; 20 budgets/elections; 21 wars/black swans; 22-25 chronicle 2018-26; 26 retail scams; 27 regulation (SEBI/rules); 28 taxation; 29 investing vs trading; 30 real assets (real estate/gold/bonds); 31 crypto.
+
+Rules: NEVER output the speaker's real name or identity strings (note them in `leaks` only). Apply transcription corrections: gif nifty/GIF-50/GIFT->GIFT Nifty (SGX Nifty only pre-Jul-2023) | Sabi/CB/semi/say B->SEBI | RBA->RBI |
+FAs/FIA/FAS/F&I/APIs/FA->FIIs | DAAs/DAI's/DIA->DIIs | Bagnifty/Bang nifty/Bagniti->Bank Nifty | if-in-nifty->FinNifty |
+global queues->global cues | stock covering->short covering | shorter up->shot up | MSA->MSCI | CPA->CPI |
+Wix/weeks/Bix->VIX | Toji->Doji | ICSA->ICICI Bank | Industin/Indus and Bank->IndusInd | Quotac/Kotaik->Kotak Bank |
+trunk->Trump | gargle war->Kargil war | pull-up attack->Pulwama | hidden bar/Hind bet->Hindenburg | Lull Street->Dalal Street |
+taxbeddy->TaxBuddy | 'Delta dot exchange' variants->Delta Exchange | Struggles->straddles | piano->P&L | bees/BeES->ETF (e.g. Nifty BeES). Only what the transcript says. Genericize personal trades/P&L as content (the numbers may teach), but if a passage is self-promotion/self-defense (business, penalty, family, luxury, travel), list it under exclude_passages.
+
+Read each transcript IN FULL. For EACH, emit exactly ONE line of JSON (no fences):
+{{"id":"...","date":"...","type":"special","title_clean":"cleaned title","summary":"<=60 words","chapter_targets":["chapter numbers, primary first"],"themes":["2-6 short theme tags"],"lessons":["transferable lessons, <=30 words each, max 5"],"strategies":[{{"name":"...","construction":"legs/strikes/quantities","numbers":"premiums/margins/breakevens/returns as stated","best_regime":"when to use","adjustments":"how managed/rescued","risks":"max loss / failure mode"}}],"event_claims":[{{"claim":"factual assertion with numbers/dates","verify":true/false}}],"quotes":["<=30 words cleaned, max 3, only distinctive"],"enhance":["complex topics needing worked examples/tables"],"exclude_passages":["self-promo/identity passages to drop"],"leaks":["verbatim identity/promo strings"],"quality":1-5}}
+If no strategies exist, use []. Event claims: concrete verifiable assertions only.
+
+WRITE all JSON lines to /home/ubuntu/repos/prs_analysis/book/analysis/batch_special_134.jsonl (one per transcript, in order). Then return a 5-line digest.
+
+TRANSCRIPTS (10):
+- id 0709 | date 2021-12-04 | crypto | "We Tried FUTURES & OPTIONS in CRYPTO and Made 45% ROI in 1 Month!" | path: /home/ubuntu/repos/prs_analysis/book/corpus/0709.txt
+- id 0714 | date 2021-12-07 | geopolitics | "FII vs GOVT - The War Continues!" | path: /home/ubuntu/repos/prs_analysis/book/corpus/0714.txt
+- id 0721 | date 2021-12-11 | taxation | "Salaried Person in F&O, Presumptive Taxation, Turnover Calc, AUDIT Req" | path: /home/ubuntu/repos/prs_analysis/book/corpus/0721.txt
+- id 0733 | date 2021-12-18 | taxation | "OLD vs NEW Tax Regime_ NO Setting Off Losses in F&O_ Trading as INDVL " | path: /home/ubuntu/repos/prs_analysis/book/corpus/0733.txt
+- id 0734 | date 2021-12-18 | general | "Dinner with P R Sundar for CHARITY _ 2000+ Underprivileged People Grat" | path: /home/ubuntu/repos/prs_analysis/book/corpus/0734.txt
+- id 0747 | date 2021-12-25 | crypto | "EQUITY OPTIONS vs CRYPTO OPTIONS - Complete Guide to Trading in Crypto" | path: /home/ubuntu/repos/prs_analysis/book/corpus/0747.txt
+- id 0760 | date 2022-01-01 | taxation | "Predicting Income for ADVANCE TAX_ Presumptive Taxation_ Limit for Exp" | path: /home/ubuntu/repos/prs_analysis/book/corpus/0760.txt
+- id 0772 | date 2022-01-08 | taxation | "Indian Stock Market 2022 - A Look At FIIs, Fed, Retail Fund Flow, Elec" | path: /home/ubuntu/repos/prs_analysis/book/corpus/0772.txt
+- id 0773 | date 2022-01-08 | options_education | "How An OPTION BUYER Paid Γé╣1 Lakh Premium, But LOST Γé╣13 LAKHS!" | path: /home/ubuntu/repos/prs_analysis/book/corpus/0773.txt
+- id 0778 | date 2022-01-11 | earnings_trade | "TCS Trading Strategy Ahead of Q3 Results (Live Trade)" | path: /home/ubuntu/repos/prs_analysis/book/corpus/0778.txt

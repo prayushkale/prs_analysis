@@ -1,0 +1,1 @@
+DuckDuckGo HTML search returned nothing parseable. Let me try a different approach — Wikipedia article fetches for major historical events, plus check if there's a way to query search engines. Let me test direct Wikipedia access and try Bing search:

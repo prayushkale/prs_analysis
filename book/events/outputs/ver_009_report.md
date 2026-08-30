@@ -1,0 +1,1 @@
+Hindenburg confirmed (founded 2017 by Nathan Anderson, announced disbanding Jan 2025 — note: my training data had the firm active, but the environment timeline shows it disbanded January 2025). Let me get the Adani section for the January 2023 crash specifics, then pace-verify claims 5-8:

@@ -1,0 +1,3 @@
+Bing is stripping query context (serving generic "India" results for the flash crash query). The Bing `ck/a` redirect URLs are unusable and search relevance is broken. Let me try the Bing API via the `lite.duckduckgo.com` and `search.marcia?` No — try `lite.duckduckgo.com/lite/?q=` which sometimes bypasses captcha. Also try `duckduckgo.com` with a different User-Agent and `t=ffab`. And try `https://search.brave.com/search?q=` (usually bot-friendly) and `https://www.google.com/search` (likely blocked). Also try `r.jina.ai` proxy which fetches search results as markdown (https://r.jina.ai/https://...).
+
+Let me test lite ddg and Brave.

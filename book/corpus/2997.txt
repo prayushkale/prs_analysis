@@ -1,0 +1,238 @@
+This is Pierre Sundar, welcome to this special episode where I am going to throw some interesting
+strategy.
+This strategy I would say no last strategy, but yesterday only I told you there is no such
+thing called no last strategy, but if you listen to this video very carefully, actually
+it is a sort of no last strategy, but you will come to know.
+So there is one guy and who came to me and he said sir, I have some money.
+Can you help me to devise some strategy?
+I said okay, strategy can be devised, but you let me know what is your risk profile.
+Sir, I got 20 lakh rupees at the end of one year, I don't want to lose even one rupee.
+And if I am not making money, it is okay, but I don't want to lose the money.
+So there is a simple way, if he put that money, let us say 20 lakh rupees, I am just talking
+about approximate numbers.
+So let us say you go and put 18.5 lakh rupees in a fix and deposit.
+After one year, what will be their return?
+For 18.5 lakh rupees, for one year the interest may be 1.5 lakh rupees.
+That means at the end of one year he will get back 20 lakhs, he is not going to lose anything.
+So the remaining 1.5 lakhs, what he can do, he can go and buy a call option and take
+the risk.
+If you are expecting a violent up move in the market, just like budget everybody is expecting
+a violent up move.
+So you make some money and even if you lose some money, how much money you lost, you just
+lost one hundred lakh rupees.
+And then that one hundred of lakh rupees, anyway, you are going to get through interest.
+So at the end of one year, you still have 20 lakhs with you.
+So there are many people, they do this, there are many people who advise other people to
+do this.
+But what that person who has 20 lakhs do not understand, he has not lost the 20 lakh
+rupees, he has not lost even one rupee out of the 20 lakh rupees, but he lost the interest.
+So what we call it as an opportunity cost.
+So the loss is not the real money, the loss is the opportunity cost.
+But psychologically they are happy, I have 20 lakhs, after one year also I am going
+to have a 20 lakhs.
+So what does it matter?
+Let me tell you, if you are of this tribe, you know, you can always buy some collections
+as a men markets are extremely oversold and there are some signs of reversal.
+And then you lose also nothing to worry.
+And in fact, one of my friends, what he does, he has this policy, now he put one crore
+in fixate deposit.
+So he gets about seven lakh rupees interest.
+So he is an MRI.
+So therefore, the interest that he is receiving is also non-taxable.
+So he gets seven lakh rupees interest for one year.
+And wait for the market to fall 10% at least.
+As soon as when market falls 10%, he will go and buy a call option in a far expiry.
+That means no.
+If suppose today market has fallen 10% in December series, he will go and buy at the
+many call.
+And many others, many others, let us say market has fallen another 10%.
+So what he will do, he will go and buy at the many call option, another seven lakh rupees
+from his pocket.
+But he will think that my next year interest also, I am ready to forego.
+So last year interest, he bought the option.
+This year interest is ready to forego.
+Anyway, at the end of this year, he will get back his money once a year, two years of
+interest.
+So he doesn't mind.
+And see that somebody has done this last year.
+Last year, Nifty went up to 26, 300, came crashing down to 24,000, if he has bought
+at the many call option for seven lakh rupees.
+Then if he kept on falling, it came below 22,000, that even though the seven lakh he bought
+would have come to two lakhs or three lakhs, he would be sitting at four-file
+rupees loss.
+But his psychology is that, last one year, I had the FD, I got the interest seven lakh.
+Only that seven lakh I put it in the market, even if it goes to zero, I don't care.
+When the market came to 22,000, what he would have done, he would have, but the bank will
+pay the interest only after one year.
+But he would have brought additional seven lakh from his pocket and he bought 22,000
+call option for the same December expiry.
+So he's willing to lose one more year of interest.
+And then what has happened, from 22,000, Nifty shot up to 26,000.
+So imagine how much money he would have made.
+So this is in addition to whatever money is getting, as the interest from the bank.
+So a sort of that, but not exactly the same.
+So a sort of that, one strategy, I'm going to discuss now.
+Okay, assume that you've got 20 lakh rupees.
+You go and put the 20 lakh rupees in fix and deposit.
+Assuming that you are going to get about seven percent interest, okay, now the interest
+is slightly low, I assume that you are getting about seven percent interest, how much interest
+you are going to get, you are going to get interest of 1.4 lakh rupees.
+1.4 lakh rupees will be the interest for one year.
+But now this is end of January, for December, there's only about 11 months.
+So for 11 month, interest may not be 1.4 lakhs, maybe around 1.2 lakhs.
+So if you go and put the money in bank fix at the deposit, or any debt to mutual funds.
+So by the end of December, 11 months from now, so the interest that you will be getting
+is about 1.2 lakh rupees, okay, so keep that in mind.
+Then after that, you come and do a strategy in stock market called call spread, okay.
+The call spread means you are bullish, okay, as I told you, the markets are oversold.
+People are expecting something good in the budget, you know, even the farmer dim farmer
+reserving, chairman is writing a open letter to finance minister, all these things are
+happening.
+If they do something to revive the sentiment of the FIAs, who knows, Nifty can shoot up
+1,000, 500 points, you know, even in just one day, that possibility is very, very high.
+So how to capture that, okay, so I will show you from that computer.
+So if you look at this abstract, go to the portfolio, right, for 3rd February, you go
+on by a 25,000 call.
+Nifty is actually training at 25, 350.
+So 25,000 call ups in your buying, that means 350 rupees is the intrinsic value.
+You just pay only about 100 rupees for the time value.
+But you are paying about 450 rupees from your pocket.
+Then what you do, go and sell December expiry, 28,000 500 call options, sell this, okay.
+So you are buying for 450 rupees, selling for 485 rupees.
+So about 1 lakh is the margin that you have to pay, okay.
+That 1 lakh also, mainly because you are doing in the December series.
+So instead of doing December series, you change this to June series.
+Of course, the problem is, okay, I will remove this.
+If you do it in June series, margin will be very less, but 28,500 may not be trading.
+So maybe 28,000, sell it, okay.
+You can see the margin is only about 49,000, okay, you just pay 49,000 for your pocket and
+do this setup.
+Just imagine, if 90 shoots are after the budget, 1,500, okay, this 450 rupees you are buying,
+you will go to 1000 rupees, 1,500 rupees like that.
+But this one, IV will call up after the budget, okay.
+So market may go up, it may not go up beyond 28,000, but there will be some losses there.
+So what happens, you know, the market move violently on the higher side.
+So you have a very good profit and the maximum profit is about 1 and a half lakh rupees,
+right?
+That 1 and a half lakh rupees, no, you should not see that I pay 50,000 now I am waiting
+1 and a half lakh.
+Your capital is 20 lakhs, okay, but the 20 lakhs, maybe 1.2 lakhs, you will get interest
+from the bank, 1.5 lakhs from the market.
+So you will get, you know, nearly 20% return for your investment in the bank equity.
+But assume that market crashes, nothing to worry, right?
+So you paid how much money from your pocket, not much about 200 rupees, 200 rupees into
+65.
+In the mathematics teacher, sometimes I am also getting confused, 65 into 200, yeah, it
+is 13,000, okay.
+So in case market crashes, okay, anyway this 25,000 collection is not going to go to zero,
+right?
+So it will have some time value.
+So the loss, maybe if it comes, let us say, okay, if it falls crashes, you know, I think
+your maximum loss is about 25,000 rupees.
+So what you can do since your maximum loss is 25,000.
+So you have, you are receiving about 1.2 lakh rupees as the interest.
+So what you can do instead of doing 1 lot, you can do 5 lots.
+So if you do 5 lots, okay, what is the maximum loss you are having?
+Right, now the maximum loss is almost equal to your 1 year FD return.
+So 1 year FD return, if you are willing to lose, so your 20 like is intact, okay.
+But in case market goes higher.
+So let us say market go to 26 500, okay, that is a reasonable expectation because most
+markets in the world, they are trading at all time high.
+Our all time high is around 25, 26 500, if the market goes there, you can get a profit
+of more than 3 lakh rupees, right.
+So this 3 lakh rupees profit will be about 15% for your 20 like investment.
+You get 15% here plus another 78%, so you get more than 20%.
+So in a way, maximum loss is about 21 like 30,000, maximum profit may be 3 lakh, 3 to 3
+like 50,000 and then, you know, IV will collapse.
+So because I don't know this system is not taking the IV collapse, IV will surely collapse.
+So the far out of the many call options will not shoot up that much.
+But this one current week is because of the intrinsic value, so that price will shoot up.
+So this is one decent risk reward strategy for people with a large capital, okay.
+Now I will make some small changes, assume that, you know, you are bullish not on the budget
+day, if the budget is good, then FIA start coming back, then slowly, over a period of next
+few months, market can even shoot up, 27,000, 28,000 like that.
+So if you are of that view, then what you do, instead of doing this, you can do another
+strategy.
+So what you can do, straight away go to the December expiry and buy 25,000 call and
+then sell 28,500 call.
+Now you see the margin is almost the same, about 50,000, right?
+And you can see just by doing one lot, your maximum loss will be one like 20,000.
+Just by doing one lot and that is assuming that during the next one year, nifty closest
+below 25,000 and when all the entire global markets are rallying, trading at all time high,
+you know, so how can we close below 25,000 by the end of December?
+If at all they do, then, you know, September 2024, nifty was 26, 300, if December 20,
+26, if it is below 25,000, then you can imagine, for two year, three months, the market
+would have given negative return.
+So that's going to be very, very unlikely, right?
+Anyway, for the sake of argument, we have to talk about the maximum loss.
+So don't do five lots, just do only one lot, a maximum loss is one like 20,000 and what
+is your maximum profit?
+Maximum profit is about one like rupees.
+So in case, market goes down, maximum loss, one like 20, the maximum profit, one like six,
+but the probability of this is happening may not be the maximum profit, maybe something
+may be here also is possible.
+So you don't lose anything.
+So in this strategy, you have a 20 like put it in FD and then take one strategy, you lose
+the maximum money, you lose is equal to the FD return.
+So you're not going to lose anything in your principal amount at least, a maximum is
+locked.
+And then in case market shoots up, you know, you can no need to wait until the end of
+the expiry, along the way also you can actually exit, say for example, along the way, now even
+if Nifty falls a little bit, so this is showing MTM profit only, okay, that is because
+the buy that you are doing is actually in the money, not out of the money.
+So even if market falls, let us say 25, 500, no, this is the flat line.
+So I think the market falls, there will be loss only.
+Market goes higher only, there will be a profit, right?
+So this is one strategy, it's called call spread.
+So in call spread is a debit call spread.
+So buy for more money, sell for less money, you pay money.
+So that money is being financed from fixed deposit interest.
+So this is one novel strategy, many ultra-economic claims they like to do this kind of strategies.
+So I'm also planning to take a sort of this strategy, so let me see, so what is going
+to happen, but I would prefer buying of options in the series, rather than December series,
+but maybe I can do something here and something there also, some here and some there also,
+it's possible.
+So this is one of the most interesting strategies, but may not be useful to all of you,
+because you know, this is not for small people, and many people, they ask me, sir, why
+don't you teach us free, you got more money, why don't you teach us free, right?
+Okay.
+Can you imagine, what is the amount of money I have, and what is the amount of money,
+a Tata's, Birla's, Ambani's and Adani's have, do you ever go and ask Ambani, Ambani
+sir, you have so much money, why don't you give a Geofone services free of cost, Tata
+sir, you have so much money, why don't you give some cars free, right?
+Okay, there are two things, number one, right, if I give a free seat for you in my workshop,
+let us say, 50,000, okay, all my strategies, you know, you need lot of capital to implement,
+the strategies like today, I taught you, you need to have a 20 lakh rupees to implement
+this strategy, you don't have 20 lakhs, you cannot implement, right.
+So the strategies which I'm teaching is not for people having five rupees, ten rupees,
+you need lakhs of rupees, and then one guy actually argue with me, sir, why don't you
+teach free?
+I said okay, I teach you free, what will you do?
+You need at least 25 lakh rupees to implement my strategies, sir, you teach me free, I
+can borrow 20 lakh rupees from my friend, I said my first teaching itself, you know, okay,
+don't borrow money to invest in stock market, because stock market returns are subject
+to market risk, so therefore, I'm not going, I, even if I want to teach you free, I will
+not do, because you are planning to borrow, then he said no, no sir, my friend is a good
+friend, he will pay me 25 lakh rupees without interest, and he will take the risk also.
+So your friend will give 25 lakhs free for you, he will take the risk also, but the same
+friend will not give extra 50,000 to pay for my workshop fee, where is the logic?
+That means what, these people have 25 lakh rupees, they want to trade and make money,
+but they don't want to pay 50,000 rupees to the teacher, so where is the attitude?
+So why should I teach free for you?
+Instead I take 50,000 from you, and then using that 50,000, I can feed 1000 poor people
+one day food, so which will give you good karma for me?
+Teaching free for you, or teaching by taking the money, and then paying for some poor
+children, which will give better karma for me, if tomorrow Mukeshambani want to come
+to me, and sir, can you teach how to fly private jet for my son, can I do it free for him?
+Right, even if I assume that I teach you free for flying the private jet, where will you
+have a private jet?
+So you can buy a private jet by paying hundreds of crores, but you cannot pay a small amount
+for the teacher.
+So this is a very, very bad mentality, so please stop asking free education, right?
+Many times we give free education, that is not well respected, as I told you, you avoid
+and watch this video also, will not even cross 50,000 views.
+So the day people really want to give free, you don't value it, right?
+So okay, so we are deviating much from the topic, so today's topic is an interesting topic,
+so this strategy is called spread, financed from fixed deposit interest, so that is the
+name of this strategy.
+So hope you enjoyed watching this video, thank you for watching.

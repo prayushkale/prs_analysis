@@ -1,0 +1,39 @@
+You are an analyst extracting structured data from transcripts of an Indian stock-market trading educator for an anonymized book. Rules: (1) NEVER output the speaker's real name or any identity string - where you see one, note it in `leaks` only. (2) Apply these transcription corrections when interpreting (do not echo the errors): gif nifty/GIF-50/GIFT->GIFT Nifty (SGX Nifty only pre-Jul-2023) | Sabi/CB/semi/say B->SEBI | RBA->RBI |
+FAs/FIA/FAS/F&I/APIs/FA->FIIs | DAAs/DAI's/DIA->DIIs | Bagnifty/Bang nifty/Bagniti->Bank Nifty | if-in-nifty->FinNifty |
+global queues->global cues | stock covering->short covering | shorter up->shot up | MSA->MSCI | CPA->CPI |
+Wix/weeks/Bix->VIX | Toji->Doji | ICSA->ICICI Bank | Industin/Indus and Bank->IndusInd | Quotac/Kotaik->Kotak Bank |
+trunk->Trump | gargle war->Kargil war | pull-up attack->Pulwama | hidden bar/Hind bet->Hindenburg | Lull Street->Dalal Street |
+taxbeddy->TaxBuddy | 'Delta dot exchange' variants->Delta Exchange | Struggles->straddles | piano->P&L | bees/BeES->ETF (e.g. Nifty BeES). (3) Be factual - only what the transcript says; mark uncertain numbers.
+
+Read each transcript below IN FULL (read tool). For EACH, emit exactly ONE line of JSON (no markdown fences) with schema:
+{{"id":"...","date":"YYYY-MM-DD or null","type":"pre_market|post_market|weekly","summary":"<=50 words: what happened in the market and what the speaker focused on","levels":{{"nifty":null,"banknifty":null,"vix":null,"fii_cr":null,"dii_cr":null}},"events":[{{"claim":"specific factual market/policy/corporate event asserted with numbers/dates","verify":true/false}}],"lessons":["<=25 words each, max 2, only if a real transferable lesson"],"quote":"optional <=30 word verbatim-style cleaned quote or empty","dup_flag":"if content is essentially a repeat of an adjacent date, note the repeated topic","leaks":["verbatim identity/promo strings spotted"]}}
+`levels`: only values explicitly stated (numbers in crore for fii/dii). `events`: 0-4 items, only concrete verifiable claims (index moves with dates/levels, policy changes, corporate events, macro data, wars, fraud cases). No generic market states.
+
+WRITE all JSON lines to the file /home/ubuntu/repos/prs_analysis/book/analysis/batch_daily_087.jsonl (one per transcript, in order). Then return a 5-line digest: counts, most notable events, data quality.
+
+TRANSCRIPTS (25):
+- id 3023 | date 2026-02-13 | post_market | "CRASH coming- Post Market Report 13-Feb-26" | path: /home/ubuntu/repos/prs_analysis/book/corpus/3023.txt
+- id 3025 | date 2026-02-16 | pre_market | "Pre Market Report 16-Feb-2026" | path: /home/ubuntu/repos/prs_analysis/book/corpus/3025.txt
+- id 3026 | date 2026-02-16 | post_market | "DRAMATIC Recovery- Post Market Report 16-Feb-26" | path: /home/ubuntu/repos/prs_analysis/book/corpus/3026.txt
+- id 3027 | date 2026-02-17 | pre_market | "Pre Market Report 17-Feb-2026" | path: /home/ubuntu/repos/prs_analysis/book/corpus/3027.txt
+- id 3028 | date 2026-02-17 | post_market | "RESILIENT Markets- Post Market Report 17-Feb-26" | path: /home/ubuntu/repos/prs_analysis/book/corpus/3028.txt
+- id 3029 | date 2026-02-18 | pre_market | "Pre Market Report 18-Feb-2026" | path: /home/ubuntu/repos/prs_analysis/book/corpus/3029.txt
+- id 3030 | date 2026-02-18 | post_market | "Technically LONG AGAIN- Post Market Report 18-Feb-26" | path: /home/ubuntu/repos/prs_analysis/book/corpus/3030.txt
+- id 3031 | date 2026-02-19 | pre_market | "Pre Market Report 19-Feb-2026" | path: /home/ubuntu/repos/prs_analysis/book/corpus/3031.txt
+- id 3032 | date 2026-02-19 | post_market | "Big CRASH- Post Market Report 19-Feb-26" | path: /home/ubuntu/repos/prs_analysis/book/corpus/3032.txt
+- id 3033 | date 2026-02-20 | pre_market | "Pre Market Report 20-Feb-2026" | path: /home/ubuntu/repos/prs_analysis/book/corpus/3033.txt
+- id 3034 | date 2026-02-20 | post_market | "Good RECOVERY- - Where is WAR FEAR- Post Market Report 20-Feb-26" | path: /home/ubuntu/repos/prs_analysis/book/corpus/3034.txt
+- id 3037 | date 2026-02-23 | pre_market | "Pre Market Report 23-Feb-2026" | path: /home/ubuntu/repos/prs_analysis/book/corpus/3037.txt
+- id 3038 | date 2026-02-23 | post_market | "Consolidation CONTINUES- Post Market Report 23-Feb-26" | path: /home/ubuntu/repos/prs_analysis/book/corpus/3038.txt
+- id 3039 | date 2026-02-24 | post_market | "Disappointing MONTHLY EXPIRY- Post Market Report 24-Feb-26" | path: /home/ubuntu/repos/prs_analysis/book/corpus/3039.txt
+- id 3040 | date 2026-02-25 | pre_market | "Pre Market Report 25-Feb-2026" | path: /home/ubuntu/repos/prs_analysis/book/corpus/3040.txt
+- id 3041 | date 2026-02-25 | post_market | "Another DISAPPOINTING Day- Post Market Report 25-Feb-26" | path: /home/ubuntu/repos/prs_analysis/book/corpus/3041.txt
+- id 3042 | date 2026-02-26 | pre_market | "Pre Market Report 26-Feb-2026" | path: /home/ubuntu/repos/prs_analysis/book/corpus/3042.txt
+- id 3043 | date 2026-02-26 | post_market | "New low for HDFC Bank- Post Market Report 26-Feb-26" | path: /home/ubuntu/repos/prs_analysis/book/corpus/3043.txt
+- id 3044 | date 2026-02-27 | pre_market | "Pre Market Report 27-Feb-2026" | path: /home/ubuntu/repos/prs_analysis/book/corpus/3044.txt
+- id 3045 | date 2026-02-27 | post_market | "Free fall- Post Market Report 27-Feb-26" | path: /home/ubuntu/repos/prs_analysis/book/corpus/3045.txt
+- id 3048 | date 2026-03-02 | pre_market | "Pre Market Report 02-Mar-2026" | path: /home/ubuntu/repos/prs_analysis/book/corpus/3048.txt
+- id 3049 | date 2026-03-02 | post_market | "War Fear- Post Market Report 02-Mar-26" | path: /home/ubuntu/repos/prs_analysis/book/corpus/3049.txt
+- id 3050 | date 2026-03-04 | pre_market | "Pre Market Report 04-Mar-2026" | path: /home/ubuntu/repos/prs_analysis/book/corpus/3050.txt
+- id 3051 | date 2026-03-04 | post_market | "DOWN but not out- Post Market Report 04-Mar-26" | path: /home/ubuntu/repos/prs_analysis/book/corpus/3051.txt
+- id 3052 | date 2026-03-05 | pre_market | "Pre Market Report 05-Mar-2026" | path: /home/ubuntu/repos/prs_analysis/book/corpus/3052.txt

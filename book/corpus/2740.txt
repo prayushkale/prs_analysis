@@ -1,0 +1,91 @@
+Fine, this is Pierre Sundar. Welcome to this special episode where we are going to discuss
+about some strategy. In the last three videos, we discussed call calendar, we discussed
+call ratio and today in this video, we are going to discuss about put ratio. First thing
+is that what is put ratio? Put ratio means buying one put, selling two or three puts
+far away. Usually, the people buy at the many put and sell out of the many put are
+buying sometime know they do slightly in the many put also. And selling two or three
+puts where you think that the markets will be taking the support. So, if the markets
+are slightly bearish, so this will give a good return. Of course, this time the markets
+have turned to be bullish, not bearish. So, that is why out of the four strategies which
+I took a paper trade. So, this is a strategy which is given the least possible return. So,
+without wasting the time, let me show you in the computer. So, these are the four
+strategies. We have already discussed call calendar, put calendar, call ratio. Now,
+there is a time to do put ratio. So, this is nifty, P stands for put ratio. And you look
+here and would analyze that trade. So, for the time being, you just leave this one.
+Okay, you only look at the remaining three. So, if you look at the remaining three,
+you know, what I did, I bought 25,000 put option. I think that time nifty was around 24,
+899 and red like that. Okay, the 25,000. And if you can remember on May 12th, the nifty broke out,
+nifty shot up nearly 1000 point, then the same day evening, I gave a post market report saying that
+markets are likely to consolidate between 24500 and 25200. So, what has happened after that
+markets were moving very violently, three times nifty broke 25,000, 24500. But every time it broke,
+it did not close below 24500, recovered very, very fast. So, because like 24500 is a support,
+you know, market can go even slightly lower also. So, what I did, I sold 24400 put option
+and 24500 put option both. People usually, the collaboration means they do 1 is 2,
+that means 1 by 2 cell. But instead of selling 2 cell, what I have chosen, 1 cell at 24500,
+1 cell at 24400. So, I bought 25,000 put option, sold 24500 put and 24400 put. Again,
+when I say, I bought, I bought, you know, it's a paper trade, you know, it's not the real trade.
+Okay. So, now, what happens, you know, the markets have slightly bearish,
+you know, your bi-option will also give profit, the cell option also give profit.
+But what has happened, market was violently trading in this range and finally, closer to the end
+of the series, market decided to break out. Now, the nifty is trading about 25200.
+Now, what has happened as a result, we have lost 34,000 rupees in buying a put option.
+Okay. But losing 34,000, you know, if you, people who buy the naked put, 34,000 will be the loss.
+But although there is a 34,000 rupees loss in the bi-option, see the cell option,
+you know, covered almost the entire profit. So, still sitting with a very, very small profit.
+You know, this strategy must not be seen in isolation because, you know, it's only 1,000
+rupees profit 0.77% return. See, I have done a call ratio in bank nifty and did a put ratio in
+nifty. If the market is bullish, my bank nifty will give very good profit. As you have seen already,
+that is the one which has given the best return, like 44,000 rupees profit. So, put ratio definitely
+will give loss, but it has not given loss, it has given some minor profit.
+On the contrary, the market had been bearish, this strategy would have given better profit,
+whereas the bank nifty strategy would have given less profit or some loss also. So, that is how
+the things are, like, you know, overall the portfolio level you have to think, not at the individual
+level. Now, why this extra one, as I already told you, you are buying for 465 and, you know,
+selling these two for, you know, also, like, I think we collected almost the entire premium.
+They send small net credit. But, however, I thought, you know, in case if market turns slightly
+bullish, so they may not be good profit. And also, even if market reverses, so I thought, you know,
+26,000 will be a good resistance. So, I just wanted to sell one extra call.
+Now, see, only the put ratio, the margin is 1,7000, by adding one extra call,
+the margin is short of 2,221,000. But, the thing is, by adding this call,
+now, although there is a very small profit in the put ratio, a call ratio has given about
+5,000 rupees profit. So, the overall profit, now, you know, even for the deployed capital,
+it is 2.73%, which is not a bad one, because you have got nearly 17, 18% profit in the
+Magnifty call ratio. The put ratio has given 2.73%, still, it is a very, very good return, actually.
+So, you know, if you are mild bullish, you do a call ratio, a mild bearish, you do a put ratio.
+But if you are not sure, which way the market will go, then better to do one call
+ratio also, one put ratio also. So, if the put ratio doesn't give you good profit call ratio will give,
+a call ratio doesn't give you good profit, put ratio will give. So, this is how we
+just manage to do things, right. So, of course, there are some plus and minus points, as I told you
+always. So, in case markets move beyond 26,000, my extra leg will give loss or market crashes
+below 24 400 also, there will be an unlimited loss. So, you do not want the unlimited loss,
+you can always add one more by option, but normally I don't do that. So, call calendar we have
+done, put calendar we have done, then call ratio we have done, now we have doing a put ratio.
+So, you know, so these are the strategies. As I told you in the first video, I will come back to
+the camera. As I told you in the first video, mostly people do straddle and strangle in India.
+So, beyond that there are many strategies. So, some of the four strategies, I just took a
+paper trade, I discussed the four strategy. So, this is the final video in this series, right.
+Of course, there are many more strategies like diagonal call calendar, diagonal put calendar,
+you know. So, a lot of variations and a lot of adjustments here and there, right.
+So, hope you enjoyed watching this video. So, if you are interested to learn more,
+so you might consider attending my workshop. You can check the description for the details.
+There will be one workshop in Chennai and one workshop in Bangalore. So, maybe after completing
+this, I might consider launching an online workshop, right. So, probably that I will do it when I
+go back to Dubai. So, because now this is a peak summer season in Dubai. So, therefore,
+I am spending time in India for two months, I will be here. Maybe September month, I am planning
+to go to either Singapore, Malaysia or Switzerland, you know, somewhere. Then October, I will go back to
+Dubai and settle down. So, this is the travel plan actually. So, the strategies, all the four
+strategies put together. So, it has given more than 10% return. So, in this month and once again,
+a disclaimer, these are not real trades, these are all paper trades. And what I am showing you
+is the final outcome. So, I am not showing you the everyday MTM loss. Actually, I can show it,
+but it will take longer time. So, I do not want to keep the video very, very long. So, if you
+have this software called upstrat.defini.com, you can actually go and do once I have taken the
+screenshot of all this data. You can actually go and do the simulation yourself. So, that's a very
+good software simulation. I am telling you that I am not promoting upstrat actually, right. So,
+because there are, there are very few software as far as this back testing payoff chart and,
+you know, simulations in India, right. So, hope you enjoyed watching this video. So, maybe next month,
+maybe I will try some new strategies. I will come out with the outcome. So, until then,
+enjoy in the June series, you know, very, very volatile series. But finally, of course,
+today is Wednesday. Tomorrow is the expiry. So, let us hope market sustains the rally. So,
+25 to 100 is decisively taken out. So, markets are likely to be step positive in July series also.
+Of course, corporate results will be coming in July. So, like a lot depends upon the corporate results
+also. So, hope you enjoyed watching this video. Thank you for watching.

@@ -1,0 +1,3 @@
+The searches are giving me helpful signals but limited precision on the exact claims. Let me try a few more specific searches on the key factual claims, then compile verdicts carefully. I need to be careful: for claims where I cannot confirm via web or where sources conflict, I use "unverifiable" or "corrected" with what the evidence supports.
+
+Let me do more targeted verification searches per remaining claim.

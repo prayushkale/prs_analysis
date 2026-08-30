@@ -1,0 +1,20 @@
+# Batch daily_071 Report — January 2025 daily market reports (25 transcripts)
+
+## Scope
+- Transcript ids: 2504–2541 (gaps per source corpus): 2504,2505,2506,2507,2508,2511,2514,2515,2516,2518,2519,2520,2521,2526,2527,2529,2530,2531,2532,2533,2536,2537,2539,2540,2541
+- Dates: 2025-01-08 → 2025-01-30 (13 pre-market, 12 post-market)
+- Output: `/home/ubuntu/repos/prs_analysis/book/analysis/batch_daily_071.jsonl` — 25 JSON lines, all schema-valid (validated with json.loads; 112 event claims)
+
+## Digest
+- **Market arc of the fortnight:** Nifty broke 23,500 (Jan 8) → free fall to ~23,350 zone (Jan 10) → Jan 13 bloodbath in mid/smallcaps (smallcap -7-8% in two sessions, MTF-leverage unwinding blamed) → Jan 14 gap-up sustained but FII sold 8,100 cr → results week (TCS dividend ₹76; Infosys +8%/+11% but stock -5%; Axis -30%+ into 1.5-yr low; Kotak +9%) → Jan 23 HDFC Bank results saved a day that broke 23,000 six times → Jan 27 first close below 23,000 (DeepSeek + Trump-Colombia tariff shock) → Jan 29 broad-based rally with VIX rising → into Jan 31 budget with universal bearishness and "Nirmala Candle 2.0" hopes.
+- **FII running totals as stated:** Jan 9: ~12,000 cr → Jan 17: 43,000 cr → Jan 23: 60,000 cr → Jan 24: 65,000 cr; since Oct 1, 2024: >2 lakh crore (2022 full-year worst: 2.7 lakh cr). Verify totals against NSDL data.
+- **Most notable verifiable events:** TCS ₹76 dividend (Jan 9); Infosys Q3 rev +8%/profit +11% (Jan 16-17); HSBC India downgrade to neutral; TSMC results; Apple -4% (worst since Aug 5, 2024); Trump inauguration whiplash (25% Mexico/Canada tariffs, BRICS 100% threat); DeepSeek semiconductor crash (Jan 27); RBI ~₹60,000 cr liquidity ops; Fed hold Jan 29; MTF unwinding in mid/smallcaps; India VIX behavior anomalies (rising on rally days).
+- **Flagged as speaker speculation (verify=false):** the 23,200-call insider-activity allegation minutes before HDFC Bank results (2530); "2025 year of large caps"; 4th-straight-red-month claim (last seen 2001) — dateable and worth bulk verification; LTCG-to-zero budget suggestion; Nirmala Candle 2.0 expectation.
+- **Data quality:** high. ASR garbles corrected per dictionary (rice→rise, Lull Street→Dalal Street, Quotech/Kotag→Kotak, "itself"→Wipro context, mid cap "fell 200%"/"67%"→2%/6-7%). Speaker's crore/billion conversion slip in 2514 ("2 lakh crore ≈ 25 billion") noted — actual ≈ $23-24B, close enough but worth a check in verification.
+- **Repetition:** pre-market reports systematically rehash the prior day's post-market (flagged in dup_flag); FII totals and Nov-21 23,350 level recur in ~8 transcripts; June-4 put-buying anecdote recurs in 2539/2540.
+- **Leaks logged for the banned-terms list:** sponsor lines in all 25 (Delta.exe/Delta.exchange variants); name variants ("Pia", "Pierre", "Piers from", "PR Sundar", "Pya"); platform ("my YouTube got hacked", "Tamil channels, I have given an interview", "webinar with one of the leading media"); residency/travel ("traveling back to India", "just came back to Dubai"); political self-statement ("I am also not in favor of BJP" — 2537); personal trades/MTM swings (kept as method, flagged); FM nickname phrasing ("Nirmala Mataji" — informal, genericize to "the finance minister").
+
+## Book-relevant observations (for Part II/V/VI compilers)
+1. **Jan 2025 is the cleanest case study of a bear-market squeeze cycle**: FII relentless selling → rupee slide → gap-downs → retail SIP absorption → MTF blowup in mid/smallcaps → capitulation → policy/budget hope. The 2013 taper-tantrum parallel (2511) is a ready-made chronicle sidebar.
+2. **Recurring structural lessons with numbers** suitable for Part II: dividend-adjustment index mechanics (2505/2507); OI-max anchor breaking (2529); pre-result positioning beats results (2519/2520/2521 trio); the 1:2 put-ratio hedge as repeatable structure (2518/2531/2532); option-flow-before-results pattern (2530, flagged as allegation).
+3. **Chronicle entries (Part VI, 2025 chapter):** Jan-2025 sequence is dense with dated, verifiable claims — ideal spine for the "Tariffs, DeepSeek and the pre-budget slide" section.

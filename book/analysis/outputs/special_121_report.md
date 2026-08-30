@@ -1,0 +1,8 @@
+# Batch special_121 Report — 10 special-episode transcripts (Sep–Oct 2020)
+
+## Digest
+1. **All 10/10 transcripts analyzed and written** to `/home/ubuntu/repos/prs_analysis/book/analysis/batch_special_121.jsonl` (validated: 10 JSON lines, one per transcript, ids 0155–0168 in order; no markdown fences; schema-compliant).
+2. **Content mix**: one dense Q&A (F&O mechanics — 0155, quality 5), two investing explainers (PFC value+covered calls 0156; ESG/dividend-tax 0162), two macro primers (DXY 0159; carry trade 0160), one regulatory analysis (multi-cap rejig 0158), one IPO guide (Mazagon Dock 0164), one P&L review (Sep-2020, 150% YTD 0165), one retail-behavior cautionary (Robinhood wave 0166), one event-strategy demo (TCS buyback IV straddle 0168, quality 5).
+3. **Event claims extracted**: 26 concrete claims flagged for verification (Tesla −21% day + $1T six-stock wipeout; SEBI multi-cap 25/25/25 with ₹40K cr rotation; DXY 165/70 extremes; 1991 double devaluation; CDSL 8,30,405 June-2020 accounts; Mazagon Dock IPO dates/band; TCS buyback +7.5% and IV 33→39; Sept-2020 Bank Nifty −20% series).
+4. **Strategies captured**: 3 (value-stock covered-call income engine; sell-half-keep-half IPO rule; news-pop short straddle) plus rollover-cost and SLB-vs-futures decision frameworks from 0155.
+5. **Leaks/exclusions logged**: real-name intros in all 10 (logged verbatim); family framing (0158 cake story, 0165 son's account), Singapore work history (0160), training-business defense + Tamil proverb (0165), Twitter/platform references (0164), personal positions (0156, 0162) — all mapped to `leaks`/`exclude_passages` per banned-terms policy.

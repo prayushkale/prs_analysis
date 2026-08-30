@@ -1,0 +1,26 @@
+You are an analyst extracting structured content from a SPECIAL-EPISODE transcript of an Indian stock-market trading educator, for an anonymized book with these 31 chapters: 1 why traders lose; 2 anatomy of failure; 3 discipline/process; 4 FII/DII flows; 5 VIX regimes; 6 option chain; 7 microstructure (gaps/expiry/index construction); 8 why derivatives exist; 9 calls and puts; 10 greeks; 11 implied volatility; 12 margins/collateral; 13 short straddles/strangles; 14 spreads & ratio spreads; 15 calendar spreads; 16 butterflies/condors; 17 portfolio hedges; 18 firefighting/adjustments; 19 event playbook; 20 budgets/elections; 21 wars/black swans; 22-25 chronicle 2018-26; 26 retail scams; 27 regulation (SEBI/rules); 28 taxation; 29 investing vs trading; 30 real assets (real estate/gold/bonds); 31 crypto.
+
+Rules: NEVER output the speaker's real name or identity strings (note them in `leaks` only). Apply transcription corrections: gif nifty/GIF-50/GIFT->GIFT Nifty (SGX Nifty only pre-Jul-2023) | Sabi/CB/semi/say B->SEBI | RBA->RBI |
+FAs/FIA/FAS/F&I/APIs/FA->FIIs | DAAs/DAI's/DIA->DIIs | Bagnifty/Bang nifty/Bagniti->Bank Nifty | if-in-nifty->FinNifty |
+global queues->global cues | stock covering->short covering | shorter up->shot up | MSA->MSCI | CPA->CPI |
+Wix/weeks/Bix->VIX | Toji->Doji | ICSA->ICICI Bank | Industin/Indus and Bank->IndusInd | Quotac/Kotaik->Kotak Bank |
+trunk->Trump | gargle war->Kargil war | pull-up attack->Pulwama | hidden bar/Hind bet->Hindenburg | Lull Street->Dalal Street |
+taxbeddy->TaxBuddy | 'Delta dot exchange' variants->Delta Exchange | Struggles->straddles | piano->P&L | bees/BeES->ETF (e.g. Nifty BeES). Only what the transcript says. Genericize personal trades/P&L as content (the numbers may teach), but if a passage is self-promotion/self-defense (business, penalty, family, luxury, travel), list it under exclude_passages.
+
+Read each transcript IN FULL. For EACH, emit exactly ONE line of JSON (no fences):
+{{"id":"...","date":"...","type":"special","title_clean":"cleaned title","summary":"<=60 words","chapter_targets":["chapter numbers, primary first"],"themes":["2-6 short theme tags"],"lessons":["transferable lessons, <=30 words each, max 5"],"strategies":[{{"name":"...","construction":"legs/strikes/quantities","numbers":"premiums/margins/breakevens/returns as stated","best_regime":"when to use","adjustments":"how managed/rescued","risks":"max loss / failure mode"}}],"event_claims":[{{"claim":"factual assertion with numbers/dates","verify":true/false}}],"quotes":["<=30 words cleaned, max 3, only distinctive"],"enhance":["complex topics needing worked examples/tables"],"exclude_passages":["self-promo/identity passages to drop"],"leaks":["verbatim identity/promo strings"],"quality":1-5}}
+If no strategies exist, use []. Event claims: concrete verifiable assertions only.
+
+WRITE all JSON lines to /home/ubuntu/repos/prs_analysis/book/analysis/batch_special_157.jsonl (one per transcript, in order). Then return a 5-line digest.
+
+TRANSCRIPTS (10):
+- id 1978 | date 2023-11-18 | general | "Why Technical Analysts are LOSING MONEY in Trading!" | path: /home/ubuntu/repos/prs_analysis/book/corpus/1978.txt
+- id 1990 | date 2023-11-27 | strategy | "My Paid Conference Strategy - How It Has Performed in 1 Year!" | path: /home/ubuntu/repos/prs_analysis/book/corpus/1990.txt
+- id 1999 | date 2023-12-02 | general | "I WAS WRONG, Technical Analysis is NOT Bullshit, But..." | path: /home/ubuntu/repos/prs_analysis/book/corpus/1999.txt
+- id 2011 | date 2023-12-09 | general | "Value vs Momentum Investing_ How I Invest Personally + Pros & Cons" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2011.txt
+- id 2022 | date 2023-12-16 | geopolitics | "BEWARE of POSITIVE Black Swan Event!" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2022.txt
+- id 2032 | date 2023-12-23 | general | "2023 Market Rewind - What Have We Learned_" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2032.txt
+- id 2038 | date 2023-12-27 | general | "TRADERS MEET in Dubai!" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2038.txt
+- id 2043 | date 2023-12-30 | general | "Market Going Bigger & Bigger! RIGHT time to Invest┬áin┬áSTOCKS_!" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2043.txt
+- id 2055 | date 2024-01-07 | outlook | "The LOGIC Behind Why NIFTY Will Hit 24K in 2024!" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2055.txt
+- id 2065 | date 2024-01-14 | strategy | "The ONLY STRATEGY That Works in Current Market┬áSituation!" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2065.txt

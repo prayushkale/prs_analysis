@@ -1,0 +1,26 @@
+You are an analyst extracting structured content from a SPECIAL-EPISODE transcript of an Indian stock-market trading educator, for an anonymized book with these 31 chapters: 1 why traders lose; 2 anatomy of failure; 3 discipline/process; 4 FII/DII flows; 5 VIX regimes; 6 option chain; 7 microstructure (gaps/expiry/index construction); 8 why derivatives exist; 9 calls and puts; 10 greeks; 11 implied volatility; 12 margins/collateral; 13 short straddles/strangles; 14 spreads & ratio spreads; 15 calendar spreads; 16 butterflies/condors; 17 portfolio hedges; 18 firefighting/adjustments; 19 event playbook; 20 budgets/elections; 21 wars/black swans; 22-25 chronicle 2018-26; 26 retail scams; 27 regulation (SEBI/rules); 28 taxation; 29 investing vs trading; 30 real assets (real estate/gold/bonds); 31 crypto.
+
+Rules: NEVER output the speaker's real name or identity strings (note them in `leaks` only). Apply transcription corrections: gif nifty/GIF-50/GIFT->GIFT Nifty (SGX Nifty only pre-Jul-2023) | Sabi/CB/semi/say B->SEBI | RBA->RBI |
+FAs/FIA/FAS/F&I/APIs/FA->FIIs | DAAs/DAI's/DIA->DIIs | Bagnifty/Bang nifty/Bagniti->Bank Nifty | if-in-nifty->FinNifty |
+global queues->global cues | stock covering->short covering | shorter up->shot up | MSA->MSCI | CPA->CPI |
+Wix/weeks/Bix->VIX | Toji->Doji | ICSA->ICICI Bank | Industin/Indus and Bank->IndusInd | Quotac/Kotaik->Kotak Bank |
+trunk->Trump | gargle war->Kargil war | pull-up attack->Pulwama | hidden bar/Hind bet->Hindenburg | Lull Street->Dalal Street |
+taxbeddy->TaxBuddy | 'Delta dot exchange' variants->Delta Exchange | Struggles->straddles | piano->P&L | bees/BeES->ETF (e.g. Nifty BeES). Only what the transcript says. Genericize personal trades/P&L as content (the numbers may teach), but if a passage is self-promotion/self-defense (business, penalty, family, luxury, travel), list it under exclude_passages.
+
+Read each transcript IN FULL. For EACH, emit exactly ONE line of JSON (no fences):
+{{"id":"...","date":"...","type":"special","title_clean":"cleaned title","summary":"<=60 words","chapter_targets":["chapter numbers, primary first"],"themes":["2-6 short theme tags"],"lessons":["transferable lessons, <=30 words each, max 5"],"strategies":[{{"name":"...","construction":"legs/strikes/quantities","numbers":"premiums/margins/breakevens/returns as stated","best_regime":"when to use","adjustments":"how managed/rescued","risks":"max loss / failure mode"}}],"event_claims":[{{"claim":"factual assertion with numbers/dates","verify":true/false}}],"quotes":["<=30 words cleaned, max 3, only distinctive"],"enhance":["complex topics needing worked examples/tables"],"exclude_passages":["self-promo/identity passages to drop"],"leaks":["verbatim identity/promo strings"],"quality":1-5}}
+If no strategies exist, use []. Event claims: concrete verifiable assertions only.
+
+WRITE all JSON lines to /home/ubuntu/repos/prs_analysis/book/analysis/batch_special_114.jsonl (one per transcript, in order). Then return a 5-line digest.
+
+TRANSCRIPTS (10):
+- id 0063 | date 2020-05-11 | outlook | "NIFTY Options Trading Strategy LIVE TRADE - May 2020 _ P R Sundar" | path: /home/ubuntu/repos/prs_analysis/book/corpus/0063.txt
+- id 0064 | date 2020-05-12 | general | "This Simple ADJUSTMENT TRADE Turned My LOSS into PROFIT!" | path: /home/ubuntu/repos/prs_analysis/book/corpus/0064.txt
+- id 0065 | date 2020-05-13 | general | "Rely on RELIANCE_ Detailed Stock Analysis by P R Sundar" | path: /home/ubuntu/repos/prs_analysis/book/corpus/0065.txt
+- id 0066 | date 2020-05-14 | outlook | "MARKETS in LONG TERM - Is P R Sundar Bullish or Bearish___" | path: /home/ubuntu/repos/prs_analysis/book/corpus/0066.txt
+- id 0067 | date 2020-05-15 | taxation | "We Donated Γé╣85 LAKHS to Charity - TAX SAVING is a MYTH _ P R Sundar" | path: /home/ubuntu/repos/prs_analysis/book/corpus/0067.txt
+- id 0068 | date 2020-05-16 | qa_askprs | "Lower Margins from June, My Biggest Mistake, Option vs Spot Price.. #A" | path: /home/ubuntu/repos/prs_analysis/book/corpus/0068.txt
+- id 0070 | date 2020-05-18 | outlook | "MARKET CRASHED - TRUTH Behind Govt's 20 Lakh Crore Package!" | path: /home/ubuntu/repos/prs_analysis/book/corpus/0070.txt
+- id 0071 | date 2020-05-20 | options_education | "CASH vs FUTURES Market - What's Best for INVESTMENT_" | path: /home/ubuntu/repos/prs_analysis/book/corpus/0071.txt
+- id 0072 | date 2020-05-21 | ipo | "Reliance Rights Entitlement_ YOU Can Also Buy - Here's How!" | path: /home/ubuntu/repos/prs_analysis/book/corpus/0072.txt
+- id 0073 | date 2020-05-23 | qa_askprs | "Imp. Financial Advice_ Trading with 2L_ Strategy for Office Goers_ #As" | path: /home/ubuntu/repos/prs_analysis/book/corpus/0073.txt

@@ -1,0 +1,39 @@
+You are an analyst extracting structured data from transcripts of an Indian stock-market trading educator for an anonymized book. Rules: (1) NEVER output the speaker's real name or any identity string - where you see one, note it in `leaks` only. (2) Apply these transcription corrections when interpreting (do not echo the errors): gif nifty/GIF-50/GIFT->GIFT Nifty (SGX Nifty only pre-Jul-2023) | Sabi/CB/semi/say B->SEBI | RBA->RBI |
+FAs/FIA/FAS/F&I/APIs/FA->FIIs | DAAs/DAI's/DIA->DIIs | Bagnifty/Bang nifty/Bagniti->Bank Nifty | if-in-nifty->FinNifty |
+global queues->global cues | stock covering->short covering | shorter up->shot up | MSA->MSCI | CPA->CPI |
+Wix/weeks/Bix->VIX | Toji->Doji | ICSA->ICICI Bank | Industin/Indus and Bank->IndusInd | Quotac/Kotaik->Kotak Bank |
+trunk->Trump | gargle war->Kargil war | pull-up attack->Pulwama | hidden bar/Hind bet->Hindenburg | Lull Street->Dalal Street |
+taxbeddy->TaxBuddy | 'Delta dot exchange' variants->Delta Exchange | Struggles->straddles | piano->P&L | bees/BeES->ETF (e.g. Nifty BeES). (3) Be factual - only what the transcript says; mark uncertain numbers.
+
+Read each transcript below IN FULL (read tool). For EACH, emit exactly ONE line of JSON (no markdown fences) with schema:
+{{"id":"...","date":"YYYY-MM-DD or null","type":"pre_market|post_market|weekly","summary":"<=50 words: what happened in the market and what the speaker focused on","levels":{{"nifty":null,"banknifty":null,"vix":null,"fii_cr":null,"dii_cr":null}},"events":[{{"claim":"specific factual market/policy/corporate event asserted with numbers/dates","verify":true/false}}],"lessons":["<=25 words each, max 2, only if a real transferable lesson"],"quote":"optional <=30 word verbatim-style cleaned quote or empty","dup_flag":"if content is essentially a repeat of an adjacent date, note the repeated topic","leaks":["verbatim identity/promo strings spotted"]}}
+`levels`: only values explicitly stated (numbers in crore for fii/dii). `events`: 0-4 items, only concrete verifiable claims (index moves with dates/levels, policy changes, corporate events, macro data, wars, fraud cases). No generic market states.
+
+WRITE all JSON lines to the file /home/ubuntu/repos/prs_analysis/book/analysis/batch_daily_085.jsonl (one per transcript, in order). Then return a 5-line digest: counts, most notable events, data quality.
+
+TRANSCRIPTS (25):
+- id 2960 | date 2025-12-31 | post_market | "Rally or Window Dressing- Post Market Report 31-Dec-25" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2960.txt
+- id 2961 | date 2026-01-01 | post_market | "Good BEGINNING for 2026- Post Market Report 01-Jan-26" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2961.txt
+- id 2962 | date 2026-01-02 | post_market | "NIFTY at All Time High - Post Market Report 02-Jan-26" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2962.txt
+- id 2965 | date 2026-01-05 | post_market | "AMATEURS open, PROFESSIONALS close the Market- Post Market Report 05-J" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2965.txt
+- id 2966 | date 2026-01-06 | post_market | "Can Rely on RELIANCE- Post Market Report 06-Jan-26" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2966.txt
+- id 2967 | date 2026-01-08 | post_market | "Nifty CLOSE BELOW 26000- Post Market Report 08-Jan-26" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2967.txt
+- id 2969 | date 2026-01-12 | pre_market | "Pre Market Report 12-Jan-2026" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2969.txt
+- id 2970 | date 2026-01-12 | post_market | "DRAMATIC TURNAROUND - Post Market Report 12-Jan-26" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2970.txt
+- id 2971 | date 2026-01-13 | pre_market | "Pre Market Report 13-Jan-2026" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2971.txt
+- id 2972 | date 2026-01-14 | pre_market | "Pre Market Report 14-Jan-2026" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2972.txt
+- id 2973 | date 2026-01-14 | post_market | "Another DISAPPOINTING day- Post Market Report 14-Jan-26" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2973.txt
+- id 2974 | date 2026-01-16 | pre_market | "Pre Market Report 16-Jan-2026" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2974.txt
+- id 2976 | date 2026-01-16 | post_market | "PATHETIC Markets- Post Market Report 16-Jan-26" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2976.txt
+- id 2978 | date 2026-01-19 | pre_market | "Pre Market Report 19-Jan-2026" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2978.txt
+- id 2979 | date 2026-01-19 | post_market | "Down but NOT OUT- Post Market Report 19-Jan-26" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2979.txt
+- id 2980 | date 2026-01-20 | pre_market | "Pre Market Report 20-Jan-2026" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2980.txt
+- id 2981 | date 2026-01-20 | post_market | "10 lakh CRORE LOSS- Post Market Report 20-Jan-26" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2981.txt
+- id 2982 | date 2026-01-21 | pre_market | "Pre Market Report 21-Jan-2026" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2982.txt
+- id 2983 | date 2026-01-21 | post_market | "Third day of SEVERE FALL- Post Market Report 21-Jan-26" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2983.txt
+- id 2984 | date 2026-01-22 | pre_market | "Pre Market Report 22-Jan-2026" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2984.txt
+- id 2985 | date 2026-01-22 | post_market | "SHORT COVERING or trend reversal- Post Market Report 22-Jan-26" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2985.txt
+- id 2986 | date 2026-01-23 | pre_market | "Pre Market Report 23-Jan-2026" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2986.txt
+- id 2987 | date 2026-01-23 | post_market | "CRASH AGAIN- Thanks to Adani - Post Market Report 23-Jan-26" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2987.txt
+- id 2991 | date 2026-01-27 | pre_market | "Pre Market Report 27-Jan-2026" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2991.txt
+- id 2992 | date 2026-01-27 | post_market | "EXPIRY DAY Volatility- Post Market Report 27-Jan-26" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2992.txt

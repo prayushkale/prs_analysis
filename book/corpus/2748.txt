@@ -1,0 +1,216 @@
+Hi, this is Pia Sundar. Welcome to this special episode where we are going to talk how
+Jane Street spoiled the Lull Street. We all know now that Sebi has come out with ruling
+against Jane Street. So about 5,000 crore penalty. They are not allowed to trade in Indian
+markets and all these are okay. But like there are many things you know I do not agree
+with Sebi and say for example let us not talk about Sebi just generally Indian regulators.
+So the job of the regulator is to regulate the market. If there is any mistake you know you
+find it and correct it. So what they have done in Jane Street case is okay it's correct. So I'm
+not saying anything or I'm not finding any fault with Sebi in case of Jane Street. So in case of
+Jane Street whatever incident is correct. I'll just give you some examples you know say for example
+if you are holding some shares in the cash market. And you know let us say I have 500 shares
+of reliance indices. I do not know what is the lot size of reliance indices. I'm just saying
+let us say I have a 500 shares in reliance indices in cash market. If I'm selling a call option
+in reliance indices. Assume that reliance indices lot size is 500. So when I'm holding the
+shares in my demand account. When I'm selling a call option and I have a zero risk because if
+the markets goes higher goes beyond my strike price I can give delivery. So in this case there should
+not be any margin charged for the options. And that is how it happens in US market. In US
+market if you have some hundred shares in the cash market if you are selling a call option they
+don't charge the spend margin. They don't charge any way US market has no exposure margin also.
+So there's no margin absolutely because when your risk is zero so why should you pay margin.
+But what happens in India they are charging spend margin and they are also charging exposure margin.
+So the reason they say there is no link between cash market and F&O market but that is actually
+not true. If you are holding some shares in the cash market based on that they give collateral
+collateral limit in F&O market. So definitely there is a link.
+So this one you know say we should seriously look into it. So at the end of the day you have to
+encourage the people to take less risk. You should not encourage people to take the higher risk.
+The people who are selling an account call option they are taking high risk.
+So if you are like you know charging spend margin, exposure margin that's fine.
+But somebody holding the shares in the DMAT account and if you are selling a call option is trying
+to hedge the position. So somebody is hedging the position that means he is trying to reduce the risk.
+So why should you treat the speculator and hedger and the same skill. So that is one thing.
+A second thing may be a little bit controversy I would say. So like India is a country, a special
+country where a male adult and a female adult they agree to each other. If they sleep together
+it is not a crime under law. But at the same time if there are two males both are adult
+they concern to each other. If one person is managing the other person's money they
+it is a crime under law. So where is the fairness? So you can say some people are
+cheating. Some people are cheating there is no doubt about it. But some people can cheat
+ladies also. So you can say they know sleeping together is totally crime under law.
+But as long as there's a consent it's not a crime there. So the Indian regulators stand
+is that a person can cheat another person financially but a male adult will never cheat a female adult.
+So that is an underlying concept. So you know that two different things.
+So this is the second one. And the third one I can tell you. Trading in long term options
+he has much lower risk than compared to trading in the short term options.
+Especially in Friday options when the people like Jan Street come into the picture.
+You know like how difficult it was for the last one year you know the markets are completely
+manipulated and market you know go higher you know gap up gap down there'll be a lot of problems
+in the short term options but long term options are more safe. But the CB has a rule that if you
+are trading in options which is expiring more than nine months you know then you pay a five percent
+extra much in money. So again you know like somebody who is trading in long term options is moving
+towards the low risk. Somebody trading in short term options is moving to the higher risk.
+So the regulators job is to move the people from higher risk to lower risk but now
+opposite is happening and people are being moved from lower risk to higher risk.
+Right so no other country has this special rule you know where you know and all kinds of arguments
+you know you know that they are all invalid arguments. So like sometimes when I tell you
+you know you are going long in nifty b's okay you want to buy a protection by the H.
+And let me give an example like let us say I buy the nifty b's now I want to buy at the money put
+option okay to protect my downside so that my costs are on 400,000 rupees in the beginning of the
+month then that hedging value is only for one month then next month again you have to do.
+So like like that if you do for 12 month so 12 month into 400 500, 5000 rupees is gone.
+One nifty b's you're like one nifty is around 25,000 that 20% of the capital is gone for hedging.
+This is assuming that market is at the same level as me right okay now you buy at 25
+500 put option like 400 500 rupees and next month if it goes to 25 200 you know you don't make
+money in hedging also but now the market has become 25 200, 25 200 will be trading at 400 500 rupees.
+So there's a possibility after paying like 20% of the capital for the hedging you can still lose
+but instead of doing the hedging for the hedging purpose in the current month if you buy it in
+December month or next year December month I tell you the option prices will be very very cheap.
+It will be very very cheap like you know yesterday like one or two days before I check you know
+somebody wanted me to a good strategy I told him okay buy the nifty b's at 25 500.
+26,000 put option expiring next year December that was trading around 1000 rupees 1100 so that means
+you know you lose only maximum 4% out of that that's a 2% in the money.
+So if you do this strategy you can buy if you're bullish about India you can buy hold it until next
+year December okay no matter how much market goes known you are not going to lose more than 2%
+but however market goes higher you can make profit.
+But then one may argue sir you are only buying the 26,000pe right so when buying you don't pay
+margin money yes for buying we don't pay margin money but then you know we don't feel like paying so
+much money for buying so we want to finance it by selling a call option but anyway we have a
+nifty b's in the cash market so what is wrong in selling a call option that's a zero risk
+but for that you have to pay span margin exposure margin then extra margin because it's more
+than 9 months you see you have a nifty b's in the cash market okay you have a nifty b's in
+the demand account when you are selling a call option the risk is zero then for that you know
+you will be surprised to know for one lot you will end up paying about 3 lakh rupees as the margin
+money right 3 lakh rupees is about 15% of your capital right so like these are the things you know
+there are so many anomalies like you know things in India then I will tell you one interesting story
+so one of my friends one day he came to me he said sir I'm having nearly 1000 crore worth of shares
+wow very rich guy okay I he told me what can I do in options market
+and I told him okay see when you have a 1000 crore shares right why do you want to take risk
+so what you do is just sell far out of the many call options weekly options maybe trading at one
+rupee and then far out of the many put options where it is trading at one rupee and then put a stop
+plus of five rupees you know so like 99.99% of the time that two rupees will go to zero but once in a
+while stop plus it you know one side stop plus it at the other side definitely will go to zero
+so like your risk reward is one is to 2.5 assuming that out of like 52 weeks
+at 50 weeks you win at two weeks you lose also you lose about like you know every week you'll get two
+rupees and you know 50 weeks you will get 100 rupees at two days you lose 10 five rupees also
+you lose 10 rupees so you will get about 90 rupees so that's a good thing because you have a very
+big capital right then what he did he went home okay but he did not dare to sell the put option
+why because you know because he's holding 1000 crore worth of shares so in-cat market you know
+crashes he will have a problem with the put full you so he used to sell only call option
+and then you know because first time he talked to me he was not confident he did not use the entire
+1000 crore collateral value for selling started with some small quantity then no after few weeks he
+started gaining confidence so slowly he increased their volume one day one day what happened
+suddenly his ledger balance was showing minus 5 so 5 crore so 5 crore is gone so he was scared
+and he called the broker with whom he's trading that broker also don't know sir we also don't know
+exchange charge the money right then if this guy got a doubt oh this broker doing some manipulation
+ok he says you don't know and then you know he got panic what happened he closed all the positions
+so you close all the position your position is zero that means all the margin money should be released
+but still he was saying minus 5 crore right so he got definitely some fall plate then he called me
+then I explained to him sir actually there is a rule when you talked to me I told you to sell
+one rupee put option also one rupee call option also but you did not tell me that you are worried
+about the downside you only sold the call option and when you sell only the call option
+ok so that means you are bearish that means your position is considered as a short position
+so there is a rule in Sabi you cannot have a short position for more than 500 crore
+because your capital is 1000 crore so you use most of your capital for selling the call option
+so the probably your net shot has become more than 500 crore but if you have sold one call option
+and then if you have sold one put option then your net is zero net is not short
+because selling a call is considered as a short selling a put is considered as a long so one long
+and one shot is nullified so you would not have ended up this problem but since you sold only the call
+option and then the limit has cross 500 crore so there is a rule in Sabi that you know you cannot
+shot the market for more than 500 crore and then if you do it there will be some margin called
+additional surveillance margin or whatever it is that margin charge to you will be released only
+after two months even if you close the position today the margin will not be released you will get
+back only after two months so I told him first thing is that no need to worry because he got worried
+because the broker also could not give the explanation so don't worry you will get back your money
+but only thing is you will get back your money after sometime you won't get the money immediately
+okay but here the question is this guy is actually not taking a huge shot because no he's having
+1000 crore what that shares so when he's selling a call option that's actually not it's a covered
+call it's not a short actually right so these are the genuine cases right the way where the
+Sabi is penalizing them right so this can also be sorted out so if the you know if the
+demat account and F&O trading account is linked and if as long as the people are holding the cash
+market so they should be allowed to sell the call option so that is considered as a H right
+normally what happens people you know like trade as they sell call option for 10 rupees 20 rupees
+they go and buy a call option for 1 rupee 2 rupee then become you know one become short one become
+long you know so this problem never come but this guy cannot do that because he's already selling
+call option at the highest strike price right so beyond highest strike price what is there to buy
+you know so just for joke people will say one guy from a movie theater he was running to the manager
+so scared so I say why are you so scared sir somebody knock at my shoulder and say I cannot see
+the movie properly you lower your head then it says no that happens in normally in all theaters
+why are you so scared that I'm sitting in the last round movie theater right so when you're sitting
+in the last round who is behind okay so that's I like you know this a joke about a ghost movie right
+so he is already selling there the highest possible call but how can he go and buy another call
+right so these are all the things you know so practically the sebi should look into it
+now let us come back to Jen Street so Jen Street we decided to spoil that Dallal street
+that many times in my social media I've spoken many times in my youtube also I've spoken
+trying and you know even many other people also have spoken so the first thing is that let us
+look at the few logics market goes higher call premium should go higher market goes higher put premium
+should go lower okay but what happens for the last few months market goes higher put premiums are
+going higher okay so it is not the underlying that decides the option prices it is the option
+prices that is deciding the underlying if underlying decides the market price that's a natural market
+okay if the option prices deciding the underlying that's a manipulated market so that no you know
+that you know when the markets are going higher some people are buying the put option aggressively
+so because they have a pre-planned that you know they want to bring down the market maybe after
+230 to 45 so to make huge profit on the buy option because of that huge demand for buying the
+option so instead of buy a put option going down the put action actually goes higher and when a
+retail guy who is holding a 1000 crore chance in his demand account okay when he is not allowed
+to sell for more than 500 crore how come this Jane state could sell options for 45,000 crore
+right the people say you know he shot it even longer shot in futures for about 5000 crore
+and took position in options for 45,000 crore and he in Britain I forgot to tell you one more thing
+all right okay now today I like this restaurant I go and eat in this restaurant tomorrow I don't
+like this I go to another restaurant so that's my choice if I'm doing a business let us say I'm
+selling a television okay I can sell Samsung television also I can sell LG television also
+okay I can sell Sony television also I can do business with many companies
+now what the CBS is if you are a subbroker you can be a subbroker only for one broker
+right then you know I'm a big guy I have a huge portfolio if I have I have to do a business only
+with one broker tomorrow if there is some problem with that one broker that's it my whole life is gone
+right a Tata can run 100 companies in India and people can do any number of businesses in the
+same business you know like I can have a dealership with if I'm a television seller I can have a
+dealership with many companies and many companies product I can sell it in the same shop they they
+never say no if you're a dealer to Samsung you should be only a dealer to Samsung you can never
+be a dealer with another television company but the Sebi rule says if you are a subbroker to one
+broker you can never become a subbroker for another broker so what is wrong to de-risk my my like
+I have a risk okay so if I have two or three brokers if I'm a subbroker if there is a problem with one
+broker I can seamlessly move to the other broker without any problem otherwise you know I have to give
+a notice I have to close my subbroker ship then that has to be closed that will take 10-15 days
+but because there's a problem with you and broker he may not cooperate and then you have to go and
+submit all the documents to another broker then it will take one month then in one month my business is
+filed right so again the Sebi should look in to create a person can be subbroker to two or three
+brokers okay there's no logic in restraining that and the worst thing is that if my company is a
+subbroker to one company one broker then neither my company nor all the directors can become a broker
+with another subbroker with another broker right but when there are so much of restrictions
+how come the Jane State could bypass all these things how come they are selling options worth 45,000
+crore right so the clearly if there must be just like a 500 crore you cannot short there's a net
+okay even for grass also that must be some limit that means no entity forget about FIA DA but mostly
+F&O means FIA is only and they should not be taking position for more than 5000 crore
+and then the the moment you have the positions in futures and options okay then you should not be
+doing a basket selling that means you know the how these people do 5000 crore they put a sell
+order in one second so that market go for a free fall that must be a system okay where if somebody
+is putting 5000 crore order okay so exchange should not allow the 5000 crore order to go in one
+second okay it should be broken into 100 crore okay every one minute 100 crore order should go
+I got that in US they have something like this you US you cannot manipulate why should somebody
+has to sell 5000 crore in one second okay but if you are a investor it's okay but you are having
+a corresponding position in the futures and options so you know somebody trying to manipulate
+you know executing the order so they you know like big orders you know especially on an
+expiry day should not be allowed by the exchanges and each entity should have you know gross exposure
+should not be allowed to trade for more than certain amount otherwise you know all the big people
+like you know Jen Street who are having 50,000 crore or one lakh crore they will come and spoil
+everything but the last one year traders in India they are struggling to make money why they are
+struggling to make money because you know all this money is taken by them and the worst thing I
+tell you the worst thing I tell you if you are an Indian citizen okay you like you know you work
+very hard so you work very hard to pay so much of income tax to the government of India then you
+have so much stress so you want to go for a foreign tour maybe you want to go to Switzerland
+you know Singapore right you need some dollars okay you have to pay 20% TCS right but the people
+like Jen Street they are making like 40,000 crore profit and the RBI is supplying the 40,000
+crore worth of dollars without any TCS no TCS nothing then you know like you know the people say
+you know the white elephant is there that is draining the RBI dollars and people are forgetting
+that but coming to small small people want some small pleasure right you want to go to the nearest
+countries like Sri Lanka or you know there are some tourist destinations you know and you end up
+paying 20% TCS are you want to buy some real estate no you pay 20% TCS you know somebody you know
+want to go for a tour want to spend five lakh somebody want to buy a property for one crore you're
+asking for 20% TCS and these people are easily manipulating the market and taking billions of dollars
+and you're supplying that dollar and without any TCS right so all these things you know
+you know there should be a think tank you know to look into it yeah sure they have a think tank
+but who cannot think properly so there's a problem here and so hopefully I've given some suggestions
+to the regulators hope they are looking into it so you know a genuine people must be encouraged
+it just must be encouraged and in a taking lowest should be encouraged and not the high risk
+so Jen Street has clearly spoiled the dollar street we do not know the impact completely
+how they have manipulated I think by this time you all know even I also spoke many times you know
+I think there's no need to talk how they manipulated the market now so it's a long video today
+hope you enjoyed watching this video thank you

@@ -1,0 +1,88 @@
+Hi, this is PR Sundar. Welcome to this special episode where I'm going to talk about a strategy
+in crypto. The first thing is that delta.exchange, they are the main sponsors for my YouTube video.
+So I have a very good relationship with them for a very long time. Earlier, I used to trade
+in delta.exchange, but what has happened once I became a non-resident of India settled in Dubai.
+I thought of doing an global platform rather than trading in Indian platform. Delta.exchange,
+they have a global platform also, they have Indian platform also. When it comes to this, why they have
+something like a global platform and Indian platform. Let me give you some idea. Indian government
+has brought a lot of restrictions on crypto. Say, for example, you want to buy some crypto, you have
+to pay 1% TCS, 30% flat tax and everything. So that is only for crypto-spot market.
+If you are trading in future some options, again, there is a rule in RBI that trading in foreign
+derivatives is not allowed for Indian tax residents. So that was a gray area, but then what happened,
+like delta.exchange, registered with FIU, a financial intelligence unit in India.
+So, like who registered? You know, the people who are carrying out some businesses related to this,
+they register. So they comply with all the rules and regulations of Indian government.
+What happens in delta.exchange? Only people from India, they are trading in that.
+So, they pay the money only in Indian rupees. So, let us say you are going along in future
+your counterpart is somebody going short in future also in Indian.
+So, all the money is being paid by Indian rupees and your profit or loss also accumulated in Indian
+rupees. So, you receive the money also in Indian rupees. So, there is no way a foreign currency
+is involved. So, that is the main concern for RBI. Otherwise, you know, people keep losing money and
+then, you know, in dollars, then RBI has to supply that dollar. How much dollar RBI can supply?
+So, that, you know, the cryptos all over the world is traded in US dollar. So, what happens when you
+transfer the money to delta.exchange? So, you are sending the Indian rupees, but they will show
+the equivalent dollars and then you trade in dollars, but actually, there is no dollar involved.
+It is just equivalent money. Then, when you make a profit or loss, that also getting into dollar,
+that equivalent money here, you get it. So, this is how delta.exchange is
+complying with the Indian rules and regulations. So, let us not go into details about those.
+So, very simple, you pay only Indian rupee, you receive only Indian rupee, no foreign currency
+is involved here. So, this is one thing. Now, after launching the Indian operations, they have reduced
+brokerages also. They have reduced the brokerage about 50%. And also, you know, there are people who do
+scalping, the scalpers guess, additional 50% and discount. So, without wasting the time,
+I will just take you to the computer. So, this is the platform.
+Bitcoin, it went up to $1,25,000. Now, from $1,25,000, now it has crashed. It has come down to
+$90,000. Do you want to buy a little bit worth, you know, what is the guarantee that it will support
+here and move higher? It can fall even further also. So, that is also there. I am going to show
+some more strategies, not only one, maybe in the next few weeks, every week I am planning to do
+one strategy. But in a small, small money only, but here you can see the amount I have is only about
+like $2,000, $48,000. It is a very small money because our major money is in the crypto market,
+the worldwide, not in Indian. This one is just done for demo purpose, a small amount.
+You put it here. So, it's showing that, you know, the equivalent money in dollars. First,
+few things if you go to trackers. Okay. So, here, the trackers is something like a spot market.
+It is equivalent to spot market, but actually it is not spot market. If it is a spot market,
+again, this 1% is flat, 30% tax, all will apply. So, this is something like a spot market,
+but it's actually future only. What they call it is a perpetual future. So, this perpetual future,
+you know, means, you know, the spot market and this market will be trading at the same price.
+Okay, you can just buy and sell and then, you know, but it is considered as a futures and options.
+One thing I forgot, if you are trading in delta.exchange, it is a futures and options market.
+So, that taxation is just like your futures and options you are trading in, Indian stock exchanges
+like NSC and BSE. So, it is considered as a business income. So, whatever is the tax you are paying
+for your business income. So, the same tax only applies here. Now, here, if you see options,
+say, for example, right now, market has come down to 1,252,90,000. This is 20th November. So,
+I will go to January 26. That's about two month away. Two month away, if you see the 91,000
+call option, that's trading around 8,000 plus. 91,000 put option is also trading close to 8,000.
+So, 8,000 plus 8,000 is a $16,000. So, if you are doing a trade, that means, you know,
+maybe you are selling a call option, 91,000, or we say, take it at 90,000. So, 90,000, you sell a call option,
+and then sell a put option, 90,000.
+Now, you can see, maybe 0.01, the margin money is only $24, or maybe you can do 0.1,
+okay, 0.1 BTC, 0.1 BTC, 90,000 call, and 90,000 put. The margin money is only about $244.
+And look at the analyze the payoff chart. So, this payoff chart, you know, you can see that
+from $75,000 to $1,500. So, you are safe. The last welcome, if Bitcoin most beyond $1,500,
+are if it falls below $75,000. But if it falls below $75,000, or if it shoots up above $1,500,
+what are we supposed to do? There are ways you can manage some kind of adjustments.
+So, in fact, I'm planning to launch a workshop, maybe a one-day workshop, just to give all the
+details how to manage on this and that. Very soon, you can expect this workshop. Probably this
+may be an online workshop. What I've done today actually, I've taken a trade. So, what trade I've
+taken, I'll let me tell you, 91,000 call-option and 91,000 put-option, both I sold. But right now,
+my call-option is showing $10 profit. Put-option is showing $35 loss. So, there's a loss of $25,
+but actually, this is because I always tend to trade in a little bit longer term options,
+so maybe two months away. So, there may be a liquidity, maybe $10, $20, a liquidity problem
+will be there. So, because of that, that will be showing. So, otherwise, there is nothing to worry much.
+So, since I've taken 91,000, maybe I'll show you the pay-out chart.
+So, here, I'm saved from $75,000 to $1,6,000.
+So, this is a very, very wide range of about $30,000. So, this is how I'm just planning to do it,
+softens, and cryptos. There are some advantages and disadvantages. Advantages that the margins
+are so little, with a very small money also, you can play. So, one of the reasons is that,
+you know, high volatility, the IV is always very, very high. So, because of IV is very, very high,
+because the IV is very high, the option premium tend to be very, very high.
+Sometimes, you know, the people buy the option, you know, like it goes 10, X, 20, X, so easily.
+So, just to summarize, after a long time, I've taken a trade-in crypto, and I've showed you,
+I've taken 91,000 short straddle at two months away. My lower breakeven is $75,000,
+upper breakeven is $1,6,000. And then, if things go wrong, how I'm going to manage,
+and I will update in the next video, and send when I do some adjustments, and I will update it,
+and soon expect online workshop. You know, if there is a good demand, I don't mind doing the workshop
+in some hotels also, offline workshop also. So, let me see how is the response?
+And then, if you want to open a account in Delta.exchange, now you can check the description
+for a account opening link. So, through that link, you can open an account with Delta.exchange.
+So, let us see, after a long time, I'm doing a public trade. How this public trade goes
+for the next two months. Hope you enjoyed watching this video. Thank you for watching.

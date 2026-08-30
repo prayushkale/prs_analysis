@@ -1,0 +1,26 @@
+You are an analyst extracting structured content from a SPECIAL-EPISODE transcript of an Indian stock-market trading educator, for an anonymized book with these 31 chapters: 1 why traders lose; 2 anatomy of failure; 3 discipline/process; 4 FII/DII flows; 5 VIX regimes; 6 option chain; 7 microstructure (gaps/expiry/index construction); 8 why derivatives exist; 9 calls and puts; 10 greeks; 11 implied volatility; 12 margins/collateral; 13 short straddles/strangles; 14 spreads & ratio spreads; 15 calendar spreads; 16 butterflies/condors; 17 portfolio hedges; 18 firefighting/adjustments; 19 event playbook; 20 budgets/elections; 21 wars/black swans; 22-25 chronicle 2018-26; 26 retail scams; 27 regulation (SEBI/rules); 28 taxation; 29 investing vs trading; 30 real assets (real estate/gold/bonds); 31 crypto.
+
+Rules: NEVER output the speaker's real name or identity strings (note them in `leaks` only). Apply transcription corrections: gif nifty/GIF-50/GIFT->GIFT Nifty (SGX Nifty only pre-Jul-2023) | Sabi/CB/semi/say B->SEBI | RBA->RBI |
+FAs/FIA/FAS/F&I/APIs/FA->FIIs | DAAs/DAI's/DIA->DIIs | Bagnifty/Bang nifty/Bagniti->Bank Nifty | if-in-nifty->FinNifty |
+global queues->global cues | stock covering->short covering | shorter up->shot up | MSA->MSCI | CPA->CPI |
+Wix/weeks/Bix->VIX | Toji->Doji | ICSA->ICICI Bank | Industin/Indus and Bank->IndusInd | Quotac/Kotaik->Kotak Bank |
+trunk->Trump | gargle war->Kargil war | pull-up attack->Pulwama | hidden bar/Hind bet->Hindenburg | Lull Street->Dalal Street |
+taxbeddy->TaxBuddy | 'Delta dot exchange' variants->Delta Exchange | Struggles->straddles | piano->P&L | bees/BeES->ETF (e.g. Nifty BeES). Only what the transcript says. Genericize personal trades/P&L as content (the numbers may teach), but if a passage is self-promotion/self-defense (business, penalty, family, luxury, travel), list it under exclude_passages.
+
+Read each transcript IN FULL. For EACH, emit exactly ONE line of JSON (no fences):
+{{"id":"...","date":"...","type":"special","title_clean":"cleaned title","summary":"<=60 words","chapter_targets":["chapter numbers, primary first"],"themes":["2-6 short theme tags"],"lessons":["transferable lessons, <=30 words each, max 5"],"strategies":[{{"name":"...","construction":"legs/strikes/quantities","numbers":"premiums/margins/breakevens/returns as stated","best_regime":"when to use","adjustments":"how managed/rescued","risks":"max loss / failure mode"}}],"event_claims":[{{"claim":"factual assertion with numbers/dates","verify":true/false}}],"quotes":["<=30 words cleaned, max 3, only distinctive"],"enhance":["complex topics needing worked examples/tables"],"exclude_passages":["self-promo/identity passages to drop"],"leaks":["verbatim identity/promo strings"],"quality":1-5}}
+If no strategies exist, use []. Event claims: concrete verifiable assertions only.
+
+WRITE all JSON lines to /home/ubuntu/repos/prs_analysis/book/analysis/batch_special_133.jsonl (one per transcript, in order). Then return a 5-line digest.
+
+TRANSCRIPTS (10):
+- id 0630 | date 2021-10-16 | taxation | "TAXATION For Cryptocurrency Investing & Trading in India!" | path: /home/ubuntu/repos/prs_analysis/book/corpus/0630.txt
+- id 0654 | date 2021-10-30 | strategy | "RELIANCE Result-Based Options Trading Strategy - Did It Work_" | path: /home/ubuntu/repos/prs_analysis/book/corpus/0654.txt
+- id 0657 | date 2021-11-01 | outlook | "MARKET CRASH SOON_ Something BIG Going On Behind The Curtains!" | path: /home/ubuntu/repos/prs_analysis/book/corpus/0657.txt
+- id 0662 | date 2021-11-04 | general | "Muhurat 2021 LIVE TRADING and New Equity Investment!" | path: /home/ubuntu/repos/prs_analysis/book/corpus/0662.txt
+- id 0663 | date 2021-11-05 | general | "Almost Lost 1 CRORE! How I Managed ADANI Results Day to Make 30 LAKHS " | path: /home/ubuntu/repos/prs_analysis/book/corpus/0663.txt
+- id 0664 | date 2021-11-06 | general | "ULTIMATE GUIDE to NEST TRADING TERMINAL - Best Terminal For Full-Time " | path: /home/ubuntu/repos/prs_analysis/book/corpus/0664.txt
+- id 0665 | date 2021-11-07 | taxation | "7 Ways To Keep INCOME TAX NOTICES Away & Avoid Severe Action!" | path: /home/ubuntu/repos/prs_analysis/book/corpus/0665.txt
+- id 0684 | date 2021-11-19 | outlook | "MARKET CRASH Incoming_ Will The Bubble Finally Burst_" | path: /home/ubuntu/repos/prs_analysis/book/corpus/0684.txt
+- id 0685 | date 2021-11-20 | general | "3 Things That Can MAKE or BREAK Indian Market!" | path: /home/ubuntu/repos/prs_analysis/book/corpus/0685.txt
+- id 0697 | date 2021-11-27 | taxation | "6 Tips & Tricks To SAVE TAXES On F&O Income!" | path: /home/ubuntu/repos/prs_analysis/book/corpus/0697.txt

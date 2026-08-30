@@ -1,0 +1,39 @@
+You are an analyst extracting structured data from transcripts of an Indian stock-market trading educator for an anonymized book. Rules: (1) NEVER output the speaker's real name or any identity string - where you see one, note it in `leaks` only. (2) Apply these transcription corrections when interpreting (do not echo the errors): gif nifty/GIF-50/GIFT->GIFT Nifty (SGX Nifty only pre-Jul-2023) | Sabi/CB/semi/say B->SEBI | RBA->RBI |
+FAs/FIA/FAS/F&I/APIs/FA->FIIs | DAAs/DAI's/DIA->DIIs | Bagnifty/Bang nifty/Bagniti->Bank Nifty | if-in-nifty->FinNifty |
+global queues->global cues | stock covering->short covering | shorter up->shot up | MSA->MSCI | CPA->CPI |
+Wix/weeks/Bix->VIX | Toji->Doji | ICSA->ICICI Bank | Industin/Indus and Bank->IndusInd | Quotac/Kotaik->Kotak Bank |
+trunk->Trump | gargle war->Kargil war | pull-up attack->Pulwama | hidden bar/Hind bet->Hindenburg | Lull Street->Dalal Street |
+taxbeddy->TaxBuddy | 'Delta dot exchange' variants->Delta Exchange | Struggles->straddles | piano->P&L | bees/BeES->ETF (e.g. Nifty BeES). (3) Be factual - only what the transcript says; mark uncertain numbers.
+
+Read each transcript below IN FULL (read tool). For EACH, emit exactly ONE line of JSON (no markdown fences) with schema:
+{{"id":"...","date":"YYYY-MM-DD or null","type":"pre_market|post_market|weekly","summary":"<=50 words: what happened in the market and what the speaker focused on","levels":{{"nifty":null,"banknifty":null,"vix":null,"fii_cr":null,"dii_cr":null}},"events":[{{"claim":"specific factual market/policy/corporate event asserted with numbers/dates","verify":true/false}}],"lessons":["<=25 words each, max 2, only if a real transferable lesson"],"quote":"optional <=30 word verbatim-style cleaned quote or empty","dup_flag":"if content is essentially a repeat of an adjacent date, note the repeated topic","leaks":["verbatim identity/promo strings spotted"]}}
+`levels`: only values explicitly stated (numbers in crore for fii/dii). `events`: 0-4 items, only concrete verifiable claims (index moves with dates/levels, policy changes, corporate events, macro data, wars, fraud cases). No generic market states.
+
+WRITE all JSON lines to the file /home/ubuntu/repos/prs_analysis/book/analysis/batch_daily_066.jsonl (one per transcript, in order). Then return a 5-line digest: counts, most notable events, data quality.
+
+TRANSCRIPTS (25):
+- id 2342a | date 2024-09-11 | pre_market | "Pre Market Report 11-Sep-2024" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2342a.txt
+- id 2342b | date 2024-07-12 | pre_market | "Pre Market Report 12-Jul-2024" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2342b.txt
+- id 2343a | date 2024-07-12 | post_market | "Break OUT_ Post Market Report 12-July-24" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2343a.txt
+- id 2343b | date 2024-09-11 | post_market | "Volatility ENOUGH- Post Market Report 11-Sep-24" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2343b.txt
+- id 2344b | date 2024-09-12 | pre_market | "Pre Market Report 12-Sep-2024" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2344b.txt
+- id 2345a | date 2024-09-12 | post_market | "BREAK OUT, finally- Post Market Report 12-Sep-24" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2345a.txt
+- id 2346a | date 2024-07-15 | post_market | "POSITIVE Momentum Continues_ Post Market Report 15-July-24" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2346a.txt
+- id 2346b | date 2024-09-13 | pre_market | "Pre Market Report 13-Sep-2024" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2346b.txt
+- id 2347b | date 2024-07-16 | pre_market | "Pre Market Report 16-Jul-2024" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2347b.txt
+- id 2348a | date 2024-07-16 | post_market | "ANOTHER All Time High! Post Market Report 16-July-24" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2348a.txt
+- id 2348b | date 2024-09-16 | pre_market | "Pre Market Report 16-Sep-2024" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2348b.txt
+- id 2349a | date 2024-09-16 | post_market | "Consolidation CONTINUES- Post Market Report 16-Sep-24" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2349a.txt
+- id 2350a | date 2024-09-17 | pre_market | "Pre Market Report 17-Sep-2024" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2350a.txt
+- id 2350b | date 2024-07-18 | pre_market | "Pre Market Report 18-Jul-2024" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2350b.txt
+- id 2351a | date 2024-09-17 | post_market | "CALM before STORM- Post Market Report 17-Sep-24" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2351a.txt
+- id 2351b | date 2024-07-18 | post_market | "Too VOLATILE Markets_ Post Market Report 18-July-24" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2351b.txt
+- id 2352a | date 2024-09-18 | pre_market | "Pre Market Report 18-Sep-2024" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2352a.txt
+- id 2352b | date 2024-07-19 | pre_market | "Pre Market Report 19-Jul-2024" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2352b.txt
+- id 2353a | date 2024-09-18 | post_market | "Volatility ahead of FED Meet- Post Market Report 18-Sep-24" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2353a.txt
+- id 2353b | date 2024-07-19 | post_market | "Worst Fall after JUNE┬á4_ Post Market Report 19-July-24" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2353b.txt
+- id 2354b | date 2024-09-19 | pre_market | "Pre Market Report 19-Sep-2024" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2354b.txt
+- id 2355b | date 2024-09-19 | post_market | "Nifty BREAK OUT- Post Market Report 19-Sep-24" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2355b.txt
+- id 2356 | date 2024-07-22 | pre_market | "Pre Market Report 22-Jul-2024" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2356.txt
+- id 2357a | date 2024-07-22 | post_market | "CALM before Storm_ Post Market Report 22-July-24" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2357a.txt
+- id 2357b | date 2024-09-20 | post_market | "HIGH VOLATILE All Time High - Post Market Report 20-Sep-24" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2357b.txt

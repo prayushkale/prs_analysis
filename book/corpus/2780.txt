@@ -1,0 +1,179 @@
+Hi, this is Pia Sundar. Welcome to this special episode where I'm going to show you a strategy
+which is actually not for retail people for H&I claims. I've met a lot of H&I claims
+and most of the H&I claims are risk covers people so they do not want to take risk. Somebody
+who has 100 crore why does he want to take risk if you put the money in bank FD also
+he will get 7 crore interest and which is risk free. So most of the people when they meet
+me they ask me one question sir, is there any risk free strategy in the stock market?
+Here there is a risk for that risk only we're getting the reward. If you want risk free strategy
+yes there are risk free strategies but your return is not going to be very high. You may get
+slightly better than the bank FD rate. So today I'm going to discuss one such strategy with
+zero percentage means you don't have the risk at all but you can make some money. First thing is
+that you know okay you have to buy a nifty beast. I'm just giving an example. One hundred nifty
+beast is equal to one nifty. One lot size in futures and options is 75. So you have to buy
+7550 nifty beast so that you will have nifty beast is equal to one lot of nifty. Right now
+nifty is trading around 24600 so if it is 24600 divided by 100 should be 246 but the nifty
+beast will not be trading at 246 it may be trading around 280 well about 4045 point premium but
+that is nothing to worry because you know when you're buying you pay 4045 piece higher I'm sure
+when you sell also you will be selling at 4045 piece higher so that premium is always there
+that's because you know they don't distribute the dividend so the dividend is added into the scheme
+or I heard that there is some SBI nifty beast which you know where the dividend they distribute it
+so it is not added so that may have been trading around 246 so I'm just checking within Nipun
+India nifty beast okay so for all practical purposes we take it as if you are buying at 246
+means like you are buying a nifty 24600 hundred nifty beast so into 75 that will cost around 20
+lakh rupees okay so once you have bought it now if market goes higher you will make profit
+market goes lower you will lose the money market goes higher you will make profit but market goes
+down you will lose the money so you do not want to take risk so you have to do the hedging through
+future some options so maybe I will show you from the computer okay so this is the nifty option chain
+and this is a nifty Xperies 29th December 2026 so that's roughly about one year five months away
+so here what you need to do 25000 put the option is trading around 950 okay there's one challenge
+there may be a slight liquidity problem okay but assuming that you are buying this so you are
+paying 950 rupees from your pocket now you don't pay this money from your pocket because you
+already paid 20 lakh rupees for buying the nifty beast you don't want to pay this money what you do
+you just go and sell 28000 call also trading around 950 rupees so you buy for 950 sell for 950
+that means you don't receive the money but you are not paying the any money also so now what happens
+you know no matter how much market goes down from here you do not have to lose even one rupee
+because you have a buy option 25000 put option buy so if the market goes down you will lose money in
+nifty beast but you will gain money in 25000 tea buy option and also you will make some money
+in selling 28000 call option sometimes if the markets react violently the loss in the nifty
+beast may not be compensated by those two profits but it will compensate more or less there
+might be some temporary empty loss so along the way I will tell you the challenges also
+the first challenge there may be liquidity problem when you are dealing with very very long
+term option just one challenge second challenge if markets move violently you know the profit in
+the options may not compensate the loss in the nifty beast but that's only a temporary phenomenon
+you just because you nifty beast you bought it in cash market there is no question of mtm also
+you don't need to pay any money but theoretically speaking if you want to exit at that point of time
+you may lose some money but you should not exit you have to hold it until next year this
+summer so that's the second thing and then slowly by the end of next year this summer
+assume that market crashed let us say market going close around 20000 so somebody who buy at 24600
+if it goes and close at 20000 they will lose 4600 rupees but you have nothing to lose in fact
+you will gain something I'll tell you what you will gain you bought at 24600 and let us say if
+market go to 20000 you will lose 4600 rupees in your nifty beast by the 25000 put option you will
+get a profit of 5000 rupees you will actually gain 400 rupees but 400 rupees is nothing
+you know like 400 rupees is just really 100% written for your investment
+you put 20 like rupees if you have put the money in bank FD itself you would have got
+one 100 of rupees profit okay but this 400 rupees 400 rupees is also good right the 400
+rupees per share so that will translate into how much 75 75 into 400 so that's a decent
+many that's a decent return for your investment right we are talking then the market is
+like crashing down like anything even then you don't lose you gain a little bit but on the other
+hand let us say market close anywhere between 24 25000 and 28000 25000 to 28000 you will make profit
+in the nifty beast of course you will lose some money in the buying of put option
+but that money you did not pay for your pocket you sold 28000 call that will also go to 0 this will
+also go to 0 so in options market your net profit or loss will be 0 but you make some money
+when the market goes higher assume that market goes beyond 28000 let us say market go to 20000 what will
+happen put optional go to 0 call option 28000 beyond 28000 whatever you are getting profit in
+ifty beast that you have to pass it on to the 28000 call by year so which means that you are
+restricting your profit only to 28000 so you bought at 24600 your profit ends at 28000
+so that means about 3400 points you are making profit so 3400 point profit will translate into about
+13 14% profit like no 1 year 5 months 13 14% profit you know that gives a slightly better return
+than the FD return so here is a strategy no buy nifty beast then buy a put option 25000 PE
+and sell call option 28000 CE both next year December options and then you are completely protected
+on the downside no matter how much market goes down you will not lose even a single rupees
+but you will on the contrary you will make some small profit but if the market goes higher you tend to
+make some better profit but then again you know sir what is the big deal you know you put 20
+lakh rupees on the table right you know so you are making you know 3500 that is a maximum profit
+3400 okay so like that will be about you know like 14 15% profit only so that will be slightly
+better than the FD return okay but there are many other aspects to this number one normally
+people do this when the market fall let us say 10% the first I'll give you another analogy
+the people will say market has already fallen so much now you buy market will go higher
+then you go and buy what happens market fall another 5% it's easy for the people to say you go
+and buy an average the one you bought you are already sitting with a 5% loss where the psychology
+will work to buy some more the next question will come if the market continue to go down okay let us say
+you buy at 100 rupees now come to 95 rupees again you buy again if the market go to 90 rupees
+what you bought 100 rupees is also giving loss what you bought at 95 rupees is also giving loss
+the people will say to go and buy an average at 90 rupees then you know if the market goes to 85 rupees
+what will you do so the fear will always be there already your existing positions is in a sitting
+with a huge loss and you keep on buying more and more you should have a conviction that market will
+definitely go back to 100 otherwise you know psychologically it's going to be very very draining
+but come back to my model you buy the nifty base and the market is down 10%
+if the market go up by 10% you make a very good profit let us say market come down another 5%
+a simple your existing position is not going to give any loss but your existing position is
+completely protected it's a zero loss so if the nifty comes down by another 5% you can do one more
+setup because your existing position is not in loss so therefore you will dare to do this one again
+buy and average say for example nifty went to 26 300 last year then started correcting
+so let us say about 1300 point fall at 25000 somebody has done this now the market has fallen
+yes nothing to lose so again when the market come to 24000 he should do again again market come to 23000
+you do again again market come to 22000 see in the real life the one who is without hedging
+a 25000 last 24000 last 23000 last how he will have a conviction to buy 22000 but in our case 25000
+no last 24000 no last 23000 no last 22000 you will dare to buy but again one may ask a question
+where the people will have so much money keep on averaging every time you have to pump in right
+but normally what happens people who have money under rupees they put it in depth mutual funds
+when the market fall 10% that 20% of that depth fund they close it they move it to this strategy
+and after that every 5% you know so the 20% of the depth fund they move so that means to
+exhaust all the 100% depth fund money so nifty has to fall 30% and nifty has not fallen 30%
+in the last 25 years it has fallen on only two times coronavirus and lemon brother collapse
+and both the time the market start up more than 100% during the next one year so what happens you know
+a 30% fall then you just leave it then if the market continue to fall nothing to worry because
+you are not going to lose even one rupee but if the market reverses what will happen
+the first strategy will give maximum profit maybe second strategy will also give maximum profit
+maybe third and fourth may not give the maximum profit and overall you will get a good profit
+but then again as a strategy the strategy is good I would say no why as a strategy is
+managed good you know see on one side you want zero risk with a zero risk anybody can make 20%
+25% return if that is the case everybody will be doing this nobody will be doing any other work
+in India you go and look at the top 50 companies balance sheet they work so much they manage thousands
+of people they manage such an empire but at the end of the day they don't make 40% 50% profit
+they make only you know they must be happy if they make 15 20% profit and here you will get 10-12
+percent profit without doing anything for whole year with a complete protection even the companies
+they don't have the complete protection one tsunami can come or one earthquake can come
+that factories can be destroyed of course you can say sir we have paid the insurance we'll get
+insurance money but where the insurance will pay the full money it's not going to compensate
+even if the insurance pay the money to reconstruct that factory how long it will take
+so then you lose the opportunity cost but here you don't have anything but however what is good
+in this strategy why people do this strategy they buy the nifty base and they pledge it and they
+get the I think there is about 6% at 10% market after the market they give the trading limit with
+that trading limit so the people they do that trading also so trading they make some money say
+for example normally what the big traders they do they put their money in depth mutual fund
+they pledge it with exchange and then based on that they get the limit they do the trade
+so what some ultra archery claims they do same thing only they do their main source of income
+is trading it's not this depth mutual fund but still depth mutual funds give some and 8% return
+one of the depth mutual funds I've been investing for the last one year it has given more than 10%
+return that's because you know the like interest rates is going down in the economy when the
+interest rate goes down in the economy depth funds tend to give higher return but normally it
+gives equivalent to if they return only but the point here is that that is not their main income
+their main income is trading so this is a secondary income so the same way the people who buy the
+nifty base and they pledge it they do the trading so they are the main trading income coming but here
+they get good profits you know if the markets do well and also they don't buy at the peak peak they
+buy when the market falls 10-15% then for every another 5% they keep averaging so Indian
+stock market history shows no matter how much market fell uniformly next one year two year
+markets have recovered so that is the logic of course there are some negative things if the same
+thing if you have to do in US since you have the nifty base they don't charge any margin many
+first-selling call option but in India it's not like that in India you have to pay the margin money
+that margin money may be around 10% of your capital say for example if you have 100 rupees
+put it in nifty base there's already 10% haircut you can use only 90% out of that 90%
+another 10% you have to pay the margin money for doing this hedging and then only the remaining 80%
+you can use it for your trading so Sabi is doing a lot of changes Sabi should seriously look into
+bringing this somebody is holding in the demand account if they're selling a call option the margin
+money should be zero because they have a zero risk and there's a zero risk why should they pay
+a two-end of like rupees margin money and moreover they are going to hedge their portfolio right so
+the job of the regulator is to you know curb the speculation not the hedging but here somebody is
+doing the hedging no it is not allowed in India but whereas that is a standard non in the entire world
+so we always behave differently right so that is one challenge so number one you have to pay margin
+if you pledge it you can get the limit you can use that but then your trading limit goes down
+so that's one child so a lot of challenges are there and moreover there's a rule in Sabi
+that if you are dealing with the options which are expiring more than nine months away then there is
+you know it is conservatively highly speculative so therefore there's some extra margin money
+but here the person is not doing any speculation is just hedging a portfolio at least that extra
+margin money should be removed now the people say you know weekly options are they speculative
+not the long term but then why there's extra margin money for long term options so you know
+that the problem in India is that you know like actually nobody knows what they are doing
+and and you know whoever like somebody is being advised you know and they just listen to them and
+they just carry out the rules there's no logic in that so all that if they do it so this kind of
+trading must be encouraged okay people taking the cash market position and hedging through long term
+options so you know that if you want to encourage them you have to give incentive you don't need to
+give incentive but don't give extra punishment and so just like Trump you know 25% tariff
+plus punishment tariff are buying crude oil from Russia like that you know here you pay
+all over the world the standard norm is span margin there's no such thing called exposure margin
+so already in India we have span margin plus punishment margin that's called exposure margin
+then if you are dealing with the long term option you pay span margin plus you pay punishment margin
+that is the exposure margin plus you pay additional penalty additional punishment margin that's
+called extra exposure margin so you know all this makes you know because you know the people who
+want to take the least risk they want to take least profit you know they should not be disturbed
+you know when they pay so many punishment margins you know the returns go down so naturally nobody
+will be interested in coming into this kind of trade setup so these are all the things that
+say we should limit it we cannot do anything but today I have thrown a strategy suitable for
+ultritor nice and you know they make a decent profit with zero risk but then sir I'm not happy with
+this return can I increase the return okay so that is behind the scope of this YouTube video
+but we teach everything then people will not come to attend our workshop so we teach all those
+things you know how to maximize the return how to minimize the risk now let us say if the market
+shoots up 30% I want to gain the entire 30% all that we teach in our workshop so if you're
+interested you may contact our office as and when we contact the next workshop we will inform you
+so hope you enjoyed watching this video thank you for watching

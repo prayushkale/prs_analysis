@@ -1,0 +1,145 @@
+Right, this is Pierre Kunde, welcome to the special episode where we are going to talk
+about the new SEBI rules related to the Bank Nifty Index calculation.
+First, let me start with some basics.
+You know, earlier when I started trading, I also got all these doubts.
+Now those days, you know, there was no social media, you know, there was not much help.
+Okay, now you go, if you know how to ask the right question, you will get the answer from the Google.
+But anyway, so yesterday one of my friends asked me, what is the difference between mutual fund
+and exchange traded fund? So, you know, what is mutual fund already?
+You know, the mutual fund, what they do, they collect money from so many people
+and they put the money in a stock market. What they exchange traded fund will do,
+also do the same thing. They collect money from the people, they put the money in stock market.
+But why the difference in the name? Now, let me give you this example.
+Now, if you are putting the money in a large cap mutual fund, so a large cap mutual fund
+collect money from thousands of people or maybe lots of people also or sometimes crores of people
+also and then they put the money only in large cap companies. But remember, let us say there are
+about 50 companies, large cap companies, nifty, 50 in the top 50.
+The mutual fund collecting the money, okay, it is not necessary that they have to
+put the money in all the 50 stocks. If they like 40 stocks, they don't like 10 stocks,
+they just put the money in 40 stocks. And if they like one stock more, they can put more money
+that they don't like another stock, they can put less money on that.
+So mutual fund has the discretion to deploy the funds. Of course, they don't have the complete
+discretion. So let us say, if you are putting the money in a Parma mutual fund,
+so they must put the money only in Parmachitical companies. But within that, they have the
+discretion. They can put more money in Sun Parma, less money in Dr. Rady, they can do like that.
+So come back to the exchange credit fund. So let us say nifty b's, you buy a nifty b's,
+that means you give the money to somebody. And what they will do, they are supposed to give
+the same return as the nifty. Which means that if nifty go up higher by 5%, so this nifty
+b's should go higher by 5%. If nifty goes down by 5%, the nifty b's should go down by 5%.
+So it should track their index. So whatever the money they collect, they have to put the money
+in all the 50 stocks and proportion to their weightage. Let us say HDFC bank weightage is 12%.
+So at 12% of the money they have to put it in HDFC bank. Let us say Tata Motors weightage is
+3%. So 3% of the money they have to put it in Tata Motors. So in a way, exchange credit fund,
+they don't have any discretionary power. Whatever money they collect, they have to put it in all stocks
+in proportion to their weightage in the index. Whereas a mutual fund, they have the discretion.
+So they like, they can put more money, they don't like, they don't put the money or they put less
+money. So it is a purely discretionary power of the fund manager. So this is the basic difference
+between mutual fund and exchange credit fund. Now what are the like popular exchange credit funds
+in India? You know these gold beads, silver beads, a nifty beads, a bank beads, a PSU bank beads,
+you know the money collected from the gold beads, they put the money in gold. Silver beads
+money they collected, invested in silver. And nifty beads money collected, put in all the 50 stocks.
+Bank beads money collected, put in all the 12 bank nifty stocks. And then PSU bank index,
+PSU bank beads money collected, money is put only in PSU banks. So now what the Sabi says,
+there has been some complaints that sometimes the bank nifty is being manipulated.
+If you can remember a few years before, nifty introduced, sorry NSE introduced,
+the bank nifty options, weekly options. And then you know in the entire world which option is
+being traded most, it was the bank nifty options. And why you know, it's a bit easy to manipulate
+the bank nifty rather than nifty because in bank nifty at one point of time HDFC bank alone had a
+35% weightage. So you want to bring down the bank nifty, you can sell HDFC bank or you want to
+bring up the bank nifty by the HDFC bank. So because this huge weightage, there are a lot of
+complaints that, you know, bank nifty especially on an expiry day, it is being manipulated.
+So there were a lot of complaints because of that, Sabi has decided to bring in some changes.
+So what is the new change? The new change is that, you know,
+bank nifty right now has only 12 stocks. It should be minimum 14 stocks, which means that two more
+stocks will have to be added into the bank nifty. That's a one change. Second change, you know,
+no stock will have a weightage of more than 20%. So later I'll come back. What is a weightage of
+HDFC bank and other things? So the maximum disadvantage is for HDFC bank and ICSA bank because right now
+only these two stocks has more than 20% weightage in a bank nifty. And not only that,
+the top three stocks should not have more than 45% weightage. So the top three stocks maximum
+cap is 45%. So remaining stocks only, you know, should be given at least 55% weightage.
+So first thing is this, what is this weightage, weightage, weightage? Okay, say for example,
+if nifty has 50 stocks, okay, assume that, you know, how to say, in US market, the Dow Jones is
+there. So the Dow Jones is an equal weighted index. Equal weighted index means all the companies
+will have same weightage. There are 30 stocks, weightage is 100%, that means each stock weightage is
+3% plus. So, you know, sometimes, you know, some smaller company prices go higher and the index
+can go higher. But what we follow is a market cap weighted index. In US also,
+SMP 500 and Nasdaq also market cap. In India also, it's a market, the higher the market cap,
+the weightage is more. So that means, you know, HDFC bank is the number one stock in India now.
+Okay, so assume that if HDFC bank go higher by 1%, so assume that nifty goes higher by,
+let us say, 20 points. Okay, but instead of HDFC bank, if some other stock like
+Tata Motors, Tata Steel, if they go up by 1%, the nifty will not go up by 20 point because
+that weightage will be much less. Sometimes, how less I tell you, if you look at the bank
+HDFC bank weightage is around 30%, let us say IDFC first bank, its weightage is 3%. Okay, if HDFC
+bank go up by 1%, what will be the impact in bank nifty? The same impact can come only if IDFC bank
+goes higher by 10%. And because HDFC bank weightage is 10 times more than the IDFC bank. Okay,
+so now the question is why markets fell so much yesterday after this news game,
+you know, like what is the relation between the market and the index changes.
+Now, let me give you this example. A lot of people invest money in bank b's and I also invest,
+okay, major part of my funds, they are part in debt funds and the equity fund is less,
+but in equity fund, a major part of my equity fund is invested in nifty b's,
+then bank b's, then PSU bank b's. So, a lot of people invested money in bank b's. Now,
+let us say a company exchange stated fund collected 100 rupees. So, they would have invested
+30 rupees in HDFC bank. Now, the maximum weightage is only 20%, so that means
+one third of their holding, they have to sell it in the market. Otherwise, they cannot give the same
+return as the bank nifty gives. So, just imagine, you know, this exchange stated funds,
+they collect huge amount of money running into lakhs of crores. And suddenly this weightage is being
+decreased from 30% to 20%. So, that means almost one third of their stocks, they have to sell it in
+the market. Of course, the change is not happening with immediate effect. It's happening in a
+faced manner, but still in a faced manner, they have to sell one third of their holdings.
+So, now you see why the HDFC bank was very bearish yesterday. So, maybe what I can show you here,
+this is the bank nifty index. And right now, you see, HDFC bank index weightages around 30%,
+I say bank index weight is around 23%, state bank of India weightages around 10%. So, around 30,
+you know, 28 plus 23 plus 30. So, this is about 60 plus percent. Now, the first thing is that
+this weightage has to come below 20. That means almost one third of their portfolio have to be
+offloaded by this exchange stated funds. Then, there to sell roughly about 10% of this ICSA
+bank. We have 23% has to come to 20%. Even that is not enough. Why?
+I assume that this is coming to 20, this is coming to 20, 20 plus 20 is 40, with a state bank of
+India around 10. So, that becomes 50%. That means another 5% will have to be reduced.
+Another 5% means what? Like 2% from each will have to be offloaded. So, which means that, you know,
+so HDFC bank almost one third and then like ICSA bank almost one sixth and then, you know,
+state bank of India may be one tenth of their portfolio have to be offloaded. So, that's a very,
+very big amount of selling. And of course, one of the beneficiaries this smaller branch. So,
+their weightage will be increased, you know, dramatically. So, these are the changes right now
+and this exchange stated funds. So, we'll have to recalibrate their portfolio. And potentially,
+for the next few months, this will affect HDFC bank and ICSA bank. Otherwise, the people
+have directly invested in HDFC bank and ICSA bank. So, they have nothing to worry. So, if you
+are bullish about these two companies. So, next six months is the time to accumulate these stocks
+because, you know, a lot of selling will happen from exchange stated funds. So, this is how they
+dynamics work in start market. For the last few years, there have been too many changes by the
+SEBI, especially with respective features and options. You know, when they started, they should
+have thought over all these things, instead of making changes many times. What has happened
+yesterday, when this news came, the markets fell. And then suddenly, there was another rumor,
+you know, that weekly expiry may be going away. You know, like one of my friends called me and then
+asked me, so what is the, you know, what is all these things? And I said, you know, okay, the
+bank-nifty recalibration, as well as weekly option, both were under consideration of SEBI.
+And then the official news has come for about the bank-nifty, right? And now the people logically
+assume that, you know, the news may come from the other side also. Then, when this weekly
+option news came, the markets fell further. And again, you know, the SEBI had to come and
+clarify that there is no such proposal. Then, again, market recovery. Look at the BSE stock
+yesterday. You know, the weekly option goes away. The major, you know, drawback is for BSE,
+right? And because now, you know, once in a week, you know, people trade in NSE for Tuesday
+expiry, then they come to Sensex expiry for Thursday. And, you know, there were rumors saying that,
+you know, there will be no more weekly expiry. And moreover, once in twice in a month expiry,
+and that show all exchanges must have the same day expiry. So, if any such thing comes,
+people will tend to trade in Nifty rather than Sensex. So, because of the yesterday, the BSE
+stock fell 4-5 percent and then shot up 5-6 percent, you know. So, the all kinds of rumors,
+you know, people, you know, sometimes, you know, we tend to feel that, you know, like some of
+these news are not the real news as manipulated. You know, like, I think last week, I remember,
+two channels reported exactly opposite news and both were quoting sources from SEBI.
+So, this is how the media works. So, therefore, don't look at the media news to make your
+investment decisions. So, let us hope now, there will be no more rumors, there will be no more
+manipulations in bank Nifty. So, let us hope things go normal, but, you know, the most bullish sector
+in the last one year, it's a banking followed by auto. And beyond that, IT's in trouble, FMCG's in
+trouble, Parmice in trouble. So, most major indices are struggling. So, it is only there,
+Bank Nifty and auto. Auto also only after that, a GST reduction came into focus, but now going
+forward. So, this Bank Nifty may consolidate, you know, like the people are becoming and not so
+bullish about banking stocks, there may be bullish about the banking stocks. I'm talking about the
+Bank Nifty because of this way it changes. So, anyway, I sold a 60,000 collection for December
+series and 53,000 put option long back. And I guess the market rallied so much. My profit in 53,000
+put option was very little by my last in 60,000 collection is very high. But anyway, I have
+underlying asset also. I have invested many in bank b's and PSU bank b's also. So, that's a
+sort of a hedge only. But now, with this news, Bank Nifty is coming down or consolidating is
+good for my December positions. So, let us hope things go well from now onwards. Right now,
+our market sentiment is very, very bearish. And market is basically looking for bigger state
+election results. So, only after that, some direction can happen until then it's going to be
+a consolidation. Hope you enjoyed watching this video. Thank you for watching.

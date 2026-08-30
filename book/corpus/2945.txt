@@ -1,0 +1,161 @@
+Hi, this is PR Sundar. Welcome to this special episode where I am going to talk about
+a strategy in crypto. And you must be wondering why I am laughing. Actually what I said
+when for the last 15 minutes, I was shooting the video without switching on the camera.
+Not camera, the camera is on. We need to do the recording in computer. So I have to press start recording.
+I thought I pressed it. I don't know. It was not pressed properly.
+So after 15 minutes, shooting the whole video, I see that it is not recorded.
+So therefore I have to re-record the everything. So that's why I am laughing.
+Okay. So anyway, without wasting that time, we will go back to our computer G.
+Here is a bitcoin. We trade bitcoin only because bitcoin is like a nifty in India.
+It's actually very highly volatile. But compared to other cryptos, this is less volatile.
+So if we can remember, I came out with three strategies in the last three videos.
+The first strategy in the first video was short straddle and $91,000 call and put both sell.
+And luckily the market did not go anywhere. It has been just consolidating between $81,000 and $95,000.
+So that has given more than 100% profit as a last week. And I told you, I am going to close that trade.
+Now after that, we have taken two more trades. One trade was having a put ratio with one call selling.
+And that trade might not have done very well. That's because that is a complimentary trade for the first trade.
+Which means that if the first trade goes wrong, the second trade will give more profit.
+But in case second trade is not giving good profit, the first trade will give good profit.
+So that's why we say it is a complimentary trade. But despite that, it has given a decent return.
+Then last week I came out with a call butterfly strategy where we buy one lakh call, then sell $1,500, $1,000, $1,000, $1,000, $15,000 like that.
+Then for hedging I think we have about $1,200, $12,000 or $1,200, $26,000 call.
+That trade has also done very well.
+Okay. Today I'm going to do one more strategy.
+Now it is slightly at the lower end. And for the last two months the Bitcoin is taking a support around $80,000, $81,000.
+So, probably, Bitcoin is not likely to fall below 80,000.
+So that is one view.
+Second view, I feel that because it's consolidating
+for a very, very long time,
+the probably it might go higher after a consolidation.
+What happens normally after a big consolidation,
+either market goes down or goes up.
+And here somehow I feel that the probability of going up is high,
+then probability of going down.
+That's a second view.
+The third view is that I don't want to take a trade
+in January series this time.
+I'm going to take a trade in February series.
+Okay.
+So in February series, what I'm planning to do
+by a 80,000 put option, sell 72,000 put,
+sell 69,000 put, double double quantity.
+Actually, I told you, I've done it already.
+Because I, while recording the video,
+I'm supposed to do it, I've done it.
+But after that, only I realized that, you know,
+the recording is not taking place.
+So the trade has already been executed.
+Okay.
+So what is a logic?
+As I told you, market is not likely to fall below 80,000 Bitcoin.
+That's one view.
+In case if it goes down, you know,
+it can fall another like 5,000, 10,000 point.
+So easily.
+So that's why I'm buying the 80,000 put.
+Selling 72,000 put double the quantity.
+Selling 69,000 put also double the quantity.
+But actually, further down 60,000 or 50,000,
+it's better to buy a put option
+so that it'll be perfectly hedged.
+So that became a butterfly.
+The problem in, you know, 27th February,
+the least one trading is 69, only below that is not ready.
+Sometimes what I do,
+only for the hedging purpose,
+I do trade H in the short term, maybe January series.
+But even January series also,
+the maximum you have only 69, 67,000.
+So better we can leave it as a hand-hatched position
+because I'm not investing a big money, right?
+So if you look at the payoff chart,
+for this one, okay,
+if the market Bitcoin goes to 72,000,
+that is where you get the maximum profit.
+So the maximum profit is, you know,
+nearly five to six times more than what you invested.
+That's one thing.
+And then your trouble will begin
+if Bitcoin fall below 67,000, okay, around 66,500.
+So that's your lower breakeven.
+The probability of Bitcoin falling below 65,000
+is very, very less as of now.
+I told you, if the market consolidated
+for a very, very long time,
+then, you know, it can go higher.
+So in case if it goes higher,
+no matter how much market goes higher,
+I'm nothing to lose.
+And there's a probability of $373 profit.
+The margin money for this is only $300 to $400.
+So, you know, you're making profit of $300.
+$373 is almost $100% profit.
+And that to like,
+this somebody's going to be almost over
+another 10 days only.
+So January and February, just two and a half months.
+So risk reward is really very good.
+But the trade has already been executed.
+As I told you, the moment you execute the trade,
+you know, it will show some minor losses only
+because we executed the market order.
+Right.
+So see, I'm already sitting with about how much loss,
+about $70, $75 loss, okay.
+You remove this loss, okay,
+because of this new strategy, okay.
+Some of my earlier strategy would have given good profit.
+Okay, I don't know why the market is reacting
+violently.
+Yeah, that's maybe because of illiquidity.
+So my earlier two strategies,
+one strategy, I'll be book the profit.
+The remaining two strategies sitting
+with about our roughly about $200 profit.
+And that's good, you know, because margin is only $400,
+$500, $200 profit is about 35, 40% return.
+So this is the strategy.
+So a new strategy in February series
+and put ratio strategy, okay.
+So some important things if you're a new comer to my channel.
+So delta.exchange is an India-based trading platform
+registered with the finance ministry.
+There's something called financial intelligence unit
+in finance ministry, they're registered with that.
+So it's perfectly legal.
+And then, you know, here you transfer the money
+only in Indian rupees.
+Your profit or loss will be returned to you
+in Indian rupees only.
+So money doesn't go out.
+But because Bitcoin is internationally traded one,
+so when they show, they show everything in dollars.
+See here, 2.99 lakhs I have,
+but if you take the mouse nearer,
+it will show you 3.52K, $3,500.
+They will show equivalent amount in dollars,
+but otherwise everything will be kept in Indian rupees only.
+And again, if you're trading in delta.exchange,
+whatever profit you're having,
+what is that taxation?
+That taxation is like a business income.
+So this is futures and options.
+Trading and futures and options
+is considered to be a business.
+So you pay a business tax, okay.
+So these are all the some of the things, you know,
+because many people do not know,
+they hear a lot of stories about the cryptos, okay.
+Again, caution, the cryptos are highly volatile.
+So therefore, don't bet your entire wealth on cryptos,
+but a small portion of your portfolio,
+you can trade in cryptos.
+It gives very good profit and also very good risk.
+It's a high risk and high reward proposition.
+So you can put a lot of money into these.
+So by the way, if you want to open an account in delta.exchange,
+I look at the description and the link is given.
+So you can open the link and, you know,
+open an account in delta.exchange.
+So hope you enjoyed watching this video.
+Thank you for watching.

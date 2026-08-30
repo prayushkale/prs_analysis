@@ -1,0 +1,96 @@
+Hi, this is Piers from there. Welcome to this special episode where we are going to discuss
+about some Sebi's proposal. It is not a proposal, it just they were discussing. The title
+is that you know the Sebi looks to extend the tenure of derivative contract. So, that's
+it, no more details. Sebi looks to extend the tenure of the derivative contract. And also
+Sebi Chairman commented that there is a frenzy in the short term contracts. And of course,
+when he says short term people mostly do intraday. Yes, number one. For that, Sebi has already
+come out with certain proposals that on an expiry day, you know the margin will increase by
+2%. There is an additional exposure margin. But the question is, there are people who do intraday
+every day. But the Sebi charges extra margin only on expiry day. So, if Sebi really wants to
+curb this intraday trait or very, very short term trait. And so, this extra margin should be
+applied for all the people who are doing intraday. So, of course, practically there are some difficult
+days. When a person is taking a position, how does the system know whether this is intraday or
+positional? So, which means there may be a system, you know where they may be placing the order,
+they should tell whether it is intraday or positional. So, if this is intraday, higher margin has to be
+charged and they should not be allowed to carry forward the position. Most of the professional
+intraday traders, no matter what is the loss or no matter what is the profit, they just close the
+position at the end of the day. So, this may potentially discourage the short term intraday players.
+But however, you know say for example, I am a positional trader, I take position one month before.
+But anyway that position is carried forward for the last one month on an expiry day,
+you know. So, I will wait until the expiry is over to close my positions. But on the expiry day,
+that become you know expiry day by a position. So, Sebi is actually charging more margin money.
+So, the deterrent should be only for the short term traders, but not for the long term traders.
+But now, the problem is that the people who are doing positional trades also,
+when they approach the expiry, so there are extra margins applied. And also the people who are
+doing calendar spread, they are all the people who are taking very very low risk. So, there is no
+reason for them, you know to charge extra margin or the margin benefit is taken out on an expiry day.
+So, all these things Sebi can look into it. Now, coming back to the thinking of Sebi,
+looks to extend the tenure of derivatives. So, if you look at the US markets,
+another people buy the stocks and they sell call-option, six months or one year time.
+Because anybody buying a stock, they are planning to sell maybe after one year.
+So, they can go and sell a call-option one year away expiry. And if the market goes higher,
+they are happy. There is no risk, there is a zero risk. In case if market goes down,
+at least they get the call premium. So, in India, long-dated derivatives are available,
+only for nifty and bang nifty. And nifty is available up to five years. I think bang nifty is
+available up to one year. The stocks really, there is no liquidity. Stocks are available only for
+three months. Even in the three months also, the second month or third month, the liquidity is very
+less. So, what Sebi should do, they should encourage people to trade for longer term,
+than the shorter term. So, maybe one thing they can do, number one, in the earlier videos also I
+spoke, if somebody is holding the shares in the demand account, if he is selling a call-option,
+the margin money should be zero. Because actually there is no risk. The Sebi also knows,
+actually there is no risk. If there is no risk, let me tell you how the margin is being calculated
+in India, there is something called span margin and something called exposure margin. So, the span
+margin is equal to your maximum risk and plus exposure margin. So, somebody going long in future,
+if he is selling a call-option, so the system knows that the risk is zero in this case. Because if
+the market goes higher, he has a long future, he can just buy it off. So, the system actually charges
+zero span margin, but it charges exposure margin. The worst thing is that somebody holding shares
+in the cash market, if they are selling call-option, the system does not know. So, it charges both
+span margin and exposure margin. So, if Sebi really wants the traders to go from the short term to longer
+term. So, there must be some extra deterrent for the short term traders and there must be some extra
+incentives for long-dated options traders. So, what they can do, as I told you, this 2%
+extra margin is being charged on an expiry day. So, they can bring it on every day. Anybody do
+intraday every day, they should pay 2% extra margin. But for longer-dated, so, you know,
+in a US they call it as leaps. These leaps are typically options
+expiring more than one year. So, options expiring more than one year is called leaps in US. In India,
+what they say, if your options is expiring beyond 9 months, then there is some additional exposure
+margin. So, then they should do away. And in fact, I would say, if people who are trading in
+long term option, you know, even the basic exposure margin itself, it should be removed. So, the margin
+that they pay should be equal to the maximum risk. Option by year, pay the money, premium money.
+He is not paying any margin. Why? Because his maximum risk is known. His maximum risk is the money
+that he is paying. So, why should he pay more? That is a logic. The same thing should apply to
+option cell S. Maximum risk is a 10,000 rupees. Why should they change taking 10,000 rupees
+spend margin plus 37,000 rupees exposure margin? If your maximum risk is 10,000, you are paying about
+50,000. But the same option by year, if its maximum risk is 10,000, is paying only 10,000.
+So, there is a reason they want to discourage the future some options trading in India. That is why
+they brought the exposure margin. But they can do away with this exposure margin for the people who
+are trading in long-dated, you know, minimum two months. And so, the people are taking minimum
+two months, three months, six months, one year view. They are not really, you know, they want to
+reach overnight. They are not big speculators. So, on the contrary, right now the system is that
+beyond nine months, there is an extra margin money. So, number one, this extra margin money has to
+be removed. And number two, for long-dated options, you know, they should consider removing
+the exposure margin. They should charge only the span margin. And number three, you know, somebody
+holding stocks in the DMAT account, they should be allowed to sell corruption without paying the
+margin money. That is because the risk is zero. And the last one, Sebi should consider introducing
+long-dated stock options. And say, for example, I am just giving an example, okay. I am buying
+a reliance indices trading around 2000 rupees now. And next year, I am expecting the reliance
+indices to go to 3000 rupees in one year times period. So, if I buy the stocks in the cash
+market, because if I buy it in the future market, you know, let's say, MTM headache,
+then MTM loss headache, then every month, I have to roll it over, you know. So, 12 month,
+I roll it over. So, 12 times I have to pay brokerage, time to TSTT and those things. And then
+slippage also. So, if I buy stock in the cash market and then sell 3000 call option one year
+away, right, then my risk is zero. So, this will potentially reward the investors as well as
+people who are taking a long-term view. And not only the options, right. Even the futures can be
+introduced. Even Nifty also, right now, we have futures only for three months. Both Nifty and
+stocks also, they say we can consider introducing the futures for long-term. Say, for example,
+if I am a long-term investor, why should I buy it in the cash market? I am prepared to buy
+in the future market one year away. So, in international markets, so that is a norm. So, you know,
+three months, six months, one year away also, the futures also trade and options also trade.
+So, if they do like this, so potentially people who are holding the stocks in the cash market,
+they can make some money by selling call options. So, you know, there are three types of people
+in the market. One is speculators, hedges, arbitrages. Right now, the arbitraging is much very,
+very little chance because the computers have come, you know, their sophisticated system, you know.
+So, basically broadly, you know, people are speculators and hedges. So, sebi should do something good
+for the hedges and speculators, they can bring any lot of restrictions. But the reality is that
+the hedges are finding it difficult because of this exposure margin, additional exposure margin
+and all those kind of things. So, hope sebi is listening to us. So, hope you enjoyed watching this
+video. Thank you for watching.

@@ -1,0 +1,17 @@
+# Batch daily_050 Report — 25 transcripts (2023-10-12 → 2023-11-01)
+
+## Digest
+- **Counts**: 25/25 transcripts analyzed → 25 valid JSON lines in `book/analysis/batch_daily_050.jsonl` (schema-checked, 0 errors). Mix: 13 post_market, 12 pre_market. Dates span 12 Oct – 1 Nov 2023 (the October-2023 capitulation window: ~1,000-pt Nifty fall into expiry, then the first-session-of-series bounce).
+- **Most notable events captured for verification**: India Sept CPI at 5.02% vs ~5.5% expected (1919); Infosys guidance cut + ADR -6.5% (1920/1919); US banks JPM/Citi/Wells beat estimates (1921); Israel ground offensive delayed; Gaza hospital blast → Brent >$92 (1928/1929); US AI-chip export ban to China, NVIDIA -5/7% + China Q3 GDP 4.9% vs 4.4% (1928); US 10-yr yield 15-yr high → crossed 5% on 23 Oct (1930/1936); US 30-yr mortgage >8% (1930/1931); Powell hawkish "economy must slow" + Nasdaq <15,000/S&P <4,300 (1931/1938); Yemen rockets intercepted by US Navy (1931); Nifty doji at 19,542 open=close (1932); Kotak new CEO approved by RBI (1935); Tesla ~-10% on Panasonic battery guidance, Netflix +12% (1930/1948); ECB hold + US Q3 GDP ~4.9% beat (1941); Alphabet -12% in 2 sessions / Microsoft gains erased (1940/1942); India-Canada tension / suspected Canadian pension fund selling (1941); JP Morgan India upgrade vs FII selling + 13%-pre-election stat (1947/1946); Dagestan airport storming (1947); FII 88% short series-start positioning (1947); windfall tax cut then re-raised within 15 days (1928/1950); Airtel weak / L&T good results (1949/1950); FOMC Nov-1 hold expected (1950); FII monthly outflows Sep ~26k cr / Oct ~30k cr (1950).
+- **Recurring themes**: capitulation via margin-call mechanics (1939/1941); expiry-day-low → next-session bounce pattern (1941/1942/1943); retail-panic spillover from mid/small caps (1936); FII flow sequences as bait (1929/1939/1947); VIX/premium anomalies (1925/1926/1949); pre-election October seasonality failing (1938/1949).
+- **Lessons extracted**: 44 (max 2/transcript). Standouts: read-through sector selling; straddle sellers survive fat-premium gaps; capitulation is margin-flow and drains by ~11 am; buy crashes in tranches; low-volume regimes invert sizing rules; election risk is coalition math, not party math.
+- **Data quality**: docx-era transcripts are cleanly edited (punctuation intact); numeric garbles found and flagged rather than trusted: TCS buyback price "44,100" (likely ₹4,100/4,500) in 1930; call-writing strikes "1906/1907/1908" (likely 19,650/19,700/19,800) in 1935; "Janet Allen"→Janet Yellen; "Rakesh Jinnanwala"→Rakesh Jhunjhunwala. All marked `verify` accordingly.
+- **Leaks logged** (for scrub list): sponsor variants ("Delta.Exchange / delta dot exchange / Delta Data Exchange"), name variants ("PR Sunder", "P.S. Sundar", "PF Sunder"), family ("my son has bought Infosys shares"), workshop promos (Delhi/Mumbai, "flying from Dubai"), personal positioning ("a lot of positions in NASDAQ 100"), personal P&L ("I managed to make some good profit in October"). No leaks were propagated into summaries/lessons.
+
+## Commands run
+- `read` on 25 corpus files (full text).
+- JSONL schema validation via python3: 25/25 valid, 0 errors.
+
+## Residual risks
+- Two garbled numeric details flagged (TCS buyback strike, 1935 OI strikes) need Phase-3 verification or omission.
+- FII/DII figures are speaker-stated; treat as unverified until cross-checked against exchange data.

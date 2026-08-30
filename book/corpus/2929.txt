@@ -1,0 +1,115 @@
+Hi, this is PR Sundar. Welcome to First Market Report sponsored by Delta.exe.
+Connecting Workshop in Chennai and Mumbai Online Workshop for US Trading. For details, contact
+our office, the contact numbers are given in the description. The Nifty fell for second day,
+the fall was so severe that from Friday side to today's low, Nifty has fallen about 500 to 600
+points. 500 to 600 points just in two trading sessions, that too, you know, two days one day before
+weekly expiry, the next day on the day of weekly expiry, you know, the premiums will
+shot up like, you know, 10 times, 20 times. On Friday, the 26,000 put was trading around 20 rupees,
+I think I'm sure that, you know, would have gone more than 300 rupees today.
+So that is the kind of, you know, problem the options seller had.
+So what people call it as a gamma effect. So in the last, we're very close to the expiry,
+if the markets make a big move, the loss can be very high. Like sometimes, you know, it makes sense
+not to trade in the short term, you know, so it's always keep some money in the lump of options.
+Maybe I can just show you some of the trades. They are only paper trades, so they are not the
+real trades. Okay. So you see, these are like some of the paper trades. So this is January month
+straddle. And if you see 100 lots, because from January onwards, the lot says changes.
+Changes to 65. It is not 75. So 6500 means it's about 100 lots. And this one was created on 26th of
+November. So this is about two weeks before. So 26500 call, 26500 put both sell, but the people
+call this a short straddle. And put is giving about a 7.6 lakh loss, but call is giving about
+13.19 lakh profit. So the net profit, you know, it is close to 5.6 lakhs for 100 lots, 5.6 lakhs.
+So that is equivalent to about 5600 profit for each lot. So always remember, don't trade
+in the short term, trade in the longer term. Now, give another example. So this is the
+short straddle, but not next month. It is the next year. So next year December, December
+2026. This one was also created on the same day. So like, I don't know why I put 6,750. It should
+have been 6500 or 7500. So it is 100 plus lots. We can say, no, the call was sold around
+320, now it is 1100. Put to a sold at 1150, now it is 1250. So there is about
+6.8 lakh loss on the put side, but there is a 14.6 lakh profit on the call side. So there is a net
+profit of 7.85 lakh taking this as approximately 100 lots. So for each lot is about 7800.
+So you can see, same about 100 lots each, January straddle has given less profit.
+The next year December straddle has given more profit. So these are all like naked straddles.
+There are no hedges. Hedges, usually people, those trade in the long term option, they don't buy
+the hedges in the long term, they buy the hedges in the short term. So these two are two different
+strategies. So why I am saying this, you know when the markets are very, very volatile,
+when the markets are very, very volatile, you know like these, you know, one day RBA policy,
+Nifty shoot up 200 point, next two day three, fall 500 point, 700, 800 point in a matter of two,
+three trading sessions, trading the short term is very, very difficult, but trading in long term
+is much easier. So in our workshop, we focus more on trading long term options.
+And in fact, I can tell you, in entire India, I am the only trainer who talk about
+long term options, who focus more on long term options. And probably they say we also came to know
+P.F. Sundar is concentrating, teaching long term strategies. So because of that, what CBS
+then, for those who are trading in long term options, they brought 5% additional exposure margin.
+So therefore, there are some plus points and minus points for the people who are trading in
+long term options, you know, so the minus point is that you have to pay extra margin money.
+So this is only for people who have a large capital. So like, you know, I still can remember,
+I have taken my personal trade, sometime last year October, and for the current year December,
+26,000 short straddle I have taken, and the combined premium was 3500 rupees.
+And after nearly 15 months, looks like, you know, this December, Nifty is going to settle around
+26,000. Had I held on to my position, I would have made 3500 rupees profit per share.
+So that translates into what? About two and a half rupees per lot. But the problem is that I
+exited along the way. So you know, one day in a workshop that people asked me, sir, how much
+profit you made? See, my problem is that I am a teacher. The teacher may not always follow what he
+teaches. And I tell you, if I had followed what I taught, you know, I would have become a bigger
+rich man by this time. So what to do? Sometimes, you know, psychology and other things come into the
+picture. Sometimes, you know, short term, you do some trade, you get into trouble, you want more
+margin, you close your long term positions, and so on. So I have a lot of strategies like this, you know,
+straddle, strangle, ratio spreads, calendar spreads, and many interesting strategies, you know,
+which are like, I won't say it is a safe, right? But no, everything comes with the risk. There is
+no risk, there is no reward. And imagine some people who have done the straddle, you know, just after
+the coronavirus, nifty shot of 100 percent, at just after Lehman Brother Collapse, again, nifty shot
+of 100 percent. Forget about all those things. Without anything in 2024, nifty shot of from
+19,000 to 26,000, yeah. So, you know, they are like, you know, this is actually not the workshop. I
+cannot explain everything, right? But today's fall was really, really surprising. There was no news at
+all. There was any news about rupee heating all the time, no, there is any news that is affecting
+the economy, no, is a global queue, sir, very bad, no. But why the health market kept on falling,
+I do not know. At some point of time, I have seen 49 out of the 50 stocks in nifty 50. They were
+dumb. Barthe Ertel was the one glee stock that was trading in slight grain. Otherwise, the remaining
+49 stocks were dumb. Midcaps and small caps, you know, no need to say. And today, around 15 percent of
+the total number of stocks traded in NSE and hit a 52-week low. There are about 3000 stocks
+are trading in NSE and out of that, about 450 stocks hit 52-week low today. And then, you know,
+our nifty 52-week low is somewhere around 21, 700. And now, we are closer to 26,000. But still
+in NSE, and today, 15 percent of the stocks hitting a 52-week low, that you can imagine what is a kind of
+huge underperformance in and midcap and small caps. So, why we talk about midcap and small caps because,
+you know, most of the retail people keep the money there only. And usually, the people don't come
+to a large cap. Even I check with many people I meet, you know, I always tell them to put the
+money in mutual funds. So, they say, sir, we are putting in many mutual funds only, but we are
+putting in midcap mutual funds. We are putting small cap mutual funds. And nobody put the money in
+large cap mutual funds or hybrid mutual funds. I'll tell you, the best mutual fund is a hybrid one.
+So, when the market looks, you know, overbought, they will sell the shares, move the money to
+debt instrument. When they see that the markets are very, very low level, they afloat the debt
+mutual funds, the debt instrument and move the money to equity. So, they have the flexibility to
+move equity to debt, debt to equity. And on a risk-adjusted basis, debt fund will give better return.
+And pure mutual funds may give more return when the markets are good and the returns will be
+very bad when the market is very bad. Okay. So, always go for a hybrid mutual funds.
+Or, yourself, you can do that hybrid, you know, like let us say if you have got 100 rupees,
+put 75 rupees in debt instrument, put 25 rupees in equity mutual funds. So, if the markets come
+at an attractive level, like fall 5 percent, 10 percent, then you know, afloat 25 percent of your
+25 rupees in debt mutual funds move the money to equity. Then in case markets rally,
+a fantastic rally within a shorter period, and afloat the equity mutual funds move the money to
+debt funds. But if you do it yourself, then there is a problem of income tax, you know, capital gain
+tax. And if you, if they do themself within the fund, then, you know, you are not doing anything,
+you know, so only when you sell the hybrid fund, you are liable for tax.
+So, anyway, today market was very bad, you know, I hope market settles somewhere. And
+negative things, number one, at some point of time 49 stocks were down in NSE and 50-50. And second
+thing is, you know, the number of stocks hitting 52 low, weak low is very, very high. And the third
+thing is that a nifty closed below the first trading sessions low. And I told you in a series,
+if the first trading session is, you know, rallying, then that this low should not be tested.
+Okay, so that has been not only that tested, it went well below that, and it closed well below that.
+So, the markets are not bullish. And then, you know, the only negative news I've seen, you know,
+a Trump threatening to put some attacks on agriculture products, you know. But like, you know,
+agriculture products, you know, they're not big companies. If that was the reason for today's
+fall, then why they yesterday the market fell. So, the markets are falling on their own weights,
+probably, you know, they were expecting the US India trade deal to happen, if that is not
+happening, so maybe that disappointment. But traditionally, December is in the lackluster
+month actually. So, anyway, so all is not well, and we still have three more weeks for December.
+I think the hope of 27,000 is completely dashed. At least now, if nifty closes above all time
+high, 26, 300 people will be happy. But, you know, by the fear sell the greed. So, there is a
+fear in the market. Now, it is a time you can look at some small cap and mid cap stocks which are
+available at a very, very cheap price. Anyway, I am not an expert in investments. So, one of my
+friends was telling me, there are many, you know, stocks that are available at a very, very cheap price,
+you know. So, they are like, you know, their market cap is much less than their network.
+So, I already, I also told him, please share some of the stocks to me. I will also consider
+investing in some small trenches. So, it is a time. So, because this year, it is a totally
+a complete washout. So, maybe we can expect there's some kind of rebound next year. But, you know,
+I am not expecting any very big rebound by the end of December. You know, maybe a January month,
+the market may start early. So, rest of the things we will discuss tomorrow morning.
+Hope you enjoyed listening, watching this video. Thank you for watching.

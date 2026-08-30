@@ -1,0 +1,221 @@
+This is Pierre Sundar. Welcome to this special episode where we are going to talk about a strategy in Bitcoin.
+Last two weeks, I think last week I came out with some other topic. The previous two weeks, I came out with one strategy each week.
+So, first let us do recap of what we have done.
+The first strategy, maybe I can show you in the computer, the first strategy we have done was a short straddle.
+That was a 91,000 call and 91,000 put.
+Now, look because of time value and the Bitcoin has not gone anywhere, the 91,000 put is giving $301 profit and 91,000 call is giving about $74 profit.
+Put together the profit is around $375.
+Your $375 profit, I think at that time I showed you the margin was only about $250.
+Margin, $375 profit, that is more than 100% written.
+And of course, in the YouTube, we cannot give the title like 100% profit.
+Now, YouTube has a policy that if you show an unreasonable profit, they will just automatically remove your YouTube videos.
+So, anyway, so this is one of the fantastic trade.
+But of course, it came with some risk because in between the Bitcoin fell about 10,000 points.
+So, we were scared, a little bit.
+And of course, we have a plan B, what to do when things go wrong, but still our lower breakeven was not broken.
+So, what we did the next week, we have taken another strategy to complement the strategy.
+That means if market continue to fall, what to do?
+So, we came out with a strategy called put ratio with a call selling.
+In that second strategy, what we did, we buy 90,000 put and we sold double the quantity 80,000 put and then we also sold 1,25,000 call.
+But here you see, the buy and sell, it's almost only $4 only profit and sell call giving about $30 profit.
+So, the total $34 profit.
+But again, I think the margin money for this would have been only $252,300.
+You know, like even making $34 is a more than 10% profit in a matter of two weeks.
+I think this one was done two weeks before, the 91,000 straddle was done three weeks before.
+Now, I'm planning to close this straddle because the profit is too good.
+You know, when you have a more than 100% profit, you're way to complain.
+I don't think that getting 100% profit is so easy in equity market.
+Because in Bitcoin, you know, the volatility is so high, the IV is always very high.
+And that's why this kind of thing is possible.
+But at the same time, remember, you just cannot put millions of dollars in these kind of strategies.
+Right?
+Maybe 5% or 10% of your portfolio, you can just try this and then keep making $100 to $100 profit for a, you know, a pocket money, we can see.
+So, that is how I trade, but you know, in our main account, we trade with as larger quantities.
+But you know, that is not in Indian market.
+Okay.
+Now, coming back to today's strategy.
+Number one, I'm planning to close this strategy.
+But right now, I'm not closing on the live because I have to do shoot the video in Tamil also.
+So, now I'm going to discuss another strategy.
+Number one, you know, for the last one month or so, a Bitcoin is trading between around 80,000 to 92,000.
+And it has been hovering in this range.
+Now, it is actually trading at the upper end of the trading range.
+Now, remember, this $1.00 is a psychologically resistance.
+So, reaching that may be slightly difficult, but of course, we cannot say anything about this market, you know.
+But once it reaches, it can move higher.
+So, I'm coming out with a strategy called call butterfly.
+So, how to set up a call butterfly?
+I'll tell you.
+The first leg of the call butterfly should be a buy one.
+Here, what I'm doing, I'm buying $1.00 call option.
+So, that is buy.
+Let us say one lot.
+Then $1.00 5,000, $1.00 10,000, $1.00 15,000.
+All the three sell.
+But see, double the quantity.
+So, like $1.00 quantity, you buy $1.00.
+$1.00 5, $1.00 10, $1.00 15, sell double the quantity.
+So, that means, you know, you are one quantity by six quantity sell.
+Right?
+But who knows, suddenly, market of course, the maximum it has gone is only $1.00 25,000.
+But who knows, it can go to $2.00 also.
+Bitcoin is always like that.
+So, we need to have a hedge.
+So, I decided to buy $1.00 25,000 call option for the hedging.
+So, that is five times.
+So, that number of buy and number of sell will be the same.
+So, in a call but of lie, the first leg is buy.
+Second or third, you know, sell.
+The final one should be buy.
+So, that number of buy number of sell must be exactly the same.
+So, that your risk is limited.
+But I wanted to buy $1.00 26,000.
+But the thing is, you know, in another strategy,
+I'm already having a $1.00 25,000 sold.
+So, if I buy, then it will get square off.
+So, because of that, I'm changing to $1.00 26,000.
+Okay.
+So, now, to execute the whole thing,
+the margin required is only about $360.
+Okay.
+Everything I'm just putting at a market price only.
+So, let me execute the trade first.
+Or let us check that we have chart.
+So, if you look at the pay of chart.
+Okay.
+You can see the profit is flat up to $1.00.
+Beyond $1.00 profit increases.
+And beyond $1.00 5,000, the profit will start decreasing.
+All right.
+So, you know, once it crosses $1.00 like $10,000,
+also there's a profit only.
+Once it goes beyond $11,000 something,
+then the last starts.
+But the last is limited to, yeah.
+But this is a big loss.
+Okay.
+So, although the last is limited,
+but still this is big.
+Okay.
+About $6,700, that's a maximum loss.
+So, this is about the P&L chart.
+The P&L table, total projected P&L is this one.
+So, current P&L.
+Okay.
+We have not executed.
+So, already it is giving some profit.
+Okay.
+We'll kick back.
+Yeah.
+So, we have come here.
+Okay.
+So, order margin around $3.73.
+So, we are buying $1.00 call option,
+selling $1.00 5, $1.00 10, $1.00 15.
+So, the reason I'm doing this, I'm expecting market to be, you know,
+range bound and not expecting to go beyond $1.00.
+If it goes there, up to $1.00 11, I have no issue.
+So, because these are all small quantities, I can just place a market order.
+Although, February contract is open,
+but it has been open recently because of that there may be no liquidity.
+I'm still choosing the January 1.
+So, I place the order.
+Okay.
+All the order got executed.
+Okay.
+So, here you can see all the orders got executed.
+Okay.
+So, it's getting too much confusing.
+Immediately after execution, you will see some losses only.
+That's because, you know, we execute at the market order.
+Coming back to the screen.
+Okay.
+So, I'm going to teach you various strategies depending on the market conditions.
+The first week I taught a straddle.
+The second week I taught put ratio with one call selling.
+And this time, I've done call butterfly.
+Right.
+So, now, you know, the last one month, one month, you know,
+it is trading at the upper end of the trading range.
+Therefore, I'm doing a call ratio call butterfly.
+And in case, market falls, maybe if it is going to 80,000 once again,
+I might consider doing a put butterfly.
+So, when you think that the market is trading at the upper end of the trading range,
+so, you do call butterfly.
+When you think that it is trading at the lower end of the trading range,
+you do a put butterfly.
+And when you are neutral, you know, when you are not expecting the market to go up or down.
+So, a neutral view, you can do a double butterfly.
+So, maybe one by one, you know, every time I will show you with an example.
+So, this time, you know, so, this is the strategy.
+The strategy name is call butterfly.
+Okay.
+Now, coming back to some important points.
+Delta, exchange, India, you know, they've slashed the brokerage cost even further.
+Earlier, they used to charge 0.03%.
+That's a 13 basis point.
+And, you know, once they launched Indian operations,
+so, they reduced their fees transaction fee by off to 0.015.
+That means a 15 basis point.
+Now, they have further reduced to 0.1%.
+So, that means, you know, it's a 10 basis point.
+So, which means that, you know, over a period of time,
+so, their brokerage cost has come down by 1.3%.
+But sometimes, you know, the people who buy options for a small prices
+are selling option for small prices.
+Okay.
+Paying percentage, you know, it doesn't make sense.
+So, in that case, they used to charge 10% of the premium as a brokerage.
+And later, they changed it to 5% of the brokerage premium.
+And now, they again further reduced to 3.5% of the premium.
+So, let us say you sell an option.
+Either you pay a 10 basis point or a 3.5% of the premium,
+whichever is lower.
+I think in the last video, I made a mistake.
+I said whichever is higher.
+So, it is not whichever is higher, is whichever is lower.
+So, if you are interested in opening an account in Delta Exchange India,
+you can see the link in the description.
+You can click and open an account.
+And just for, you know, information for those people who watch this video new,
+this delta.exchange India.
+So, it's a registered in India.
+It's purely for Indians, buyer seller, everyone come from India.
+And all of them pay money only in Indian currency.
+The profit or loss also calculated in Indian currency only.
+And just for the purpose of showing the margin money, you know,
+because the bitcoins are always traded in US dollar,
+they convert that into US dollar.
+They show the equivalent US dollar.
+Otherwise, your money is not converted.
+So, everything is stayed in India.
+And then trading in Delta.exchange is perfectly legal.
+And it's a futures and options.
+Just like trading in NSE and BSE, futures and options.
+So, it is considered as a business income.
+So, here also, it is considered as a business income.
+So, there is no, if you trade in cryptos and spot market,
+there's a flat 30% tax.
+But here, there is no flat 30% tax.
+Here, it is, you know, it considered as a business income.
+So, with this, the third video is out.
+So, let us see how this trade is going to go.
+The first trade has given excellent profit.
+Second trade was a complimentary trade.
+So, though it has not given good profit.
+But it makes sure the first strategy has given good profit.
+Now, I'm coming out with the third strategy.
+But the first strategy, I will be closing it.
+So, at one point of time, not a good idea to run two many strategies.
+So, wait for some workshop announcement in cryptos,
+where I'll teach more and more strategies like this.
+And then, you know, you can hopefully can make some good money.
+Again, as I told you, you can't put your entire life savings
+into this kind of trade because cryptos are, you know, highly volatile.
+And, you know, but that is where we make,
+we get a good opportunity to make money.
+But because the risk is very high, we apply some small amounts.
+So, that is the lesson.
+Hope you enjoyed watching this video.
+Thank you for watching.
+See you next time.

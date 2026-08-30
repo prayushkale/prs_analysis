@@ -1,0 +1,171 @@
+Right, this is Pierre Kumbhar, welcome to this special episode where I'm going to discuss about some strategies in cryptos.
+Delta dot exchanges have been our long time promoter, but for a long time I have not posted any trade ideas.
+That's because now I shifted to global exchanges, instead of trading in Indian exchanges.
+So first, what is the difference between global exchanges and Indian exchanges?
+An Indian exchange, a crypto exchange, is an exchange where the people of Indian tax residents only allow to trade.
+And they trade only in Indian rupee.
+If you're buying somebody sells a selling for you, the buyer is also from India and seller is also from India.
+A buyer also pay money only in Indian rupee, seller also receives the money only in Indian rupee.
+But bitcoins are traded in US dollar.
+So therefore, the system will show the equivalent US dollars in the trading platform.
+Otherwise, it's everything in Indian.
+Delta dot exchange is one of the very few exchanges worldwide reputed and also have a Indian presence.
+And they are registered with financial intelligence unit of finance ministry.
+So, you know, it is safe.
+All the money kept within India only, the money never go out of the country.
+But there are many exchanges, they actually take the money out of the country.
+So having said that, we'll come back to the strategy part.
+The first, I will show you what is a strategy that I have done last week.
+Without wasting the time, let me take you to the computer.
+If you have not seen the last week video, the link is here.
+You can go and check.
+And I have taken a Bitcoin 91,000 short straddle.
+That time, the Bitcoin was trading around 89,090,000.
+But still, I've taken slightly bullish view and I've taken 91,000 short straddle.
+Which means selling 91,000 call option and selling 91,000 put option.
+And the margin was around $200 to $50.
+But see, after just one week, the expiry is January last week.
+So that means when I took the trade, it was almost 10 weeks away.
+Out of the 10 week, only one week has passed.
+Now see, as of now, unrealized profit is showing about $115.
+I think the margin was around $230, $115 profit.
+It's a fantastic profit of 50% in one week time.
+50% return in one week is a fantastic return.
+And of course, must remember, few things crypto markets are very highly volatile.
+So you cannot put all your money.
+You can put some small part.
+Now, if you're investing portfolio, if it's 100 rupees, maybe if it's 15 rupees, 20 rupees, you can put it.
+And it's a high risk and high reward.
+Having said that, you know, just put $200 plus and then get $100 plus in one week.
+You know, nowhere, you know, you get this kind of return.
+And that too, a safe strategy.
+And our upper breakeven must like $1,000, $6,000 lower breakeven must $75,000.
+That's something like that.
+Okay.
+So anyway, after a long time, I shared one strategy.
+In fact, you know, when we take the position immediately, it will show loss only because
+one drawback in trading in cryptos, especially in the long term, like two month, three month away, the liquidity is an issue.
+Say, for example, if you see the liquidity here, maybe like, you know, 90,000, let us take.
+Because now the market is trading around 90,000 only.
+So buy it at $6,200, sell it at $6,000 to $60.
+There's a $60 difference between buy and sell.
+You can't put a limit price if you're doing a strategy like stradders, triangle ratio spread.
+So I always execute with a market order.
+So there's a $50, $60 difference between buy and sell.
+So because of that, you know, the immediately it will show loss only.
+But even this property is also may not be very accurate, but we have to wait for this long term option to become a short term option, then the liquidity will pick up.
+So liquidity is one issue in trading in cryptos.
+All right.
+Now, enough packing our great ideas.
+I'll come back to this week.
+Now, last week I taught straddle, maybe this week I can teach something else.
+This is an interesting strategy.
+So what I'm planning to do, I'm going to buy 90,000 put option.
+And because last week, when I took the trade, Bitcoin was around 89,000, then it came down to almost 80,000.
+And then a game reversed.
+So once again, if the crypto market falls, I want to make some profit.
+So how to make profit when the market falls, you have to buy the put option.
+Okay.
+But buying the put option, 90,000 put option.
+As I showed you here, it's very expensive like $6,000, $6,200 something.
+So what I'm going to do after buying the 90,000 put option for 0.1 Bitcoin,
+I'm going to sell 80,000 put option, double the quantity.
+All right.
+So 80,000 put option, you see it is trading around 2700, 2750.
+So 2750 plus 2750, it'll be 5,500.
+So you're buying for 6,200 and selling double the quantity, collecting 5,500.
+And still there is a shortage, how much?
+About 550 point.
+So that money I want to collect by selling $1,25,000 call option.
+So that $1,25,000 call option is trading around 560, 579.
+So that means I'm buying for about 6,000 plus, selling for about 6,000 plus.
+So I'm not paying any money from my pocket.
+Now, in case Bitcoin falls, you know, my buy option will give profit.
+But my problem will be if the Bitcoin falls below 70,000 because I'm buying 90,000.
+So 80,000 double the quantity.
+So my lower brick will be 70,000.
+So my problem will begin if the Bitcoin falls below 70,000.
+So I will be making some money as long as Bitcoin is trading between 70,000 and 90,000.
+Upside problems will start if Bitcoin crosses $1,25,000.
+Why I choose $1,25,000?
+Very simple.
+The all-time high for Bitcoin is $1,25,000.
+So that's why the probability of market going there is very low.
+So that is why I'm selling that.
+Now, if you see the overall, you know, the margin is $400 and $4.
+And I'm putting all the prices at market order only because I don't want to put the price
+live order then wait for some time.
+So I click place order.
+So all of them are created successfully.
+So orders executed.
+Okay, but as I told you, immediately you will see some losses.
+16 plus 10, 26, around $30, you are having a loss.
+So that is the nature of this trade.
+We cannot do anything.
+Otherwise you just place a limit order then wait.
+But if one gets triggered, other doesn't get triggered.
+Then our strategy will not work.
+Okay.
+So the same thing was last time when I did this one, it was also something like that one.
+Immediately it was showing like $15, $20 loss.
+But now it's showing almost 50% profit.
+Right?
+So you know, like if you can have some strategies like this, you know,
+so every week you make about $50, $100 profit.
+So that's about $400 per month.
+$400 per month is a salary of a office go here.
+Right?
+So that's something good.
+That's with a small capital.
+Okay.
+Of course, if your capital is slightly big, you may ask me sir,
+why you have to do for $400 per month.
+You know, okay.
+The first thing is that, you know, as I told you, my capital is big.
+And I'm not trading in Indian crypto exchanges.
+And because I do not want to pay tax in India.
+So I'm trading in global markets.
+So where I do not have to pay the tax.
+So this one, I'm just showing only for the education purpose.
+And second thing, last week we have made $100.
+It doesn't guarantee that we will be making $100 every week.
+Right?
+So as I always say, a large part of your capital is,
+you are trading without risk.
+But one small portion, nothing wrong if you take a high risk.
+You know, even in the loose also, I'm not going to lose much.
+Right?
+So last week I taught a strategy, which was a short struggle.
+This week I taught a strategy.
+It's a put ratio with one call selling.
+And then next few weeks, I may come up with more such videos,
+more such strategies.
+And, you know, I will be keep updating this PNL report also.
+If I've done any adjustments, I will also tell you what type of adjustments I've done.
+And wait for soon to be launched crypto trading workshop.
+So maybe, you know, next week onwards, we will start collecting some information.
+Those were interested.
+And then we will decide whether to do online workshop or offline workshop.
+If there is a sufficient demand, I can do offline workshop also.
+So it all depends upon the response.
+So we'll see next week.
+Meanwhile, if you are interested in opening account in delta.exchange.
+So you can see the link in the description.
+So you can open an account through S.
+So that we will get some some broken amount.
+Okay?
+Right.
+So, you know, somebody told me, if you really want to be an ultra H9,
+you should have some different sources of income.
+So I have a trading income, YouTube income, investment income,
+like I have so many sources of income.
+One such source is that this some broken income also.
+Right?
+So that is how we grow very fast.
+Yeah.
+Okay.
+So hope you enjoyed watching this video.
+So nothing more to add.
+So let's see you next Saturday.
+Hope you enjoyed watching this video.
+Thank you for watching.

@@ -1,0 +1,3 @@
+The article headline itself confirms the crash magnitude: Sensex crashed 1,939 points, Nifty ended below 14,550 on 26 Feb 2021. The claim states "Nifty fell 700+ points intraday and Bank Nifty 2,000+". From 14,940 (25 Feb close) to below 14,550 close = ~400 points close-to-close, but intraday the fall could reach ~700. The headline says Sensex crashed 1,939 points (intraday from high to low?). Bank Nifty fell ~2,000 points intraday is plausible given global bond selloff.
+
+Let me verify the exact Nifty numbers and the FII selling figure for Feb 26 2021 with one more targeted search, and also search better for claims 6, 9, 10. Then compile verdicts.

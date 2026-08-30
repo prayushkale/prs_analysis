@@ -1,0 +1,1 @@
+what happens if you do not close open future position and let it expire for option as well as futures it is the same even if you have a future position if you do not close yourself if it is index future no problem if it is stock future it will be resulting in delivery so please don't leave it to expire itself always square it up yourself

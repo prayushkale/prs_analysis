@@ -1,0 +1,26 @@
+You are an analyst extracting structured content from a SPECIAL-EPISODE transcript of an Indian stock-market trading educator, for an anonymized book with these 31 chapters: 1 why traders lose; 2 anatomy of failure; 3 discipline/process; 4 FII/DII flows; 5 VIX regimes; 6 option chain; 7 microstructure (gaps/expiry/index construction); 8 why derivatives exist; 9 calls and puts; 10 greeks; 11 implied volatility; 12 margins/collateral; 13 short straddles/strangles; 14 spreads & ratio spreads; 15 calendar spreads; 16 butterflies/condors; 17 portfolio hedges; 18 firefighting/adjustments; 19 event playbook; 20 budgets/elections; 21 wars/black swans; 22-25 chronicle 2018-26; 26 retail scams; 27 regulation (SEBI/rules); 28 taxation; 29 investing vs trading; 30 real assets (real estate/gold/bonds); 31 crypto.
+
+Rules: NEVER output the speaker's real name or identity strings (note them in `leaks` only). Apply transcription corrections: gif nifty/GIF-50/GIFT->GIFT Nifty (SGX Nifty only pre-Jul-2023) | Sabi/CB/semi/say B->SEBI | RBA->RBI |
+FAs/FIA/FAS/F&I/APIs/FA->FIIs | DAAs/DAI's/DIA->DIIs | Bagnifty/Bang nifty/Bagniti->Bank Nifty | if-in-nifty->FinNifty |
+global queues->global cues | stock covering->short covering | shorter up->shot up | MSA->MSCI | CPA->CPI |
+Wix/weeks/Bix->VIX | Toji->Doji | ICSA->ICICI Bank | Industin/Indus and Bank->IndusInd | Quotac/Kotaik->Kotak Bank |
+trunk->Trump | gargle war->Kargil war | pull-up attack->Pulwama | hidden bar/Hind bet->Hindenburg | Lull Street->Dalal Street |
+taxbeddy->TaxBuddy | 'Delta dot exchange' variants->Delta Exchange | Struggles->straddles | piano->P&L | bees/BeES->ETF (e.g. Nifty BeES). Only what the transcript says. Genericize personal trades/P&L as content (the numbers may teach), but if a passage is self-promotion/self-defense (business, penalty, family, luxury, travel), list it under exclude_passages.
+
+Read each transcript IN FULL. For EACH, emit exactly ONE line of JSON (no fences):
+{{"id":"...","date":"...","type":"special","title_clean":"cleaned title","summary":"<=60 words","chapter_targets":["chapter numbers, primary first"],"themes":["2-6 short theme tags"],"lessons":["transferable lessons, <=30 words each, max 5"],"strategies":[{{"name":"...","construction":"legs/strikes/quantities","numbers":"premiums/margins/breakevens/returns as stated","best_regime":"when to use","adjustments":"how managed/rescued","risks":"max loss / failure mode"}}],"event_claims":[{{"claim":"factual assertion with numbers/dates","verify":true/false}}],"quotes":["<=30 words cleaned, max 3, only distinctive"],"enhance":["complex topics needing worked examples/tables"],"exclude_passages":["self-promo/identity passages to drop"],"leaks":["verbatim identity/promo strings"],"quality":1-5}}
+If no strategies exist, use []. Event claims: concrete verifiable assertions only.
+
+WRITE all JSON lines to /home/ubuntu/repos/prs_analysis/book/analysis/batch_special_123.jsonl (one per transcript, in order). Then return a 5-line digest.
+
+TRANSCRIPTS (10):
+- id 0191 | date 2020-12-09 | outlook | "Bears KILLED Again - What Really Happened with HDFC & RIL_" | path: /home/ubuntu/repos/prs_analysis/book/corpus/0191.txt
+- id 0192 | date 2020-12-10 | education_mission_options | "OPTIONS Explained with Examples & History _ Mission Options E05" | path: /home/ubuntu/repos/prs_analysis/book/corpus/0192.txt
+- id 0193 | date 2020-12-11 | ipo | "IRCTC Offer for Sale_ How To Apply _ 5% Profit in 1 Day_" | path: /home/ubuntu/repos/prs_analysis/book/corpus/0193.txt
+- id 0195 | date 2020-12-12 | options_education | "A Different Take on OPEN INTEREST Analysis!" | path: /home/ubuntu/repos/prs_analysis/book/corpus/0195.txt
+- id 0197 | date 2020-12-13 | options_education | "NIFTY Financial Services (NIFTYFIN) - A New Index for F&O" | path: /home/ubuntu/repos/prs_analysis/book/corpus/0197.txt
+- id 0198 | date 2020-12-15 | education_mission_options | "CALL Option Explained _ Mission Options E06" | path: /home/ubuntu/repos/prs_analysis/book/corpus/0198.txt
+- id 0199 | date 2020-12-15 | options_education | "My View Went TERRIBLY Wrong, STILL Made Γé╣1.5 Lakhs _ Options Firefig" | path: /home/ubuntu/repos/prs_analysis/book/corpus/0199.txt
+- id 0200 | date 2020-12-16 | general | "DON'T BUY MAJESCO SHARES _ Dividend Stripping Explained" | path: /home/ubuntu/repos/prs_analysis/book/corpus/0200.txt
+- id 0202 | date 2020-12-18 | outlook | "Nifty P_E at 37 - MARKET CRASH Very Soon_" | path: /home/ubuntu/repos/prs_analysis/book/corpus/0202.txt
+- id 0203 | date 2020-12-19 | strategy | "The Right Way To Interpret PUT CALL Ratio _ PCR" | path: /home/ubuntu/repos/prs_analysis/book/corpus/0203.txt

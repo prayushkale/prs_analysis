@@ -1,0 +1,156 @@
+Hi, this is Pierre Sundar. Welcome to this special episode where I'm going to discuss about
+a strategy based on the budget expectation. I've been telling you my expectation is very
+very positive so we do not know what is in store and Sunday but I'm expecting a very
+big up move if there is any some positive surprise in the budget. There are a lot of speculations
+going around saying that you know F.A. sentiment has to be changed so F.A. is keep on selling for
+the last two years so because of that our rupees depreciating, our economy at some point of
+time will get into trouble if they continue to sell. So the only way to revive the sentiment
+of the F.A. is to do something good you know. There are many things and many arguments so maybe
+there's not the time I may come out with a separate video but there is one thing that you have
+to understand that there is something called a global standard. So the global standard is that you
+know they don't ask for a tax from F.A.s. So usually F.A.s have the privilege of paying tax to you
+or to their own country. So this is how most countries they do. They talk about China or South Korea
+you know they don't tax but what happens in India they're taxing the F.A.s and not only that the
+transaction cost in India is very very high. You pay security transaction tax, stamp duty, brokerage,
+semi-charges, NSE charges, exchange charges you know so many things. In US market I'm trading
+there are only two charges. One is a brokerage and the other one is a exchange charges. Only two nothing
+else is fixed. So there's a lot of talks going around you know the STT may be removed and if they do
+it so that's a welcome step. Remember STT has been increased by five times during BJP government
+for the option traders. For future STT also increased but it may not be five times.
+So this is an unreasonable you know taxation. They want to discourage people you know trading
+in futures and options and but you must understand it is a futures and options that brings the price
+stability price discovery for the cash market and also F&O is the only place where you can hedge
+your portfolio in case something goes wrong. So F&O is basically you know is a place where the risk
+is being transferred from the person who cannot afford to take the risk to the person who can
+afford to take the risk. So that is a standard all over the world. So in case if STT is being removed
+or in case you know long-term capital gain tax is brought to zero or if they say now we have a
+long because if they bring long-term capital gain tax to zero then you know it becomes a reversal
+of their policy. What they can do as a face of you know up to three years you know it is considered
+to be long-term you still pay tax 12.5% but more than three years you are holding it's a super long
+term you don't pay tax or something like that. If anything related to stock market if they do
+there is a potential for the stock market to rally 4 to 6% wife 4 to 6% just look at the last one
+year in the first week of May there was a war between India and Pakistan. What happened on 12th of
+May the ceasefire was announced. What happened on that day the market shot a thousand point in
+15 from 24000 to 25000 whatever I'm talking there are only approximate figures. Then what happened
+from May 12 to October markets were trading sideways. Then October maybe I don't know exactly what
+has happened. GST reduction and many other things you know festival time the probably time
+the market shot up nearly 1500 point rally in the month of October. Then after that what happened
+they are still consolidating straight away from 24500 it went up to 26 now we are still
+trading below 26. Last year October we crossed 26 now we are still below that.
+So number one if there is any good news like no American India Pakistan ceasefire
+Nifty has the potential to rally 1000 point in just one day and then if there is a continued
+positivity like in the month of October in one month Nifty has the potential to move 1500 point.
+So this is the last year example. I assume that finance minister does something drastic.
+You know no SDT or something like that then that news can be a very good positive news
+as good as ceasefire between India and Pakistan and the Nifty can shoot up 1000 point in just one day
+and then if FAAs also see this as a positive news and if the momentum continues
+who knows we can Nifty can go to 1500 point higher even if 1000 point go higher also
+we will be still at the same level as the 16 months before 16 months before we were at 26 300.
+So maybe another 500 point or 26800 or 27000 something like that so this is quite possible
+and in fact I am taking this view by taking this view only and I bought a lot of options
+in fact in my entire lifetime I have never bought options like this. I think in the post market
+I told you yesterday and I bought options for more than 50 lakh rupees and assume that Nifty
+rallies 1000 point or 1500 point can imagine my 50 lakhs can go to 5 crore 7 crore like that
+so I will become ultra rich I will become a millionaire by US standard in one month time
+but of course being an options seller always one thing comes to my mind before picking the position
+what if my view goes wrong so if my view goes wrong so what is the safety measures I had
+so all that I would have done so even if I lose maybe 20-25 lakh rupees but if I gain 5 crore to 10 crore
+so Sunday evening we will know this now coming back to the trade I have already come out with the two
+trades you know now coming out with the third trade budget strategy okay by this time no need to
+say I am taking a bullish view okay now suppose a person is taking a bullish view the next question
+comes how bullish bullish up to 26000 or bullish up to 26500 or bullish up to 27000 will take three scenarios
+so let us say I'm bullish I'm expecting the Nifty to go to 26000 and the day of budget or maybe one
+or two days after the budget because the budget is on Sunday but weekly expires and Tuesday
+so assume that and bullish up to 26000 then what I can do I'll show you in the computer
+now look at this in this strategy what I did for third February expiry 26000 put up film I am selling it
+and the price is around 675 rupees so by selling 26000 put up film in weekly series and I'm receiving 674 rupees
+so assume that market goes to 26000 or about 26000 and then this will go to zero I will make
+675 rupees profit so that's a fantastic profit but what is the next question comes to your mind
+what if your view goes wrong so we need to have some hedge so what is that hedge the same strike price
+I'm buying monthly put up and that is trading around 693 so I'm selling for 675
+approximately buying for 695 approximately so I have to pay only 20 rupees from my pocket
+now first thing is that look at the payoff chart so if the market goes higher you will make profit
+and your maximum profit will be when Nifty is at 26000 but if the market goes beyond 26000 your profit
+may come down but again no need to hold the position until the expiry in between you can come if Nifty
+crosses 26000 one can come out on the other end if my view goes wrong market continuously falling
+although the probability is less but assume that it goes down there will be a limited loss for me
+so that limited loss will be about 4000 rupees plus per lot that will be the maximum loss why
+because your view goes wrong market is crashing your self-put-uption current week series will
+give you a huge loss but a by-put-uption monthly series will give a good profit they'll compensate each
+other but still there will be some loss that loss will be something about 4500 rupees
+and beautiful thing about this strategy the margin money the margin money is only about 43000 let us say 45000
+the maximum profit is about 14000 assume that you are getting one third of the maximum profit
+so even one third of the maximum profit will work out to be around 4500 but the margin of 45000
+4500 will work out be 10% return and here if suppose Nifty closes at 26000 by Tuesday expiry
+the maximum profit is about 30% of course nobody is going to get maximum profit you will get maximum
+profit provided Nifty closes at 26000 on Tuesday
+so assume that even you get half of the maximum profit you are still going to get 15% return for
+your investment what is the negative side so you can lose up to 10% of your capital if you go
+strong of course if you go strong what we do we do a number of adjustments but again you want
+to do some adjustments you may have to bring in extra capital also so that may not be possible for
+everyone so here I've given you one strategy you are bullish up to 26000 assume that you are
+bullish up to 26500 so what you should do instead of selling 26000 you go and sell 26500
+and then instead of buying 26000 so what you do you go and buy 26500
+so same thing so what you have done earlier is called 26000 put calendar now this is 26500
+put calendar now here selling for 10153 and then buying for 1116 you see here actually this
+become a credit strategy it's not a debit you still get some credit and look at the maximum loss
+maximum loss is only about 1000 rupees if market goes down but what is the maximum profit maximum
+profit is about 60% so that is if nifty go and close at 26500 by Tuesday afternoon
+but assuming that even if you are getting one-fifth of the maximum profit you are going to get
+still more than 10% profit so the margin again you see it's a very very small margin and then this
+is the view now the next question assume that you are bullish up to 27000 then what you do
+right so sell 27000 put option
+and buy 27000 put option
+okay we are just taking the data from abstract you know if you look at the NSE website you know
+when you are doing deep in the money sometimes there might be some liquidity issue
+buy and sell that maybe some differences like say for example third February you want to do 27000
+by year 1645 sellers 1653 but like five rupees 10 rupees liquidity issue is there
+abstract will be taking only the last rate at price but look at this
+maximum profit is 84% and the loss is literally zero of course it won't be zero but there will be some
+loss and I'll tell you once you change the calendar month you know the payoff chart the maximum
+last maximum profit they are or not not accurate as long as you choose all the contracts and then
+same experience then only this software will show correct payoff chart correct maximum loss correct
+maximum profit everything once you change the calendar month things will not go correctly but anyway
+we are just looking only at the approximate things only so what I have given you here a strategy
+called ITM put calendar normally what people do I tell you they do put calendar means
+at the money put calendar they do so when you do at the money put calendar that means sell at the
+money put by at the money put for the next expiry next week are monthly expiry but what I do when I
+take a bullish view why to do at the money I decide where the market is likely to end if I think
+the market has a potential to go up to 27000 so what I do I go and sell 27000 put option for the
+current week by 27000 put option for the monthly series so in case if your view is right let us say
+market go to 27000 so the entire premium collected the current series will go to zero but
+monthly series there will be still some premium so what are the good things about this strategy
+number one the margin money is very very less 40000 45000 rupees you can do one trade
+whereas you know most other strategies the margin money will be one and a flag two like like that
+that is one big advantage second big advantage it is perfectly hedged and you have one buy option
+one sell option market goes up or down you know you like if your view goes wrong market goes down
+so current series you will lose by the next series you will gain so overall damage may not be
+very big overall loss may be maximum 4000 to 5000 per lot these are the two things and the
+disadvantage of course 25 500 call today morning it was trading around 100 rupees
+suppose you go and buy a naked 100 rupees you lose also you are going to lose only 100 rupees
+but in case if market go to 27000 you know you can get 15 times more profit
+and so these are strategies like IT input calendar you know consider it to be low risk strategy
+and if your view goes right you will make some good money if your view goes wrong
+you will lose some money but it is a good strategy as and when you feel markets are bullish
+in what way this strategy is different from other people doing mostly you check with the people
+who do the put calendar they don't do IT input calendar they only do ATM put calendar
+so when you are bullish why to do ATM put calendar so we do it input calendar
+so this is one strategy there are a lot of variations in this strategy
+and you can you know change the strike price if you are too bullish
+the monthly option are bang only for the hedging if you are too bullish let us say 27000 put
+yourself for the current week instead of bang the same 27000 put you buy 26000 put
+and so there will be much cheaper in case market go to 27000 your reward will become even more
+higher so that is called diagonal put calendar so your put calendar diagonal put calendar
+and there are many other interesting things we add as I told you everything we cannot give
+here free so we have to reserve some special strategies for our workshop participants
+but overall I can tell you this is a very very good strategy I have done some put calendars
+for the current month current series so let us see whether the normalogy is favoring us and Sunday
+or whether we are going to lose some money and Sunday so everybody is waiting
+with a lot of excitement for Sunday and I'm also one of them as I told you
+you know this is the time I've taken huge bet on the alongside
+so let us see what is going to happen and but this item put calendar is good you know
+if you take the position when the market is at low let us say some intraday is supposed to 100
+point fall okay we do that put calendar then if that 200 point recover also you will get a very good
+profit so let us hope we will make some money so with this I'm concluding my budget day strategies
+because I've already given three strategies for budget so that's more than enough so hope you
+enjoyed watching this video thank you for watching

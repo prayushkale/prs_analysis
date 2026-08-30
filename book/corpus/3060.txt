@@ -1,0 +1,91 @@
+Okay, this is Pierre Sundar. Welcome to Post Market Report, sponsored by Delta.exchange.
+This behaved as expected, GIF-Nifty was indicating a level of 24-400 for Nifty Future. Although
+market opened, it came down by 150 point, against shorter 150 point, markets were very,
+very volatile. That is understandable. That's because today is a weekly expiry. So because
+of that market made a lot of moves. Moreover, the positions, F&R positions, because option
+premiums were very, very lucrative yesterday. I told you even 1000 point up and down also,
+the premiums were trading around 10 rupees. The people who have made sold short term options
+in a nearer place, they were adjusting up and down. And overall, the expiry was on expected
+line. Cruda Hill shot up from $90 to $120 yesterday, and today it has come down from $120
+to $90. But the Nifty fell how much yesterday? The same amount Nifty has not recovered.
+Normally, it doesn't happen like that. But however, what is very, very important,
+nearly 20% crash in India weeks. And look at the prices. You know, the put option prices collapsed.
+But the point here is that though Nifty moved more than 200 point higher, even the call prices did
+not go up. Look at the monthly call option 24500, 25500. You know, like 25500 call option,
+yesterday it was around 67 rupees. Today, it is 46 rupees. A 20 rupees down when the Nifty
+shoots up 200 points. The main reason is the collapse in IV. And long term options, if you look
+at the December 25000 straddle, 26000 straddle, 27000 straddle, both puts and calls have come down.
+But puts have come down very much. So, usually people who trade positional traders who trade
+with the Staples. Yesterday, he left right and said that the Staples would have been hit
+because such a big fall in the morning. But, you know, there are ways and means, you know,
+one can manage. You know, it is not a good idea to exit the positions when the IV is so high.
+So, there are many other ways one can manage. And you may remember I told you yesterday,
+I did one put ratio. Because I was having some straddles at 24500 straddle, I was worried
+the market may continue to fall. So, that is why I added a put ratio. But then today market recovered.
+So, you look at my 24500 put options. That also gave a very good profit. 24500, 24500 call-ups
+also gave some minor profit. That put ratio also gave some profit. The put ratio did not give any
+loss. But instead of doing this, had I got panic and then exited position yesterday, I would have
+had to book a huge loss. These are the strategies, you know, went to apply with strategy and how things
+work, you know. So, that all we discuss in our workshop. So, again, I have come back to
+proportion of the workshop. Okay, because the Mumbai, you know, the response has not been
+as great as we expected. Chennai is okay. Chennai is almost full, all right. So, we have 100 seats,
+but 98 seats are filled already. So, that's okay. Mumbai, we are having a more seats.
+So, those who are interested may contact our office. Today, it was an expected line. Today's
+the crude story, all the companies that are benefiting because of the crude, like oil marketing
+companies, paint companies, auto indices. So, they all have done well. But however, one big
+disappointment is that, reliance indices negative, Bartheartel is negative, Infosys is negative.
+So, I think these three stocks are among the top five or six stocks. And all three of them are down.
+But however, one consolation is that the long-time, under-performance, long-time means like for the last
+two months. HDFC Bank and ICSA Bank both contributed very well on the higher side.
+And we are discussing the Nifty, but broader markets have outperformed. Mid-caps,
+small cap, next 50. So, the broader market has done really well. But remember, number one,
+the war is still not over. So, you may remember last Thursday, there was some rumor that, you know,
+Iran is willing for negotiation. And in 20 minutes, Nifty shot up 400 points. But what happened
+after that, a vertical fall of nearly 1,200 points. And today, market recovered because the global
+markets recovered. And, you know, like shot covering also. But, you know, tonight, if there is some
+bad news in the war front, and tomorrow, market can fall equally. So, these are the times,
+like if you are an options trader, if you are in a good profit, better book the profit. And then,
+even if you are not in a good profit, even some minor loss also, better book the positions in the end
+of the day, recreate the same positions next day morning. So, thereby you can avoid the overnight
+risk. Of course, there are some plus and minus points, you know. So, you know, like tomorrow,
+opening itself, if I be crashes further, then you will not be able to get the same premium.
+But you may get 5 rupees, 10 rupees less premium. But that is worth, you know, losing that money,
+rather than having a sleepless night in case if something happens overnight. So, that's very,
+very important because this kind of time, you know, overnight anything can happen.
+And so, the war is a war. And until there is some amicable settlement, you know, so better not to
+carry positions heavily. Or you can sell far away. And look at the nifty, I think 1500,
+2000 point away also, you are getting 10 rupees to all rupees in a weekly option, forget about the
+monthly option. One thing I have to tell you, today market is up nearly 200 points. All the
+put premiums crash like anything. But the monthly put option, 22,500 put option. I don't know why
+there was such a big spike in that. Yesterday, that was closed around 63 rupees.
+And today, market is higher, nifty is higher by about 200 points. But still, that was trading around 80
+rupees. Very 63 rupees when the market goes up, put prices has to come down. But that particular
+strike price put premium spite. Why to analyze, why it is going higher? So, sold it and then, you know,
+when the price came down to below 70 rupees, I exited because I don't want to carry the positions
+overnight. So, sometimes, you keep watching this option chain. Sometimes you can see this kind of
+abrasions. And I really don't know who are those people who are buyers. You know, why they
+pay so much higher price, you know, for buying that particular put option. People generally say,
+that is bought for hedging. But then, you know, you know, you are buying an option for hedging. So,
+you have to buy at least, you know, within 1000 point distance. If you are buying 2000 point distance,
+then you actually, you know, there is no much margin benefit. So, let me tell you how the margins
+work. If you are selling a put option, right now, the margin is around, let us say, 1 lakh,
+30,000 plus the exposure margin of 30,000, something like around 1 lakh, 60,000. So, your
+span margin is about 1 lakh, 30,000. But if you buy an hedge 2000 point away, then when you buy
+the hedge, the span margin is equal to the maximum risk. So, when you buy 2000 point away,
+your maximum risk is 1 lakh, 1.3 lakhs. And that is the same margin even without doing the hedging.
+So, that is why, you know, in a high volatile environment, people don't do the hedging,
+but they play with less volume, right? So, that, you know, they have enough money for adjustments.
+So, that is how the things work. And although the weeks has collapsed by 20%, but still,
+the weekly premiums are really very, very high. You know, still remember, our weeks is more
+than double of what it used to be about few months before. So, still the premiums are really
+very, very high. So, we have to see whether FIAs where buyers today are not and US markets are
+correcting a little bit after rising so much yesterday. In fact, sometimes in the afternoon,
+when the European market opened, actually, US market actually futures have gone higher actually,
+but right now I am seeing it is down slightly. So, it makes sense for US markets to consolidate.
+And I think for tomorrow or for next one or two days, that will be the case even in our market also,
+markets are likely to consolidate. 24,000, as I told you, is a good support. So, that support was
+held on a closing basis yesterday and it has been held on a closing basis today also.
+So, we discussed a lot of interesting strategies in our workshop. So, my upcoming workshop,
+this Saturday's Sunday in Mumbai, next Saturday's Sunday in Chennai. So, those who are interested
+can contact our office, the seats are feeling very fast. So, let us see what's going to happen
+tomorrow. Hope you enjoyed watching this video. Thank you for watching.

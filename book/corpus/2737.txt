@@ -1,0 +1,72 @@
+Fine, this is Pierre Sundar. Welcome to this special episode where I'm going to discuss
+about some strategies. And I already came out with two video. One is a call calendar.
+The next one is a put calendar. And now we are going to discuss a strategy called call ratio.
+Number one, other people always ask me one question. And people always, when they come to me,
+they always say, sir, give me a system. And let us say 10 delta call option, 10 delta put
+option yourself. No, you want to make money every month. That is actually, let me tell you
+not possible. And I'll tell you, somebody started this 920 short straddle, some system.
+It was doing very well for a few years. Then you know, like it, it catch like a forest fire.
+And people started developing all goes. And you know, bots, people were, everybody was doing.
+But nowadays you see the markets have been too volatile. And every day it moved 300
+point up and down. So because of that, you know, stop plus a circuit left right and center.
+So the strategies are not being well. Suppose if there is a system, so that system works, you know,
+there are like many, many multi-billionaires are there in India. They can just
+instruct the computer to do everything by sitting in one place. They can make fantastic profit.
+Go and look at the financials of all the top companies like Reliance Industries,
+Tata Motors and this and that. They don't make more than 15-20% return per annum. For that,
+they struggle so much. And here, you know, a system means, you know, you just leave the job to
+the computer and do everything. That's not possible. So I am the one who always believes that a system
+will not work. By the system will work, sometimes it will work, sometimes it will not work.
+So forever you want that to open. It's not going to work. And people always ask one question,
+so who makes better profit? A system trader or discretionary trader? So all over the world,
+it is a discretionary traders who make better profit. Of course, they lose better also. That's a
+different story. You need to have some kind of a view. So today, we are going to discuss
+something about called ratio. And you know, like people know what is called ratio,
+buying a call and selling twice or twice the calls. One may be buying the call at the money,
+selling the call far out of the money and so on. But I do it slightly differently.
+So now, let me show the computer. So this is the one we are looking at it, the one which I posted
+in a Twitter paper trade. So we have already discussed call calendar. We already discussed the
+put calendar. Now, look at this, the last one. This is a bank Nifty, BN stands for bank Nifty,
+C stands for call ratio ratio. So among the four strategies, which I did paper trade,
+this one has given the highest profit. But this may not be the highest in terms of percentage,
+but it may be the highest in absolute term. Right? So here, what is this call ratio?
+So it's very simple. On 30th of May, I think bank Nifty. So where was the bank Nifty on 30th of May?
+Now, 30th of May. Yeah, this is 30th of May was 55,500, 600 like that. Okay? So what I did actually,
+I bought 55,000 calls. This is only a paper trade. So I just for the flow, I'm saying I bought,
+I sold like that. Okay? It's only a paper trade. So about 55,000 call option, because I was likely
+bullish. And I bought for 1,485 rupees. Right? Then, you know, as I'm not an option by here, you buy
+an option if the market goes down, you know, the entire menu will go to zero. That too, I think the
+lots, I see 30, 485 rupees into 30, it's almost 45,000 rupees. Right? So what I did, I sold double
+the quantity, 57,000 call option at 500 each. So that is called call ratio. Buying one call,
+selling two calls. You analyze the trade. Okay? For the time being, you just leave the first trade.
+So buying a 55,000 call, selling 57,000 call, double the quantity. Because I was slightly bullish.
+So this is called call ratio. If you look at the estimated margin, the margin is roughly about
+2.2 lakh. And now, this one was done on 30th of May. That is the first trading session of the June
+series. Today is 25th. You can see here, this video is being short and Wednesday. You can see the
+date here, 256. So this is sitting with a 32,000 rupees profit. In terms of percentage profit,
+it is 14.56. So a call ratio is very simple. You buy at the many call or slightly in the many call,
+sell double the call or triple the call, far out of the money, where you think the market is
+going to face resistance. And because that time, you know, if you can remember, I told you,
+the banking fee was trading between 54 and 56 violently for a long time. So I thought,
+ultimately, it will break out. So moreover, there was an RBA policies there. So I was expecting,
+you know, some good news from RBA policy. So that was the logic here.
+Right. Now, as I always say, you know, successful people don't do different things but they do things
+differently. People do call ratio, people do put ratio, people do calendar, I do slightly different.
+So here, what has happened? Okay, I bought the call roughly for about 1,500 rupees.
+I sold double the call 500 each. So about 1,000 rupees. Normally, I do not like to do debit strategy.
+Here, I'm buying for 1,500, selling for 1,000. So the remaining 500, I collected by selling 54,000
+puts. Not 500, it's only about 350. And the reason is that, as I told you, during that period,
+the banking fee was trading between 54,000 and 56,000 violently. So 54,000 was considered to be
+support. 56,000 considered to be a resistance but RBA policy, you know, I was bullish. So I expected
+the resistance to be taken out. So if you include this one, then margin shoots up to 2.54 lakhs.
+Without this margin was around the same thing, not much. It's only about 30,000 extra margin.
+And now, with the 2.5 lakh rupees capital, so this is about 42,000 rupees profit. So this is roughly
+about 17% profit in a matter of four weeks. Okay. So this will be anyway closing by tomorrow.
+And this video is being short on 25th. So 26th is the expiry. So everything will close.
+And I'll tell you some of the best thing in call ratio. See, your buy call is also giving profit.
+Sell call is also giving profit. Usually, when one gives profit, the other one gives loss.
+But closer to the expiry, if your view is right, if it is trading between 55,000 and 57,000.
+So your buy is also giving some profit. Sell is also giving some profit. I put sell also giving
+profit. So it's overall, everywhere profit. So this is about call ratio with some kind of twist I do.
+So this is an interesting strategy. I hope you enjoyed the strategy. I think now my throat is getting
+some problem. So I'll stop the video here. Hope you enjoyed watching this video. Thank you for watching.

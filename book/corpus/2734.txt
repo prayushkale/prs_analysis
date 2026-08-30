@@ -1,0 +1,106 @@
+Hi, this is Piers from there. Welcome to this special episode where I'm going to discuss
+some strategies. If you can remember, I've taken some paper trade and I posted that
+trades in Twitter. I've taken three trade in the beginning of June series. And then after
+one week I've taken another trade. They're all paper trade. They are not real trades.
+And then by 8th or 9th of June, I posted that in a social media, my Twitter account. And
+then later some people ask me, sir, are you just posting the profit loss and then things?
+So can you explain as the strategy? So last week I came out with a video explaining one strategy
+that was a call calendar. So this week, I will show you another strategy called put calendar.
+Call calendar and put calendar, they are quite similar. Call calendar means buying a call in a
+format, a selling a call in the near month or buying a call in the far expiry, selling the call
+in the near expiry because like we don't do it in monthly, we do it in weekly also. The same way,
+put calendar means buying a put in the format and selling the put in the near month or buying the
+put in the far expiry and selling the put in the near expiry. So without wasting the time,
+I'll just take you to the computer. This is my Twitter account. So you can remember I posted that
+tweet on this 9th of June. And then again, I've given the update sometimes later that was on 20th of June.
+So these were the four trades and this call calendar is what we discussed last week. And in fact,
+I just forgot to mention something in the last week. Let me show you. So in the last week,
+if you look at this, I discussed about calendar. So 25,000 call was bought, then 25,000 call was sold
+on 5th of June, then again 12th of June, again 19th of June. Then that time I told you,
+forget about the first two. So what actually happens when I do a call calendar, buying a call,
+the far expiry, selling a call in the near expiry, actually that results into debit strategy.
+You have to pay something from your pocket, but normally I do not like to pay. So what happened?
+I thought that Nifty will be anyway trading between 24,000 and 26,000. So I sold both 24,000
+put and 26,000 call. And I collected a good amount of premiums. Say if you look here, the first
+trade which I've taken, I bought the call for 345 and I sold the call for only 120. So 345 minus 120.
+So there is about 225 rupees debit is there. So what I did, I sold two puts and two calls,
+collecting more than 225 rupees. I think it's about 350 rupees. I guess anyway I thought,
+you know, markets are going to trade between 24,000 and 26,000. But the thing is,
+you do only the call calendar that the margin will be very, very little. But the moment you add
+one strangle, okay, your margin shoots up. See here, the margin is not reflected here.
+That's because we closed the position. So I experienced also closed. The margin should be, I think
+around four lacropies. Okay. So then, you know, still it has given a total profit of about 35,000.
+So that's about eight, nine percent written. So this is about the last big strategy.
+Now we go back to the portfolio. Now we look at the put calendar. So this is the July put calendar.
+And you may see, the first strategy was created on 30th of May. So therefore, buy and sell both
+have done in the same month, monthly by weekly sell. Here what I did since already one week is
+over. There's no point in doing in the same month. So what I did, the buying one, I've done it
+in a July series. This is a June, but the buying I've done it in a July series. And I think July
+series is a five week series plus three weeks here. So about eight weeks away. So eight weeks away,
+the buy was done. And then selling as usual happened in the weekly. So that was the 12th June.
+Then 12th June sold put option and sold around 319 finally closed around 112.
+Okay, this shows 104, but actual closing may be 112. Sometimes the weighted average is the same.
+And then after that, after closing that 12th one, same 19th one I sold.
+Okay, sold around 249 closed around 206. And then again, 26th June also are done.
+Okay, so 26th June still not over. This video is being short and 25th of June.
+So once 26th of June is over, the July first week will be sold. Now, if you look at this,
+I'll show you the analysis the data. Okay, the margin is roughly about two lakh rupees.
+There is already a profit of about 30,000 rupees. So that's an impressive return of about 15%.
+Okay, but here, this one you have to take out.
+Okay, now you see 25,000 put bought in July series, then weekly 25,000 sold.
+Once that week is over, again 19th was sold, again that week is over, then 26th June was sold.
+And again, when 26th June is over, and we will be selling in the first week of July,
+again, second week of July and so on. Even if you exclude this, you see the margin comes down
+drastically. The margin is only about 70,000. And there's a profit of 17,000. So 70,000 to 17,000.
+Oh, what is the percentage? I think it's about 25% return. So put calendar and call calendar,
+if it works in your way, you can get fantastic return, 25% return. That too, this position
+was taken on 5th of June and the video is being short on 25th of June. It's only 20 days, calendar
+days. It's only three weeks. In three weeks, 25% return. Okay, as I told you, when I buy the put
+and sell the put, there'll be a debit. By the put is 558, but sell the put is only 319. So
+there's a debit. So therefore, what I did to cover that debit, I sold 24,000 put option,
+because I thought market will not go below 24,000. And as of now, that view is working. So 24,000
+put I sold around 221 rupees. Now, I think now it is trading around 6665 rupees. But if you add
+that, then the margin will increase. So profit will increase from 17,000 to 29,000. But your rate
+of return will be going down. You do only the put calendar, you get 25% return, but you do,
+because of this one extra adjustment, the profit has come down to 15%, but absolute profit is more.
+So I always say just for fun, there are two types of people. And people with less capital looking
+for better return, some people with bigger capital, they're looking how to deploy. So this is suitable
+for the people who can deploy more capital. They have more money left on the table.
+So again, just like I told you last week, if you have done a put calendar alone, 25% return,
+but along with the adjustment is 15% return, still it's a very, very great return. So I've shown
+only the positive side. What is the negative side? Number one, you do a put calendar.
+As long as the market is likely bullish, the near month, it means near expiry options will
+deteriorate very fast, decay very fast. But the far week by option will not deteriorate so
+first, will not decay so fast. So the difference is where you are making the profit.
+But the problem is if the market move violently on the higher side, just like on May 12th,
+you remember, in one day, nifty, shorter, thousand point. If that kind of thing happens,
+then what will happen? The current week also will decay, the far week also will decay.
+The, you know, the decay in the far week will be more in absolute term, more than the current
+week decay. So it might be resulting in some loss. So that is why I sold extra put option.
+Because when the market goes higher, that extra put option will save me. But again,
+the market is all about risk and reward. Anything you do, you are increasing the risk.
+In case market crashes, what will happen? Your put calendar will also give loss.
+Your like naked put, the 24,000 put you sold will also give loss. It's a double value.
+Because I was more or less bullish last month. So that is why I've done this one.
+If you margin is an issue, you know, rate of return is an issue. Then don't add this extra
+you just do only put calendar and then, you know, keep rolling every week.
+And then if the markets are consolidating or slightly bullish, you can make a fantastic profit.
+And of course, there is no reward without corresponding risk. So market moves violently on the
+higher side. Our markets move violently on the downside. And the problem will be there.
+There will be loss. But only good thing is that the loss is limited.
+Of course, that loss will be very big, but it will be a limited loss. So that's why in the
+May 12th, when the gas market shopper, you know, 1000 point in just one day, I thought, you know,
+following few weeks markets might consolidate, you know, so that is the best time, you know,
+you can do put calendar, call calendar. So last week, I discussed call calendar, this week,
+I'm discussing put calendar. So both given good profit this month. That's because the markets
+were moving up and down, up and down, but not going anywhere. But other traders, people like
+intraday traders or people like positional traders, you know, look at how the market moved in the last
+one week. One day, 300 point come down, next day, 300 point go up, next day, 300 point come down,
+next day, 300 point up. And you know, this video is being shot on Venice day, 25th, you know,
+what happened on yesterday that Tuesday, a market went up 300 point, came down by 300 point,
+intraday itself. And then today again, it's shot up around 250 points. But, you know, when the
+markets move very violently, like straddles, strangles will have a bigger Emptium loss and panic will
+set in. But calendar spreads, since, you know, you have a view, and then your loss is limited, you know,
+the hedge is there, you can hold on. So if your view goes right, you make a good profit in terms of
+percentage return, put calendar and call calendar will give the best possible return, then the straddles
+are strangles. So, hope you enjoyed watching this video. Thank you for watching.

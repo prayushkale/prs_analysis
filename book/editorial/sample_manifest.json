@@ -1,0 +1,786 @@
+[
+ {
+  "id": "0016",
+  "group": "R1_R2_dailies",
+  "title": "Post Market Report 14_11_18 _ P R Sundar",
+  "date": "2018-11-14",
+  "subtype": "post_market",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/0016.txt"
+ },
+ {
+  "id": "0007",
+  "group": "R1_R2_dailies",
+  "title": "Post Market Report 30_10_18 _ P R Sundar",
+  "date": "2018-10-30",
+  "subtype": "post_market",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/0007.txt"
+ },
+ {
+  "id": "0179",
+  "group": "R1_R2_dailies",
+  "title": "COVID Vaccine Found but BEARS KILLED! Post Market Report, Nov 9",
+  "date": "2020-11-09",
+  "subtype": "post_market",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/0179.txt"
+ },
+ {
+  "id": "0212",
+  "group": "R1_R2_dailies",
+  "title": "Real Traders Don't Set STOP LOSS _ Post Market Report 28-Dec-20",
+  "date": "2020-12-28",
+  "subtype": "post_market",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/0212.txt"
+ },
+ {
+  "id": "0652",
+  "group": "R1_R2_dailies",
+  "title": "Pre Market Report 29-Oct-2021",
+  "date": "2021-10-29",
+  "subtype": "pre_market",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/0652.txt"
+ },
+ {
+  "id": "0535",
+  "group": "R1_R2_dailies",
+  "title": "Yet Another All Time High _ Post Market Report 17-Aug-21",
+  "date": "2021-08-17",
+  "subtype": "post_market",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/0535.txt"
+ },
+ {
+  "id": "0596",
+  "group": "R1_R2_dailies",
+  "title": "Indices at New Highs Despite Slow Down!  Post Market Report 24-Sep-21",
+  "date": "2021-09-24",
+  "subtype": "post_market",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/0596.txt"
+ },
+ {
+  "id": "0381",
+  "group": "R1_R2_dailies",
+  "title": "Pre Market Report 27-05-2021",
+  "date": "2021-05-27",
+  "subtype": "pre_market",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/0381.txt"
+ },
+ {
+  "id": "1045",
+  "group": "R1_R2_dailies",
+  "title": "Again Consolidation With Huge Volatility_ Post Market Report 01-Jun-22",
+  "date": "2022-06-01",
+  "subtype": "post_market",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/1045.txt"
+ },
+ {
+  "id": "0932",
+  "group": "R1_R2_dailies",
+  "title": "Pre Market Report 25-Mar-2022",
+  "date": "2022-03-25",
+  "subtype": "pre_market",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/0932.txt"
+ },
+ {
+  "id": "0980",
+  "group": "R1_R2_dailies",
+  "title": "Pre Market Report 25-Apr-2022",
+  "date": "2022-04-25",
+  "subtype": "pre_market",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/0980.txt"
+ },
+ {
+  "id": "1160",
+  "group": "R1_R2_dailies",
+  "title": "Markets have broken out _ Post Market Report 08-Aug-22",
+  "date": "2022-08-08",
+  "subtype": "post_market",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/1160.txt"
+ },
+ {
+  "id": "1632",
+  "group": "R1_R2_dailies",
+  "title": "Pre Market Report 26-Apr-2023",
+  "date": "2023-04-26",
+  "subtype": "pre_market",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/1632.txt"
+ },
+ {
+  "id": "1957",
+  "group": "R1_R2_dailies",
+  "title": "Pre Market Report 06-Nov-2023",
+  "date": "2023-11-06",
+  "subtype": "pre_market",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/1957.txt"
+ },
+ {
+  "id": "1799",
+  "group": "R1_R2_dailies",
+  "title": "Pre Market Report 31-Jul-2023",
+  "date": "2023-07-31",
+  "subtype": "pre_market",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/1799.txt"
+ },
+ {
+  "id": "1908",
+  "group": "R1_R2_dailies",
+  "title": "Pre Market Report 06-Oct-2023",
+  "date": "2023-10-06",
+  "subtype": "pre_market",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/1908.txt"
+ },
+ {
+  "id": "2484",
+  "group": "R1_R2_dailies",
+  "title": "Pre Market Report 16-Dec-2024",
+  "date": "2024-12-16",
+  "subtype": "pre_market",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/2484.txt"
+ },
+ {
+  "id": "2453",
+  "group": "R1_R2_dailies",
+  "title": "Pre Market Report 25-Nov-2024",
+  "date": "2024-11-25",
+  "subtype": "pre_market",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/2453.txt"
+ },
+ {
+  "id": "2193",
+  "group": "R1_R2_dailies",
+  "title": "Pre Market Report 04-Apr-2024",
+  "date": "2024-04-04",
+  "subtype": "pre_market",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/2193.txt"
+ },
+ {
+  "id": "2496",
+  "group": "R1_R2_dailies",
+  "title": "Good beginning for JAN SERIES- Post Market Report 27-Dec-24",
+  "date": "2024-12-27",
+  "subtype": "post_market",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/2496.txt"
+ },
+ {
+  "id": "2607",
+  "group": "R1_R2_dailies",
+  "title": "Pre Market Report 11-Mar-2025",
+  "date": "2025-03-11",
+  "subtype": "pre_market",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/2607.txt"
+ },
+ {
+  "id": "2610",
+  "group": "R1_R2_dailies",
+  "title": "CONSOLIDATION Continues- Post Market Report 12-Mar-25",
+  "date": "2025-03-12",
+  "subtype": "post_market",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/2610.txt"
+ },
+ {
+  "id": "2951",
+  "group": "R1_R2_dailies",
+  "title": "Pre Market Report 24-Dec-2025",
+  "date": "2025-12-24",
+  "subtype": "pre_market",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/2951.txt"
+ },
+ {
+  "id": "2850",
+  "group": "R1_R2_dailies",
+  "title": "Pre Market Report 17-Oct-2025",
+  "date": "2025-10-17",
+  "subtype": "pre_market",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/2850.txt"
+ },
+ {
+  "id": "3053",
+  "group": "R1_R2_dailies",
+  "title": "WAR coming to an END- Post Market Report 05-Mar-26",
+  "date": "2026-03-05",
+  "subtype": "post_market",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/3053.txt"
+ },
+ {
+  "id": "3203",
+  "group": "R1_R2_dailies",
+  "title": "Pre Market Report 16-Jul-2026",
+  "date": "2026-07-16",
+  "subtype": "pre_market",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/3203.txt"
+ },
+ {
+  "id": "0032",
+  "group": "R3_R4_weeklies",
+  "title": "Dalal Street Week Ahead_ April 3rd Week _ 2020 _ P R Sundar",
+  "date": "2020-04-12",
+  "subtype": "week_ahead",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/0032.txt"
+ },
+ {
+  "id": "0187",
+  "group": "R3_R4_weeklies",
+  "title": "Dalal Street Week Ahead_ December 1st Week _ 2020 _ P R Sundar",
+  "date": "2020-11-30",
+  "subtype": "week_ahead",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/0187.txt"
+ },
+ {
+  "id": "0101",
+  "group": "R3_R4_weeklies",
+  "title": "Dalal Street Week Ahead_ July 1st Week _ 2020 _ P R Sundar",
+  "date": "2020-06-28",
+  "subtype": "week_ahead",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/0101.txt"
+ },
+ {
+  "id": "0163",
+  "group": "R3_R4_weeklies",
+  "title": "Dalal Street Week Ahead_ October 1st Week _ 2020 _ P R Sundar",
+  "date": "2020-09-27",
+  "subtype": "week_ahead",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/0163.txt"
+ },
+ {
+  "id": "0238",
+  "group": "R3_R4_weeklies",
+  "title": "Dalal Street Week Ahead_ JAN 4th Week _ 2021 _ P R Sundar",
+  "date": "2021-01-24",
+  "subtype": "week_ahead",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/0238.txt"
+ },
+ {
+  "id": "0493",
+  "group": "R3_R4_weeklies",
+  "title": "Dalal Street Week Ahead_ JULY 5th Week _ 2021 _ P R Sundar",
+  "date": "2021-07-25",
+  "subtype": "week_ahead",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/0493.txt"
+ },
+ {
+  "id": "0573",
+  "group": "R3_R4_weeklies",
+  "title": "Dalal Street Week Ahead_ SEPTEMBER 3rd Week _ 2021 _ P R Sundar",
+  "date": "2021-09-12",
+  "subtype": "week_ahead",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/0573.txt"
+ },
+ {
+  "id": "0686",
+  "group": "R3_R4_weeklies",
+  "title": "Dalal Street Week Ahead_ NOVEMBER 4th Week _ 2021 _ P R Sundar",
+  "date": "2021-11-21",
+  "subtype": "week_ahead",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/0686.txt"
+ },
+ {
+  "id": "0991",
+  "group": "R3_R4_weeklies",
+  "title": "Dalal Street Week Ahead_ MAY 1ST Week _ 2022 _ P R Sundar",
+  "date": "2022-05-01",
+  "subtype": "week_ahead",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/0991.txt"
+ },
+ {
+  "id": "1015",
+  "group": "R3_R4_weeklies",
+  "title": "Dalal Street Week Ahead_ MAY 3RD Week _ 2022 _ P R Sundar",
+  "date": "2022-05-14",
+  "subtype": "week_ahead",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/1015.txt"
+ },
+ {
+  "id": "0881",
+  "group": "R3_R4_weeklies",
+  "title": "Dalal Street Week Ahead_ MARCH 1st Week _ 2022 _ P R Sundar",
+  "date": "2022-02-27",
+  "subtype": "week_ahead",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/0881.txt"
+ },
+ {
+  "id": "1027",
+  "group": "R3_R4_weeklies",
+  "title": "Dalal Street Week Ahead_ MAY 4TH Week _ 2022 _ P R Sundar",
+  "date": "2022-05-22",
+  "subtype": "week_ahead",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/1027.txt"
+ },
+ {
+  "id": "1774",
+  "group": "R3_R4_weeklies",
+  "title": "Dalal Street Week Ahead_ JULY 3RD Week _ 2023 _ P R Sundar",
+  "date": "2023-07-16",
+  "subtype": "week_ahead",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/1774.txt"
+ },
+ {
+  "id": "1855",
+  "group": "R3_R4_weeklies",
+  "title": "Dalal Street Week Ahead_ SEPTEMBER 1ST Week _ 2023 _ P R Sundar",
+  "date": "2023-09-03",
+  "subtype": "week_ahead",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/1855.txt"
+ },
+ {
+  "id": "1956",
+  "group": "R3_R4_weeklies",
+  "title": "Dalal Street Week Ahead_ NOVEMBER 2ND Week _ 2023 _ P R Sundar",
+  "date": "2023-11-05",
+  "subtype": "week_ahead",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/1956.txt"
+ },
+ {
+  "id": "1666",
+  "group": "R3_R4_weeklies",
+  "title": "Dalal Street Week Ahead_ May 3RD Week _ 2023 _ P R Sundar",
+  "date": "2023-05-14",
+  "subtype": "week_ahead",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/1666.txt"
+ },
+ {
+  "id": "2242",
+  "group": "R3_R4_weeklies",
+  "title": "Dalal Street Week Ahead_ MAY 2ND Week _ 2024 _ P R Sundar",
+  "date": "2024-05-05",
+  "subtype": "week_ahead",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/2242.txt"
+ },
+ {
+  "id": "2333",
+  "group": "R3_R4_weeklies",
+  "title": "Dalal Street Week Ahead_ JULY 2ND Week _ 2024 _ P R Sundar",
+  "date": "2024-07-07",
+  "subtype": "week_ahead",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/2333.txt"
+ },
+ {
+  "id": "2276a",
+  "group": "R3_R4_weeklies",
+  "title": "Dalal Street Week Ahead_ MAY 5TH Week _ 2024 _ P R Sundar",
+  "date": "2024-05-26",
+  "subtype": "week_ahead",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/2276a.txt"
+ },
+ {
+  "id": "2291a",
+  "group": "R3_R4_weeklies",
+  "title": "Dalal Street Week Ahead- AUGUST 3RD Week - 2024 - P R Sundar",
+  "date": "2024-06-04",
+  "subtype": "week_ahead",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/2291a.txt"
+ },
+ {
+  "id": "2768",
+  "group": "R3_R4_weeklies",
+  "title": "Dalal Street Week Ahead- JULY 4TH Week - 2025 - P R Sundar",
+  "date": "2025-07-18",
+  "subtype": "week_ahead",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/2768.txt"
+ },
+ {
+  "id": "2817",
+  "group": "R3_R4_weeklies",
+  "title": "Dalal Street Week Ahead- SEPTEMBER 2ND Week - 2025 - P R Sundar",
+  "date": "2025-09-04",
+  "subtype": "week_ahead",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/2817.txt"
+ },
+ {
+  "id": "3092",
+  "group": "R3_R4_weeklies",
+  "title": "Dalal Street Week Ahead- APRIL 3RD Week - 2026 - P R Sundar",
+  "date": "2026-04-17",
+  "subtype": "week_ahead",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/3092.txt"
+ },
+ {
+  "id": "3066",
+  "group": "R3_R4_weeklies",
+  "title": "Dalal Street Week Ahead- MARCH 3RD Week - 2026 - P R Sundar",
+  "date": "2026-03-13",
+  "subtype": "week_ahead",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/3066.txt"
+ },
+ {
+  "id": "0240",
+  "group": "R5_education",
+  "title": "Intrinsic Value & Time Value Explained _ Mission Options E10",
+  "date": "2021-01-26",
+  "subtype": "education_mission_options",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/0240.txt"
+ },
+ {
+  "id": "0429",
+  "group": "R5_education",
+  "title": "Option Greeks #3_ VEGA _ Mission Options E20",
+  "date": "2021-06-20",
+  "subtype": "education_mission_options",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/0429.txt"
+ },
+ {
+  "id": "0441",
+  "group": "R5_education",
+  "title": "Option Greeks #4_ THETA & RHO _ Mission Options E21",
+  "date": "2021-06-26",
+  "subtype": "education_mission_options",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/0441.txt"
+ },
+ {
+  "id": "2163",
+  "group": "R5_education",
+  "title": "LONG PUT _ Mission Options E26 _ Strategies",
+  "date": "2024-03-16",
+  "subtype": "education_mission_options",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/2163.txt"
+ },
+ {
+  "id": "0388",
+  "group": "R5_education",
+  "title": "Expiry & Physical Settlement Explained _ Mission Options E17",
+  "date": "2021-05-30",
+  "subtype": "education_mission_options",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/0388.txt"
+ },
+ {
+  "id": "0336",
+  "group": "R5_education",
+  "title": "OPTIONS BUYING vs SELLING _ Mission Options E13",
+  "date": "2021-05-01",
+  "subtype": "education_mission_options",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/0336.txt"
+ },
+ {
+  "id": "0503",
+  "group": "R5_education",
+  "title": "The Story of a Greedy Option Buyer!",
+  "date": "2021-07-30",
+  "subtype": "options_education",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/0503.txt"
+ },
+ {
+  "id": "1172",
+  "group": "R5_education",
+  "title": "Gamma Effect",
+  "date": "2022-08-13",
+  "subtype": "options_education",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/1172.txt"
+ },
+ {
+  "id": "0024",
+  "group": "R5_education",
+  "title": "OPTIONS Trading Basics - Explained with Practical Examples!",
+  "date": "2020-01-03",
+  "subtype": "options_education",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/0024.txt"
+ },
+ {
+  "id": "1254",
+  "group": "R5_education",
+  "title": "Option Buyer vs Seller",
+  "date": "2022-09-18",
+  "subtype": "options_education",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/1254.txt"
+ },
+ {
+  "id": "1614",
+  "group": "R5_education",
+  "title": "The Opportunities that Benefit OPTION BUYERS!",
+  "date": "2023-04-17",
+  "subtype": "options_education",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/1614.txt"
+ },
+ {
+  "id": "2321a",
+  "group": "R6_reg_tax_event",
+  "title": "Government Says F&O TRADING is GAMBLING_!",
+  "date": "2024-06-29",
+  "subtype": "options_education",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/2321a.txt"
+ },
+ {
+  "id": "2740",
+  "group": "R6_reg_tax_event",
+  "title": "OPTION STRATEGY- PUT Ratio",
+  "date": "2025-07-01",
+  "subtype": "strategy",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/2740.txt"
+ },
+ {
+  "id": "0538",
+  "group": "R6_reg_tax_event",
+  "title": "Low-Risk Option Strategy for Current Market Situation - Approx 66% ROI__",
+  "date": "2021-08-19",
+  "subtype": "strategy",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/0538.txt"
+ },
+ {
+  "id": "2442",
+  "group": "R6_reg_tax_event",
+  "title": "Do It Right Now! EASY MONEY Strategy for 2025!",
+  "date": "2024-11-14",
+  "subtype": "strategy",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/2442.txt"
+ },
+ {
+  "id": "2935",
+  "group": "R6_reg_tax_event",
+  "title": "CALL BUTTERFLY Strategy- The Effective Way!",
+  "date": "2025-12-12",
+  "subtype": "strategy",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/2935.txt"
+ },
+ {
+  "id": "1797",
+  "group": "R6_reg_tax_event",
+  "title": "Revealing my WORKSHOP STRATEGY For FREE - The Best Strategy for Low VIX Market!",
+  "date": "2023-07-29",
+  "subtype": "strategy",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/1797.txt"
+ },
+ {
+  "id": "1318",
+  "group": "R6_reg_tax_event",
+  "title": "How Traders Scam You Part 2 #TraderScam",
+  "date": "2022-10-24",
+  "subtype": "regulation_scam",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/1318.txt"
+ },
+ {
+  "id": "1406",
+  "group": "R6_reg_tax_event",
+  "title": "The World's BEST Trader Goes BANKRUPT! What About Us_",
+  "date": "2022-12-17",
+  "subtype": "regulation_scam",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/1406.txt"
+ },
+ {
+  "id": "2923",
+  "group": "R6_reg_tax_event",
+  "title": "600 CRORE Stock Market SCAM!",
+  "date": "2025-12-05",
+  "subtype": "regulation_scam",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/2923.txt"
+ },
+ {
+  "id": "2873",
+  "group": "R6_reg_tax_event",
+  "title": "NEW SEBI rules!",
+  "date": "2025-10-31",
+  "subtype": "regulation_scam",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/2873.txt"
+ },
+ {
+  "id": "1824",
+  "group": "R6_reg_tax_event",
+  "title": "FRAUD + Other Risks in REAL ESTATE Investments!",
+  "date": "2023-08-15",
+  "subtype": "regulation_scam",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/1824.txt"
+ },
+ {
+  "id": "1392",
+  "group": "R6_reg_tax_event",
+  "title": "My STRATEGY Shared in BANGKOK CONFERENCE #Face2Face",
+  "date": "2022-12-10",
+  "subtype": "regulation_scam",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/1392.txt"
+ },
+ {
+  "id": "0844",
+  "group": "R6_reg_tax_event",
+  "title": "TAXATION For Crypto Investing & Trading - After BUDGET 2022!",
+  "date": "2022-02-12",
+  "subtype": "taxation",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/0844.txt"
+ },
+ {
+  "id": "1466",
+  "group": "R7_invest_outlook",
+  "title": "BUDGET 2023_ Abolish These UNFAIR Taxes!",
+  "date": "2023-01-26",
+  "subtype": "taxation",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/1466.txt"
+ },
+ {
+  "id": "0089",
+  "group": "R7_invest_outlook",
+  "title": "SYNTHETIC FUTURES - No More STT, Stamp Duty, Transaction Charges!",
+  "date": "2020-06-13",
+  "subtype": "taxation",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/0089.txt"
+ },
+ {
+  "id": "2231",
+  "group": "R7_invest_outlook",
+  "title": "Indirect TAX TERRORISM in India!",
+  "date": "2024-04-27",
+  "subtype": "taxation",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/2231.txt"
+ },
+ {
+  "id": "0081",
+  "group": "R7_invest_outlook",
+  "title": "TAXATION for Trading Income - Intraday, F&O, Long-Term,...",
+  "date": "2020-06-02",
+  "subtype": "taxation",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/0081.txt"
+ },
+ {
+  "id": "1899",
+  "group": "R7_invest_outlook",
+  "title": "LUCRATIVE MARKET_! My US Market Performance vs World's Top 3 ETFs!",
+  "date": "2023-09-30",
+  "subtype": "investing",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/1899.txt"
+ },
+ {
+  "id": "0143",
+  "group": "R7_invest_outlook",
+  "title": "BULLDEX _ Bullion Index - Gold & Silver FUTURES Trading!",
+  "date": "2020-08-25",
+  "subtype": "investing",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/0143.txt"
+ },
+ {
+  "id": "0026",
+  "group": "R7_invest_outlook",
+  "title": "How to Pledge MUTUAL FUNDS to get Trading Margin _ Collateral",
+  "date": "2020-01-23",
+  "subtype": "investing",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/0026.txt"
+ },
+ {
+  "id": "0895",
+  "group": "R7_invest_outlook",
+  "title": "Happy Mutual Fund Day",
+  "date": "2022-03-05",
+  "subtype": "investing",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/0895.txt"
+ },
+ {
+  "id": "3046",
+  "group": "R7_invest_outlook",
+  "title": "Nifty @ 27000-",
+  "date": "2026-02-27",
+  "subtype": "outlook",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/3046.txt"
+ },
+ {
+  "id": "2856",
+  "group": "R7_invest_outlook",
+  "title": "Nifty @30K, CLARIFICATION",
+  "date": "2025-10-20",
+  "subtype": "outlook",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/2856.txt"
+ },
+ {
+  "id": "2855",
+  "group": "R7_invest_outlook",
+  "title": "Nifty @30K, NO LOSS STRATEGY",
+  "date": "2025-10-20",
+  "subtype": "outlook",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/2855.txt"
+ },
+ {
+  "id": "0070",
+  "group": "R8_options_misc",
+  "title": "MARKET CRASHED - TRUTH Behind Govt's 20 Lakh Crore Package!",
+  "date": "2020-05-18",
+  "subtype": "outlook",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/0070.txt"
+ },
+ {
+  "id": "2994",
+  "group": "R8_options_misc",
+  "title": "BUDGET Strategy 1- Reverse Call Calendar",
+  "date": "2026-01-28",
+  "subtype": "budget",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/2994.txt"
+ },
+ {
+  "id": "0244",
+  "group": "R8_options_misc",
+  "title": "BEST Option Trading Strategies for Budget 2021!",
+  "date": "2021-01-30",
+  "subtype": "budget",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/0244.txt"
+ },
+ {
+  "id": "2887",
+  "group": "R8_options_misc",
+  "title": "Bihar Election and Stock Market",
+  "date": "2025-11-14",
+  "subtype": "election",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/2887.txt"
+ },
+ {
+  "id": "2286a",
+  "group": "R8_options_misc",
+  "title": "Election Result Trading STRATEGY - Once in a Lifetime Opportunity_!",
+  "date": "2024-06-02",
+  "subtype": "election",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/2286a.txt"
+ },
+ {
+  "id": "0116",
+  "group": "R8_options_misc",
+  "title": "DON'T INVEST IN SHARE MARKET BEFORE WATCHING THIS - Beginners Beware!",
+  "date": "2020-07-17",
+  "subtype": "geopolitics",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/0116.txt"
+ },
+ {
+  "id": "0092",
+  "group": "R8_options_misc",
+  "title": "India-China Border Fight_ What Next_ Market CRASH Incoming_",
+  "date": "2020-06-16",
+  "subtype": "geopolitics",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/0092.txt"
+ },
+ {
+  "id": "0845",
+  "group": "R8_options_misc",
+  "title": "Ukraine-Russia WAR - STOCK MARKET CRASH Coming_",
+  "date": "2022-02-13",
+  "subtype": "geopolitics",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/0845.txt"
+ },
+ {
+  "id": "0709",
+  "group": "R8_options_misc",
+  "title": "We Tried FUTURES & OPTIONS in CRYPTO and Made 45% ROI in 1 Month!",
+  "date": "2021-12-04",
+  "subtype": "crypto",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/0709.txt"
+ },
+ {
+  "id": "0921",
+  "group": "R8_options_misc",
+  "title": "High Reward BITCOIN Trading Strategy! (April Expiry)",
+  "date": "2022-03-19",
+  "subtype": "crypto",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/0921.txt"
+ },
+ {
+  "id": "0048",
+  "group": "R8_options_misc",
+  "title": "INDUSIND Bank Earnings Trade - Sharing My Strategy in Advance!",
+  "date": "2020-04-26",
+  "subtype": "earnings_trade",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/0048.txt"
+ },
+ {
+  "id": "0120",
+  "group": "R8_options_misc",
+  "title": "ITC Earnings Trade Option Strategy_ Upto 20% PROFIT or 5% DIVIDEND",
+  "date": "2020-07-23",
+  "subtype": "earnings_trade",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/0120.txt"
+ },
+ {
+  "id": "0077",
+  "group": "R8_options_misc",
+  "title": "How I Made \u0393\u00e9\u256376 LAKHS in 2 Months - My TRADES in May 2020!",
+  "date": "2020-05-29",
+  "subtype": "pnl_review",
+  "path": "/home/ubuntu/repos/prs_analysis/book/corpus/0077.txt"
+ }
+]

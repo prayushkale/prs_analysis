@@ -1,0 +1,34 @@
+You are an analyst extracting structured data from transcripts of an Indian stock-market trading educator for an anonymized book. Rules: (1) NEVER output the speaker's real name or any identity string - where you see one, note it in `leaks` only. (2) Apply these transcription corrections when interpreting (do not echo the errors): gif nifty/GIF-50/GIFT->GIFT Nifty (SGX Nifty only pre-Jul-2023) | Sabi/CB/semi/say B->SEBI | RBA->RBI |
+FAs/FIA/FAS/F&I/APIs/FA->FIIs | DAAs/DAI's/DIA->DIIs | Bagnifty/Bang nifty/Bagniti->Bank Nifty | if-in-nifty->FinNifty |
+global queues->global cues | stock covering->short covering | shorter up->shot up | MSA->MSCI | CPA->CPI |
+Wix/weeks/Bix->VIX | Toji->Doji | ICSA->ICICI Bank | Industin/Indus and Bank->IndusInd | Quotac/Kotaik->Kotak Bank |
+trunk->Trump | gargle war->Kargil war | pull-up attack->Pulwama | hidden bar/Hind bet->Hindenburg | Lull Street->Dalal Street |
+taxbeddy->TaxBuddy | 'Delta dot exchange' variants->Delta Exchange | Struggles->straddles | piano->P&L | bees/BeES->ETF (e.g. Nifty BeES). (3) Be factual - only what the transcript says; mark uncertain numbers.
+
+Read each transcript below IN FULL (read tool). For EACH, emit exactly ONE line of JSON (no markdown fences) with schema:
+{{"id":"...","date":"YYYY-MM-DD or null","type":"pre_market|post_market|weekly","summary":"<=50 words: what happened in the market and what the speaker focused on","levels":{{"nifty":null,"banknifty":null,"vix":null,"fii_cr":null,"dii_cr":null}},"events":[{{"claim":"specific factual market/policy/corporate event asserted with numbers/dates","verify":true/false}}],"lessons":["<=25 words each, max 2, only if a real transferable lesson"],"quote":"optional <=30 word verbatim-style cleaned quote or empty","dup_flag":"if content is essentially a repeat of an adjacent date, note the repeated topic","leaks":["verbatim identity/promo strings spotted"]}}
+`levels`: only values explicitly stated (numbers in crore for fii/dii). `events`: 0-4 items, only concrete verifiable claims (index moves with dates/levels, policy changes, corporate events, macro data, wars, fraud cases). No generic market states.
+
+WRITE all JSON lines to the file /home/ubuntu/repos/prs_analysis/book/analysis/batch_weekly_095.jsonl (one per transcript, in order). Then return a 5-line digest: counts, most notable events, data quality.
+
+TRANSCRIPTS (20):
+- id 0005 | date 2018-10-28 | week_ahead | "Dalal Street Week Ahead - November 1st Week _ 2018" | path: /home/ubuntu/repos/prs_analysis/book/corpus/0005.txt
+- id 0029 | date 2020-04-05 | week_ahead | "Dalal Street Week Ahead_ April 2nd Week _ 2020 _ P R Sundar" | path: /home/ubuntu/repos/prs_analysis/book/corpus/0029.txt
+- id 0032 | date 2020-04-12 | week_ahead | "Dalal Street Week Ahead_ April 3rd Week _ 2020 _ P R Sundar" | path: /home/ubuntu/repos/prs_analysis/book/corpus/0032.txt
+- id 0039 | date 2020-04-19 | week_ahead | "Dalal Street Week Ahead_ April 4th Week _ 2020 _ P R Sundar" | path: /home/ubuntu/repos/prs_analysis/book/corpus/0039.txt
+- id 0047 | date 2020-04-26 | week_ahead | "Dalal Street Week Ahead_ April 5th Week _ 2020 _ P R Sundar" | path: /home/ubuntu/repos/prs_analysis/book/corpus/0047.txt
+- id 0055 | date 2020-05-03 | week_ahead | "Dalal Street Week Ahead_ May 1st Week _ 2020 _ P R Sundar" | path: /home/ubuntu/repos/prs_analysis/book/corpus/0055.txt
+- id 0062 | date 2020-05-10 | week_ahead | "Dalal Street Week Ahead_ May 2nd Week _ 2020 _ P R Sundar" | path: /home/ubuntu/repos/prs_analysis/book/corpus/0062.txt
+- id 0069 | date 2020-05-17 | week_ahead | "Dalal Street Week Ahead_ May 3rd Week _ 2020 _ P R Sundar" | path: /home/ubuntu/repos/prs_analysis/book/corpus/0069.txt
+- id 0074 | date 2020-05-24 | week_ahead | "Dalal Street Week Ahead_ May 4th Week _ 2020 _ P R Sundar" | path: /home/ubuntu/repos/prs_analysis/book/corpus/0074.txt
+- id 0079 | date 2020-05-31 | week_ahead | "Dalal Street Week Ahead_ June 1st Week _ 2020 _ P R Sundar" | path: /home/ubuntu/repos/prs_analysis/book/corpus/0079.txt
+- id 0083 | date 2020-06-05 | week_ahead | "June 1st Week Market Report by P R Sundar - Support & Resistance" | path: /home/ubuntu/repos/prs_analysis/book/corpus/0083.txt
+- id 0085 | date 2020-06-07 | week_ahead | "Dalal Street Week Ahead_ June 2nd Week _ 2020 _ P R Sundar" | path: /home/ubuntu/repos/prs_analysis/book/corpus/0085.txt
+- id 0090 | date 2020-06-14 | week_ahead | "Dalal Street Week Ahead_ June 3rd Week _ 2020 _ P R Sundar" | path: /home/ubuntu/repos/prs_analysis/book/corpus/0090.txt
+- id 0096 | date 2020-06-21 | week_ahead | "Dalal Street Week Ahead_ June 4th Week _ 2020 _ P R Sundar" | path: /home/ubuntu/repos/prs_analysis/book/corpus/0096.txt
+- id 0101 | date 2020-06-28 | week_ahead | "Dalal Street Week Ahead_ July 1st Week _ 2020 _ P R Sundar" | path: /home/ubuntu/repos/prs_analysis/book/corpus/0101.txt
+- id 0107 | date 2020-07-05 | week_ahead | "Dalal Street Week Ahead_ July 2nd Week _ 2020 _ P R Sundar" | path: /home/ubuntu/repos/prs_analysis/book/corpus/0107.txt
+- id 0113 | date 2020-07-12 | week_ahead | "Dalal Street Week Ahead_ July 3rd Week _ 2020 _ P R Sundar" | path: /home/ubuntu/repos/prs_analysis/book/corpus/0113.txt
+- id 0118 | date 2020-07-19 | week_ahead | "Dalal Street Week Ahead_ July 4th Week _ 2020 _ P R Sundar" | path: /home/ubuntu/repos/prs_analysis/book/corpus/0118.txt
+- id 0123 | date 2020-07-26 | week_ahead | "Dalal Street Week Ahead_ July 5th Week _ 2020 _ P R Sundar" | path: /home/ubuntu/repos/prs_analysis/book/corpus/0123.txt
+- id 0128 | date 2020-08-02 | week_ahead | "Dalal Street Week Ahead_ August 1st Week _ 2020 _ P R Sundar" | path: /home/ubuntu/repos/prs_analysis/book/corpus/0128.txt

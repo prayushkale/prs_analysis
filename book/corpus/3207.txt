@@ -1,0 +1,214 @@
+Hi, this is Pierre Sundar, welcome to this special episode where we are going to talk about
+the good days are coming for the option traders.
+This option traders, I can tell you, it's a very, very pathetic lot.
+The security transaction tax has been increased, I think approximately about eight times in
+the last 10 years and the security transaction tax every time increases for option writing.
+I think in the last 10 years, STT has been increased eight times, I think.
+So that's one thing.
+Second thing, there are a lot of changes with the SEBI rules and regulations.
+Changes are always good, but the thing is, there must be predictable changes.
+The changes must be for good.
+And when the changes comes, how should I put it?
+The job of the regulator is to make sure that the people go towards the lower risk and
+people do not take high risk.
+And say for example, if somebody is holding a stock in the portfolio and if he's selling
+a call option, so that is called covered call.
+So if the price goes higher, he's going to give the delivery of the shares, but he's
+paying a full margin, span margin plus expression margin.
+On the other hand, somebody who is doing a speculation, he does not have any share.
+He thinks that the price will not go higher, he won't sell a call option.
+So what he does is a pure speculation.
+And he is also paying span margin and expression margin.
+So the person who is hedging the portfolio, also paying the same margin, the person who
+is doing speculation also paying the same margin.
+So that's a big problem.
+Speculator must pay more margin.
+The person who is hedging his portfolio and he should pay less margin and logically
+you should pay no margin.
+That is how the international system works.
+And here, unfortunately, the hedging, it comes with a cost.
+So that's number one.
+Number two, mostly, the people say whether can not be predicted, but seasons can be predicted
+right.
+Let us say I'm just giving an example.
+So if I buy a stock for 1000 rupees, if it goes to 1500 rupees, I get 50% appreciation,
+I'm willing to sell.
+But I don't want to sell if 50, 60 rupees higher, 5, 6% higher.
+The problem is that if I hold the stock at 1000 rupees, if I want to sell 1500 call
+option, probably it may not be trading or even if it is trading, it might be trading at
+10 by 20 pesos.
+So what is the point?
+But in India, stock options are trading only for three months, current month, next month
+following month.
+Whereas index, nifty and bang nifty, they trade for one year, nifty trades up to 5 years
+also.
+But although 5 years, but there is no liquidity in the 5 year options and one year options
+is very, very liquid.
+So the sebi should consider introducing a yearly option even for stocks.
+And say for example, I did speculation only, but I did not do hedging.
+Look at the NVIDIA shares, it is trading around $200 and then the market cap is about
+$35 trillion in US.
+And one year away, that means up to December and 300 call option was trading around $15.
+I thought $200 to $300, that's a 50% increase in the price.
+At that point of time, NVIDIA was the number one stock in the world, commanding a $5 trillion
+market cap.
+I thought $5 trillion to $7.5 trillion, probability is very, very low.
+So I sold a call option, around $15.
+I think after five, six months now, I think it has come down to $45 only.
+Although it's a speculation, but this is a not like an intraday player, you know.
+So this is a very, very low speculation.
+So introducing long term options in stocks is a good idea.
+I think now it is under say, be consideration on top of each, those who are holding the
+portfolio, the margin should not be charged.
+The margin should be zero, because there is a zero risk and then it should be zero margin.
+Okay, maybe recently I've come across an article, let me show you, there's a many control
+article few days before, CB may overhaul equity derivative system, less margin for risk-defined
+strategies that we'll discuss later, incentive for one year F&O contract.
+This is only sources, this is not a confirmed news, this is just a source.
+Now that is what exactly we are going to talk now.
+So as per that news report, so what are the things
+under consideration?
+So one is that they said, no, the CB is actively considering a long term options even for stocks.
+So that is really good.
+So number one, long term options, early contracts should come for stocks also.
+And for those who are hedging doing a covered call, the margin should be zero.
+So this is our wish.
+Now, the second one, in India, many people are trade with a lot of speculation, in case
+of some black swan event, market crashes 20%, 30%, the loss can be unlimited.
+So therefore, in many markets, the brokers do not even allow you to take unhaged positions.
+It will be compulsory for you to hedge your positions.
+So here, there must be a discipline.
+So every cell position should have a corresponding by position so that the maximum loss is limited
+and then that maximum loss is limited and the margin should be equivalent to the maximum
+risk.
+Now let me tell you how the margin system works in India.
+So let us say you are selling a 24,500 call option, your span margin may be 1 lakh plus
+and Expression margin is 2% of the contract size.
+So I think the Expression margin is somewhere around 31,200 something like that.
+That's exactly 2% of that total contract value.
+If Nifty is trading around 24,200, 24,200 into 65, that's a total contract size, 2% of
+that.
+So that's a fixed one.
+Now, span margin may be more than 1 lakh.
+So if you are doing a speculation and if you take your position without hedging, suppose
+you do with the hedging.
+Say for example, you are selling 24,500 call, buying 24,600 call.
+So sell 24,500, buy 24,600, so what is a maximum risk?
+Maximum loss can be only 100 rupees.
+If Nifty settles down between 24,500 and 25,600, you will lose.
+Anything beyond 24,600 by option will take care of you.
+So here the maximum risk for you is only 6,500 rupees, 100 rupees into large size 65.
+So the maximum risk is 6,500, so span margin will be 6,500.
+So for all the risk defined strategies, the span margin is equal to the maximum risk.
+That is how the system works everywhere in the world.
+But the problem in India, if you sell 24,500 and buy 24,600, the maximum risk is 6,500,
+it is not even 6,500 and by selling 24,500 call option, you will collect some premium.
+By buying 24,600 call option, you will be paying some premium.
+So the difference will be about 25 rupees will be with you.
+So therefore your maximum risk is not even 100 rupees, your maximum risk is only 100 rupees
+minus the net premium you collected.
+So let us say 75 rupees.
+So 75 into 65 is about 5,000 rupees.
+So your maximum loss is 5,000 rupees.
+So span margin is 5,000 rupees only, but exposure margin, you still have to pay 2%.
+That is about 32,000.
+And see the logic, your maximum loss is 5,000, but you end up paying 37,000 as the margin
+money.
+5,000 is the maximum risk span margin plus 32,000 is the exposure margin.
+So now there is a report that says of course it is a source based information.
+So for all the risk defined strategies, so this exposure margin of 2% may be reduced
+to 1%.
+Logically it should go to 0, but at least something is better than nothing.
+So instead of 2%, if they bring down to 1%, so at least that will save about 16,000
+rupees per lot for the option rate test.
+So this is one thing.
+Now let us say somebody selling a call option, you pay the full margin, span margin plus
+exposure margin.
+Another guy sell put option, he also pays span margin plus exposure margin.
+Let us say the same person selling both call and put, he doesn't have the risk on both
+the sides, he has risk only on one side.
+So one side only will pay the span margin.
+Other side span margin will be 0 because you have the risk, market can go up or can go down,
+it cannot go both the sides.
+So that is how the system works everywhere in the world.
+You sell a call option and then you sell a put option.
+So you pay the span margin only on one side, other side span margin is 0.
+But the problem in India, span margin is 0, but you pay exposure margin for call sale
+also, you pay the exposure margin for put sale also.
+Say I give you this example.
+Let us say somebody selling 24500, buying 24600 and then selling 23500, buying 23400.
+So effectively he will collect about 25 rupees premium on the higher side, 25 rupees premium
+on the downside.
+So he will collect a net premium of 50 rupees.
+No matter where market goes, his maximum loss will be only 50 rupees, maximum loss is
+100 rupees, but 50 rupees is the premium collected.
+So maximum loss is only 50 rupees.
+So that means your maximum loss is only 3000 rupees.
+But you pay span margin, that is equal to the maximum risk.
+And plus you pay one exposure margin on the upside, one exposure margin on the downside.
+You pay double exposure margin that takes the margin to 64000.
+That's a maximum risk of 3000, whatever it is, is 67000.
+You are maximum risk is 3000 rupees and you pay 67000 rupees as the margin many.
+So you are paying 10 times 12 times more than the maximum risk.
+Whereas the option buyers, they don't pay anything.
+Their maximum risk is 5000 rupees, they just pay only 5000, nothing else.
+So why an option writer with a maximum risk of 3000 rupees should end up paying 67000
+rupees?
+So this anomaly coming becomes of this exposure margin.
+So maybe with the new system, instead of 2% on the call side and 2% on the put side,
+it may be 1% on the call side, 1% on the put side.
+But here, what we would like to suggest to Sabi, if a person is taking both call and put,
+so he pay the span margin on only on one side.
+So the same way, Sabi should charge exposure margin also only on one side, they should not
+charge on both the sides.
+So at least that can save money.
+So instead of 2% upside and 2% downside, they should charge only 1%, 2%.
+Of course, with the revised proposal, if it is brought down to 1%, so they should charge
+only 1%.
+So this is the next suggestion.
+And another good news is that, you know, the same article says, and now, earlier we also
+spoke.
+Earlier, if you trade for options which is expiring more than 9 months, you have to pay extra
+exposure margin, and that is I think about 5%.
+So that is totally unreasonable.
+People who are trading long term options, they are the people who are taking less risk.
+And they should not be charged more margin money.
+And then, you know, they said, people are doing a lot of speculation in intraday, so we
+increase exposure margin by 2% for intraday, okay, fine.
+So the research says, the data says, too many people getting into intraday trade, so the
+data wants to charge extra margin for intraday trade is fine.
+But check how many people trade long term options.
+And I tell you, 99% of people who are trading long term options, they are my workshop participants,
+because I concentrate more on long term options.
+So now, this next report says, now, more than 9 months, it's a extra margin money.
+So that may be changed to more than 13 months, you pay the extra margin money.
+That means up to 1 year, those who are taking 1 year view, 1 year option.
+So they pay the normal margin money.
+So if that comes, so that is another good news.
+So now, because of so many changes, you know, this prop desk leverage is stopped and this
+is on that, you know, our markets tend to be very, very volatile.
+Since April 1, you can see very clearly, number 1 markets are very volatile.
+Some small buying, you know, intraday market shoots up, some small selling, intraday market
+crashes.
+You know, most of the time, the buy and sell, you know, what they call it as impact cost
+is so high that typically 10 to 12 rupees for nifty, the most traded contract in India,
+not only in India, even in the world.
+So that kind of a problems are coming there.
+So because of that, you know, our intraday volatility is shorter.
+So on the other side, you know, the government should consider reducing the STT to stop all
+these problems.
+But now, for option writers and, you know, some policy changes is really required.
+So that is where we have put our suggestions.
+Number 1, long term options should be introduced to our stocks.
+Number 2, for those who are holding the stocks, if they're selling a call option, the margin
+money should be zero.
+And exposure margin should be charged only on one side, not on the, both the sides.
+And stock options should be introduced, like for longer dated maturities.
+So if all these things come, so that will deepen our market strength.
+So let us see what's going to happen in future.
+So let us hope in the next few months, something comes out of Sabi, so we all can celebrate.
+So I hope you enjoyed watching this video.
+Thank you for watching.
+Thank you.
+Bye.
+Bye.

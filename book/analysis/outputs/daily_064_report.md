@@ -1,0 +1,13 @@
+# Batch daily_064 Report — 25 transcripts (ids 2311a–2326b)
+
+## Digest
+- **Records:** 25/25 analyzed, one JSON line each → `book/analysis/batch_daily_064.jsonl` (25 valid JSON lines, schema-conformant).
+- **Coverage:** 13 pre-market, 11 post-market, 1 mixed-window pre/post pair; dates 24 Jun–3 Jul 2024 and 23 Aug–2 Sep 2024 (two interleaved market weeks: post-election breakout week and post-yen-carry recovery week).
+- **Most notable events:** Bank Nifty +3,000 pts in six sessions (late Jun) vs +300 Nifty; Jun-25 breakout with 140/180 pts from 3 banks; June series expiry +1,500 (Nifty)/+4,000 (BN); Jio tariff hike (30 Jun–1 Jul); Reliance 1:1 bonus at AGM 29 Aug with ~1,000-pt expiry swings; Nifty record closes ~25,010→25,150 (26–29 Aug); NVIDIA results risk (28 Aug) and -7% "priced to perfection" fade; HDFC Bank FII holding <55% → MSCI-weight inflow expectations (2–3 Jul); India Q1 FY25 GDP 6.7% vs 8.3% yr-ago (30 Aug); 10-IPO week with SME 12-crore ask drawing ~5,000 crore; UPS cabinet approval (24 Aug).
+- **Data quality:** Good. ASR garbles corrected per dictionary (FIA/FAs→FIIs, DAAs→DIIs, gif nifty→GIFT Nifty, Bagnifty→Bank Nifty, ICSA→ICICI, Quotac→Kotak, Jackson Bulls→Jackson Hole, weeks/Bix→VIX, Struggles→straddles, shorter→shot up). Numerals were mostly intelligible; uncertain figures flagged with verify:false (e.g., OI-concentration claims, personal positioning disclosures, Dec-2024 straddle pricing).
+- **Date note:** Task manifest listed 2320a as 2024-07-01; authoritative metadata title ("Post Market Report 28-Jun-24") and internal evidence (Friday session, US PCE "tonight", week wrap, Airtel sell-on-news) confirm **2024-06-28** — used in the record.
+- **Personal-position disclosures kept generic:** synthetic long + Dec 26,000 put (2315a), 25,000/26,000 Dec call ratio (2320b), 24,850 PE/25,250 CE expiry strangle (2319a), Bank Nifty 50,000 short straddle (2318a leak) — recorded as content, no identity linkage.
+- **Leaks logged:** sponsor variants (Delta.exe/Delta Data Exchange/indelta.itChange), workshop promos (Mumbai/Chennai/Bangalore/US-markets, workshop.prsunder.com), name garbles (Pia/Pierre/Piers/P.S./P.A. Sundar), TV-channel appearance, "my friend Sharad", Tamil movie reference, marriage functions, standard outros — all captured verbatim in `leaks` per record for the banned-terms sweep.
+
+## Verification queue contributed
+~55 concrete event claims (verify:true), highest value: Reliance 1:1 bonus (29 Aug 2024), UPS approval (24 Aug 2024), Jio tariff hike (1 Jul 2024), HDFC Bank MSCI/FII<55% trigger (Jul 2024), Om Birla speakership (26 Jun 2024), Q1 FY25 GDP 6.7% (30 Aug 2024), NVIDIA results -7% (28 Aug 2024), Jun-2024 series Nifty +1,500/BN +4,000.

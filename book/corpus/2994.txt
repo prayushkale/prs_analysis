@@ -1,0 +1,207 @@
+Hi, this is Pierre Sundar, welcome to this special episode where I am going to talk about
+a strategy for budget. Okay, there can be no special strategy for budget. What do we expect? So,
+if you are expecting markets to make a bigger move, then some strategy we can think of, but whether
+that strategy, you know, whether that expectation of budget, the bigger move, is it expected on the
+higher side or lower side. So, we are expecting some good news, we are expecting some measures to
+related to stock market, either it can be STT or it can be capital gain tax, long term, short term,
+or something. So, if they do something, then the markets can see a significant rally,
+or if they fail to do anything, then the sentiment can turn more bad, the market can fall
+drastically also. So, either upper dome, it's going to make a big move, especially if there is a
+rally pre-budget. See, in the month of January, the nifty broke 25,000, two times on the downside,
+and then recovery. So, assume that there is some more recovery for the next few trading sessions.
+And then, you know, in the month of January, the range was 25,000 on the downside and 26, 400 on
+the upside. So, let us say, nifty come and close somewhere in between before the budget.
+Then, it can go higher also, it can go lower also. But if you look at the volatility index is shorter,
+you know, more than 60% in the last few trading session.
+In the beginning of January, I remember volatility index was around 9.19.2 that has gone up to
+15 now. So, that is about, you know, in percentage term, that's about 65% rally.
+So, because of that, the option premiums are ultra high. What happens normally, if the people think
+that market is not going to make a big move, what people will do, they will go and sell call,
+as well as sell put. But they call it as a short straddle. But now, the short straddle premiums
+are really very, very high. But market can make even a bigger move. So, that people who are selling
+short straddle, they might be losing, they are afraid. But then, as I said, these people always say,
+sir, can we do the opposite? The opposite of short straddle is long straddle. That means you buy
+call option also and buy put up also. So, in case market may get violent move on either side,
+so you will make some profit. Maybe I can just show you, if you look at this option chain,
+if I look at option chain for the month of February, nifty, I think it closed around 25-200
+a day, look at the 25-200 call and put both. So, it's a 500 plus 300, almost 900 points.
+So, if you go and sell this both, you will make some profit as long as nifty is not making more than 900
+points or downbow. That's roughly about 4%. But I tell you, the possibility of a more than 4%
+more is very, very high because of the budget. Okay, can we do this strategy after the budget?
+After the budget, go and check the straddle price. Okay, it will come down to 500-600 rupees.
+But we don't know where the market will be after the budget. After the budget, maybe market may be
+at 26,000, the 26,000 call and put will not be trading at 900 points. So, this huge premium
+is built for the budget. Okay, market is expected to make a big move. So, why not we buy both options?
+But you buy both options. Now, you are paying 900 points, which means that you have to make more
+than 900 point move must come in the nifty, then only you can make some profit. Otherwise,
+this is going to be difficult because for one other reason, you know, market is not making a
+big move. As I told you, people are not expecting anything good from the budget. So, even if there is
+no good thing in the budget, market may not like clear to fall bigger, maybe 200-300 point fall,
+then it may stabilize. Then in that case, also IV will collapse. So, this will result in loss.
+So, therefore, doing straddle, strangle, kind of things is not a good idea during the budget.
+Now, for that, I am giving you another strategy. So, look at this strategy. So, if I am buying
+a 25,000 call option, expiring in February 3, because February 1 budget markets are not
+likely to make a big move. So, if one buys 25,000 call option in February series,
+so that is trading at 440 rupees, I think this software is taking a weighted average price.
+That is why it is showing 420. So, 420 is a nice number. Then, if you buy a call option,
+so you pay almost 440 rupees. So, for one lot, how much you pay? 440 rupees into 65. So,
+you are paying almost 30,000 rupees from your pocket. So, that is a big money. So, you buy this call
+option. What will happen? The general expectation is that the budget is going to be good.
+The market is going to rally. So, if that rally comes, this 440 may go to 5600-700-700,
+depending upon how much market rallies. I can tell you, if there is a very good budget,
+the possibility of all 10 high is very-very high. Because right now, market is trading at all time
+high in US, all 10 high in South Korea, all 10 high everywhere. But why India cannot go to all 10 high?
+There is a good budget. So, in that case, you know, this 400 rupees can go to 1500 plus,
+three times, four times also. But what is the negative thing about this buying in this call option?
+For one or the other reason, if your view goes wrong, if the budget is not good,
+or even if the budget is neutral, the market not going down also, market not going up also,
+market consolidates, then IV will collapse. So, this premium will collapse. So,
+what happens, you know, you will in case market falls and closes below 25,000. So, your entire premium
+will be wiped out. So, you will lose entire 28,500 rupees. That will be a very-very big loss. So,
+in start market, always remember one thing. As and when you take a position,
+you know, so you analyze, what is my big positive point? What if my view goes right?
+Yeah. So, what if your view goes right? How much profit you make? Okay, you can be happy about that.
+But at the same time, you also have to think, what if my view goes wrong? And how much money I can lose?
+You can't afford to lose 30,000 rupees per lot. If you are doing 10 loss, it will be 3 lakh rupees.
+So, there will be a big loss. So, what to do? So, we have to do some kind of an adjustments.
+So, what if the same person go and sell 25,000 call-option,
+expiring in December, 2026, buying 25,000 call-option in the current week and then selling 25,000
+call-option in the December series. So, that is trading around 2340. Again, this is weighted
+average price, not showing accuracy. So, what happens? Buying an option at 25,000, selling
+an option 25,000, but in a different expiry. So, this is called call calendar. So, usually in call
+calendar, what the people do? Call calendar people sell the call in the current month by the call
+in the format. But this is exactly opposite of that. So, this is called reverse call calendar.
+Buying a call for the current week, selling the call for December week. Now, look at the pay of
+charge. If the markets make a violent move, either upside or market make a violent move on the
+downside, in both cases, you have unlimited profit. Although, it is showing unlimited profit,
+okay, there is a limit. But they say, profit, you know, will be limited, not maybe because you are
+one by one. So, how can you be having a unlimited profit? But there will be a decent profit.
+And you can look at the blue line. So, blue line is called
+30 plus 0 line. That means, you know, if you have taken position yesterday, today what is going to
+happen? If the market moves up or down, what will be your MTA laws? Positionally, you know, at the end
+of the expiry, that is on the third of February. So, your maximum loss will be about 16,000 rupees.
+That is a 6% of your capital, right? But if you look at the blue line, now when the market
+goes higher and higher, your blue line and green line is almost the same. So, that means,
+as of third expiry or tomorrow, your like if the market make a significant move,
+you are going to have a similar profit. But if you look at the short term, the day you take
+or one day away, you know, you look at the blue line, no matter how much market moves,
+the loss is not very big, loss is very, very, very small, right? So, you can see, you know,
+the blue line is only very, very like 100 rupees loss, something like that. So, that means,
+when you take a position, you know, even if the market goes sideways, you know, your loss is not
+going to be very big, because nobody very, very, very minimal. But if you hold on to the position
+until method, the market goes sideways, then there may be a big loss. But again, this is a strategy,
+expecting some big move on budget day, I think one should come out of the market on the budget day.
+So, you have to exit the positions on budget day, right? Now, some pros and cons.
+The first thing is that margin money is a very big, 2.68 lakh. The premium net credit is about
+1,000,000,000. So, actually the margin is shown here is a total margin. But the next day,
+this premium will be credited into a account. So, factoring in that, so your margin money is about
+roughly about 1,000 of lakh rupees. But again, I do not know how far these software are showing
+correct numbers. Bigger disadvantage is that if somebody want to sell a call option
+for the December series, because it is more than 9 months away, so there is some extra margin money.
+I will show you. Suppose, this selling of option instead of doing it in the month of December,
+so if I do it in the month of June,
+so in the month of June, same 25,000 call option you sell.
+Okay, I remove this December. Okay, so now, buy the call option for weekly expiry and sell the call
+option for June series. You see, now the margin is only 92,000. Earlier, it was showing 2.68 lakh.
+Even after factoring in the premium also, so the net margin was around 1.5 lakhs. But now,
+the net margin is only about 30,000. 92,000 must be there in your account, then only the order will go.
+And that is called required margin. And then end of the day, this 62,000 rupees will be coming
+back to your account. So, the final margin will be 92-62, that's about 30,000 rupees.
+So, if people have a small capital, you still want to take a risk,
+you know, one can apply this strategy instead of selling in December series, one can sell in
+June series. But I prefer to sell in December series rather than in June series, because in case
+markets move very, very violently, it goes to 27,000 and above. Okay, I will know how to manage
+this 25. This will give a huge profit, but this will give some loss. But then, you know,
+all of our adjustment tricks kicks in. So, we will do something, so that we will capture the full
+profit and the buy option. The sell option, we will try to come out with minimum loss or,
+you know, no loss, no profit, or we will try to make some profit. You know, that becomes in a very,
+very big complicated thing. So, for the time being, I avoid that. So, in our workshop, so that is
+what we discussed. So, we take a two position, one position give profit, other position give loss,
+the profit position we want to continue, the last making position, we want to somehow,
+we want to minimize the loss and so many things. So, other is this video will take two days,
+maybe as my workshop is for two days. But in a nutshell, you can see in the market most
+violently up or if the market move violently down also, you are making profit. If the market goes sideways,
+you will lose something, but you are not going to lose very big unless you are holding on until
+the expiry. So, I think, you know, until Friday. So, if you have too much concern, one can take
+this strategy on Friday also. Sunday is the budget. So, you can see the T plus one, T plus zero line,
+blue line and the red line. So, today, you have learned something new. Number one, a strategy,
+you know, that is called reverse call calendar. And number two, you know, if you take the maximum
+loss here, it's ranked 16,500. So, 16,500 is a maximum loss, right, divided by 65. The lot
+size is 65. So, maximum loss is only up to 50 rupees. But in case, if you take a short straddle,
+just know I show you, at the many short straddle, it was trading around 900 rupees for February series,
+or even if you look at that weekly series, and 25,200, you know. So, it is about around 500 rupees.
+For one other reason, market goes to this one, or maybe I can just show you,
+if you do on third February, so, if you do 25,200 straddle,
+sell and sell. And you can see, like, the loss is unlimited, but profit is limited.
+And so, that is the drawback in short selling. But instead of short selling, suppose you buy
+okay, you know, flip position. So, if you buy both options, so, in case market goes sideways,
+you will lose 32,000. So, in this strategy, maximum loss is showing 16,000, that
+if you look at the payoff chart and the blue line, you know, this maximum loss can come only
+if you are holding on to the position until expiry. Of course, the same logic applied here also,
+but here, the possibility of loss is more double the maximum loss.
+So, therefore, this strategy, and this strategy is more or less the same.
+And here also, T plus 0 line is showing similar to that only. So, therefore, you know,
+reverse call calendar, and this one, long straddle, that means, buy both call and pull.
+So, they both are more or less the same payoff chart. But only thing is, in the reverse call calendar,
+the maximum loss is half of the maximum loss of this long straddle.
+So, why the reason is very simple? Because of expected move, expected big move on budget day,
+the premiums are high. So, therefore, the premium that you are paying from your pocket is 32,000.
+So, that can be the maximum loss. But how come the maximum loss is less in reverse call calendar,
+because the volatility is very, very high. The option premiums are very, very high.
+Because option premiums are very, very high, your buying option also, you are paying more money,
+but your selling option also, you are receiving more money. So, that is the trick.
+Now, I will come back to one more thing. So, instead of selling this option in June series also,
+forget about that, you just sell in the monthly series, that is February 24.
+So, 25,000 call you sell.
+Now, you look at the pay of chart. So, maximum loss is coming even lower.
+So, your maximum loss will be coming lower and lower, no, if they buy and sell the time distances less.
+Of course, maximum profit will also be, it is not going to be very high.
+Okay, that is okay. Even if you are making a profit of 10,000 rupees, but look at the margin money,
+the margin money is around 44,000. So, your maximum profit is about 30%, maximum loss is also around
+32%. So, the risk and reward is almost one is to 1. So, the point here is that you buy an option
+for the current week, sell a option. That selling of an option can be at the end of February also,
+end of June also, end of December also. But what is the difference? Why am I confusing? I'm not
+confusing. It is a risk reward. So, buy for current week, sell for current week monthly.
+Okay, your maximum loss will be less, but your maximum profit will also be less.
+But instead of that, if you do the June series, maximum loss will be slightly higher,
+maximum profit will also be higher. See here, in the current week and current month,
+the maximum profit is 13,000, but here your maximum profit is 62,000.
+Okay, or if you look at the December series,
+okay, your maximum profit is undefined. Of course, when the profit beyond this visible range,
+it will also undefined. Okay, the profit can be more than 22,000 this side and more than
+28,000 this side. So, you know, it is a trade off between risk and reward. So, you want to
+think, if you are more or less sure, 99.9% you are sure, that market is going to make it big
+rarely. Then you will get more profit if you do this one. Buy current week, sell December.
+Of course, the drawback is that you may have to pay more margin money.
+But if you are not really very sure, then, you know, you can go for buying current week, selling
+current month. So, one new strategy I have given you, this strategy is called reverse call
+calendar. So, this strategy is likely to give a very good profit if the market rallies after the
+budget or on the day of the budget. And of course, if your view is totally wrong,
+and then if the market crashes for one or the other reason, and then this can give profit also.
+The problem is, if the market goes sideways, but nowadays even normal days,
+nifty, most 200 to 50 point and budget day, how can it be flat? So, that is a logic.
+So, I promised you some budget strategies. So, I have given one budget strategy. So, remember,
+hope this habit does not come after me. So, this is not a trade recommendation.
+And here, the main purpose is to teach you a new strategy called reverse call calendar.
+In India, 90% of the people do short strangle only. And let me tell you, that is a most dangerous
+strategy among all the strategies in stock market. So, that is why most of the people in India,
+they lose money, short strangle. More than 90, although I don't have the accurate data.
+Now, whenever I contact workshop, people come, I ask them, so there is the hand. So, based on that,
+I'm giving you the figures. But there are some interesting strategies like this.
+Call calendar, put calendar, reverse call calendar, diagonal calendar.
+So, where the risk is less, whether reward is more, and the probability is also good.
+So, that is how we do. I think I'm giving all my workshop content here. I don't know
+whether I will get more people for workshop by saying that this is an excited strategy,
+like this. Sundar will have more strategy. We have already learned here why to attend this workshop.
+So, whatever it is, I've given you a strategy, it's a fantastic strategy.
+Of course, you cannot say, you know, zero risk strategy. So, zero risk strategy,
+although we put, you know, for that clickbait thumbnail. So, there is no such thing called zero risk
+strategy. There is one strategy. It's a zero risk strategy. Put the money and bank
+fixate the deposit, and then don't come to the stock market. So, there is a zero loss strategy.
+Once you come to the stock market, there is risk, and there is reward.
+So, this video is done only for pure educational purpose. So, no intention of asking anybody
+to take this trade. So, if you are taking a trade, so consult your financial advisor.
+See, we always say, you know, consult your financial advisor as a disclaimer.
+But how many people can afford to have a financial advisor by paying the money, okay?
+But anyway, that is a disclaimer. So, we have to give that disclaimer. So, we have given that
+disclaimer. So, hope you enjoyed watching this video. Thank you for watching.

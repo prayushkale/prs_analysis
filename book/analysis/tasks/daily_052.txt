@@ -1,0 +1,39 @@
+You are an analyst extracting structured data from transcripts of an Indian stock-market trading educator for an anonymized book. Rules: (1) NEVER output the speaker's real name or any identity string - where you see one, note it in `leaks` only. (2) Apply these transcription corrections when interpreting (do not echo the errors): gif nifty/GIF-50/GIFT->GIFT Nifty (SGX Nifty only pre-Jul-2023) | Sabi/CB/semi/say B->SEBI | RBA->RBI |
+FAs/FIA/FAS/F&I/APIs/FA->FIIs | DAAs/DAI's/DIA->DIIs | Bagnifty/Bang nifty/Bagniti->Bank Nifty | if-in-nifty->FinNifty |
+global queues->global cues | stock covering->short covering | shorter up->shot up | MSA->MSCI | CPA->CPI |
+Wix/weeks/Bix->VIX | Toji->Doji | ICSA->ICICI Bank | Industin/Indus and Bank->IndusInd | Quotac/Kotaik->Kotak Bank |
+trunk->Trump | gargle war->Kargil war | pull-up attack->Pulwama | hidden bar/Hind bet->Hindenburg | Lull Street->Dalal Street |
+taxbeddy->TaxBuddy | 'Delta dot exchange' variants->Delta Exchange | Struggles->straddles | piano->P&L | bees/BeES->ETF (e.g. Nifty BeES). (3) Be factual - only what the transcript says; mark uncertain numbers.
+
+Read each transcript below IN FULL (read tool). For EACH, emit exactly ONE line of JSON (no markdown fences) with schema:
+{{"id":"...","date":"YYYY-MM-DD or null","type":"pre_market|post_market|weekly","summary":"<=50 words: what happened in the market and what the speaker focused on","levels":{{"nifty":null,"banknifty":null,"vix":null,"fii_cr":null,"dii_cr":null}},"events":[{{"claim":"specific factual market/policy/corporate event asserted with numbers/dates","verify":true/false}}],"lessons":["<=25 words each, max 2, only if a real transferable lesson"],"quote":"optional <=30 word verbatim-style cleaned quote or empty","dup_flag":"if content is essentially a repeat of an adjacent date, note the repeated topic","leaks":["verbatim identity/promo strings spotted"]}}
+`levels`: only values explicitly stated (numbers in crore for fii/dii). `events`: 0-4 items, only concrete verifiable claims (index moves with dates/levels, policy changes, corporate events, macro data, wars, fraud cases). No generic market states.
+
+WRITE all JSON lines to the file /home/ubuntu/repos/prs_analysis/book/analysis/batch_daily_052.jsonl (one per transcript, in order). Then return a 5-line digest: counts, most notable events, data quality.
+
+TRANSCRIPTS (25):
+- id 1983 | date 2023-11-21 | post_market | "NIFTY on way to 20K_ Post Market Report 21-Nov-23" | path: /home/ubuntu/repos/prs_analysis/book/corpus/1983.txt
+- id 1984 | date 2023-11-22 | pre_market | "Pre Market Report 22-Nov-2023" | path: /home/ubuntu/repos/prs_analysis/book/corpus/1984.txt
+- id 1985 | date 2023-11-22 | post_market | "VOLATILE Markets_ _ Post Market Report 22-Nov-23" | path: /home/ubuntu/repos/prs_analysis/book/corpus/1985.txt
+- id 1986 | date 2023-11-23 | pre_market | "Pre Market Report 23-Nov-2023" | path: /home/ubuntu/repos/prs_analysis/book/corpus/1986.txt
+- id 1987 | date 2023-11-23 | post_market | "Consolidation with HUGE Volatility _ Post Market Report 23-Nov-23" | path: /home/ubuntu/repos/prs_analysis/book/corpus/1987.txt
+- id 1988 | date 2023-11-24 | pre_market | "Pre Market Report 24-Nov-2023" | path: /home/ubuntu/repos/prs_analysis/book/corpus/1988.txt
+- id 1989 | date 2023-11-24 | post_market | "Fourth Day of CONSOLIDATION! _ Post Market Report 24-Nov-23" | path: /home/ubuntu/repos/prs_analysis/book/corpus/1989.txt
+- id 1992 | date 2023-11-28 | pre_market | "Pre Market Report 28-Nov-2023" | path: /home/ubuntu/repos/prs_analysis/book/corpus/1992.txt
+- id 1993 | date 2023-11-28 | post_market | "Markets BREAKOUT_  Post Market Report 28-Nov-23" | path: /home/ubuntu/repos/prs_analysis/book/corpus/1993.txt
+- id 1994 | date 2023-11-29 | pre_market | "Pre Market Report 29-Nov-2023" | path: /home/ubuntu/repos/prs_analysis/book/corpus/1994.txt
+- id 1995 | date 2023-11-29 | post_market | "ALL TIME HIGH Tomorrow_ Post Market Report 29-Nov-23" | path: /home/ubuntu/repos/prs_analysis/book/corpus/1995.txt
+- id 1996 | date 2023-11-30 | pre_market | "Pre Market Report 30-Nov-2023" | path: /home/ubuntu/repos/prs_analysis/book/corpus/1996.txt
+- id 1997 | date 2023-11-30 | post_market | "WAIT for All Time High! Post Market Report 30-Nov-23" | path: /home/ubuntu/repos/prs_analysis/book/corpus/1997.txt
+- id 1998 | date 2023-12-01 | pre_market | "Pre Market Report 01-Dec-2023" | path: /home/ubuntu/repos/prs_analysis/book/corpus/1998.txt
+- id 2001 | date 2023-12-04 | pre_market | "Pre Market Report 04-Dec-2023" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2001.txt
+- id 2002 | date 2023-12-04 | post_market | "Nifty is OVER BOUGHT_ Post Market Report 04-Dec-23" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2002.txt
+- id 2003 | date 2023-12-05 | pre_market | "Pre Market Report 05-Dec-2023" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2003.txt
+- id 2004 | date 2023-12-05 | post_market | "Nifty to TOUCH 21K_ Post Market Report 05-Dec-23" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2004.txt
+- id 2005 | date 2023-12-06 | pre_market | "Pre Market Report 06-Dec-2023" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2005.txt
+- id 2006 | date 2023-12-06 | post_market | "NIFTY wait for 21K! Post Market Report 06-Dec-23" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2006.txt
+- id 2007 | date 2023-12-07 | pre_market | "Pre Market Report 07-Dec-2023" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2007.txt
+- id 2008 | date 2023-12-07 | post_market | "SANITY Returns_ Post Market Report 07-Dec-23" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2008.txt
+- id 2009 | date 2023-12-08 | pre_market | "Pre Market Report 08-Dec-2023" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2009.txt
+- id 2010 | date 2023-12-08 | post_market | "NIFTY Kisses 21,000! Will It Breach Again_ Post Market Report 08-Dec-2" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2010.txt
+- id 2014 | date 2023-12-11 | pre_market | "Pre Market Report 11-Dec-2023" | path: /home/ubuntu/repos/prs_analysis/book/corpus/2014.txt

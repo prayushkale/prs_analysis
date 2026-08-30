@@ -1,0 +1,26 @@
+You are an analyst extracting structured content from a SPECIAL-EPISODE transcript of an Indian stock-market trading educator, for an anonymized book with these 31 chapters: 1 why traders lose; 2 anatomy of failure; 3 discipline/process; 4 FII/DII flows; 5 VIX regimes; 6 option chain; 7 microstructure (gaps/expiry/index construction); 8 why derivatives exist; 9 calls and puts; 10 greeks; 11 implied volatility; 12 margins/collateral; 13 short straddles/strangles; 14 spreads & ratio spreads; 15 calendar spreads; 16 butterflies/condors; 17 portfolio hedges; 18 firefighting/adjustments; 19 event playbook; 20 budgets/elections; 21 wars/black swans; 22-25 chronicle 2018-26; 26 retail scams; 27 regulation (SEBI/rules); 28 taxation; 29 investing vs trading; 30 real assets (real estate/gold/bonds); 31 crypto.
+
+Rules: NEVER output the speaker's real name or identity strings (note them in `leaks` only). Apply transcription corrections: gif nifty/GIF-50/GIFT->GIFT Nifty (SGX Nifty only pre-Jul-2023) | Sabi/CB/semi/say B->SEBI | RBA->RBI |
+FAs/FIA/FAS/F&I/APIs/FA->FIIs | DAAs/DAI's/DIA->DIIs | Bagnifty/Bang nifty/Bagniti->Bank Nifty | if-in-nifty->FinNifty |
+global queues->global cues | stock covering->short covering | shorter up->shot up | MSA->MSCI | CPA->CPI |
+Wix/weeks/Bix->VIX | Toji->Doji | ICSA->ICICI Bank | Industin/Indus and Bank->IndusInd | Quotac/Kotaik->Kotak Bank |
+trunk->Trump | gargle war->Kargil war | pull-up attack->Pulwama | hidden bar/Hind bet->Hindenburg | Lull Street->Dalal Street |
+taxbeddy->TaxBuddy | 'Delta dot exchange' variants->Delta Exchange | Struggles->straddles | piano->P&L | bees/BeES->ETF (e.g. Nifty BeES). Only what the transcript says. Genericize personal trades/P&L as content (the numbers may teach), but if a passage is self-promotion/self-defense (business, penalty, family, luxury, travel), list it under exclude_passages.
+
+Read each transcript IN FULL. For EACH, emit exactly ONE line of JSON (no fences):
+{{"id":"...","date":"...","type":"special","title_clean":"cleaned title","summary":"<=60 words","chapter_targets":["chapter numbers, primary first"],"themes":["2-6 short theme tags"],"lessons":["transferable lessons, <=30 words each, max 5"],"strategies":[{{"name":"...","construction":"legs/strikes/quantities","numbers":"premiums/margins/breakevens/returns as stated","best_regime":"when to use","adjustments":"how managed/rescued","risks":"max loss / failure mode"}}],"event_claims":[{{"claim":"factual assertion with numbers/dates","verify":true/false}}],"quotes":["<=30 words cleaned, max 3, only distinctive"],"enhance":["complex topics needing worked examples/tables"],"exclude_passages":["self-promo/identity passages to drop"],"leaks":["verbatim identity/promo strings"],"quality":1-5}}
+If no strategies exist, use []. Event claims: concrete verifiable assertions only.
+
+WRITE all JSON lines to /home/ubuntu/repos/prs_analysis/book/analysis/batch_special_139.jsonl (one per transcript, in order). Then return a 5-line digest.
+
+TRANSCRIPTS (10):
+- id 0966 | date 2022-04-14 | strategy | "TCS STRATEGY Review - 6% RoI IN 2 Days!" | path: /home/ubuntu/repos/prs_analysis/book/corpus/0966.txt
+- id 0967 | date 2022-04-16 | general | "4 HIGHLY Profitable Strategies - Live Trades & Updates!" | path: /home/ubuntu/repos/prs_analysis/book/corpus/0967.txt
+- id 0978 | date 2022-04-23 | strategy | "The Trading Strategy I NEVER Wanted To Share!" | path: /home/ubuntu/repos/prs_analysis/book/corpus/0978.txt
+- id 0990 | date 2022-04-30 | strategy | "ADANIENT Trading Strategy_ -7 LAKHS to +38 LAKHS Through Firefighting!" | path: /home/ubuntu/repos/prs_analysis/book/corpus/0990.txt
+- id 0994 | date 2022-05-03 | general | "INDIA'S Dream of CLEAN TOILETS - Let's Make It Happen!" | path: /home/ubuntu/repos/prs_analysis/book/corpus/0994.txt
+- id 1001 | date 2022-05-07 | crypto | "Long Term BITCOIN Trading Strategy - EASY Money Between 24K to 61K!" | path: /home/ubuntu/repos/prs_analysis/book/corpus/1001.txt
+- id 1002 | date 2022-05-07 | options_education | "Firefighting Gone Wrong_ How I LOST Γé╣1.3 CRORES in HDFC Stock Option" | path: /home/ubuntu/repos/prs_analysis/book/corpus/1002.txt
+- id 1014 | date 2022-05-14 | outlook | "NIFTY Index for Value Stocks! Worth Investing_" | path: /home/ubuntu/repos/prs_analysis/book/corpus/1014.txt
+- id 1026 | date 2022-05-21 | general | "DON'T INVEST NOW BEFORE WATCHING THIS _ Markets Heading Further DOWN_" | path: /home/ubuntu/repos/prs_analysis/book/corpus/1026.txt
+- id 1038 | date 2022-05-28 | general | "Whatever FIIs Bought in 10 YEARS, They Sold in 5 MONTHS" | path: /home/ubuntu/repos/prs_analysis/book/corpus/1038.txt

@@ -1,0 +1,200 @@
+Hi, this is Pia Sundar. Welcome to this special episode. We are going to discuss about the
+story of Jane Street and its impact in stock market.
+And number one, the week before last week, the Friday, the Jane Street was banned from
+trading in India, but just one week later, they said he has come out with the report. They
+saying that the futures and options volume has come down by 21% in just one week time. And
+moreover, now the volume is about the lowest in the last 18 months or 24 months. So definitely
+the interest in futures and options is coming down in India. So that is one thing.
+Now, the major thing is that, you know, the CBCs still last year, 91% of the people have lost the
+money. And before that, they came out of the report saying that 93% lost the money. Another
+6% now, the barely made money to cover their charges. So effectively, only 1% making the profit.
+And now they are saying that about 91% losing the money, but this time, the average loss per user
+is more than the last time. So that means, you know, very small people are out. Slightly bigger
+people are staying here and losing more money in markets. Now, first, let us talk about Jane Street.
+What has happened, sometimes before I conducted a conference in Cochin, so one person from Tamil Nadu
+attended that conference. So in the conference, I said, you know, some ultra-HNI people, so what they
+do, they sell far out of the money options, typically trading at 100 feet. So this guy is actually
+having shares worth more than 1,000 crore. So you'll have a 1,200, 1,300 crore, even after the
+haircut, there will be a value if they are on 1,000 crore. And he sell far out of the money,
+means like the the farthest option. You sell a call option, you know, it may be even trading at
+1 to pee in weekly options. 99.9999% of the time that will go to zero. But very, very rarely,
+you know, what has happened, Nirmala Sitaraman candle. So that day, that 1 rupee option went to
+60, 70 rupees. And of course, you can always put a stop-loss. I sell at 1 rupee, even if put a stop-loss at
+5 rupees, okay, the probability of that 5 rupees stop-loss hit is less than 0.001%, something like Nirmala
+Sitaraman candle, which happens once in 10 years like that. Other than that, you are very safe,
+and you will make that money. So I said, I'll try to make people do, they sell one call option at
+1 rupee, they sell a put option for 1 rupee. And then somebody having a capital of about 100 crore,
+I'm talking about 100 crore trading limit after the haircut. So typically, by selling 1 rupee
+call option, they can collect about 8 lakh rupees per week, and selling put option, they can
+collect another 8 lakh rupees. So 8 lakh plus 8 lakh is 16 lakh rupees per week. So that
+translates into 64 lakhs per month. That's a fantastic money. And the people can say,
+sir, 100 crore, 64 lakhs is only 0.64%. Right? And I'm just giving an example, okay, you bought a
+piece of land, okay. Why you buy the land? Yes, you're expecting the land prices to go up,
+and that is going up. So you're very happy. It's a very empty land. And one day, one tourist
+operator comes, he tells you, sir, I've got 10 cars with me, taxes. Night time, I don't know,
+I don't have a place to keep those cars. Okay, can you please give me that land? Can I park my cars
+in the land? I will give you some rental. And are you going to say, you know, my land value is
+100 crore? So because of that, you give me 10 crore per month as the rental return or 1 crore,
+you're not going to ask. Because the land you bought, so the land is appreciating, so the land is
+yours, you are very happy. And then right now, you know, even you don't agree to this taxi operators
+proposal, you still you're not going to get anything, you're only going to get the land
+appreciation. But this taxes, you allow them to park their cars in the night time here, okay.
+Like even if you get 1 lakh rupees per month, right. You can say, sir, my investment is 100 crore,
+I'm getting only 1 lakh rupees. No, that is not the question. That 100 crore, you did not invest
+in order to get this 1 lakh. That 100 crore invested, you know, that is going to go to 200 crore 3.
+So the same way, these people have bought the shares. So one of my friends who bought shares for
+five lakh rupees, 10 lakh rupees. And now it is about 1,300 crore, okay. And he is very happy. So
+the share investment is making the money. And most of the people who invest the money in shares,
+they are only getting the sharing, you know, appreciation only. By pledging that if you are trading,
+okay, whatever option market you're getting the money, that is an extra money. You cannot calculate
+rate of return or return on investment. Return on investment is okay, but it's not a rate of return.
+So that's why in my first media interview, I said the rate of return for option sales is always
+infinity, because they don't put any capital. All their capital either in bank FD or in,
+you know, equity collateral or debt mutual funds. So, you know, my primary business is not trading.
+My primary business is putting the money in debt mutual funds or equity market or FD.
+So there I'm getting the return. All the people who put the money in FD, they only get the FD return.
+I also put my money in FD. I'm also getting FD return. It's the same. But in addition to that,
+by pledging those FD and I'm getting the limit, I'm trading in stock market. Even if I get one
+to be, that's a very big money for me. So a person getting 64 lakh rupees per month,
+you know, based on a capital of hundreds year, you know, that's a very big money.
+So in fact, the guy who attended my conference is actually having a more than 1000 crore.
+And after learning from me, so he went to trade in markets. But initially he was not confident.
+So he put some small money at 10 crore, 20 crore like that. Okay, I think the story I said
+last week also. And at some point of time, he got into some trouble. So this guy is a genuine guy.
+He's an ultra-low risk taker. Okay, the semi-regulation has come into the picture and he got into the
+trouble. So because the semi-rule says that you cannot short the market for more than 500 CR.
+But had he sold the put up so that problem would have been solved so that we discussed last week.
+Okay, now, there is a clear cut instruction to say that you cannot short the market for more than
+500 CR. That is on a positional basis. I think for an intraday basis also, they have certain limits.
+Now, when there are such rules, how come this Jane Street could buy the options and sell the
+options for 45,000 CR. And then how can they long or short futures for 5,000 CR.
+So here, the problem is that the CB has no clear direction.
+And so somebody selling a call option, it's considered to be short. And then they go and buy
+a put option. So they are considered to be long or buying a put option is also considered to be
+short only. So when the Jane Street sold the call option but the put option, the total value should
+have been more than that. Probably, what Jane Street could have done to bypass this rule,
+they floated different entities. So as much CB report, they had four entities in India.
+Now, the question is, what are the CB rules, you know, the limit? Okay, that should not apply to
+each entity, that should apply to the overall ultimate beneficiary owner. So let me give you an
+example. So our stock market is a funny thing. Last week also, I said, there are so many discrepancies.
+Okay, if I am a sub-broker to one broker, then I cannot become a sub-broker to another broker.
+Forget about it, my company sub-broker with one broker, then I cannot become a sub-broker with another
+broker, because my company is sub-broker with one broker, but the ultimate beneficiary owner of
+the company is me, I'm one of the directors. So this company as well as all the directors of the
+company can never become a sub-broker with another broker. So let us say, you know, the CB come out
+with a rule, you know, like you cannot long or short, more than, let us say, 5,000 crore.
+That should apply to the overall level. But, you know, tomorrow I can float at 10 entities,
+I can float 10 companies, each company 5,000 crore, then I can play with 50,000 crore.
+Then, what is the point of putting the limit? So that actually defeats the purpose.
+So, you know, there is a way, without knowing this rule, actually once I applied to become a sub-broker.
+And actually, it was rejected by NSE, saying that, okay, you are a, your name is here,
+your pen number is this, same number, pen number is associated with another company,
+that company is already sub-broker, so you cannot become. So, Gen State ultimate beneficiary
+owner will be only one person, they can float any number of entities, but the ultimate beneficiary
+owner will be one person or one entity, then how that was allowed. So that is one thing.
+The second thing, the jump of the regulator, last week also I discussed, is to find out the
+mistakes, you know, to remove those mistakes, so that the stock market grows in a healthy way.
+Just because, you know, some people are losing, you know, they can just go and ban everything,
+blanket ban, you know, they keep increasing the margin money, they keep, you know,
+putting pressures on the option sellers. So that's not going to give a good effect actually.
+And I tell you, once again, and all this data so far, Sabi has released, it is a overall data.
+We don't have the data for the option buyers separately and the option sellers separately.
+Right? So, you know, are the people the capital? Of course, you know, how many people, you know,
+there is a new side rate somewhere, the average trading capital of the traders in India is only
+three lakh rupees, but selling one lot of call option and put option already, the margin is around
+two lakh rupees. So, which shows that most of the people, they are option buyers, they are not
+option sellers. So, now you put so much pressure on option sellers, you know, let us say, half of
+the option sellers are out. Then, the demand from option buyers is very high, but option sellers
+supply is very less, so that will increase the premium. So, ultimately, that's going to affect
+the option buyers. So, now, the many questions people ask, and is there any rule that says that
+if you buy option, you sell a option or then you go long or short in future, that is considered
+to be manipulation. So, where is the exact definition? Right? So, somebody, you know, I heard in
+US, even at one second, you just go and place a big order, the order will not go to the exchange.
+The exchange will break that into many components and will send it to the system slowly.
+This is to avoid the manipulation. Yes, somebody like, why should somebody come and sell
+5,000 crore worth of shares in just one second? Right? So, then a exchange can stop it,
+can exert maybe every 10 seconds, you know, under a crore orders going, then there's no problem.
+So, you know, in just exactly in one second, at the same time, for what amount people can sell,
+that will not be considered as a manipulation. Now, if they have a certain position in options,
+what percentage of that position they can sell or buy in futures? So, we need exact definition.
+So, what is that definition exactly? So, what is the amount? So, that is one thing.
+Second thing, as per SEBI report, Jane Street seems to have manipulated only the benefit.
+Why? It's very, very easy to manipulate the benefit because, you know, if I'm not wrong,
+HDFC Bank, ICC Bank, Access Bank and State Bank. There are only 12 stocks in index right now.
+Now, they are going to increase it to 14 stocks, but right now, there are only 12 stocks.
+Out of those 12 stocks, these 4 stocks, the weightage is around 80%. HDFC Bank weightage alone
+is 30%. HDFC Bank and ICC Bank together, it has 50% weightage. So, you just go on by a big
+buy order for 1000 crore, 500 crore in HDFC Bank and 500 crore in ICC Bank. You know the
+Bank if he can shoot her. Other vice versa, you put a 1000 crore sell order in HDFC Bank and ICC Bank
+market can fall. So, these are the manipulation become very, very easy. The broader the indices,
+so it's very difficult to manipulate. So, that's why I always feel that, you know,
+an index should have at least 15 stocks. Number one, I think now they're coming close,
+you know, they're making it 14 stocks. And number two, none of the stock should have more than
+10% weightage. 30% weightage, you know, so that makes, you know, the index, a easy manipulation.
+And one thing is very clear, this is a purely speculative market. Now, IT stocks are there,
+IT index is there, but IT options are there. Nobody seems to be trading in IT index,
+futures are options. How come only the benefit is like this? So, that's mainly because,
+you know, the huge weightage for HDFC Bank and it is easy to manipulate the banking stocks.
+So, in summary, number one, Sebu should come out with a clear guideline, you know,
+for how much money they should go along or short. So, what should be the proportion between
+options market and future market? And then, you know, at one point of time, somebody playing
+4,000, 5,000 crore sale order by order, exchange should not accept it. So, exchanges should,
+you know, break them into like 100 crore each, then giving it to the system slowly.
+And then, whatever the limits set by SAB should not be for each entity, it should be for
+the ultimate beneficiary owner. So, if Jen state as 5 entities, for all the 5 entities,
+put together the limits should apply, not for each entity. So, these are all some of the
+suggestions. So, we are putting forth. And then, by seeing this 91% people last, you know,
+like all the people, you know, in India, if anything happens, you know, people will come,
+oh, no, no, we are the saviors of retail people. No, no, it should be banned, you know.
+And they talk all kinds of things, right? Baning is not a solution to any problem.
+Say, for example, liquor. So, you ban the liquor, illicit liquor will flourish.
+The same thing, you ban in the stock market, you know, then in the dumber trading will pick up,
+right? So, therefore, banning anything is not a solution. Everyone who is in the stock market,
+they are adult, 18 plus, they know what is right and what is wrong, right? The job of the
+government is to give a good education. And after getting the good education, if he becomes an adult,
+if he is drinking or smoking or playing an options market or buying a lottery ticket,
+so that is for his choice. I think as a regulator, one should not get into the losses.
+Right? If that is the case, you know, you have to start, you have to close down the exchanges,
+right? You just take a survey, even in cash market, how many people make profit?
+Right? How many people make profit by smoking or how many people make profit by drinking?
+So, you know, you have to stop it. So, what regulator can do?
+In fact, in my previous videos also, I suggested this, you know, there are many, many people
+who are coming here, just by listening to other people. And, you know, every day I get at least
+5 to 6 calls. So, we are giving advisory, what advisory give? We will tell you which option to buy.
+So, you buy this option for 5 rupees, target 10 rupees, stop plus 2 rupees, you know,
+without even understanding what is the risk and reward they are coming. The worst thing is that
+people are giving money to other people to handle their money, right? So, there are so many scams we are
+doing. So, how all these things can be avoided? A very simple. In many countries, so they
+conduct some examinations. So, they check whether you know all the risk and reward,
+then you are allowed. Say, for example, if my pan card is there, my other card is there,
+if I am supposed to write the exam, if I pass the exam, then I have the required knowledge,
+then I can come. And, if you do like these, people who are taking money from others,
+they will be stopped. You want to go and take a money from a villager, okay? There was a story
+last time, one Karnataka based farmer, last 21 like something like that. How can a person go to the
+farmer? Okay, give me money I will manage, right? But then that farmer has to pass the examination.
+Otherwise, a trading account cannot be opened in his name. If, of course, after that, you know,
+he can hand over the money to this guy, that's a difference, but that mostly people will not do.
+So, you know, you have to educate the people what is right and what is wrong, what is the risk and
+what is reward, and you have to ensure whether they have the enough knowledge to play in the market,
+to come to the market. So, that can be the right solution, rather than putting a blanket band.
+And, moreover, most importantly, next time in the CB context the survey, they should, you know,
+ask this question, are you a buyer or seller? Out of the option sellers, what percentage of
+people have lost money? Out of the option buyers, what percentage of people have lost the money?
+So, if my guess is right, you know, out of the 91 people, 91% people who lost money,
+maybe 90% may be option buyers, maybe 1% may be option sellers.
+Now, this is my gut feeling, I do not know, I do not have the data to support this.
+So, therefore, you know, like all the restrictions are coming to option sellers,
+they increase the margin money, and then, you know, on expiry day they increase further,
+you trade for more than 9 months, option to increase the margin money, then, you know,
+for calendar spreads and expiry day, there is no margin benefit. So, all the troubles are given only
+to option sellers. So, what will happen slowly? Many option sellers will get out of the market,
+then there will be only few option sellers, then there will be more option buyers.
+So, that is even worse. So, the option buyers will tend to lose even more money.
+So, in fact, between the last survey of CB and this survey of CB,
+okay, average loss for the people have lost is more. If I am not wrong, you know,
+because of the restrictions by the CB, you know, the margin money increase and other things,
+so option premiums are shot at. So, they are paying more money to buy the options,
+and therefore, they are losing the more money, right. So, next time, the CB also should consider
+releasing this data separately for option buyers and option sellers. So, these are all our
+suggestions. So, let us see if anything improves in our market. So, that is it for now.
+Hope you enjoyed watching this video. Thank you for watching.

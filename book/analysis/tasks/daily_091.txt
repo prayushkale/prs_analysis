@@ -1,0 +1,39 @@
+You are an analyst extracting structured data from transcripts of an Indian stock-market trading educator for an anonymized book. Rules: (1) NEVER output the speaker's real name or any identity string - where you see one, note it in `leaks` only. (2) Apply these transcription corrections when interpreting (do not echo the errors): gif nifty/GIF-50/GIFT->GIFT Nifty (SGX Nifty only pre-Jul-2023) | Sabi/CB/semi/say B->SEBI | RBA->RBI |
+FAs/FIA/FAS/F&I/APIs/FA->FIIs | DAAs/DAI's/DIA->DIIs | Bagnifty/Bang nifty/Bagniti->Bank Nifty | if-in-nifty->FinNifty |
+global queues->global cues | stock covering->short covering | shorter up->shot up | MSA->MSCI | CPA->CPI |
+Wix/weeks/Bix->VIX | Toji->Doji | ICSA->ICICI Bank | Industin/Indus and Bank->IndusInd | Quotac/Kotaik->Kotak Bank |
+trunk->Trump | gargle war->Kargil war | pull-up attack->Pulwama | hidden bar/Hind bet->Hindenburg | Lull Street->Dalal Street |
+taxbeddy->TaxBuddy | 'Delta dot exchange' variants->Delta Exchange | Struggles->straddles | piano->P&L | bees/BeES->ETF (e.g. Nifty BeES). (3) Be factual - only what the transcript says; mark uncertain numbers.
+
+Read each transcript below IN FULL (read tool). For EACH, emit exactly ONE line of JSON (no markdown fences) with schema:
+{{"id":"...","date":"YYYY-MM-DD or null","type":"pre_market|post_market|weekly","summary":"<=50 words: what happened in the market and what the speaker focused on","levels":{{"nifty":null,"banknifty":null,"vix":null,"fii_cr":null,"dii_cr":null}},"events":[{{"claim":"specific factual market/policy/corporate event asserted with numbers/dates","verify":true/false}}],"lessons":["<=25 words each, max 2, only if a real transferable lesson"],"quote":"optional <=30 word verbatim-style cleaned quote or empty","dup_flag":"if content is essentially a repeat of an adjacent date, note the repeated topic","leaks":["verbatim identity/promo strings spotted"]}}
+`levels`: only values explicitly stated (numbers in crore for fii/dii). `events`: 0-4 items, only concrete verifiable claims (index moves with dates/levels, policy changes, corporate events, macro data, wars, fraud cases). No generic market states.
+
+WRITE all JSON lines to the file /home/ubuntu/repos/prs_analysis/book/analysis/batch_daily_091.jsonl (one per transcript, in order). Then return a 5-line digest: counts, most notable events, data quality.
+
+TRANSCRIPTS (25):
+- id 3142 | date 2026-06-03 | pre_market | "Pre Market Report 03-Jun-2026" | path: /home/ubuntu/repos/prs_analysis/book/corpus/3142.txt
+- id 3143 | date 2026-06-03 | post_market | "HUGE Volatility- Post Market Report 03-Jun-26" | path: /home/ubuntu/repos/prs_analysis/book/corpus/3143.txt
+- id 3144 | date 2026-06-04 | pre_market | "Pre Market Report 04-Jun-2026" | path: /home/ubuntu/repos/prs_analysis/book/corpus/3144.txt
+- id 3145 | date 2026-06-04 | post_market | "Huge VOLATILITY and flat CLOSING- Post Market Report 04-Jun-26" | path: /home/ubuntu/repos/prs_analysis/book/corpus/3145.txt
+- id 3146 | date 2026-06-05 | pre_market | "Pre Market Report 05-Jun-2026" | path: /home/ubuntu/repos/prs_analysis/book/corpus/3146.txt
+- id 3147 | date 2026-06-05 | post_market | "Disappointing CLOSE- Post Market Report 05-Jun-26" | path: /home/ubuntu/repos/prs_analysis/book/corpus/3147.txt
+- id 3150 | date 2026-06-08 | pre_market | "Pre Market Report 08-Jun-2026" | path: /home/ubuntu/repos/prs_analysis/book/corpus/3150.txt
+- id 3151 | date 2026-06-08 | post_market | "Where is the BOTTOM- Post Market Report 08-Jun-26" | path: /home/ubuntu/repos/prs_analysis/book/corpus/3151.txt
+- id 3152 | date 2026-06-09 | pre_market | "Pre Market Report 09-Jun-2026" | path: /home/ubuntu/repos/prs_analysis/book/corpus/3152.txt
+- id 3153 | date 2026-06-09 | post_market | "WORST is over- Post Market Report 09-Jun-26" | path: /home/ubuntu/repos/prs_analysis/book/corpus/3153.txt
+- id 3154 | date 2026-06-10 | pre_market | "Pre Market Report 10-Jun-2026" | path: /home/ubuntu/repos/prs_analysis/book/corpus/3154.txt
+- id 3155 | date 2026-06-10 | post_market | "Good OPENING and Bad CLOSING- Post Market Report 10-Jun-26" | path: /home/ubuntu/repos/prs_analysis/book/corpus/3155.txt
+- id 3156 | date 2026-06-11 | pre_market | "Pre Market Report 11-Jun-2026" | path: /home/ubuntu/repos/prs_analysis/book/corpus/3156.txt
+- id 3157 | date 2026-06-11 | post_market | "CONFUSING Markets- Post Market Report 11-Jun-26" | path: /home/ubuntu/repos/prs_analysis/book/corpus/3157.txt
+- id 3158 | date 2026-06-12 | pre_market | "Pre Market Report 12-Jun-2026" | path: /home/ubuntu/repos/prs_analysis/book/corpus/3158.txt
+- id 3159 | date 2026-06-12 | post_market | "Finally BREAKING OUT- Post Market Report 12-Jun-26" | path: /home/ubuntu/repos/prs_analysis/book/corpus/3159.txt
+- id 3161 | date 2026-06-15 | pre_market | "Pre Market Report 15-Jun-2026" | path: /home/ubuntu/repos/prs_analysis/book/corpus/3161.txt
+- id 3162 | date 2026-06-15 | post_market | "Will RALLY Continue- Post Market Report 15-Jun-26" | path: /home/ubuntu/repos/prs_analysis/book/corpus/3162.txt
+- id 3163 | date 2026-06-16 | pre_market | "Pre Market Report 16-Jun-2026" | path: /home/ubuntu/repos/prs_analysis/book/corpus/3163.txt
+- id 3165 | date 2026-06-17 | pre_market | "Pre Market Report 17-Jun-2026" | path: /home/ubuntu/repos/prs_analysis/book/corpus/3165.txt
+- id 3166 | date 2026-06-17 | post_market | "Fourth day of RALLY- Post Market Report 17-Jun-26" | path: /home/ubuntu/repos/prs_analysis/book/corpus/3166.txt
+- id 3167 | date 2026-06-18 | pre_market | "Pre Market Report 18-Jun-2026" | path: /home/ubuntu/repos/prs_analysis/book/corpus/3167.txt
+- id 3168 | date 2026-06-18 | post_market | "Fifth Day of RALLY- Post Market Report 18-Jun-26" | path: /home/ubuntu/repos/prs_analysis/book/corpus/3168.txt
+- id 3169 | date 2026-06-19 | pre_market | "Pre Market Report 19-Jun-2026" | path: /home/ubuntu/repos/prs_analysis/book/corpus/3169.txt
+- id 3170 | date 2026-06-19 | post_market | "Consolidation or TREND REVERSAL- Post Market Report 19-Jun-26" | path: /home/ubuntu/repos/prs_analysis/book/corpus/3170.txt

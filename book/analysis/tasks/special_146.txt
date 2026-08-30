@@ -1,0 +1,26 @@
+You are an analyst extracting structured content from a SPECIAL-EPISODE transcript of an Indian stock-market trading educator, for an anonymized book with these 31 chapters: 1 why traders lose; 2 anatomy of failure; 3 discipline/process; 4 FII/DII flows; 5 VIX regimes; 6 option chain; 7 microstructure (gaps/expiry/index construction); 8 why derivatives exist; 9 calls and puts; 10 greeks; 11 implied volatility; 12 margins/collateral; 13 short straddles/strangles; 14 spreads & ratio spreads; 15 calendar spreads; 16 butterflies/condors; 17 portfolio hedges; 18 firefighting/adjustments; 19 event playbook; 20 budgets/elections; 21 wars/black swans; 22-25 chronicle 2018-26; 26 retail scams; 27 regulation (SEBI/rules); 28 taxation; 29 investing vs trading; 30 real assets (real estate/gold/bonds); 31 crypto.
+
+Rules: NEVER output the speaker's real name or identity strings (note them in `leaks` only). Apply transcription corrections: gif nifty/GIF-50/GIFT->GIFT Nifty (SGX Nifty only pre-Jul-2023) | Sabi/CB/semi/say B->SEBI | RBA->RBI |
+FAs/FIA/FAS/F&I/APIs/FA->FIIs | DAAs/DAI's/DIA->DIIs | Bagnifty/Bang nifty/Bagniti->Bank Nifty | if-in-nifty->FinNifty |
+global queues->global cues | stock covering->short covering | shorter up->shot up | MSA->MSCI | CPA->CPI |
+Wix/weeks/Bix->VIX | Toji->Doji | ICSA->ICICI Bank | Industin/Indus and Bank->IndusInd | Quotac/Kotaik->Kotak Bank |
+trunk->Trump | gargle war->Kargil war | pull-up attack->Pulwama | hidden bar/Hind bet->Hindenburg | Lull Street->Dalal Street |
+taxbeddy->TaxBuddy | 'Delta dot exchange' variants->Delta Exchange | Struggles->straddles | piano->P&L | bees/BeES->ETF (e.g. Nifty BeES). Only what the transcript says. Genericize personal trades/P&L as content (the numbers may teach), but if a passage is self-promotion/self-defense (business, penalty, family, luxury, travel), list it under exclude_passages.
+
+Read each transcript IN FULL. For EACH, emit exactly ONE line of JSON (no fences):
+{{"id":"...","date":"...","type":"special","title_clean":"cleaned title","summary":"<=60 words","chapter_targets":["chapter numbers, primary first"],"themes":["2-6 short theme tags"],"lessons":["transferable lessons, <=30 words each, max 5"],"strategies":[{{"name":"...","construction":"legs/strikes/quantities","numbers":"premiums/margins/breakevens/returns as stated","best_regime":"when to use","adjustments":"how managed/rescued","risks":"max loss / failure mode"}}],"event_claims":[{{"claim":"factual assertion with numbers/dates","verify":true/false}}],"quotes":["<=30 words cleaned, max 3, only distinctive"],"enhance":["complex topics needing worked examples/tables"],"exclude_passages":["self-promo/identity passages to drop"],"leaks":["verbatim identity/promo strings"],"quality":1-5}}
+If no strategies exist, use []. Event claims: concrete verifiable assertions only.
+
+WRITE all JSON lines to /home/ubuntu/repos/prs_analysis/book/analysis/batch_special_146.jsonl (one per transcript, in order). Then return a 5-line digest.
+
+TRANSCRIPTS (10):
+- id 1276 | date 2022-09-28 | options_education | "Instruments Can be Given as Collateral for Option Selling" | path: /home/ubuntu/repos/prs_analysis/book/corpus/1276.txt
+- id 1279 | date 2022-09-29 | options_education | "Options Expiring in the Money" | path: /home/ubuntu/repos/prs_analysis/book/corpus/1279.txt
+- id 1282 | date 2022-09-30 | investing | "Real Estate in India" | path: /home/ubuntu/repos/prs_analysis/book/corpus/1282.txt
+- id 1283 | date 2022-10-01 | general | "TERRIBLE RETURNS! What Went Wrong with My INVESTMENT_" | path: /home/ubuntu/repos/prs_analysis/book/corpus/1283.txt
+- id 1285 | date 2022-10-02 | investing | "Real Estate ROI LESSTHAN FD ROI" | path: /home/ubuntu/repos/prs_analysis/book/corpus/1285.txt
+- id 1294 | date 2022-10-08 | taxation | "How Indian Traders Avoid Paying Taxes LEGALLY!" | path: /home/ubuntu/repos/prs_analysis/book/corpus/1294.txt
+- id 1305 | date 2022-10-15 | crypto | "An INVINCIBLE Bitcoin Trading Strategy - Excellent Returns, Minimal Ri" | path: /home/ubuntu/repos/prs_analysis/book/corpus/1305.txt
+- id 1316 | date 2022-10-22 | regulation_scam | "How Fund Managers SCAM You With THIS Technique! #TraderScam" | path: /home/ubuntu/repos/prs_analysis/book/corpus/1316.txt
+- id 1318 | date 2022-10-24 | regulation_scam | "How Traders Scam You Part 2 #TraderScam" | path: /home/ubuntu/repos/prs_analysis/book/corpus/1318.txt
+- id 1322 | date 2022-10-26 | outlook | "2023 Nifty Target 35000_" | path: /home/ubuntu/repos/prs_analysis/book/corpus/1322.txt

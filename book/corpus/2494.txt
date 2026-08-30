@@ -1,0 +1,264 @@
+Hi, this is Pia Sundar. Welcome to this special episode where I'm going to talk about the true
+story of one of my friends and how these traders are being wiped out from the markets. You do the
+recent SEBI regulations. Actually, it was the intention of SEBI to do that. You know like some government
+officials commented this option trading has become a national pastime. So, this has to be stopped.
+Now, there are two types of people. One people having a huge capital, maybe 500 crore, 1000 crore,
+right? So, they are already invested in some equity shares, right? So, in fact, one of my friends,
+another friend, he has about 100 crores, about 130 crores worth of shares. Even after the
+hair cut, so the limit will be given to him about 100 crores. So, I used to trade with 100 crore,
+right? And then all the people who are holding shares or mutual fund, you know, are even FD. So,
+they started trading in options market. So, they said we thought, you know, how to put a full stop
+for this. So, that's where they brought a rule, you know, 50% cash component is compulsory.
+So, my friend who is having 100 crore worth of shares, right? But he does not have another 100 crore
+cash. So, he had to stop trading, right? Of course, there are some smart people, they know how to
+work around this, but that's a common man, you know, will not know all those techniques.
+So, that is one side of the story. So, that is how the Pollymes come down.
+But then even after introducing 50% cash component, so, the volume did not go down much.
+So, they said we brought some new regulations, right? So, one of the main changes was that,
+you know, there was a 2% extreme loss margin, or you can say exposure margin, extra exposure.
+On an expiry date. So, for expiry date trade.
+What actually happened, the story of my friend, you know, it's not only a story of my friend,
+that's the story of most of the people, you know, among the traders.
+What these people do, every day they go and take a short struggle, right? On that expiry.
+And then what happens, you know, so far out of the money, call and put they buy for hedges.
+Mainly, it is not bought for hedges. It is to reduce the margin money.
+The purpose is actually not to hedge the risk. You still have the risk, right?
+So, what happened, one of my friends in the US market, right?
+He sold 27, I think 20, 27 I think. Okay, let us forget about it.
+Let me give an Indian context. Let us say somebody sold 24,000 put and bought 23,000 put for hedging.
+You know, the market come and close exactly at 23,000, so that hedges of no use.
+You will still lose 1000 rupees. Plus, you will also lose the money in hedging.
+Most of the people think, you know, buying a far out of the money, call and put this hedging,
+that is actually not the hedging, right? So, they do it only to reduce the margin money.
+And then what happens, you know, they put stop loss for both the sides.
+As I told you, the far out of the money, call and put buying is not a real hedge.
+So, you have to maintain a stop loss. So, just to give an example, the people sell at the money,
+short straddle, you know, now roughly about margin money is about 80,000 rupees.
+That is without hedging. With hedging, the margin money may be lower. So, with hedging,
+margin money may be about 40,000. So, what they do, they put a stop loss, right?
+Maybe, you know, because they do not want to lose more than one percent of the capital per day,
+you know, for 40,000 margin money for 400 rupees, that is about 15 rupees. Stop loss.
+I am giving the example of nifty, but most of the people do it in benefit.
+So, in case market more violently on one side, you know, let us say market more violently on the
+higher side, the call stop loss will be hedged. The put stop loss, they will revise up to the cost,
+so that they will not lose more than one percent in that day, right? So, in case if market
+continue to trend higher, you know, on the upside, you will last only 15, 20 rupees,
+but put side profit will be more than that. So, there are three scenarios. The scenario one,
+market goes sideways, both call and put will give some profit. The scenario two,
+market is trending in one direction. The trending direction stop loss will be hed,
+but other side you will get more profit. So, sideways also you make profit,
+trending also you make profit. When there will be a problem, market trend on the higher
+side, call stop loss hed, then reverses and trend on the downside, then put stop loss hed.
+So, that is when you lose one percent of your capital.
+What happened? Somebody tested the system, the system was working very well.
+And from 2018 onwards, I can say these people are making, you know, almost 50-60% return
+per annum on a consistent basis. So, everybody has become complacent, right? Some people even started
+creating some bots or algoes, the ready-made algoes. You just go and click and button the computer
+will take care of everything. So, that will sell the call option and put option at 920, then,
+that will put the stop loss. If the one side stop loss hed, automatically the other side
+stop loss will be revised to the cost. Everything the computer will take, or it's as about 2,000,
+500, 3,000 rupees. So, they started doing it and then everybody started doing it, right?
+One of my friends was trading with a big capital, right? So, he thought, you know,
+for the last 5-6 years, they have been making very good profit and how to make even more profit,
+you know? Okay, so on one side, so the trader has been successfully trading for the last 5-6 years.
+Now he wanted to increase the profit, he was thinking how he can increase the profit
+just on one side. Another side, just now I told you, my another friend who has got
+shares worth over 100 crore, right? So, there are people who have, you know, shares worth
+500 crore, 1000 crore, you know, they are not traders, they just do not want to trade,
+right? But their limit is so high. Assume that somebody is having 500 crore worth of shares
+and 500 crore worth of FD. So, that means, you know, he meets the Severegulation,
+he has got a limit of 1000 crore, 1% trading for 1000 crore is also very, very difficult.
+Moreover, you know, he is an alternative client, he is not worried. So, what he does,
+he comes out with a proposal, okay? But usually they call it a sub-properties, okay?
+They look at the trader, tell you trader, if you have got one crore capital, let us say, for example,
+if you have got one crore capital, right? So, you just give me one crore, I will give my account
+with 5 crore limit. So, that means, your money is only 1 crore. So, I am giving you 5 crore,
+so that means 4 crore I am giving from my pocket. So, for that 4 crore, you have to pay me with the
+interest. So, what happens normally? So, these people also, they don't give the hot cash, they put
+the money in FD, they pass it down to the exchange, right? So, from the FD, they get about 7%
+and top of which they charge about anywhere from 9 to 12% from the traders. So, that means,
+they are getting 16-20% internal rate of return without any risk. If somebody is having 1000 crore,
+you know, even if they are getting 16-17%, you know, return also, that's about 151-160 crore per annum.
+It's a very big money, right? So, you know, so, what happened to my friend? He thought, why if I'm
+having 1 crore? Why I'm trading with only 1 crore capital? Because this system is working so well,
+it's giving almost 50% 60% return per annum. So, if I go to this person, if I take a leverage
+5 times, if I give 1 crore, then it becomes 5 crore, right? So, that extra 4 crore also,
+I will be making 50% return, but I may be have to pay only about 10% or 15% interest to the broker.
+So, that means, I get extra 35% return. So, for my 1 crore, I'm getting 50% return for extra 4 crore,
+35% that means, you know, 35 into 4 is 140. So, that means, my internal rate of return works out
+to be more than 100. So, with this idea, what my friend did actually approached 1 crore of desk,
+okay, I think he started trading. Although, I don't have the complete detail because, no,
+although it's my friend, you know, it will not be nice to ask questions, you know, he may not
+reveal all the truth, but this is my understanding. And because he suddenly stopped trading,
+you know, with the current broker, he changed the broker, you know, so all those things.
+So, what happened, you know, this particular year, as long as he was trading with 1 crore
+capital, he was making good profit. When he moved to the prop desk, when he started trading with
+the 5 crore, everything has gone wrong, right? Number 1, the markets have been too volatile.
+From the, from this financial year, from April 1, the markets have been very, very volatile.
+It goes up, comes down, comes down, goes up, you know. So, making this intraday trades very,
+very difficult. That's number 1. Number 2, with the recent changes from SEBI, although apparently,
+it looks like, you know, they're increasing the margin only by 2%. I will show you in the computer,
+how that 2% affects, right? So, look at this, this is zero to the website.
+So, if, let us say, for this monthly expiry, if somebody is selling a 23, 600 call and 23,
+600 call, that is at the money, for the hedging, buy about 600 point up and down by the hedges,
+you can see this, and margin, exposure margin, premium receipt and total margin.
+Now, let me tell you the basics. When you take a position in future some options,
+you pay 2 types of margin, one is called span margin, other one is called exposure margin.
+Look here, span margin is only about 15,000, but exposure margin is about 25,000.
+Actually, in terms of percentage, span margin percentage is higher, I think it's about 8% or something
+like that. But exposure margin is only 2%, right? How can 8% span margin is so low, 2%
+exposure margin is so high? So, that is because, okay, I will show you, I will remove the hedges,
+23,000 put, before 200, I remove the hedges, now you can see span margin is 54,000,
+so that is actual span margin. So, span margin is 60,000 more than double, I think it's 5% I think,
+so if this is 2%, so this should be around 5%, 5% span margin and 2% exposure.
+Expression margin, I'm 100% sure, but span margin, I'm not really very clear exactly.
+Okay, now what has happened? So, in India, okay, all over the world, they charge only the span margin,
+they don't charge exposure. So, in India, they charge both span margin and exposure margin.
+That's number one. Number two, how the span margin is calculated?
+The span margin is maybe 5% of the contract value. So, what is the contract value?
+If you look at 23, 600, where nifty is trading into 25. So, that value is around 5.9 lakhs,
+okay, let us say 6 lakh rupees. Okay, but here the margin is 54,000,
+744, this includes the premium, so you have to minus the premium, 9138.
+So, your actual margin is about 45,000, right? So, 45,000 divided by 6 lakh rupees.
+Yeah, I think it's 8% correct. So, span margin is 8%, exposure margin is 2%, how we give the
+correct figure? Right, now what happens? If you take a naked position, you are selling both
+call and put, the span margin is 8%, exposure margin is 2%. However, if you buy some edges,
+let us say 24,200 call option you buy. That means you are hedging on only one side.
+So, you are hedging only on the call side, but the margin will not reduce.
+Margin margin will still be the same, 54. Maybe slightly less. That's because the premium
+extra, you know, pay. But you see the magic gone by the edges on the downside, both sides.
+Okay, 23,000. How you watch the span margin? Once you add this, okay, your span margin
+drastically reduces from 54,000 to 15,000. So, that's because the span margin, how it is calculated,
+you know, maximum loss in a position. What is your maximum loss? Okay,
+are 8% for whichever is lower. Okay, 8% are maximum loss, whichever is lower.
+Okay, now here you see you are selling a port at 23,600, buying a port at 23,000. So,
+that means the maximum loss is only 600 rupees. Call side also, 600 rupees. So, maximum loss is 600
+rupees. So, if your maximum loss is 600 rupees into 25, so that's about 15,000. Okay, so that's
+what you see. You are saying around 15,000. Why it is slightly less than 15,000? Because, you know,
+when you are selling, your maximum loss is actually not 600, because you are collecting some premium.
+So, that has to be taken into account. Okay, so your actual maximum loss is slightly less than 15,000.
+So, the span margin is equal to your maximum risk or 8%, because if you without hedging, if you
+take your maximum loss, you know, nifty can go to 0, nifty can go to 1,000. So, that argument is
+that. So, therefore, they admit 8%, okay. So, this is how the margin is charged. So, if anybody
+doing a straddle with both the sides hedges, the span margin is 15,000. Expression margin is 25,000.
+So, the total is roughly about 40,000. Okay, now, what has actually happened with the new
+severe regulation, they increase this expression margin or what they call this extreme loss margin
+is equal to the expression margin. Whether you do hedging or don't do hedging, that will affect
+only the span margin. Expression margin everybody has to pay, extreme loss margin on an
+experience also everybody has to pay. So, that means, earlier, the traders were paying only about 40,000
+rupees, 15,000 span and 25,000 extra. Now, what happened? 15,000 span, 25,000 exposure, 25,000
+extreme loss margin. So, that means, in place of 40,000, they pay 65,000. So, that means what
+is happening, you know, your margin money payment is almost doubled, okay. Right. Now, I told you,
+that traders, you know, trade in the prop days or they take a loan from somebody. So,
+earlier, if they are paying interest for 40,000, now they have to pay interest for 65,000. So,
+that means, their interest component has already almost doubled, right. But your return is going to be
+the same, right. So, let us say, you buy something for 100 rupees, sell for 110 rupees, you make 10
+rupees profit. To do this business, if you are paying 3 rupees interest to the bank, now the bank
+is asking for 6 percent interest. So, that means, you know, your profit has gone down so much.
+So, this is one major problem, and the traders were facing. One thing that already the markets were
+volatile, so many times, per stop plus a seat, there was one problem. Second problem,
+their interest outgo as almost doubled. Now, that is also not an issue. Now, come to the third major
+issue. What happens? People who are selling straddle, collection and put option,
+what they do? Far out of the money, they go and buy the hedges, right. So, typically far out of the
+money, you know, so, where it is trading around at 10 rupees, okay. So, they will go and buy the hedges.
+Now, when the traders are going and buying the hedges far out of the money, who are those
+people who are selling at the far out of the money, right. So, they are, you know, some HNI
+claims, you know, who want to make some safe profit. So, far out of the money, they go and sell
+options. So, these traders, they buy that option. Now, what happens? Those HNI claims who are
+selling far out of the money options for some small money. Earlier, they were paying only about
+40,000 margin money. Now, they are paying 65,000 as the margin money, right. So, their investment
+almost doubled. So, because of that, earlier, if they are selling the hedges for 10 rupees, now they
+are asking for 20 rupees. So, that is why the far out of the money, you know, trading at the
+crazy prices, because the HNI claims they do not want to come and sell, because, you know,
+it doesn't make sense, because they are asking for double the capital. They are already working,
+you know, 5 rupees 10 rupees, you know, they are working annually, they expect a return of about
+8 to 10 percent. So, if they are getting bank FD 7 percent, another 7 percent, if they are getting
+from stock market, they are happy with 14 percent. Now, because, you know, because of the
+16 large margin, so, capital is doubled. So, that means, it doesn't make sense. So, many of them,
+they stop trading. So, those are trading asking for sky high prices. I think, day before yesterday,
+I think I remember I said, bank FD has actually fallen 800 points. Bank FD has fallen 800 points.
+The bank FD falling 800 points, what should happen to the call option? Call option premium should
+come down. But, on the contrary, 56,000 call option, the bank FD all time high is 54, 300.
+Markets are crashing, and the bank FD is trading around a 52,500.
+4,000 point away, just three or four trading sessions. You know, every day the bank FD has to
+shoot up more than 1,000 points. Then only the canaries 56,000. That 56,000 call premium,
+you know, going from 20 rupees to 25 rupees. Bank FD crashing 800 points, the call premiums are
+shooting up. Why? Because, when the market is crashing, people are selling call options.
+The people are selling the call option nearer. They want to buy for the edges far out of the money.
+So, that far out of the money, all those H&N clients who have been trading and far out of the money,
+you know, most of them have gone out of the market. So, because of that, buying the edges,
+becomes so expensive. What happened last Thursday? Last Wednesday,
+Nifty was trading around 24, 200. Last Wednesday. For Thursday, just next day, one day,
+expiry. Next day, 25,000 call, which is about 800 points away, around 3, 25, 3, 26,
+closing time. You know, that was trading around 8 rupees. Just tomorrow expiry, just one day expiry.
+You know, they are asking so high. You know, to remember, this whole month, high was 24, 850,
+only one trading session, 800 points away. They are demanding, you know, very high. Why? Because,
+if they sell at a lower price, tomorrow morning, they are margin will shoot up.
+So, for them, so they have to set aside, you know, at least 50% extra. So, you sell for two,
+three rupees, you know, the return does not justify. So, what has happened? So, these people,
+in number one, they trade us, they go to prop desk, okay, they take a loan, so they pay the interest
+for the loan. And second thing, they buy the edges both the sides, so that most of the time,
+that hedging money will be gone waste, right? As I told you, that's not going to give a real
+protection. As I told you, you know, where, you know, three days, you know, the 3000 point in
+bankruptcy on the higher side, you know, they are not going to happen. But, earlier, they are
+spending for 10 rupees for edges, now they are spending 20 rupees. So, that means, you know,
+so this will cost extra. So, to put it very simply, earlier, okay, if I'm paying 10 rupees
+interest, 10 rupees for hedging, so 20 rupees is gone, okay. So, if I make 30 rupees profit,
+even 20 rupees is gone, I still make 10 rupees profit. Now, what has happened? My interest has
+gone from 10 rupees to 20 rupees. My hedging cost has become 10 rupees to 20 rupees. So,
+that means, it has become total 40 rupees. If I make 30 rupees, you know, when my expenses are 40
+for 40 rupees, effectively, I'm losing 10 percent, 10 rupees. So, you know, this is how, you know,
+you can see many, many people. If you follow the social media, you will know, there are some people,
+they are publicly announced. No, I'm stopping the trade and I'm closing. So, one of Bangalore
+best trader who used to talk a lot. So, he got out of this market, he said, it's not worth the
+trading. It's better to look into my family business. But that there is a very smart guy,
+he has taken a decision very, very early, right. So, actually it did not lose much. But those people
+who stayed, you know, until now, this financial year, they made even bigger losses.
+So, one of my own person, so, he almost, so, you know, 75-80 percent of the capital has been
+by crowd. Actually, he lost only 15 percent. So, in the beginning of the story, I told you
+that person, for the last five six years, I've been making very good profit. He shifted to
+prop desk. So, this year his loss is only about 15-16 percent. But what happened because he has taken
+the leverage one is to fight. So, no, his loss, you know, for his capital, let us say one crore,
+he lost, let us say 15 lakhs. But he took another four crore loan, but that four crore
+also 15 percent, that 60 lakh is also gone. So, 15 lakh from his one capital, 60 lakh from
+borrowed capital. So, 75 lakh is the loss. Your capital is one crore, you lost 75 lakhs.
+In addition to this, for that four crore, you have to pay interest to the pro.
+So, that means what, you know, so, your capital is almost wiped out.
+Okay. So, this is how this intradate traders, you know, has been killed by that exchanges, right.
+And top of which, if you make some profit, okay, you know, this STD has gone up by four, five times
+in the last five, six years for auction trading, you know. So, you pay STD, stand up the brokerage,
+you know, irrespective of whether you make profit or loss, you pay all these things, right.
+And then on top of which, you make some money, one third of that will go into taxes.
+So, effectively, you don't get much, right. So, that's why. So, the, the moral of this story is that,
+you know, even if you are an intradate trader, so better stop trading. So, it is not worth
+trading intradate anymore in Indian stock exchanges. So, don't go by that social media course,
+right. So, there may be many other things behind that. So, don't believe. So, my simple suggestion
+is that, stop trading intradate. In fact, that is the objective of the government. So, that is
+the objective of CB. And I heard, I don't know how far true, I heard that, you know, the crop
+are showing 50% less fall in the last one month. And because, you know, people are like, you know,
+getting on December 5, something happened, very huge upside and down side move. You know,
+many people are given one crore capital, they trade for five crore, the RMTM loss was more than
+one crore. So, the brokers, they cut the position, you know. So, all these things has happened.
+So, number one, the rule number one, in fact market always trade with your money, don't ever borrow money,
+right. So, once you lose your money, what two days you can't sleep after that the life goes on.
+But the borrowed money, then you have to pay interest for that. Forget about trading, even in investment
+also, never borrowed to invest, never borrowed to trade. So, that is the rule number one.
+And second rule is that, you know, you can't fight with the government, right. So, the government
+decided, you know, so this segment has to be brought down. So, that means, you know, they will do it.
+So, if the still the volumes are not going down, what will happen, say, be after one year,
+they will increase this extreme loss margin maybe from two percent to five percent. So, you know,
+they can do anything. And I do not know rationally, right. Trading in trade, I agree, that's a
+in us, I can say. But trading long term options is supposed to be more safer way of trading,
+you know. But still, they say we thought, you know, there is a bigger risk in trading and long term
+options. So, they put five percent extra margin, right. So, you know, initially, this extreme loss
+margin, they were, you know, in the paper, they released, they were suggesting three percent.
+But finally, they made it two percent. So, if the volumes are not going to come down,
+then again, you know, the set will increase this to five percent at 10 percent. So, that means,
+nothing. Okay. So, number one, don't borrow capital to create. And number two, you know,
+always go along with the government policy. If the government policy is to reduce the volume,
+better reduce the volume, you keep on increase the volume, then the government has all the powers to
+do anything. So, that is what the Sabi has done this time. So, that is what is facing, right.
+So, let us go, you know, with this intraday players out, markets became more and more stable,
+but last one month activity, you know, it was even more volatile, but luckily, you know, the number
+of people affected are the impact. I was not very big because of this reduced volume because of
+this Sabiro. So, that is it for now. Hope you enjoyed watching this video. Thank you for watching.
