@@ -1,4 +1,4 @@
-# The Trader's Mind
+= The Trader's Mind
 
 ---
 
@@ -134,8 +134,10 @@ These principles are not dramatic. They do not make for compelling YouTube thumb
 *End of Part I*
 
 *The book's illustrative P&L figures and trading anecdotes are drawn from the author's experience and from public market data. They are presented for educational purposes only. Past performance does not guarantee future results. Trading in futures and options carries substantial risk and is not suitable for all investors.*
-=== 
-# How This Market Works
+
+---
+
+= How This Market Works
 
 ---
 
@@ -258,8 +260,10 @@ A corollary: if the market rallies in the morning but fades in the last hour, th
 ---
 
 *End of Part II*
-=== 
-# Options from First Principles
+
+---
+
+= Options from First Principles
 
 ---
 
@@ -418,8 +422,10 @@ Physical settlement applies to stock options (options on individual equities). A
 ---
 
 *End of Part III*
-=== 
-# The Strategy Library
+
+---
+
+= The Strategy Library
 
 *Each strategy in this section is presented with its construction rules, breakeven points, risk profile, and the market conditions in which it works best. All returns are expressed as percentages of margin deployed or premium collected, reflecting the typical sizing used by experienced option sellers.*
 
@@ -593,8 +599,10 @@ The most common mistake in firefighting is adjusting too early, or adjusting bas
 ---
 
 *End of Part IV*
-=== 
-# Trading the Events
+
+---
+
+= Trading the Events
 
 ---
 
@@ -674,8 +682,10 @@ The Nifty fell roughly three-and-a-half percent from its highs, but the selling 
 ---
 
 *End of Part V*
-=== 
-# A Market Chronicle, 2018–2026
+
+---
+
+= A Market Chronicle, 2018–2026
 
 ---
 
@@ -794,8 +804,10 @@ Into mid-2026, the market faced a set of structural headwinds: sustained FII sel
 ---
 
 *End of Part VI*
-=== 
-# Predators & Protectors
+
+---
+
+= Predators & Protectors
 
 ---
 
@@ -882,8 +894,10 @@ The structural effect of the one percent TDS is profound: a trader who buys and 
 ---
 
 *End of Part VII*
-=== 
-# Wealth Beyond the Screen
+
+---
+
+= Wealth Beyond the Screen
 
 ---
 
@@ -961,8 +975,10 @@ India's thirty percent tax on crypto gains, combined with the one percent TDS on
 ---
 
 *End of Part VIII*
-=== 
-# Appendix A: Glossary of Common Terms
+
+---
+
+= Appendix A: Glossary of Common Terms
 
 *ATM (At The Money)* — An option whose strike price is equal or near to the current market price of the underlying.
 
@@ -1042,7 +1058,7 @@ India's thirty percent tax on crypto gains, combined with the one percent TDS on
 
 *VIX (Volatility Index)* — An index measuring the implied volatility of Nifty options; known in India as India VIX.
 
-# Appendix B: Strategy Quick-Reference Table
+= Appendix B: Strategy Quick-Reference Table
 
 | Strategy | Construction | Direction Bias | Max Profit | Max Loss | Best When |
 |----------|-------------|----------------|------------|----------|-----------|
@@ -1059,7 +1075,7 @@ India's thirty percent tax on crypto gains, combined with the one percent TDS on
 | BeES + Protective Put | Buy Nifty BeES + buy far-dated ATM put | Bullish (hedged) | Uncorrelated | Insurance premium cost | Long-term equity holding |
 | Zero-Risk Collar | Buy BeES + buy put + sell call | Neutral | Capped; premium from call offset put cost | Insurance premium (or net zero) | Large capital, income-seeking |
 
-# Appendix C: Timeline of Market Events, 2018–2026
+= Appendix C: Timeline of Market Events, 2018–2026
 
 *2018*
 - February: US inflation spike triggers global sell-off (Dow −1,000 pts intraday)
@@ -1079,18 +1095,18 @@ India's thirty percent tax on crypto gains, combined with the one percent TDS on
 
 *2021*
 - October: Nifty peaks near 18,600
-- November: Tesla peaks at ~$409 (split-adjusted)
+- November: Tesla peaks at \~\$409 (split-adjusted)
 
 *2022*
 - February: Russia-Ukraine war
 - March: Fed begins hiking rates (first 50 bps hike in 22 years)
 - May: Nifty touches war low of 15,671; Snap −40% on earnings, tech sell-off
 - June: US CPI = 8.6% (40-year high); Swiss National Bank hikes for first time in 15 years
-- December: Tesla closes at ~$123 (−70% from peak)
+- December: Tesla closes at \~\$123 (−70% from peak)
 
 *2023*
 - January: Hindenburg Research report on Adani Group
-- April: Bank Nifty ATH ~44,150
+- April: Bank Nifty ATH \~44,150
 - September: Nifty crosses 20,000 for first time
 
 *2024*
@@ -1104,15 +1120,15 @@ India's thirty percent tax on crypto gains, combined with the one percent TDS on
 - January: Trump imposes 50% tariff on Canada/Mexico
 - March: Nifty falls to 9-month lows near 22,000
 - April: India-Pakistan military engagement
-- Mid-2025: Jane Street case — SEBI penalty of ~₹5,000 cr
+- Mid-2025: Jane Street case — SEBI penalty of \~₹5,000 cr
 - SEBI cash-margin rule (50%) fully effective
 
 *2026*
-- H1: Nifty trading in narrow range (~26,000 ± 300)
+- H1: Nifty trading in narrow range (\~26,000 ± 300)
 - SEBI weekly-expiry reduction implemented
 - FII outflows moderate; domestic flows remain strong
 
-# Appendix D: Author's Note and Sources
+= Appendix D: Author's Note and Sources
 
 This book was compiled from transcripts of over three thousand videos published between 2018 and 2026. The original videos were produced by an Indian market commentator who appears under the pseudonym Dhanraj in these pages.
 
@@ -1122,14 +1138,14 @@ All P&L figures, trading anecdotes, and personal stories in this book are presen
 
 Trading in futures and options involves substantial risk. This book does not constitute investment advice.
 
-# Appendix E: Correction Log (Material Discrepancies Identified During Verification)
+= Appendix E: Correction Log (Material Discrepancies Identified During Verification)
 
 The following discrepancies between the original commentary and verified data were identified during the editorial process:
 
 1. Maruti Suzuki price history: The original commentary cited a 30% decline from "10,000 to 7,000." The actual decline from the 2017 peak of approximately ₹9,730 to the 2021 trading range was approximately 28%.
 
-2. Tesla 2022 decline: The original cited a starting point of ~$425 for the 2022 decline. The actual split-adjusted peak was ~$409 (November 2021). The ~70% decline to ~$123 is directionally correct.
+2. Tesla 2022 decline: The original cited a starting point of \~\$425 for the 2022 decline. The actual split-adjusted peak was \~\$409 (November 2021). The \~70% decline to \~\$123 is directionally correct.
 
-3. Dixon Technologies IPO returns: The original commentary described the stock as having returned approximately 100x from an IPO price of ₹300–400. The actual IPO price was ₹1,766; adjusted for a 1:5 stock split, the split-adjusted price was approximately ₹353. The peak of ~₹27,550 pre-split represents a return of approximately 15x from the split-adjusted IPO price, not 100x.
+3. Dixon Technologies IPO returns: The original commentary described the stock as having returned approximately 100x from an IPO price of ₹300–400. The actual IPO price was ₹1,766; adjusted for a 1:5 stock split, the split-adjusted price was approximately ₹353. The peak of \~₹27,550 pre-split represents a return of approximately 15x from the split-adjusted IPO price, not 100x.
 
-4. Nifty rally from September 2020 expiry: The original cited a rally of "~22% to ~13,000" and Bank Nifty "~50%" from "20,500 to ~29,800." The actual Nifty rally from 10,806 (Sep 24 expiry low) to Nov 30 close of 13,982 was approximately 29%. Bank Nifty's rally from the Sep expiry low to the Oct 31 close of 29,609 was approximately 44%.
+4. Nifty rally from September 2020 expiry: The original cited a rally of "\~22% to \~13,000" and Bank Nifty "\~50%" from "20,500 to \~29,800." The actual Nifty rally from 10,806 (Sep 24 expiry low) to Nov 30 close of 13,982 was approximately 29%. Bank Nifty's rally from the Sep expiry low to the Oct 31 close of 29,609 was approximately 44%.
