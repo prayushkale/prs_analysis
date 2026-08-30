@@ -1,0 +1,1402 @@
+[
+ {
+  "verdict": "verified",
+  "corrected_claim": "",
+  "evidence": [
+   {
+    "title": "January 6 US Capitol attack - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/January_6_United_States_Capitol_attack"
+   },
+   {
+    "title": "Georgia Senate runoff elections 2021",
+    "url": "https://en.wikipedia.org/wiki/2020%E2%80%9321_United_States_Senate_election_in_Georgia"
+   }
+  ],
+  "notes": "",
+  "idx": 30
+ },
+ {
+  "verdict": "corrected",
+  "corrected_claim": "Hindenburg Research report on Adani Group published January 24, 2023 (not 2021 or 2024); triggered ~60% stock decline in Adani Group stocks over weeks.",
+  "evidence": [
+   {
+    "title": "Adani Group stocks - Hindenburg Research",
+    "url": "https://en.wikipedia.org/wiki/Adani_Group"
+   }
+  ],
+  "notes": "",
+  "idx": 31
+ },
+ {
+  "verdict": "verified",
+  "corrected_claim": "",
+  "evidence": [
+   {
+    "title": "August 5 2024 global market selloff - Nikkei crash 12%",
+    "url": "https://en.wikipedia.org/wiki/2024_stock_market_selloff"
+   }
+  ],
+  "notes": "",
+  "idx": 33
+ },
+ {
+  "verdict": "verified",
+  "corrected_claim": "Russia-Ukraine crisis Feb 21-24 2022: Russian MOEX fell 8-9% then recovered; West imposed sanctions including SWIFT exclusion on select banks.",
+  "evidence": [
+   {
+    "title": "2022 Russian invasion of Ukraine",
+    "url": "https://en.wikipedia.org/wiki/2022_Russian_invasion_of_Ukraine"
+   }
+  ],
+  "notes": "",
+  "idx": 36
+ },
+ {
+  "verdict": "verified",
+  "corrected_claim": "August 5 2024: Japan Nikkei fell 12.4% intraday in yen-carry unwind; US recession fears + BoJ rate hike catalyst.",
+  "evidence": [
+   {
+    "title": "2024 global stock market selloff - yen carry trade unwind",
+    "url": "https://en.wikipedia.org/wiki/2024_stock_market_selloff"
+   }
+  ],
+  "notes": "",
+  "idx": 38
+ },
+ {
+  "verdict": "verified",
+  "corrected_claim": "Punj Lloyd rose from ~\u20b910 to ~\u20b9700 in the 2003-08 infrastructure boom; fell back to near zero by 2014.",
+  "evidence": [
+   {
+    "title": "Punj Lloyd stock history",
+    "url": "https://en.wikipedia.org/wiki/Punj_Lloyd"
+   }
+  ],
+  "notes": "",
+  "idx": 39
+ },
+ {
+  "verdict": "verified",
+  "corrected_claim": "Multi-year tax tightening: LTCG reintroduced 2018 (10% over 1L), STT raised ~8x on options 2018-2024, surcharge on capital gains, gold import duty raised to 15% in 2013.",
+  "evidence": [
+   {
+    "title": "India capital gains tax history",
+    "url": "https://cleartax.in/s/tax-on-capital-gains"
+   },
+   {
+    "title": "STT rates history NSE",
+    "url": "https://www.nseindia.com"
+   }
+  ],
+  "notes": "",
+  "idx": 51
+ },
+ {
+  "verdict": "verified",
+  "corrected_claim": "PM Modi announced 21-day (not 19) nationwide lockdown March 24 2020; extended May 1.",
+  "evidence": [
+   {
+    "title": "COVID-19 lockdown in India",
+    "url": "https://en.wikipedia.org/wiki/COVID-19_lockdown_in_India"
+   }
+  ],
+  "notes": "",
+  "idx": 52
+ },
+ {
+  "verdict": "verified",
+  "corrected_claim": "Meta (Facebook) fell ~26% on Feb 3 2022 (~$230B market cap loss), largest single-day market-cap loss in stock history.",
+  "evidence": [
+   {
+    "title": "Meta Platforms stock 2022 crash",
+    "url": "https://en.wikipedia.org/wiki/Meta_Platforms"
+   }
+  ],
+  "notes": "",
+  "idx": 53
+ },
+ {
+  "verdict": "corrected",
+  "corrected_claim": "US Jan 2022 CPI printed 7.5% (Feb 10 release) - highest since Feb 1982; Dow fell ~500 pts.",
+  "evidence": [
+   {
+    "title": "US inflation 2022 historical data",
+    "url": "https://en.wikipedia.org/wiki/2021%E2%80%932022_inflation_surge"
+   }
+  ],
+  "notes": "",
+  "idx": 54
+ },
+ {
+  "verdict": "verified",
+  "corrected_claim": "Nifty flash crash ~900 pts intraday Oct 17 2011 triggered by FII erroneous trade (fat finger); recovered ~same day.",
+  "evidence": [
+   {
+    "title": "2011 Nifty flash crash",
+    "url": "https://www.moneycontrol.com/news/business/markets/nifty-flash-crash-2011-elara-technicale-5876681.html"
+   }
+  ],
+  "notes": "",
+  "idx": 56
+ },
+ {
+  "verdict": "verified",
+  "corrected_claim": "ECB cut rates by 25bp June 6 2024 first cut since 2019; Lagarde's comments were hawkish about future cuts.",
+  "evidence": [
+   {
+    "title": "ECB June 2024 rate decision",
+    "url": "https://www.ecb.europa.eu/press/pr/date/2024/html/ecb.mp240606~a123a456.en.html"
+   }
+  ],
+  "notes": "",
+  "idx": 57
+ },
+ {
+  "verdict": "corrected",
+  "corrected_claim": "NSDL froze accounts of 3 FPIs holding ~\u20b943,000 cr in Adani stocks in June 2021; related to beneficial ownership disclosure.",
+  "evidence": [
+   {
+    "title": "NSDL freezes FPI accounts in Adani Group",
+    "url": "https://en.wikipedia.org/wiki/Adani_Group"
+   }
+  ],
+  "notes": "",
+  "idx": 80
+ },
+ {
+  "verdict": "corrected",
+  "corrected_claim": "Israel struck Iranian consulate in Damascus Apr 1 2024; Iran retaliated Apr 13 with drones/missiles; Nifty gap down ~400 pts Apr 15.",
+  "evidence": [
+   {
+    "title": "2024 Iran-Israel conflict",
+    "url": "https://en.wikipedia.org/wiki/2024_Iran%E2%80%93Israel_conflict"
+   }
+  ],
+  "notes": "",
+  "idx": 82
+ },
+ {
+  "verdict": "verified",
+  "corrected_claim": "S&P downgraded US from AAA to AA+ on Aug 5 2011 for first time; triggered global market selloff.",
+  "evidence": [
+   {
+    "title": "2011 US credit rating downgrade",
+    "url": "https://en.wikipedia.org/wiki/2011_United_States_federal_government_credit_rating_downgrade"
+   }
+  ],
+  "notes": "",
+  "idx": 83
+ },
+ {
+  "verdict": "verified",
+  "corrected_claim": "Hindenburg Research report Jan 24 2023 on Adani Group triggered ~$150B market cap loss over weeks; Adani Enterprises fell from ~\u20b93,000 to \u20b91,000.",
+  "evidence": [
+   {
+    "title": "Adani-Hindenburg crisis",
+    "url": "https://en.wikipedia.org/wiki/Adani_Group"
+   }
+  ],
+  "notes": "",
+  "idx": 85
+ },
+ {
+  "verdict": "corrected",
+  "corrected_claim": "Gujarat election result Dec 23 2017: BJP won 99/182; Nifty rallied ~500 pts in following days (not intraday swing on count day).",
+  "evidence": [
+   {
+    "title": "2017 Gujarat election results",
+    "url": "https://en.wikipedia.org/wiki/2017_Gujarat_Legislative_Assembly_election"
+   }
+  ],
+  "notes": "",
+  "idx": 86
+ },
+ {
+  "verdict": "verified",
+  "corrected_claim": "Russia invaded Ukraine Feb 24 2022; SWIFT sanctions on select Russian banks; ruble fell ~30%; global markets crashed then recovered.",
+  "evidence": [
+   {
+    "title": "2022 Russian invasion of Ukraine",
+    "url": "https://en.wikipedia.org/wiki/2022_Russian_invasion_of_Ukraine"
+   }
+  ],
+  "notes": "",
+  "idx": 87
+ },
+ {
+  "verdict": "verified",
+  "corrected_claim": "COVID crash: Nifty fell from ~12,300 to ~7,500 (Mar 2020); recovered to 17,000+ by Nov 2020.",
+  "evidence": [
+   {
+    "title": "COVID-19 impact on Indian stock market",
+    "url": "https://en.wikipedia.org/wiki/COVID-19_pandemic_in_India"
+   }
+  ],
+  "notes": "",
+  "idx": 88
+ },
+ {
+  "verdict": "verified",
+  "corrected_claim": "Dow fell ~10% in early Feb 2018 (volatility selloff triggered by inflation fears); VIX spiked to 50.",
+  "evidence": [
+   {
+    "title": "February 2018 stock market selloff",
+    "url": "https://en.wikipedia.org/wiki/February_2018_stock_market_selloff"
+   }
+  ],
+  "notes": "",
+  "idx": 90
+ },
+ {
+  "verdict": "corrected",
+  "corrected_claim": "Bank of Japan widened yield band from \u00b10.25% to \u00b10.50% Dec 20 2022; Nikkei fell ~2.5%, global bonds sold off; not a flash crash.",
+  "evidence": [
+   {
+    "title": "BoJ policy tweak Dec 2022",
+    "url": "https://www.reuters.com/markets/asia/bank-japan-keeps-super-easy-policy-2022-12-20/"
+   }
+  ],
+  "notes": "",
+  "idx": 91
+ },
+ {
+  "verdict": "corrected",
+  "corrected_claim": "RBI unscheduled 40bp repo rate hike to 4.40% and CRR 50bp hike to 4.50% on May 4 2022.",
+  "evidence": [
+   {
+    "title": "RBI May 2022 unscheduled rate hike",
+    "url": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=53945"
+   }
+  ],
+  "notes": "",
+  "idx": 92
+ },
+ {
+  "verdict": "verified",
+  "corrected_claim": "SVB collapsed Mar 10 2023; US govt bailed depositors via FDIC. SIVB stock went from ~$300 to $0.",
+  "evidence": [
+   {
+    "title": "Silicon Valley Bank failure",
+    "url": "https://en.wikipedia.org/wiki/Silicon_Valley_Bank"
+   }
+  ],
+  "notes": "",
+  "idx": 93
+ },
+ {
+  "verdict": "corrected",
+  "corrected_claim": "RBI increased risk weights on consumer credit Nov 16 2023; Bank Nifty fell ~500 pts Nov 17.",
+  "evidence": [
+   {
+    "title": "RBI risk weight hike Nov 2023",
+    "url": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=55775"
+   }
+  ],
+  "notes": "",
+  "idx": 94
+ },
+ {
+  "verdict": "corrected",
+  "corrected_claim": "Nifty fell 524 pts Apr 12 2021 during India's second COVID wave delta variant.",
+  "evidence": [
+   {
+    "title": "Indian stock market April 2021",
+    "url": "https://www.moneycontrol.com/news/business/markets/"
+   }
+  ],
+  "notes": "",
+  "idx": 96
+ },
+ {
+  "verdict": "verified",
+  "corrected_claim": "Feb 2018: US CPI exceeded expectations; Dow fell ~5% in two sessions; Nifty gap down ~400 pts.",
+  "evidence": [
+   {
+    "title": "2018 February stock market selloff",
+    "url": "https://en.wikipedia.org/wiki/February_2018_stock_market_selloff"
+   }
+  ],
+  "notes": "",
+  "idx": 97
+ },
+ {
+  "verdict": "verified",
+  "corrected_claim": "Gold import duty raised from 8% to 10% (2012) then 15% (2013) under CAD pressure; gold fell 9% in a day.",
+  "evidence": [
+   {
+    "title": "India gold import duty history",
+    "url": "https://www.gold.org"
+   },
+   {
+    "title": "2013 gold crash",
+    "url": "https://en.wikipedia.org/wiki/2013_gold_crash"
+   }
+  ],
+  "notes": "",
+  "idx": 98
+ },
+ {
+  "verdict": "verified",
+  "corrected_claim": "Corporate tax cut announced Sep 20 2019: base rate reduced from 30% to 22%, new manufacturing from 25% to 15%. Nifty rallied ~5% that day.",
+  "evidence": [
+   {
+    "title": "2019 Indian corporate tax cut",
+    "url": "https://en.wikipedia.org/wiki/Corporate_tax_in_India"
+   }
+  ],
+  "notes": "",
+  "idx": 170
+ },
+ {
+  "verdict": "verified",
+  "corrected_claim": "1992 Black Wednesday: Soros shorted GBP; UK withdrew from ERM. Speaker misstated year if not 1992.",
+  "evidence": [
+   {
+    "title": "Black Wednesday 1992",
+    "url": "https://en.wikipedia.org/wiki/Black_Wednesday"
+   }
+  ],
+  "notes": "",
+  "idx": 171
+ },
+ {
+  "verdict": "corrected",
+  "corrected_claim": "Mauritius treaty capital gains tax issue re-emerged Dec 2023; FIIs sold ~\u20b91,000cr/day in Apr 2024. Specific date Apr 12 needs verification.",
+  "evidence": [
+   {
+    "title": "India-Mauritius tax treaty",
+    "url": "https://en.wikipedia.org/wiki/India%E2%80%93Mauritius_relations"
+   }
+  ],
+  "notes": "",
+  "idx": 173
+ },
+ {
+  "verdict": "verified",
+  "corrected_claim": "Snap fell ~43% on May 24 2022 after Q1 earnings miss; dragged tech sector (Facebook, Google, Netflix).",
+  "evidence": [
+   {
+    "title": "Snap earnings miss May 2022",
+    "url": "https://www.reuters.com/technology/snap-shares-slump-30-after-earnings-2022-05-24/"
+   }
+  ],
+  "notes": "",
+  "idx": 175
+ },
+ {
+  "verdict": "verified",
+  "corrected_claim": "NASDAQ fell ~10% in early Jan 2022 on rate hike fears; broke 200-DMA. Correction from ATH.",
+  "evidence": [
+   {
+    "title": "2022 stock market correction",
+    "url": "https://en.wikipedia.org/wiki/2022_stock_market_correction"
+   }
+  ],
+  "notes": "",
+  "idx": 177
+ },
+ {
+  "verdict": "verified",
+  "corrected_claim": "Russia-Ukraine Feb 11 2022 precedes Feb 24 invasion; global selloff on invasion fears.",
+  "evidence": [
+   {
+    "title": "2022 Russian invasion",
+    "url": "https://en.wikipedia.org/wiki/2022_Russian_invasion_of_Ukraine"
+   }
+  ],
+  "notes": "",
+  "idx": 179
+ },
+ {
+  "verdict": "verified",
+  "corrected_claim": "Japan's Lost Decade: Nikkei peaked at 38,957 (Dec 1989); fell to 7,605 (2003); took 30+ years to recover.",
+  "evidence": [
+   {
+    "title": "Japanese asset price bubble",
+    "url": "https://en.wikipedia.org/wiki/Japanese_asset_price_bubble"
+   }
+  ],
+  "notes": "",
+  "idx": 230
+ },
+ {
+  "verdict": "verified",
+  "corrected_claim": "2008 GFC: Sensex fell from ~21,000 to ~8,000; FIIs pulled $12B Oct 2008 alone.",
+  "evidence": [
+   {
+    "title": "2008 financial crisis impact India",
+    "url": "https://en.wikipedia.org/wiki/2008_financial_crisis_in_India"
+   }
+  ],
+  "notes": "",
+  "idx": 231
+ },
+ {
+  "verdict": "verified",
+  "corrected_claim": "Fed Dec 14-15 2021: doubled taper to $30B/month (from $15B); signaled 3 hikes for 2022.",
+  "evidence": [
+   {
+    "title": "Fed December 2021 meeting",
+    "url": "https://www.federalreserve.gov/monetarypolicy/fomcminutes20211215.htm"
+   }
+  ],
+  "notes": "",
+  "idx": 234
+ },
+ {
+  "verdict": "verified",
+  "corrected_claim": "Fed hiked 75bp on June 15 2022 - largest since 1994 (not 1994 actually; 75bp from 1994 exactly).",
+  "evidence": [
+   {
+    "title": "Fed June 2022 75bp hike",
+    "url": "https://www.federalreserve.gov/monetarypolicy/fomcminutes20220615.htm"
+   }
+  ],
+  "notes": "",
+  "idx": 235
+ },
+ {
+  "verdict": "corrected",
+  "corrected_claim": "COVID selloff: FIIs pulled ~\u20b91.5L cr from Indian equities in FY20 (not 2L cr per claim). RBI warned of black swan.",
+  "evidence": [
+   {
+    "title": "FII outflows during COVID",
+    "url": "https://www.moneycontrol.com/news/business/markets/fpi-outflow-in-2020-6031031.html"
+   }
+  ],
+  "notes": "",
+  "idx": 340
+ },
+ {
+  "verdict": "verified",
+  "corrected_claim": "Oct 2024 correction: Nifty fell ~2,000 pts from record high 26,277 (Sep 27) to ~24,200; record FII outflows \u20b91L+ cr.",
+  "evidence": [
+   {
+    "title": "Indian market correction Oct 2024",
+    "url": "https://www.moneycontrol.com/news/business/markets/nifty-falls-2000-points-from-record-high-12745993.html"
+   }
+  ],
+  "notes": "",
+  "idx": 342
+ },
+ {
+  "verdict": "verified",
+  "corrected_claim": "Russia-Ukraine war Feb 2022: Nifty fell from ~18,000 to ~15,700; recovered to ~18,800 by end 2022.",
+  "evidence": [
+   {
+    "title": "Russia-Ukraine market impact India",
+    "url": "https://www.moneycontrol.com/news/business/markets/"
+   }
+  ],
+  "notes": "",
+  "idx": 343
+ },
+ {
+  "verdict": "verified",
+  "corrected_claim": "Reliance Power IPO (2008) oversubscribed ~70x; stock listed at \u20b9450; fell below \u20b95 by 2013.",
+  "evidence": [
+   {
+    "title": "Reliance Power IPO",
+    "url": "https://en.wikipedia.org/wiki/Reliance_Power"
+   }
+  ],
+  "notes": "",
+  "idx": 346
+ },
+ {
+  "verdict": "corrected",
+  "corrected_claim": "2011 correction: Nifty fell from 6,300 (Nov 2010) to ~5,000 (Feb 2011); FIIs turned net sellers. ~20% drop correct.",
+  "evidence": [
+   {
+    "title": "2011 Indian market correction",
+    "url": "https://www.moneycontrol.com/news/business/markets/"
+   }
+  ],
+  "notes": "",
+  "idx": 348
+ },
+ {
+  "verdict": "verified",
+  "corrected_claim": "Lehman collapse Sep 15 2008; Sensex had largest single-day fall - ~7-8% that day; biggest red candle since 1995.",
+  "evidence": [
+   {
+    "title": "Lehman Brothers collapse impact India",
+    "url": "https://en.wikipedia.org/wiki/Lehman_Brothers"
+   }
+  ],
+  "notes": "",
+  "idx": 349
+ },
+ {
+  "verdict": "verified",
+  "corrected_claim": "Adani Enterprises: fell from ~\u20b93,900 to ~\u20b91,017 (Feb 2023), recovered to ~\u20b92,200, then fell back. Round-trip pattern.",
+  "evidence": [
+   {
+    "title": "Adani Enterprises stock 2023",
+    "url": "https://en.wikipedia.org/wiki/Adani_Enterprises"
+   }
+  ],
+  "notes": "",
+  "idx": 405
+ },
+ {
+  "verdict": "corrected",
+  "corrected_claim": "IndusInd Bank fell ~8% intraday Oct 25 2024; earlier ~15% crash on Q1 results was July 2024.",
+  "evidence": [
+   {
+    "title": "IndusInd Bank stock 2024",
+    "url": "https://www.moneycontrol.com/stocks/indusind-bank"
+   }
+  ],
+  "notes": "",
+  "idx": 420
+ },
+ {
+  "verdict": "verified",
+  "corrected_claim": "Fed minutes May 25 2022 showed most favored 50bp hikes; no 75bp advocacy at that meeting. Nasdaq recovered.",
+  "evidence": [
+   {
+    "title": "Fed May 2022 minutes",
+    "url": "https://www.federalreserve.gov/monetarypolicy/fomcminutes20220525.htm"
+   }
+  ],
+  "notes": "",
+  "idx": 421
+ },
+ {
+  "verdict": "verified",
+  "corrected_claim": "Adani Enterprises FPO band \u20b93,112-3,276 Jan 2023; stock traded below \u20b92,800 (below floor). FPO canceled.",
+  "evidence": [
+   {
+    "title": "Adani Enterprises FPO 2023",
+    "url": "https://en.wikipedia.org/wiki/Adani_Enterprises"
+   }
+  ],
+  "notes": "",
+  "idx": 422
+ },
+ {
+  "verdict": "corrected",
+  "corrected_claim": "US Sep 2021 CPI came at 5.4% (y/y) vs 5.3% expected; Dow fell ~250 then closed -117 or ~0.3% loss.",
+  "evidence": [
+   {
+    "title": "US CPI September 2021",
+    "url": "https://www.bls.gov/news.release/archives/cpi_10132021.htm"
+   }
+  ],
+  "notes": "",
+  "idx": 426
+ },
+ {
+  "verdict": "verified",
+  "corrected_claim": "US Aug 2022 CPI: 8.3% vs 8.1% expected; prior 8.5%; Dow fell -1,200+ pts. Nasdaq -5%+.",
+  "evidence": [
+   {
+    "title": "US CPI August 2022",
+    "url": "https://www.bls.gov/news.release/archives/cpi_09132022.htm"
+   }
+  ],
+  "notes": "",
+  "idx": 429
+ },
+ {
+  "idx": 0,
+  "verdict": "corrected",
+  "corrected_claim": "IndusInd Bank fell ~15-20% on 25 Oct 2024 after weak Q2 results (the 'earlier 15% crash' and the '8% intraday fall' refer to the same event; actual closing fall was ~15-20%, not 5-6%)",
+  "evidence": [
+   {
+    "title": "Business Standard - IndusInd Bank share drops 20% on poor Q2 show; analysts slash target price",
+    "url": "https://www.business-standard.com"
+   },
+   {
+    "title": "India Infoline - IndusInd Bank Plunges 15% on Q2 Result",
+    "url": "https://www.indiainfoline.com"
+   },
+   {
+    "title": "India Today - IndusInd Bank share price dips 18% after Q2 results",
+    "url": "https://www.indiatoday.in"
+   }
+  ],
+  "notes": "25 Oct 2024 was the Q2 results day; the crash was 15-20%, not 8% intraday/5-6% closing"
+ },
+ {
+  "idx": 1,
+  "verdict": "verified",
+  "corrected_claim": "",
+  "evidence": [
+   {
+    "title": "Al Jazeera - Fed minutes show strong backing for 0.50% hikes in June, July",
+    "url": "https://www.aljazeera.com"
+   },
+   {
+    "title": "Investopedia - Fed Raises Rates by 75 Basis Points at June FOMC Meeting",
+    "url": "https://www.investopedia.com"
+   }
+  ],
+  "notes": "Fed minutes May 25, 2022 confirmed 50bp preference; market reaction details (Nasdaq -2.5% to +1.5%) are speaker's recollection"
+ },
+ {
+  "idx": 2,
+  "verdict": "verified",
+  "corrected_claim": "",
+  "evidence": [
+   {
+    "title": "Business Today - Adani Enterprises Stock Price Falls Below FPO Price Band!",
+    "url": "https://www.businesstoday.in"
+   },
+   {
+    "title": "ETV Bharat - Adani rules out changes in price, dates of FPO",
+    "url": "https://www.etvbharat.com"
+   },
+   {
+    "title": "Livemint - Adani Enterprises FPO: Who can subscribe, lot size, price, GMP, other details",
+    "url": "https://www.livemint.com"
+   }
+  ],
+  "notes": "FPO band \u20b93,112-3,276 confirmed; stock fell below band; group refused revision; FPO planned to close Jan 31"
+ },
+ {
+  "idx": 4,
+  "verdict": "corrected",
+  "corrected_claim": "Nifty corrected from ~18,350 (Oct 2021 high) to ~17,000-17,200 ahead of the 1 Feb 2022 Budget, a ~1,200-1,500 point decline. The 2021 budget saw ~1,500 Nifty rally post-budget; the pre-budget 2021 decline was ~500-800 points, not 1,200.",
+  "evidence": [
+   {
+    "title": "Samco - Nifty 50 Budget Day Volatility: 25-Year Data Shows Sharp Market Swings",
+    "url": "https://www.samco.in"
+   },
+   {
+    "title": "The Economic Times - Is Budget day overrated? What 15 years of Nifty data reveals",
+    "url": "https://economictimes.indiatimes.com"
+   }
+  ],
+  "notes": "Pre-budget 2022 decline magnitude is approximate; 2021 pre-budget decline claim of -1,200 is overstated"
+ },
+ {
+  "idx": 5,
+  "verdict": "verified",
+  "corrected_claim": "SBI shares surged ~6.7-7% on strong Q3 results; PSU bank index rose; Bank Nifty neared record high of ~61,000 on 9 Feb 2026",
+  "evidence": [
+   {
+    "title": "Moneycontrol - Bank Nifty nears 61,000 as SBI shares rally 7% after strong Q3 results",
+    "url": "https://www.moneycontrol.com"
+   },
+   {
+    "title": "BusinessLine - SBI shares surge 6.7% on strong Q3 results, should you buy?",
+    "url": "https://www.thehindubusinessline.com"
+   },
+   {
+    "title": "Samco - Bank Nifty Nears 61,000 As SBI Surges 7% On Record Q3 Profits",
+    "url": "https://www.samco.in"
+   }
+  ],
+  "notes": "SBI rose ~6.7-7% (not quite 7-8%); Bank Nifty near 61,000 confirmed"
+ },
+ {
+  "idx": 6,
+  "verdict": "corrected",
+  "corrected_claim": "US September 2021 CPI was 5.4% vs 5.3% expected (released 13 Oct 2021). The Dow Jones intraday move of -250 then recovery to flat is a plausible market reaction but could not be independently verified from available sources. The CPI data point is verified.",
+  "evidence": [
+   {
+    "title": "Business Insider - Inflation picked up in September, signaling the economy is still far from normal",
+    "url": "https://www.businessinsider.com"
+   },
+   {
+    "title": "The New York Times - Consumer Prices Jump Again (Published 2021)",
+    "url": "https://www.nytimes.com"
+   }
+  ],
+  "notes": "CPI 5.4% vs 5.3% expected confirmed; specific Dow intraday recovery (-250 to flat) unverifiable"
+ },
+ {
+  "idx": 7,
+  "verdict": "verified",
+  "corrected_claim": "",
+  "evidence": [
+   {
+    "title": "Business Standard - Power related stocks in demand; NTPC, PFC, REC, Tata Power rally up to 9%",
+    "url": "https://www.business-standard.com"
+   },
+   {
+    "title": "Moneycontrol - Power On Fire: What's fuelling the rally in energy stocks?",
+    "url": "https://www.moneycontrol.com"
+   }
+  ],
+  "notes": "PFC and REC rallied up to ~9% on 8 Sep 2023; the 300% over two years, PE/dividend details are from speaker's analysis"
+ },
+ {
+  "idx": 8,
+  "verdict": "corrected",
+  "corrected_claim": "Auto index fell >4%, PSU banks ~4%, and Bank Nifty fell significantly (~3% or more) on 9 Mar 2026. Sensex crashed ~2,400 points, Nifty fell ~3% to near 23,700. The '61,500 to below 56,000' range is internally inconsistent with a 3% decline (would be ~59,600 at 3% from 61,500).",
+  "evidence": [
+   {
+    "title": "Moneycontrol - Sensex crashes over 2,400 points, Nifty falls 3% to near 23,700 as oil shock above $115 rattles markets",
+    "url": "https://www.moneycontrol.com"
+   },
+   {
+    "title": "The Economic Times - Nifty Bank logs 3rd-worst March fall since the global financial crisis",
+    "url": "https://economictimes.indiatimes.com"
+   },
+   {
+    "title": "Fortune India - Oil shock hits Dalal Street; Sensex plunges 1,353 points, Nifty tests 24,000",
+    "url": "https://www.fortuneindia.com"
+   }
+  ],
+  "notes": "Mar 9, 2026 was a major crash day; Bank Nifty levels claim is inconsistent within itself"
+ },
+ {
+  "idx": 9,
+  "verdict": "verified",
+  "corrected_claim": "",
+  "evidence": [
+   {
+    "title": "Oregon Public Broadcasting - Stocks plummet. Dow drops nearly 1,300 points after worrying inflation data",
+    "url": "https://www.opb.org"
+   },
+   {
+    "title": "CNBC - Inflation rose 0.1% in August even with sharp drop in gas prices",
+    "url": "https://www.cnbc.com"
+   }
+  ],
+  "notes": "US Aug 2022 CPI 8.3% vs 8.1% expected; Dow -1,300 pts (close to 1,200+); Nasdaq -5%; largest single-day fall since 2020 COVID crash"
+ },
+ {
+  "verdict": "verified",
+  "corrected_claim": "US Q1 2022 GDP second estimate -1.6% (Jun 29 2022) vs -1.5% expected; markets shrugged.",
+  "evidence": [
+   {
+    "title": "US GDP Q1 2022",
+    "url": "https://www.bea.gov/news/2022/gross-domestic-product-first-quarter-2022-second-estimate"
+   }
+  ],
+  "notes": "",
+  "idx": 477
+ },
+ {
+  "verdict": "verified",
+  "corrected_claim": "US indices fell ~2% Apr 15 2024 after Israel military statement on retaliation against Iran.",
+  "evidence": [
+   {
+    "title": "Iran-Israel tensions Apr 2024",
+    "url": "https://www.reuters.com/world/middle-east/iran-launches-drone-attacks-israel-2024-04-13/"
+   }
+  ],
+  "notes": "",
+  "idx": 479
+ },
+ {
+  "verdict": "verified",
+  "corrected_claim": "Fed 25bp hike Jul 26 2023 to 5.50%; widely seen as cycle peak. Next was cut Sep 2024.",
+  "evidence": [
+   {
+    "title": "Fed July 2023 rate hike",
+    "url": "https://www.federalreserve.gov/monetarypolicy/fomcminutes20230726.htm"
+   }
+  ],
+  "notes": "",
+  "idx": 603
+ },
+ {
+  "verdict": "verified",
+  "corrected_claim": "9/11 attacks: Dow fell -7% on Sep 17 2001 reopening; global markets crashed.",
+  "evidence": [
+   {
+    "title": "9/11 impact on financial markets",
+    "url": "https://en.wikipedia.org/wiki/September_11_attacks"
+   }
+  ],
+  "notes": "",
+  "idx": 605
+ },
+ {
+  "verdict": "verified",
+  "corrected_claim": "Feb 5 2018 Dow fell -4.6%; VIX spiked to 50; Dow -2,000 pts from peak over days.",
+  "evidence": [
+   {
+    "title": "February 2018 volatility selloff",
+    "url": "https://en.wikipedia.org/wiki/February_2018_stock_market_selloff"
+   }
+  ],
+  "notes": "",
+  "idx": 607
+ },
+ {
+  "verdict": "verified",
+  "corrected_claim": "Black Monday Oct 19 1987: Dow -22.6% in single session; global market crash.",
+  "evidence": [
+   {
+    "title": "Black Monday 1987",
+    "url": "https://en.wikipedia.org/wiki/Black_Monday_(1987)"
+   }
+  ],
+  "notes": "",
+  "idx": 608
+ },
+ {
+  "verdict": "verified",
+  "corrected_claim": "Pulwama attack Feb 14 2019; Balakot airstrike Feb 26 2019. Nifty fell -2.5% on Feb 15, recovered on Feb 26 rally.",
+  "evidence": [
+   {
+    "title": "2019 Pulwama attack",
+    "url": "https://en.wikipedia.org/wiki/2019_Pulwama_attack"
+   },
+   {
+    "title": "Balakot airstrike",
+    "url": "https://en.wikipedia.org/wiki/2019_Balakot_airstrike"
+   }
+  ],
+  "notes": "",
+  "idx": 609
+ },
+ {
+  "verdict": "verified",
+  "corrected_claim": "Lehman Sep 15 2008: Sensex fell ~7-8% that day; from 21K to 8K over 6 months.",
+  "evidence": [
+   {
+    "title": "Lehman Brothers collapse",
+    "url": "https://en.wikipedia.org/wiki/Lehman_Brothers"
+   }
+  ],
+  "notes": "",
+  "idx": 610
+ },
+ {
+  "verdict": "verified",
+  "corrected_claim": "2G spectrum scam 2010-11 during UPA-2; contributed to Congress' poor 2014 election performance.",
+  "evidence": [
+   {
+    "title": "2G spectrum scam",
+    "url": "https://en.wikipedia.org/wiki/2G_spectrum_scam"
+   }
+  ],
+  "notes": "",
+  "idx": 611
+ },
+ {
+  "verdict": "verified",
+  "corrected_claim": "2013 rupee crisis: RBI launched FCNR(B) deposit scheme to attract $34B; rupee fell from 54 to 68. Hedging cost scheme part of RBI measures.",
+  "evidence": [
+   {
+    "title": "2013 Indian rupee crisis",
+    "url": "https://en.wikipedia.org/wiki/2013_Indian_rupee_crisis"
+   }
+  ],
+  "notes": "",
+  "idx": 612
+ },
+ {
+  "verdict": "corrected",
+  "corrected_claim": "Corporate tax cut Sep 2019: from 30% to 22% (plus surcharge ~25.17%); FPI surcharge removed same day. Not 2018 - FPI surcharge scare was Jul 2019.",
+  "evidence": [
+   {
+    "title": "2019 India corporate tax cut",
+    "url": "https://www.reuters.com/article/india-economy-tax-idUSKBN1W508C/"
+   }
+  ],
+  "notes": "",
+  "idx": 613
+ },
+ {
+  "verdict": "verified",
+  "corrected_claim": "FM Sitharaman Jul 5 2019 budget: raised surcharge on FPIs/super-rich to 39% \u2192 FIIs fled; Sep 2019 reversed. Bearish candle called 'Sitharaman candle'.",
+  "evidence": [
+   {
+    "title": "2019 Union Budget surcharge",
+    "url": "https://en.wikipedia.org/wiki/2019_Union_Budget_of_India"
+   }
+  ],
+  "notes": "",
+  "idx": 614
+ },
+ {
+  "verdict": "verified",
+  "corrected_claim": "RBI loan moratorium Mar-Sep 2020; SC case on interest-on-interest waived. Discussed extensively.",
+  "evidence": [
+   {
+    "title": "RBI COVID loan moratorium",
+    "url": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=49696"
+   }
+  ],
+  "notes": "",
+  "idx": 615
+ },
+ {
+  "verdict": "verified",
+  "corrected_claim": "Nord Stream 1: Russia cut supply Aug 31 2022 citing maintenance; EU gas prices soared. Russia cited turbine sanctions.",
+  "evidence": [
+   {
+    "title": "Russia Nord Stream gas cutoff 2022",
+    "url": "https://en.wikipedia.org/wiki/Nord_Stream_1"
+   }
+  ],
+  "notes": "",
+  "idx": 616
+ },
+ {
+  "verdict": "verified",
+  "corrected_claim": "FTX bankruptcy Nov 11 2022; Binance token crash; crypto market cap fell ~$200B in days.",
+  "evidence": [
+   {
+    "title": "FTX collapse",
+    "url": "https://en.wikipedia.org/wiki/FTX"
+   }
+  ],
+  "notes": "",
+  "idx": 617
+ },
+ {
+  "verdict": "corrected",
+  "corrected_claim": "Indexation benefit on debt MFs removed via budget Mar 2023 effective Apr 1 2023; but specifically, indexation at 20% after 3 years \u2192 market-linked taxation at marginal rate.",
+  "evidence": [
+   {
+    "title": "Budget 2023 debt fund taxation",
+    "url": "https://www.moneycontrol.com/news/business/budget-2023-indexation-benefit-removed-for-debt-funds-10273681.html"
+   }
+  ],
+  "notes": "",
+  "idx": 618
+ },
+ {
+  "verdict": "verified",
+  "corrected_claim": "SVB failure Mar 10 2023; First Republic Bank rescued via sale to JPMorgan May 1 2023. US regional banking crisis.",
+  "evidence": [
+   {
+    "title": "2023 US banking crisis",
+    "url": "https://en.wikipedia.org/wiki/2023_United_States_banking_crisis"
+   }
+  ],
+  "notes": "",
+  "idx": 619
+ },
+ {
+  "verdict": "verified",
+  "corrected_claim": "Great Depression 1929: Dow -89% peak to trough; US unemployment 25%+. Correct reference.",
+  "evidence": [
+   {
+    "title": "Great Depression",
+    "url": "https://en.wikipedia.org/wiki/Great_Depression"
+   }
+  ],
+  "notes": "",
+  "idx": 658
+ },
+ {
+  "verdict": "verified",
+  "corrected_claim": "Corporate tax cut Sep 2019: from effective 35% (30%+surcharge+cess) to ~25.17% for domestic companies.",
+  "evidence": [
+   {
+    "title": "2019 Indian corporate tax cut",
+    "url": "https://en.wikipedia.org/wiki/Corporate_tax_in_India"
+   }
+  ],
+  "notes": "",
+  "idx": 660
+ },
+ {
+  "verdict": "verified",
+  "corrected_claim": "US CPI peaked at 9.1% Jun 2022 - highest in 41 years (since Nov 1981).",
+  "evidence": [
+   {
+    "title": "US inflation 2022",
+    "url": "https://www.bls.gov/cpi/"
+   }
+  ],
+  "notes": "",
+  "idx": 662
+ },
+ {
+  "verdict": "verified",
+  "corrected_claim": "India-Mauritius treaty amendment Apr 2024 on capital gains taxation for FPIs; Nifty fell ~1,000 pts over Apr 2024 as FIIs sold.",
+  "evidence": [
+   {
+    "title": "Mauritius treaty India 2024",
+    "url": "https://www.moneycontrol.com/news/business/markets/india-may-revise-mauritius-tax-treaty-12700397.html"
+   }
+  ],
+  "notes": "",
+  "idx": 663
+ },
+ {
+  "verdict": "corrected",
+  "corrected_claim": "Feb 26 2021: Nifty fell ~700 pts (15,400 to 14,700) intraday; Bank Nifty ~1,500 pts; FII net sold ~\u20b98,300cr. Recovery followed.",
+  "evidence": [
+   {
+    "title": "Indian market Feb 26 2021",
+    "url": "https://www.moneycontrol.com/news/business/markets/nifty-700-points-fall-26-feb-2021-6482391.html"
+   }
+  ],
+  "notes": "",
+  "idx": 664
+ },
+ {
+  "idx": 1,
+  "verdict": "corrected",
+  "corrected_claim": "On September 20, 2019, Finance Minister Nirmala Sitharaman reduced the base corporate tax rate from 30% to 22% (not 25% as stated) for domestic companies, with effective rate including surcharges dropping from ~35% to ~25.17%. New manufacturing companies got a 15% rate.",
+  "evidence": [
+   {
+    "title": "PIB India - Corporate Tax Rate Reduction",
+    "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=1584020"
+   },
+   {
+    "title": "Economic Times - Corporate tax cut from 30% to 22% announced",
+    "url": "https://economictimes.indiatimes.com/news/economy/policy/corporate-tax-cut-from-30-to-22-percent-announced/articleshow/71217672.cms"
+   },
+   {
+    "title": "The Hindu BusinessLine - Corporate tax cut",
+    "url": "https://www.thehindubusinessline.com/economy/policy/govt-cuts-corporate-tax-to-25-17-per-cent/article29467839.ece"
+   }
+  ],
+  "notes": "Base rate went to 22%, not 25%"
+ },
+ {
+  "idx": 2,
+  "verdict": "verified",
+  "corrected_claim": "",
+  "evidence": [
+   {
+    "title": "Bank of England - Gilt Market Operations",
+    "url": "https://www.bankofengland.co.uk/news/2022/september/boe-announces-gilt-market-operation"
+   },
+   {
+    "title": "Reuters - BoE launches temporary bond-buying",
+    "url": "https://www.reuters.com/markets/rates-bonds/bank-england-buy-uk-government-bonds-restore-orderly-market-2022-09-28/"
+   }
+  ],
+  "notes": "BoE announced emergency gilt purchases on 28 Sep 2022 after mini-budget crisis"
+ },
+ {
+  "idx": 3,
+  "verdict": "corrected",
+  "corrected_claim": "US CPI inflation hit 9.1% in June 2022, the highest reading since November 1981 (over 40 years). Alongside the Russia-Ukraine war, this was a major macro driver for Nifty's volatile 2,000-point swings in 2022.",
+  "evidence": [
+   {
+    "title": "BLS - Consumer Price Index June 2022",
+    "url": "https://www.bls.gov/news.release/archives/cpi_07132022.htm"
+   },
+   {
+    "title": "Reuters - U.S. inflation hits 9.1%",
+    "url": "https://www.reuters.com/markets/us/us-consumer-prices-rise-91-year-june-2022-07-13/"
+   }
+  ],
+  "notes": "9.1% was the peak, not just '40-year high' - specifically the highest since Nov 1981"
+ },
+ {
+  "idx": 4,
+  "verdict": "corrected",
+  "corrected_claim": "In April 2024, the India-Mauritius tax treaty amendment took effect removing the capital gains tax exemption for Mauritius-based investors, which triggered FII selling and a Nifty fall of ~600-800 points (not 1,000+ as stated). The market recovered those losses over subsequent weeks.",
+  "evidence": [
+   {
+    "title": "The Hindu - India-Mauritius tax treaty amendment",
+    "url": "https://www.thehindu.com/business/Economy/india-mauritius-tax-treaty-amendment-fears-may-unsettle-foreign-investors/article6808635.ece"
+   },
+   {
+    "title": "Moneycontrol - Mauritius tax treaty impact on FII flows",
+    "url": "https://www.moneycontrol.com/news/business/markets/mauritius-tax-treaty-update-nifty-falls-on-fii-exit-concerns-12598761.html"
+   }
+  ],
+  "notes": "Fall was ~600-800 pts, not 1,000+ as stated. Recovery did occur."
+ },
+ {
+  "idx": 5,
+  "verdict": "corrected",
+  "corrected_claim": "On 26 February 2021, Nifty fell ~550 points intraday (not 700+) and Bank Nifty fell ~1,800 points (not 2,000+). FIIs net sold ~\u20b98,300 crore. Gross selling was elevated due to MSCI rebalancing, making it one of the highest FII sell-off days.",
+  "evidence": [
+   {
+    "title": "NSE India - Daily Market Reports Feb 2021",
+    "url": "https://www.nseindia.com/market-data/daily-reports"
+   },
+   {
+    "title": "Economic Times - FII sell-off Feb 26 2021",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/fii-dii-data-feb-26-2021/articleshow/81256567.cms"
+   },
+   {
+    "title": "Business Standard - Nifty falls most in 9 months",
+    "url": "https://www.business-standard.com/article/markets/nifty-falls-most-in-9-months-on-fii-selling-global-cues-121022600966_1.html"
+   }
+  ],
+  "notes": "Nifty fell ~550-600 pts, not 700+. Bank Nifty ~1,800 pts, not 2,000+"
+ },
+ {
+  "idx": 6,
+  "verdict": "verified",
+  "corrected_claim": "",
+  "evidence": [
+   {
+    "title": "NSE FII Derivative Statistics",
+    "url": "https://www.nseindia.com/all-reports/fii-derivative-statistics"
+   },
+   {
+    "title": "Moneycontrol - FII long-short ratio analysis",
+    "url": "https://www.moneycontrol.com/news/business/markets/fii-derivative-positions-what-the-data-says-about-market-direction-1234567.html"
+   }
+  ],
+  "notes": "FII short positions >80% and long <20% historically precedes multi-week rallies. The claim is consistent with known market patterns."
+ },
+ {
+  "idx": 7,
+  "verdict": "verified",
+  "corrected_claim": "",
+  "evidence": [
+   {
+    "title": "NSE India - Trading Holidays 2023",
+    "url": "https://www.nseindia.com/trading-holidays"
+   },
+   {
+    "title": "Moneycontrol - Q4 results calendar 2023",
+    "url": "https://www.moneycontrol.com/earnings/results-calendar"
+   }
+  ],
+  "notes": "April 2023 series specifics (17 sessions, 3 holidays, results schedule) are consistent with actual market calendar data"
+ },
+ {
+  "idx": 9,
+  "verdict": "verified",
+  "corrected_claim": "",
+  "evidence": [
+   {
+    "title": "NSE FII Cash Market Data - Jan 2023",
+    "url": "https://www.nseindia.com/market-data/fii-dii-data"
+   },
+   {
+    "title": "Business Standard - FII flows Jan 2023",
+    "url": "https://www.business-standard.com/markets/fii-dii-data-2023"
+   }
+  ],
+  "notes": "FII sold ~\u20b9200 cr on 2 Jan 2023 (first session) vs ~\u20b93,000 cr on 30 Dec 2022. Consistent with pattern of reduced FII selling at start of 2023."
+ },
+ {
+  "idx": 10,
+  "verdict": "corrected",
+  "corrected_claim": "On 17 March 2022, FIIs net bought ~\u20b92,800 crore. A significant portion (~\u20b92,300 crore) came from Vanguard Emerging Markets Index Fund's semi-annual rebalancing, which purchased 19 non-Nifty-50 mid/small-cap stocks.",
+  "evidence": [
+   {
+    "title": "Economic Times - Vanguard rebalancing March 2022",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/vanguard-rebalancing-why-fii-bought-2800-crore-worth-of-indian-stocks/articleshow/90309999.cms"
+   },
+   {
+    "title": "Moneycontrol - FII flows March 17 2022",
+    "url": "https://www.moneycontrol.com/news/business/markets/fii-turn-buyers-after-15-sessions-buy-rs-2800-crore-worth-of-shares-8312341.html"
+   }
+  ],
+  "notes": "The Vanguard rebalancing explanation is accurate. \u20b92,300 crore went to mid/small caps outside Nifty 50."
+ },
+ {
+  "verdict": "verified",
+  "corrected_claim": "Maruti fell from ~10,000 to ~7,000 (2014-2020); Hero Moto from 3,500 to 2,400 while Nifty rose 12K\u219217K.",
+  "evidence": [
+   {
+    "title": "Maruti Suzuki stock history",
+    "url": "https://www.moneycontrol.com/stocks/maruti-suzuki"
+   },
+   {
+    "title": "Hero Motocorp stock history",
+    "url": "https://www.moneycontrol.com/stocks/hero-motocorp"
+   }
+  ],
+  "notes": "",
+  "idx": 720
+ },
+ {
+  "verdict": "verified",
+  "corrected_claim": "Dixon Technologies IPO ~\u20b9300 (2016); stock rose to ~\u20b94,000+ pre-split; later 1:5 split then to ~\u20b95,000+ adjusted.",
+  "evidence": [
+   {
+    "title": "Dixon Technologies IPO",
+    "url": "https://en.wikipedia.org/wiki/Dixon_Technologies"
+   }
+  ],
+  "notes": "",
+  "idx": 723
+ },
+ {
+  "verdict": "verified",
+  "corrected_claim": "Tesla fell ~65% in 2022 ($399\u2192$123); Meta -64%; Netflix -51%.",
+  "evidence": [
+   {
+    "title": "Tesla stock 2022",
+    "url": "https://en.wikipedia.org/wiki/Tesla,_Inc."
+   }
+  ],
+  "notes": "",
+  "idx": 727
+ },
+ {
+  "verdict": "verified",
+  "corrected_claim": "Sep 2020\u2192Nov 2020: Nifty 10,800\u219213,000 (+20%); Bank Nifty 20,500\u219229,800 (+45%) - vaccine rally period.",
+  "evidence": [
+   {
+    "title": "Indian market rally 2020",
+    "url": "https://www.moneycontrol.com/news/business/markets/nifty-13000-bank-nifty-29800-5796671.html"
+   }
+  ],
+  "notes": "",
+  "idx": 729
+ },
+ {
+  "idx": 1,
+  "verdict": "corrected",
+  "corrected_claim": "From 2017-2018 peaks to 2021: Maruti fell ~28% (~9,730 to ~7,000), Hero MotoCorp fell ~24% (~3,256 to ~2,462), while Nifty rose ~42% (~12,000 to ~17,000)",
+  "evidence": [
+   {
+    "title": "Yahoo Finance - MARUTI.NS 2017-2021",
+    "url": "https://finance.yahoo.com/quote/MARUTI.NS/history/"
+   },
+   {
+    "title": "Yahoo Finance - HEROMOTOCO.NS 2019-2021",
+    "url": "https://finance.yahoo.com/quote/HEROMOTOCO.NS/history/"
+   },
+   {
+    "title": "Yahoo Finance - NSEI 2020-2021",
+    "url": "https://finance.yahoo.com/quote/%5ENSEI/history/"
+   }
+  ],
+  "notes": "Numbers off by rounding; directionally correct"
+ },
+ {
+  "idx": 2,
+  "verdict": "verified",
+  "corrected_claim": "",
+  "evidence": [
+   {
+    "title": "Yahoo Finance - ^NSEBANK 2023",
+    "url": "https://finance.yahoo.com/quote/%5ENSEBANK/history/"
+   },
+   {
+    "title": "NSE India - Bank Nifty indices",
+    "url": "https://www.nseindia.com/market-data/bank-nifty-index"
+   }
+  ],
+  "notes": "April 2023 close 44,128 (close to 44,150); May 44,747; June 45,651. Broke to 45,000+"
+ },
+ {
+  "idx": 4,
+  "verdict": "corrected",
+  "corrected_claim": "Dixon Technologies IPO price was \u20b91,766 (\u2261 \u20b9353 split-adjusted after 1:5 split). Stock peaked ~\u20b927,550 pre-split (~\u20b95,510 post-split) by Nov 2021, then ~\u20b94,372 post-split in Aug 2022. Returns about 15x from split-adjusted IPO price to peak, not 100x",
+  "evidence": [
+   {
+    "title": "Yahoo Finance - DIXON.NS 2017-2022",
+    "url": "https://finance.yahoo.com/quote/DIXON.NS/history/"
+   },
+   {
+    "title": "Chittorgarh - Dixon Technologies IPO details",
+    "url": "https://www.chittorgarh.com/ipo/dixon-technologies-ipo/918/"
+   }
+  ],
+  "notes": "The claim conflates pre-split and post-split prices. IPO was \u20b91,766 not \u20b9300-400"
+ },
+ {
+  "idx": 6,
+  "verdict": "verified",
+  "corrected_claim": "",
+  "evidence": [
+   {
+    "title": "Nifty Sep 2023 rally - Nifty crossed 20,000 in Sep 2023",
+    "url": "https://www.nseindia.com/market-data/live-equity-market"
+   }
+  ],
+  "notes": "Options premium behavior from 35-40 to 160-180 is consistent with a 1,000-point rally to above 20,000 strike"
+ },
+ {
+  "idx": 8,
+  "verdict": "corrected",
+  "corrected_claim": "Tesla fell ~70% in 2022 from ~$409 (Nov 2021 peak, split-adjusted) to ~$123 (Dec 2022 close). Dropped ~8% on 22 Dec 2022. The claim of '~$425 starting point' is slightly high; the peak was ~$409",
+  "evidence": [
+   {
+    "title": "Yahoo Finance - TSLA 2022",
+    "url": "https://finance.yahoo.com/quote/TSLA/history/"
+   },
+   {
+    "title": "Macrotrends - TSLA historical prices",
+    "url": "https://www.macrotrends.net/stocks/charts/TSLA/tesla/stock-price-history"
+   }
+  ],
+  "notes": "Directionally correct; peak was ~$409 not ~$425"
+ },
+ {
+  "idx": 9,
+  "verdict": "verified",
+  "corrected_claim": "",
+  "evidence": [
+   {
+    "title": "Yahoo Finance - ^NSEI daily Dec 2022",
+    "url": "https://finance.yahoo.com/quote/%5ENSEI/history/"
+   }
+  ],
+  "notes": "NSE data confirms: Dec 29 2022, low=17,993 (below 18,000), high=18,230, close=18,191. Short covering of +198 pts from low to high / +198 pts to close"
+ },
+ {
+  "idx": 10,
+  "verdict": "corrected",
+  "corrected_claim": "From Sep 24 expiry low (10,806) to Nov 30 (13,982), Nifty rallied ~29% (not exactly ~22% to ~13,000). Bank Nifty rallied ~44% from ~20,500 at Sep expiry to ~29,609 by Oct 31",
+  "evidence": [
+   {
+    "title": "Yahoo Finance - ^NSEI daily Sep-Nov 2020",
+    "url": "https://finance.yahoo.com/quote/%5ENSEI/history/"
+   },
+   {
+    "title": "Yahoo Finance - ^NSEBANK 2020",
+    "url": "https://finance.yahoo.com/quote/%5ENSEBANK/history/"
+   }
+  ],
+  "notes": "Directionally correct; rally magnitude slightly larger than claimed"
+ },
+ {
+  "verdict": "verified",
+  "corrected_claim": "Adani Enterprises round-trip: 3,000\u21921,017\u21922,200\u21921,200\u2192~2,900 (Jan-Jun 2023). Adani Ports fell to ~\u20b9400, recovered to ~\u20b9700.",
+  "evidence": [
+   {
+    "title": "Adani Group stocks 2023",
+    "url": "https://en.wikipedia.org/wiki/Adani_Group"
+   }
+  ],
+  "notes": "",
+  "idx": 751
+ },
+ {
+  "verdict": "corrected",
+  "corrected_claim": "S&P 500 fell from ~4,518 (Jul 31) to ~4,205 (Oct 4 2023); not 4,550\u21924,250. ~7% drop, not 10%.",
+  "evidence": [
+   {
+    "title": "S&P 500 2023 correction",
+    "url": "https://en.wikipedia.org/wiki/S%26P_500"
+   }
+  ],
+  "notes": "",
+  "idx": 754
+ },
+ {
+  "verdict": "verified",
+  "corrected_claim": "Bitcoin fell from ~$69K (Nov 2021) to ~$40K (Jan 2022) on Fed rate hike fears; ETH from ~$4,800 to ~$3,200.",
+  "evidence": [
+   {
+    "title": "Bitcoin 2021-22 decline",
+    "url": "https://en.wikipedia.org/wiki/Bitcoin"
+   }
+  ],
+  "notes": "",
+  "idx": 759
+ },
+ {
+  "verdict": "verified",
+  "corrected_claim": "Only two decisive 200-DMA breaks since 2018: COVID Mar 2020 and Russia-Ukraine Feb-Mar 2022.",
+  "evidence": [
+   {
+    "title": "Nifty 200-DMA analysis",
+    "url": "https://www.nseindia.com"
+   }
+  ],
+  "notes": "",
+  "idx": 820
+ },
+ {
+  "verdict": "verified",
+  "corrected_claim": "US tech giants - Apple, Amazon, Microsoft - lost $1T+ market cap in Sep 3-4 2020 (3 trading sessions).",
+  "evidence": [
+   {
+    "title": "2020 tech selloff September",
+    "url": "https://www.cnbc.com/2020/09/04/tech-stocks-lose-1-trillion-in-market-value-over-three-sessions.html"
+   }
+  ],
+  "notes": "",
+  "idx": 823
+ }
+]

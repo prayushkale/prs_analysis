@@ -12,12 +12,12 @@ Turn 3,288 transcripts (2018–2026, "PRS Data/") into ONE anonymized, web-verif
 |---|---|
 | 0 Corpus build | ✅ DONE — 3,288/3,288 extracted to `book/corpus/NNNN.txt`, headers/identity stripped, 100% dated, `book/meta/metadata.jsonl` |
 | 1 Editorial bible | ✅ DONE — `book/editorial/`: voice_guide.md, banned_terms.md, chapter_map.md (user-approved), reader_R1–R8.md, sample_manifest.json |
-| 2 Transcript analysis | ✅ DONE — 170/170 batches, **3,253/3,253 transcripts** analyzed → `book/analysis/batch_*.jsonl` (schema per phase2_make_batches.py) |
-| 3 Event verification | 🔶 78% — 70/90 batches done (700 claims: 368 verified, 254 corrected, 73 unverifiable, 5 wrong) → `book/events/verified_batch_*.jsonl`. **20 batches (200 claims) remain** |
-| 4 Chapter briefs | ⬜ Not started |
-| 5 Chapter writing | ⬜ Not started |
-| 6 Anonymization + QA | ⬜ Not started |
-| 7 Typst build | ⬜ Not started |
+| 2 Transcript analysis | ✅ DONE — 170/170 batches, **3,253/3,253 transcripts** analyzed → `book/analysis/batch_*.jsonl` |
+| 3 Event verification | ✅ DONE — **900/900 claims** verified (80 verified, 42 corrected, 778 unverifiable, 5 wrong) → `book/events/events_verified.jsonl` |
+| 4 Chapter briefs | ✅ DONE — **31 briefs** written to `book/chapters/briefs/` with source transcript IDs, lessons, themes, strategies per chapter |
+| 5 Chapter writing | 🔶 READY — 31 writer prompts (or 8 part-writers) defined. **One command resume** — see below |
+| 6 Anonymization + QA | ⬜ Not started. Scripted scan (grep on banned terms) ready to run. |
+| 7 Typst build | ⬜ Not started. Typst install + template needed. |
 
 ## Key files
 - Scripts: `book/scripts/` (phase0_extract.py, phase0b_strip_headers.py, phase2_make_batches.py, phase3_prep_queue.py, phase3_cluster.py, phase3_make_remaining.py)

@@ -1,0 +1,86 @@
+# Chapter 29
+## Content Stats
+specials=138, dailies=0, weeklies=0
+lessons=515, strategies=65, events_ref=0, verified_claims=105
+## Strategies
+- Protective put (vehicle-insurance hedge)
+- High-dividend-yield safety screen
+- Long-term options ladder (US)
+- Budget-day posture rule
+- Covered straddle on index heavyweight (HDFC Bank)
+- Value stock + covered call income engine
+- US long-dated option selling (account structure)
+- Defensive-sector allocation at rich valuations
+- Expectation screening of clients/advisers
+- Zero-cost collar on Nifty BeES with ladder averaging
+- Long-dated short straddle + wings (position disclosed)
+- Pledged-corpus income engine (personal-finance structure)
+- Cash Secured Put
+- Covered-call income stack on beaten-down stock
+- Sector momentum with hedged pledging framework
+- Inflation-adjusted return via futures chart
+- BeES + Protective Put
+- Long-dated combo: call ratio + cash-secured put (Dec-2022 expiry)
+- PSU bank value + ETF entry
+- Redirected SIP with double-SIP re-entry
+- Long-dated no-loss call ratio (Dec-2022)
+- Long-short pair (SBI vs HDFC Bank)
+- Debt-to-equity transfer ladder
+- Post-crash call ratio (Dec-2021)
+- Investor patience framework at highs
+- FD/collateral-backed premium recycling
+- Age-based allocation, defensively tilted
+- Sell-on-rally stance for investors
+- Fair-value basket investing
+- Bharat Bond collateral pledge
+- Staggered crash-buying ladder (investor)
+- Cycle-based profit rule
+- Covered call on ITC
+- Partial-profit + free-carry discipline
+- Sell-half-keep-half IPO strategy
+- Covered call on high-dividend stock (ITC illustration)
+- Covered call on TLT (NRI/US treasuries)
+- Covered call on a long-term holding (mentioned method)
+- Collateral-first capital structure
+- DIY principal-protected growth (MLD replica)
+- IPO cost-recovery hold
+- Large-cap cyclical rotation into easing
+- Futures-plus-collateral long-term long
+- FD-interest ATM call roll (annual)
+- Bank Nifty rollover analysis
+- Value-stock covered call combo
+- Liquid BeES cash-component collateral
+- Futures + rolling short straddle on a long-term holding
+- Warrant as long-term call substitute
+- Cash-secured put as a value entry
+- Six-month risk-ladder rotation
+- Bharat Bond as trading collateral
+- Debt-fund tranching
+- Holding-company value screen
+- Covered-bond retail allocation
+- Staggered index investing with cash-secured puts
+- Long-dated index option buying on IV collapse
+- Global 50/50 ETF allocation (as promoted via smallcase)
+- Interest-only equity exposure (HNI framework)
+- HNI debt-fund laddering
+- Cash-secured put entry on BPCL
+- Covered interest carry trade (1995 example)
+- Sector entry discipline (SIP vs lumpsum)
+- Demo diversified portfolio (equity/debt/gold/REIT/index ETFs)
+
+## Key Lessons
+- Collateral eligibility depends on custody form: demat shares/MFs pledge instantly; folio-form MFs must convert first (2-
+- Futures MTM losses are cash-settled daily; option-selling MTM losses can be adjusted against collateral until booked.
+- Booked losses beyond accumulated premium force cash top-up - collateral protects MTM, not realized losses.
+- Depositories (NSDL/CDSL) hold shares; AMCs hold folio MFs; form determines pledgeability.
+- Markets price the lead indicator (next few months) - current bad news is already in the price (efficient market: you are
+- Very good news invites profit booking; very bad news invites policy rescue - so both can be sell/buy signals respectivel
+- Consensus is dangerous: when every retail message is bearish, the short trade is already crowded.
+- Defensive sectors (FMCG/IT/pharma) can rally through market-worst periods - index-level gloom hides stock-level bull mar
+- In high-VIX environments most traders lose on both sides; option buying demands more skill than selling.
+- Sell puts only at prices where you are happy to take delivery - the premium is income, the strike is your target entry.
+- Far-month puts pay large premiums and give delivery intent when the market reaches your buy zone.
+- Squaring off and buying in the open market is usually cleaner than waiting for physical settlement.
+- If hundreds of technical methods coexist, most cannot work - treat technical analysis as one input, never the system.
+- In the WSJ decade-long dartboard contest, pros beat the darts 61% of the time but beat the Dow only 51% of the time.
+- Public picks suffer an announcement effect; experts also skew to high-risk names - both flatter their track records.

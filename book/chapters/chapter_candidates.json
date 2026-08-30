@@ -1,0 +1,2984 @@
+{
+ "01-why-traders-lose": [
+  {
+   "id": "0002",
+   "title": "Irrational Market Behavior - Analysis",
+   "summary": "Debut analysis video: DHFL bond sale panic drags housing finance stocks; speaker argues capitulation"
+  },
+  {
+   "id": "0003",
+   "title": "Options Buying vs Selling - Which is Better For You",
+   "summary": "Debunks the buyer-favorable myth: seller pays margin via collateral (no cash), wins by probability, "
+  },
+  {
+   "id": "0025",
+   "title": "Option Buying & Selling - Advantages & Disadvantages Explained",
+   "summary": "Systematic demolition of the three buyer advantages (low premium, limited risk, unlimited reward): c"
+  },
+  {
+   "id": "0031",
+   "title": "Why Markets NOT Falling Despite BAD News",
+   "summary": "Against unanimous retail bearishness in COVID: lead-vs-lag indicators, the good/very-good/bad/very-b"
+  },
+  {
+   "id": "0034",
+   "title": "How I Made 45 Lakhs in 6 Days by Trading (with proof)",
+   "summary": "P&L transparency episode: ~50% return in six April-2020 sessions driven by VIX collapse 86->50 plus "
+  },
+  {
+   "id": "0035",
+   "title": "Coronavirus Lockdown Extension Effect on Stock Market",
+   "summary": "PM announced a further 19-day lockdown. Argues the move was 90% expected, so already priced; SGX Nif"
+  },
+  {
+   "id": "0037",
+   "title": "Do I Trade Based on Open Interest - Reply to Critics",
+   "summary": "Replies to ROI/margin critics by showing scale: ~23 lakh quantity through one broker in a day, about"
+  },
+  {
+   "id": "0046",
+   "title": "Proof That Experts' Stock Recommendations Are Useless",
+   "summary": "Builds the case that expert stock-picking barely beats chance: hundreds of coexisting technical meth"
+  },
+  {
+   "id": "0084",
+   "title": "#AskPR 4 - Second Wave of Selling, FII Data During Market, Weekly Hedges",
+   "summary": "Q&A: debunks the short-selling 'ban' (practical cap ~500 crore plus margin), warns against 2008-patt"
+  },
+  {
+   "id": "0106",
+   "title": "Q&A: Option Seller Returns, Margin Penalties, Safety Myths and Reverse Arbitrage",
+   "summary": "Q&A batch: no fixed monthly returns as an option seller (HNI pattern: FD/debt-fund collateral is the"
+  },
+  {
+   "id": "0112",
+   "title": "7500 or 15000 First: The Lehman Analogy Against the Doomsayers",
+   "summary": "Counters technical analysts calling for a 7500 retest: after the October 2008 Lehman low (2252), Nif"
+  },
+  {
+   "id": "0115",
+   "title": "The Power of Short Straddle: Shifting Strikes and Ratio Spreads in July 2020",
+   "summary": "Members-first review of three July structures: Bank Nifty short straddle started at 21500 (2400 comb"
+  },
+  {
+   "id": "0116",
+   "title": "Don't Invest in Share Market Before Watching This - Beginners Beware",
+   "summary": "Counters the 'invest for long term' reflex: Nifty top-50 averaged ~11x over 1994-2020 (doubling slow"
+  },
+  {
+   "id": "0144",
+   "title": "HUGE MARKET CRASH Coming? RBI Governor's Comments Explained (Confirmation Bias)",
+   "summary": "RBI Governor Shaktikanta Das said markets are disconnected from reality with excess liquidity feedin"
+  },
+  {
+   "id": "0145",
+   "title": "Option Sellers' Critics, Bankruptcy Fears, Teacher-to-Trader Transition (#Ask Q&A)",
+   "summary": "Q&A episode: futures don't receive dividends but need lower margin for covered calls - buy cash only"
+  },
+  {
+   "id": "0153",
+   "title": "How Traders Fail - Recovery Mindset and Gambler's Fallacy",
+   "summary": "Two failure patterns: (1) the 'recover my loss' mindset - lost capital is sunk; a trader who learns "
+  },
+  {
+   "id": "0154",
+   "title": "Market CRASH or CORRECTION - Major Volatility Change",
+   "summary": "After Nifty corrected 11,800 to ~11,200 and Bank Nifty 3,000+, asks crash vs correction: March 2020 "
+  },
+  {
+   "id": "0164",
+   "title": "Mazagon Dock IPO: Retail Allotment Rules and the Sell-Half-Keep-Half Wealth Rule",
+   "summary": "IPO mechanics built on retail-rule tweaks: allotment now favors minimum applications, so apply minim"
+  },
+  {
+   "id": "0166",
+   "title": "Robinhood Traders: The Lockdown Newbie Wave and 30-Year Bear Markets",
+   "summary": "The Robinhood phenomenon mapped to India: 300% jump in Zerodha's new demat accounts, 2.6M CDSL accou"
+  },
+  {
+   "id": "0186",
+   "title": "How People Lost Huge Money by Ignoring This Simple Indication",
+   "summary": "Case study of Lakshmi Vilas Bank: RBI wrote off equity and mandated DBS takeover on Nov 17, 2020, ye"
+  }
+ ],
+ "02-anatomy-of-failure": [
+  {
+   "id": "0050",
+   "title": "IndusInd Bank Rises 17% Despite Bad Results - Why",
+   "summary": "IndusInd Bank profit fell 77% but stock closed ~15-17% higher because market expected 95% fall - exp"
+  },
+  {
+   "id": "0051",
+   "title": "Why Technical Analysis Alone Is Useless - Part 2",
+   "summary": "Two case studies where technicians were trapped: RBI's May 2018 FII window opening in HDFC Bank (cas"
+  },
+  {
+   "id": "0117",
+   "title": "I Trade with NO Stop Loss, My Worst Investment, INFY Trade Update - Q&A",
+   "summary": "Q&A: why he trades without a predetermined stop-loss (restaurant analogy, adjust instead), derivativ"
+  },
+  {
+   "id": "0127",
+   "title": "How I Turned HUGE LOSS into PROFIT by FIREFIGHTING - Infosys Trade",
+   "summary": "Full firefighting case: bearish Infosys put spread + call spread faced a 780->915 (+20%) two-day run"
+  },
+  {
+   "id": "0132",
+   "title": "Boring Episode... #AskPRSundar 12",
+   "summary": "Q&A episode: expiry-day mechanics for hedged shorts (removing the long leg makes the short naked; in"
+  },
+  {
+   "id": "0137",
+   "title": "F&O Trading Ban Explained!",
+   "summary": "Mechanics of the F&O ban (Market Wide Position Limit): MWPL = 20% of free-float market cap; a stock "
+  },
+  {
+   "id": "0153",
+   "title": "How Traders Fail - Recovery Mindset and Gambler's Fallacy",
+   "summary": "Two failure patterns: (1) the 'recover my loss' mindset - lost capital is sunk; a trader who learns "
+  },
+  {
+   "id": "0165",
+   "title": "September 2020 P&L Review: 150% YTD Through the Volatility",
+   "summary": "Monthly account review: ~\u20b91.49 cr profit YTD on ~\u20b91 cr capital (~150%) despite September's Bank Nift"
+  },
+  {
+   "id": "0191",
+   "title": "Bears Killed Again - What Really Happened with HDFC & RIL",
+   "summary": "Nifty hits fresh all-time high; debunks MSCI-rebalancing explanation (global peers rallied more), cr"
+  },
+  {
+   "id": "0199",
+   "title": "My View Went Terribly Wrong, Still Made 1.5 Lakhs - Options Firefighting",
+   "summary": "Live firefighting case study: a short Bajaj Finance/Finserv future plus sold call went against the p"
+  },
+  {
+   "id": "0202",
+   "title": "Nifty P/E at 37 - Market Crash Very Soon?",
+   "summary": "Nifty P/E hit a record 37.16 (P/B 3.82, dividend yield 1.18). Argues crash calls from P/E alone are "
+  },
+  {
+   "id": "0278",
+   "title": "How Trainers and Traders Lure You: Workshop Scams and Fake P&L",
+   "summary": "Anatomy of trainer lures: hidden software costs (\u20b940,000 fee plus \u20b960,000/year software on a \u20b92 lakh"
+  },
+  {
+   "id": "0298",
+   "title": "Why NO To Trading E01: 99% Lose Money",
+   "summary": "Evidence that >99% of traders lose: Zerodha 60-day-challenge winner stats (~1,000 of 1-2 lakh trader"
+  },
+  {
+   "id": "0303",
+   "title": "Why NO To Trading E02: Trading Is NOT a Zero-Sum Game",
+   "summary": "The club-card parable shows the house's cut turns repeated play into structural loss; STT, brokerage"
+  },
+  {
+   "id": "0304",
+   "title": "Why NO To Trading E03: The Typical Journey to Failure",
+   "summary": "The canonical failure arc: buy stagnant stocks, jump to leveraged futures, blow up on an un-hedgeabl"
+  },
+  {
+   "id": "0311",
+   "title": "Why NO To Trading E04: Position Sizing and Diversification",
+   "summary": "Continues the leveraged-trader parable: cutting to 2 lots makes a 10% win worth only 2% of capital -"
+  },
+  {
+   "id": "0312",
+   "title": "Why NO To Trading E05: Stop Loss - A Trader's Worst Enemy",
+   "summary": "No bank asks a restaurant loan-seeker for a 'stop loss'; businesses diagnose and fix (pricing, sourc"
+  },
+  {
+   "id": "0314",
+   "title": "How Trainers Mislead You with P&L Reports",
+   "summary": "Anatomy of fake flexes: a claimed Rs90-lakh year was 20L trading + 70L investment; margin-blocked le"
+  },
+  {
+   "id": "0317",
+   "title": "My 15-Year Journey: Advice on Capital, Patience and Trust",
+   "summary": "Life-phase framework: work for money till ~40, then let money work for you; accumulate first, trade "
+  },
+  {
+   "id": "0359",
+   "title": "Simplicity Wins (Japanese Soap-Box Story)",
+   "summary": "A factory ships an empty soap box; engineers spend millions on a scanning system while a floor worke"
+  }
+ ],
+ "03-discipline-process": [
+  {
+   "id": "0034",
+   "title": "How I Made 45 Lakhs in 6 Days by Trading (with proof)",
+   "summary": "P&L transparency episode: ~50% return in six April-2020 sessions driven by VIX collapse 86->50 plus "
+  },
+  {
+   "id": "0035",
+   "title": "Coronavirus Lockdown Extension Effect on Stock Market",
+   "summary": "PM announced a further 19-day lockdown. Argues the move was 90% expected, so already priced; SGX Nif"
+  },
+  {
+   "id": "0051",
+   "title": "Why Technical Analysis Alone Is Useless - Part 2",
+   "summary": "Two case studies where technicians were trapped: RBI's May 2018 FII window opening in HDFC Bank (cas"
+  },
+  {
+   "id": "0054",
+   "title": "Monthly Review - April 2020 Trades and Views",
+   "summary": "Monthly P&L review: April profit 66.3 lakh on ~95 lakh starting capital after 45 lakh in first two w"
+  },
+  {
+   "id": "0061",
+   "title": "Q&A 1 - Brokers, Stop-Losses, Bharat Bond, 50% Cash Rule",
+   "summary": "First Q&A: stop-loss doctrine (slow poison vs quick poison), square-off vs counter-strategy depends "
+  },
+  {
+   "id": "0066",
+   "title": "MARKETS in LONG TERM - Bullish or Bearish?",
+   "summary": "Century-scale argument against crash calls: 100 years of Dow history shows every major crash (1929 ~"
+  },
+  {
+   "id": "0068",
+   "title": "Q&A 2: Margins, MTM vs Option Margin, Expiry Settlement",
+   "summary": "Q&A clarifying mechanics: buy/sell quantities are always equal (TV 'delivery buying' is interpretati"
+  },
+  {
+   "id": "0077",
+   "title": "Monthly P&L Review - Trades in May 2020 (76 Lakhs in 2 Months)",
+   "summary": "Monthly trade review: ~10 lakh May profit on ~95 lakh capital (76 lakh total in two months, ~80%). D"
+  },
+  {
+   "id": "0084",
+   "title": "#AskPR 4 - Second Wave of Selling, FII Data During Market, Weekly Hedges",
+   "summary": "Q&A: debunks the short-selling 'ban' (practical cap ~500 crore plus margin), warns against 2008-patt"
+  },
+  {
+   "id": "0088",
+   "title": "Q&A: Lot Sizes, Collateral, Hedging Doctrine, Expiry-Day Selling",
+   "summary": "Q&A session: hedging as non-negotiable doctrine, SEBI lot-size revision mechanics, collateral/pledgi"
+  },
+  {
+   "id": "0094",
+   "title": "Q&A: Scam Detection, Settlement Mechanics, Option Styles, SLB",
+   "summary": "Q&A: retrofit trade-call scams and fake cloned channels; T+2 settlement and margin-shortfall penalti"
+  },
+  {
+   "id": "0100",
+   "title": "Q&A: Blue Chips, SLB, Option Styles, Positional Stop-Loss, Patience",
+   "summary": "Q&A: blue-chip etymology from casino chips; SLB as delivery backstop; American vs European styles an"
+  },
+  {
+   "id": "0103",
+   "title": "June 2020 Monthly Review: A Losing Month, Audited Honestly",
+   "summary": "Monthly accountability review: April-May +76 lakh on ~95 lakh capital, June lost ~1.2 lakh. Loss att"
+  },
+  {
+   "id": "0117",
+   "title": "I Trade with NO Stop Loss, My Worst Investment, INFY Trade Update - Q&A",
+   "summary": "Q&A: why he trades without a predetermined stop-loss (restaurant analogy, adjust instead), derivativ"
+  },
+  {
+   "id": "0119",
+   "title": "Will NIFTY Touch 7500 or 15000 First - Part 2",
+   "summary": "Defends the 15000-before-7500 call: consensus is dangerous (99% polled bearish, market rallied); Nif"
+  },
+  {
+   "id": "0121",
+   "title": "My Investments, How I Predict NIFTY Range, Option Scalping - Q&A",
+   "summary": "Q&A: covered calls need dynamic management or upside opportunity cost wins; option scalping = rapid "
+  },
+  {
+   "id": "0122",
+   "title": "How I Made 1 Crore in 4 Months - Potential of Option Selling",
+   "summary": "P&L showcase: claims Rs 1.05 cr profit April-July 2020 on Rs 95 L capital (~110% in 4 months), Rs 66"
+  },
+  {
+   "id": "0129",
+   "title": "My Trades in July 2020 - How I Made 35 Lakhs - Monthly Review",
+   "summary": "Monthly P&L review: cumulative profit reached about 1.12 crore on 95 lakh capital in four months (Ap"
+  },
+  {
+   "id": "0131",
+   "title": "My Trading Technique to MAXIMIZE Profits by 350% (6L to 21L) in RELIANCE",
+   "summary": "Reliance long-futures case study: entry ~1400 (May 2020), price ~2000 by 3 August 2020. Pure cash-ma"
+  },
+  {
+   "id": "0145",
+   "title": "Option Sellers' Critics, Bankruptcy Fears, Teacher-to-Trader Transition (#Ask Q&A)",
+   "summary": "Q&A episode: futures don't receive dividends but need lower margin for covered calls - buy cash only"
+  }
+ ],
+ "04-fii-dii-flows": [
+  {
+   "id": "0044",
+   "title": "How to Check FII Long-Short Data",
+   "summary": "Shows how to compute FII positioning from NSE's participant-wise open-interest report: index futures"
+  },
+  {
+   "id": "0049",
+   "title": "Franklin Templeton Issue - Something You Did Not Know About",
+   "summary": "Franklin Templeton wound up six debt schemes (~30,000 crore) after redemption pressure; explains the"
+  },
+  {
+   "id": "0063",
+   "title": "NIFTY Options Trading Strategy LIVE TRADE - May 2020",
+   "summary": "Live bullish Nifty trade: after booking profit on naked 9000/8700 puts, builds a call-ratio (long 94"
+  },
+  {
+   "id": "0075",
+   "title": "SGX Nifty Explained - Trading in India, Nifty 50 Relation, Trading Hours, Contract Size",
+   "summary": "Full explainer on SGX Nifty: what it is, contract sizing (USD 2x index vs 75 shares), why it is high"
+  },
+  {
+   "id": "0086",
+   "title": "Escaping Market Risks - June 8 Market Report",
+   "summary": "Euphoric gap-up morning (Nifty +200, Bank Nifty +500) fizzled: pre-market blog call that Nifty futur"
+  },
+  {
+   "id": "0091",
+   "title": "Violent Session: Dow Futures Shock, VIX Above 30, Hedged Put Selling",
+   "summary": "Post-market: overnight Dow futures -1000+ triggered bank-led selling (ICICI -5.5%); FII streak-selli"
+  },
+  {
+   "id": "0093",
+   "title": "Galwan Correction: Official Toll, PM Speech Misread, Short Covering",
+   "summary": "Corrects the Galwan toll to ~20 Indian dead with similar Chinese losses; explains unarmed de-escalat"
+  },
+  {
+   "id": "0097",
+   "title": "Which Stocks Moved the Index: Contribution-to-Index Mechanics",
+   "summary": "Tutorial: using Moneycontrol's contribution-to-index tables to see each stock's point contribution ("
+  },
+  {
+   "id": "0108",
+   "title": "Dividend Adjustment Mechanics and a Dividend-Capture Arbitrage",
+   "summary": "Market recap (HDFC Bank deposit-growth gap-up, Reliance+HDFC Bank over half the Nifty rally, FIIs an"
+  },
+  {
+   "id": "0136",
+   "title": "Stock Price Prediction with ADR / American Depository Receipt!",
+   "summary": "ADR explainer anchored on ICICI Bank's 10 August 2020 QIP: targeted 15,000 crore, drew ~62,000 crore"
+  },
+  {
+   "id": "0139",
+   "title": "PAIR TRADING Explained - A Fail Proof Strategy?",
+   "summary": "Pair trading as a market-neutral structure: long one instrument, short another (often same sector, e"
+  },
+  {
+   "id": "0144",
+   "title": "HUGE MARKET CRASH Coming? RBI Governor's Comments Explained (Confirmation Bias)",
+   "summary": "RBI Governor Shaktikanta Das said markets are disconnected from reality with excess liquidity feedin"
+  },
+  {
+   "id": "0150",
+   "title": "Loan Moratorium Supreme Court Case - 3 Possibilities",
+   "summary": "Explains the COVID loan-moratorium interest-waiver case before the Supreme Court after the six-month"
+  },
+  {
+   "id": "0158",
+   "title": "SEBI Multi-Cap Rejig: Why No Crash and No Smallcap Boom",
+   "summary": "SEBI's 25/25/25 multi-cap mandate is skewered with a cake-fairness analogy: top-500 market cap is ~8"
+  },
+  {
+   "id": "0159",
+   "title": "US Dollar Index (DXY) Explained",
+   "summary": "DXY primer: a 1973-vintage index of dollar strength vs six currencies (EUR 57.6%, JPY 13.6%, GBP 11."
+  },
+  {
+   "id": "0160",
+   "title": "Carry Trade: Borrow Cheap, Invest High - and the Currency Trap",
+   "summary": "Carry trade taught through a 1990s anecdote: borrow at 3% abroad, deposit at ~19.5% NRI rates in Ind"
+  },
+  {
+   "id": "0191",
+   "title": "Bears Killed Again - What Really Happened with HDFC & RIL",
+   "summary": "Nifty hits fresh all-time high; debunks MSCI-rebalancing explanation (global peers rallied more), cr"
+  },
+  {
+   "id": "0199",
+   "title": "My View Went Terribly Wrong, Still Made 1.5 Lakhs - Options Firefighting",
+   "summary": "Live firefighting case study: a short Bajaj Finance/Finserv future plus sold call went against the p"
+  },
+  {
+   "id": "0239",
+   "title": "India-China Border Tensions - Reason for Crash?",
+   "summary": "Unexplained two-day Bank Nifty fall (-6%) resolved as news of a Sikkim border clash - price moved be"
+  },
+  {
+   "id": "0515",
+   "title": "Nifty 16000",
+   "summary": "Very short/truncated transcript. Post-correction view: normal correction, expects Nifty to cross 16,"
+  }
+ ],
+ "05-vix-regimes": [
+  {
+   "id": "0027",
+   "title": "Market Prediction using India VIX - All You Need To Know",
+   "summary": "VIX masterclass during COVID: definition (expected 30-day movement, not a fear gauge that must rise "
+  },
+  {
+   "id": "0028",
+   "title": "The Effect of Falling VIX on Option Prices",
+   "summary": "Data-proven lesson: with Nifty down 500+ points, VIX collapsing 65 to ~55 made even deep puts lose v"
+  },
+  {
+   "id": "0030",
+   "title": "Why PUT Premium Didn't Fall Proportionally (7/4 Market Report)",
+   "summary": "Explains the violent up-move anomaly: strangle sellers trapped by a ~10% rally are forced to buy bac"
+  },
+  {
+   "id": "0031",
+   "title": "Why Markets NOT Falling Despite BAD News",
+   "summary": "Against unanimous retail bearishness in COVID: lead-vs-lag indicators, the good/very-good/bad/very-b"
+  },
+  {
+   "id": "0034",
+   "title": "How I Made 45 Lakhs in 6 Days by Trading (with proof)",
+   "summary": "P&L transparency episode: ~50% return in six April-2020 sessions driven by VIX collapse 86->50 plus "
+  },
+  {
+   "id": "0091",
+   "title": "Violent Session: Dow Futures Shock, VIX Above 30, Hedged Put Selling",
+   "summary": "Post-market: overnight Dow futures -1000+ triggered bank-led selling (ICICI -5.5%); FII streak-selli"
+  },
+  {
+   "id": "0135",
+   "title": "Why GOLD CRASHED + Heavy Impact on Indian Stock Market!",
+   "summary": "Gold crashed 6% in a day (silver -15%) days after Russia's COVID-vaccine announcement, from its ~$2,"
+  },
+  {
+   "id": "0154",
+   "title": "Market CRASH or CORRECTION - Major Volatility Change",
+   "summary": "After Nifty corrected 11,800 to ~11,200 and Bank Nifty 3,000+, asks crash vs correction: March 2020 "
+  },
+  {
+   "id": "0171",
+   "title": "Huge Market Crash - Why, What Next",
+   "summary": "Post-market analysis of a 300-point Nifty fall: Supreme Court loan-moratorium interest-on-interest u"
+  },
+  {
+   "id": "0181",
+   "title": "Market Predictions for Next 1 Year - Samvat 2077 Forecast",
+   "summary": "Deepavali year-ahead forecast: shows 2008-2020 was the longest consolidation (Nifty 6,000->12,000; u"
+  },
+  {
+   "id": "0203",
+   "title": "The Right Way to Interpret Put-Call Ratio (PCR)",
+   "summary": "Standard PCR (total put OI / total call OI = 1.81) screams crash territory (>1.7 historically preced"
+  },
+  {
+   "id": "0237",
+   "title": "Market Outlook Feb 2021 - Prepare for Budget 2021",
+   "summary": "Corporate earnings are the core driver; monsoon/elections are only enabling factors. Reliance's comm"
+  },
+  {
+   "id": "0246",
+   "title": "Budget 2021 LIVE Trading",
+   "summary": "Live budget-day trade log: sold 10x 14,700CE @ Rs 8, sold 10x 13,500PE @ ~Rs 137, bought 5x 13,800PE"
+  },
+  {
+   "id": "0285",
+   "title": "SEBI Peak Margin Rules: The Seller Squeeze and Structural VIX",
+   "summary": "Peak margin (~15% on index futures vs ~5% international norm) ended broker intraday limits, forcing "
+  },
+  {
+   "id": "0429",
+   "title": "Option Greeks #3: Vega (Mission Options E20)",
+   "summary": "Vega/VIX explained: expected one-month movement priced into premiums; April 2020 (India VIX ~60) car"
+  },
+  {
+   "id": "0481",
+   "title": "Best Option Trading Strategy for Low VIX Market (ITM Put Calendar)",
+   "summary": "The 2013 taper-tantrum lesson - low VIX strangles blew up 1 crore in a day - becomes the low-VIX rul"
+  },
+  {
+   "id": "0487",
+   "title": "10% ROI in ADANIENT Despite Huge Crash - Adjustments Masterclass",
+   "summary": "A 15-18 lakh rupee month on Adani Enterprise straddles despite a >10% stock fall and a wrong bullish"
+  },
+  {
+   "id": "0684",
+   "title": "Market Outlook: Why Bank Nifty Gave Zero Return for Nine Months",
+   "summary": "Outlook piece: post-crash years repeat (+100% after 2008, 2020) then normalize to 10-15%. FII sellin"
+  },
+  {
+   "id": "0772",
+   "title": "Indian Stock Market 2022 - FIIs, Fed, Retail Fund Flow, Elections",
+   "summary": "Year-ahead 2022 outlook: 2021 scoreboard, the crash-rebound asymmetry (only two 100%-plus years, bot"
+  },
+  {
+   "id": "0816",
+   "title": "Budget 2022 Live Trading - Final Hour",
+   "summary": "Post-budget session aftermath: Bank Nifty fell ~1,100 points intraday then fully recovered; India VI"
+  }
+ ],
+ "06-option-chain": [
+  {
+   "id": "0027",
+   "title": "Market Prediction using India VIX - All You Need To Know",
+   "summary": "VIX masterclass during COVID: definition (expected 30-day movement, not a fear gauge that must rise "
+  },
+  {
+   "id": "0044",
+   "title": "How to Check FII Long-Short Data",
+   "summary": "Shows how to compute FII positioning from NSE's participant-wise open-interest report: index futures"
+  },
+  {
+   "id": "0068",
+   "title": "Q&A 2: Margins, MTM vs Option Margin, Expiry Settlement",
+   "summary": "Q&A clarifying mechanics: buy/sell quantities are always equal (TV 'delivery buying' is interpretati"
+  },
+  {
+   "id": "0084",
+   "title": "#AskPR 4 - Second Wave of Selling, FII Data During Market, Weekly Hedges",
+   "summary": "Q&A: debunks the short-selling 'ban' (practical cap ~500 crore plus margin), warns against 2008-patt"
+  },
+  {
+   "id": "0092",
+   "title": "Border Clash Day: Knee-Jerk Pricing and the Premium Truth Test",
+   "summary": "India-China border clash hits mid-session: Bank Nifty gap-up 700 then -1200 then +600 whipsaw; Nifty"
+  },
+  {
+   "id": "0146",
+   "title": "Market Prediction using Option Chain - NIFTY Range for Sept 2020",
+   "summary": "Simple monthly range method: after expiry, take the nearest strike to Friday's close (Nifty 11,647 -"
+  },
+  {
+   "id": "0149",
+   "title": "Highest Open Interest in 12500CE - NIFTY Will Cross 12500 Next Week?",
+   "summary": "Debunks the 10x OI jump in far-OTM Nifty 12,500CE (42k to ~19 lakh contracts) as 'informed bulls': w"
+  },
+  {
+   "id": "0155",
+   "title": "Q&A: Mutual Fund vs Hedge Fund, REITs, Quitting Trading, F&O Mechanics",
+   "summary": "Rapid-fire Q&A: REIT collateral limits, cost of rolling Bank Nifty futures for a year (~100 pt/month"
+  },
+  {
+   "id": "0171",
+   "title": "Huge Market Crash - Why, What Next",
+   "summary": "Post-market analysis of a 300-point Nifty fall: Supreme Court loan-moratorium interest-on-interest u"
+  },
+  {
+   "id": "0191",
+   "title": "Bears Killed Again - What Really Happened with HDFC & RIL",
+   "summary": "Nifty hits fresh all-time high; debunks MSCI-rebalancing explanation (global peers rallied more), cr"
+  },
+  {
+   "id": "0195",
+   "title": "A Different Take on Open Interest Analysis",
+   "summary": "Explains open interest from the seller's perspective: max-OI put = support and max-OI call = resista"
+  },
+  {
+   "id": "0203",
+   "title": "The Right Way to Interpret Put-Call Ratio (PCR)",
+   "summary": "Standard PCR (total put OI / total call OI = 1.81) screams crash territory (>1.7 historically preced"
+  },
+  {
+   "id": "0219",
+   "title": "Option Chain & Pay-Off Chart - Mission Options E08",
+   "summary": "Guided tour of the NSE option chain (strike grid, bid/ask, LTP, IV, volume, open interest) and first"
+  },
+  {
+   "id": "0455",
+   "title": "Implied Volatility, IV Rank, IV Percentile Explained (Mission Options E22)",
+   "summary": "Foundational lesson on implied volatility: definition, put-vs-call IV asymmetry, volatility skew in "
+  },
+  {
+   "id": "0470",
+   "title": "Volume and Open Interest in Options (Mission Options E23)",
+   "summary": "Defines volume vs open interest with worked arithmetic (150 volume can mean 50 or 150 OI), then the "
+  },
+  {
+   "id": "0848",
+   "title": "Is He Against Technical Analysis?",
+   "summary": "Clarifies he is not against technical analysis: the arranged-marriage/horoscope analogy - TA is one "
+  },
+  {
+   "id": "0866",
+   "title": "4 Important Facts in Stock Market",
+   "summary": "Four market aphorisms: buy on rumour sell on news; good/very good/bad/very bad news framing; markets"
+  },
+  {
+   "id": "1749",
+   "title": "Nifty at 20,000: techno-fundamental case and a put calendar",
+   "summary": "Builds a case for Nifty 20,000 in 3-4 months (heavyweight catch-up, rolling-return mean reversion, s"
+  },
+  {
+   "id": "1797",
+   "title": "Low-VIX regime strategy: buy-and-sell combo with margin optimization",
+   "summary": "With India VIX at a 12-year low (~11), explains VIX bands and the short-strangle failure mode (touch"
+  },
+  {
+   "id": "1829",
+   "title": "Clear Downtrend - Was Michael Burry Right?",
+   "summary": "Post-market: bearish tape confirmed; teaches the standing intraday rule (in a downtrend, fade 100-12"
+  }
+ ],
+ "07-microstructure": [
+  {
+   "id": "0041",
+   "title": "How Crude Oil Prices Fell Below $0",
+   "summary": "Explains the historic negative WTI print: contracts marked for physical delivery with storage full f"
+  },
+  {
+   "id": "0051",
+   "title": "Why Technical Analysis Alone Is Useless - Part 2",
+   "summary": "Two case studies where technicians were trapped: RBI's May 2018 FII window opening in HDFC Bank (cas"
+  },
+  {
+   "id": "0052",
+   "title": "Trading Stocks vs Indices - Which Is Better",
+   "summary": "Argues index options beat stock options: indices cannot crash 50-60% in a day (DHFL -65%, Infibeam -"
+  },
+  {
+   "id": "0072",
+   "title": "Reliance Rights Entitlement + the Fat-Finger Spike",
+   "summary": "Explains the 8,950PE flash spike (0.50 to ~20 in minutes) as a probable fat-finger market buy, citin"
+  },
+  {
+   "id": "0075",
+   "title": "SGX Nifty Explained - Trading in India, Nifty 50 Relation, Trading Hours, Contract Size",
+   "summary": "Full explainer on SGX Nifty: what it is, contract sizing (USD 2x index vs 75 shares), why it is high"
+  },
+  {
+   "id": "0086",
+   "title": "Escaping Market Risks - June 8 Market Report",
+   "summary": "Euphoric gap-up morning (Nifty +200, Bank Nifty +500) fizzled: pre-market blog call that Nifty futur"
+  },
+  {
+   "id": "0087",
+   "title": "Corporate Earnings Results Schedule & Dividends - How, When, Where to Check",
+   "summary": "Where-to-find tutorial: BSE results calendar, NSE company pages, and Moneycontrol's earnings page wi"
+  },
+  {
+   "id": "0088",
+   "title": "Q&A: Lot Sizes, Collateral, Hedging Doctrine, Expiry-Day Selling",
+   "summary": "Q&A session: hedging as non-negotiable doctrine, SEBI lot-size revision mechanics, collateral/pledgi"
+  },
+  {
+   "id": "0097",
+   "title": "Which Stocks Moved the Index: Contribution-to-Index Mechanics",
+   "summary": "Tutorial: using Moneycontrol's contribution-to-index tables to see each stock's point contribution ("
+  },
+  {
+   "id": "0105",
+   "title": "HDFC Bank Short Straddle Without Hedging - Did It Work",
+   "summary": "Case study of an unhedged HDFC Bank 1000-strike short straddle sold June 9 at ~87 (call 49 + put 39)"
+  },
+  {
+   "id": "0130",
+   "title": "Margin for Buying/Selling Shares - New SEBI Rule is Funny!",
+   "summary": "Explains SEBI's cash-market margin changes effective 1 August 2020: upfront margin now required even"
+  },
+  {
+   "id": "0136",
+   "title": "Stock Price Prediction with ADR / American Depository Receipt!",
+   "summary": "ADR explainer anchored on ICICI Bank's 10 August 2020 QIP: targeted 15,000 crore, drew ~62,000 crore"
+  },
+  {
+   "id": "0141",
+   "title": "Pre-Open Market Explained - Trading from 9AM to 9:07AM",
+   "summary": "Mechanics of the NSE pre-open session: order entry 9:00-9:07 with modification allowed, random freez"
+  },
+  {
+   "id": "0155",
+   "title": "Q&A: Mutual Fund vs Hedge Fund, REITs, Quitting Trading, F&O Mechanics",
+   "summary": "Rapid-fire Q&A: REIT collateral limits, cost of rolling Bank Nifty futures for a year (~100 pt/month"
+  },
+  {
+   "id": "0171",
+   "title": "Huge Market Crash - Why, What Next",
+   "summary": "Post-market analysis of a 300-point Nifty fall: Supreme Court loan-moratorium interest-on-interest u"
+  },
+  {
+   "id": "0186",
+   "title": "How People Lost Huge Money by Ignoring This Simple Indication",
+   "summary": "Case study of Lakshmi Vilas Bank: RBI wrote off equity and mandated DBS takeover on Nov 17, 2020, ye"
+  },
+  {
+   "id": "0197",
+   "title": "NIFTY Financial Services (FinNifty) - A New Index for F&O",
+   "summary": "Pre-launch explainer for Nifty Financial Services derivatives (launched 11 Jan 2021): 20 banks/insur"
+  },
+  {
+   "id": "0239",
+   "title": "India-China Border Tensions - Reason for Crash?",
+   "summary": "Unexplained two-day Bank Nifty fall (-6%) resolved as news of a Sikkim border clash - price moved be"
+  },
+  {
+   "id": "0243",
+   "title": "GameStop Controversy Explained",
+   "summary": "GameStop/AMC short squeeze: retail Reddit crowd (WallStreetBets, ~4.5M members) forced hedge funds l"
+  },
+  {
+   "id": "0250",
+   "title": "Can a GameStop Saga Happen in India? + Weekly Roundup",
+   "summary": "Why India is nearly immune to GameStop-style squeezes: illiquid SLB (lending income taxed as 'other "
+  }
+ ],
+ "08-why-derivatives": [
+  {
+   "id": "0071",
+   "title": "CASH vs FUTURES Market - What's Best for INVESTMENT?",
+   "summary": "Quantified case for taking long-term equity exposure via futures plus a debt collateral stack: ~Rs 7"
+  },
+  {
+   "id": "0072",
+   "title": "Reliance Rights Entitlement + the Fat-Finger Spike",
+   "summary": "Explains the 8,950PE flash spike (0.50 to ~20 in minutes) as a probable fat-finger market buy, citin"
+  },
+  {
+   "id": "0089",
+   "title": "Synthetic Futures: Futures Payoff Without Futures Costs",
+   "summary": "Teaches synthetic futures: long = buy ATM call + sell ATM put; short reversed. Demonstrates on June "
+  },
+  {
+   "id": "0182",
+   "title": "Mission Options - Free Course for Beginners (Preview)",
+   "summary": "Announcement/preview of the free Mission Options options-basics course: scope (derivatives, futures,"
+  },
+  {
+   "id": "0183",
+   "title": "Derivatives in Stock Market - Explained (Mission Options E01)",
+   "summary": "Foundational lesson: derivatives defined via milk-to-butter and crude-to-petrol analogies; farmer pr"
+  },
+  {
+   "id": "0185",
+   "title": "Arbitrageurs & Speculators (Mission Options E02)",
+   "summary": "Classifies derivatives participants into arbitrageurs, hedgers, speculators; teaches arbitrage via t"
+  },
+  {
+   "id": "0188",
+   "title": "Basics of Futures Trading (Mission Options E03)",
+   "summary": "Futures = forward with price set at execution, not today; the sell-first-buy-later two-way capabilit"
+  },
+  {
+   "id": "0189",
+   "title": "Futures Margin Explained (Mission Options E04)",
+   "summary": "Margin anatomy via a live Zerodha calculator: ACC long/short costs the same ~1.76 lakh (span 146,940"
+  },
+  {
+   "id": "0192",
+   "title": "Options Explained with Examples & History (Mission Options E05)",
+   "summary": "Options origin story: village land token-advance story as call-option mechanics (control 100 acres w"
+  },
+  {
+   "id": "0209",
+   "title": "Put Option Explained - Mission Options E07",
+   "summary": "Mission Options E07: explains put vs call etymology (put up for sale / call the price at auction), p"
+  },
+  {
+   "id": "0297",
+   "title": "Buying Stocks vs Futures vs Options (Mission Options E11)",
+   "summary": "Worked comparison of the same SBI position via cash, futures and ITM call options: capital, charges,"
+  },
+  {
+   "id": "0426",
+   "title": "Is Options Trading Unethical? (Inspiration E10)",
+   "summary": "Argues options trading is ethical: derivatives exist to transfer risk (insurance analogy), the produ"
+  },
+  {
+   "id": "0860",
+   "title": "Types of People in Stock Market",
+   "summary": "Three market participants - arbitrageurs (now dominated by computer algorithms, making manual arbitr"
+  },
+  {
+   "id": "0910",
+   "title": "World's First Futures Exchange",
+   "summary": "History nugget: the world's first futures exchange was the rice exchange in Japan (speaker dates it "
+  },
+  {
+   "id": "1074",
+   "title": "A Reform Proposal: Ban Stock Futures, Force Covered Calls and Cash-Secured Puts",
+   "summary": "Arguing India's F&O-to-cash volume ratio (~100x, world's highest, >90x from options) is dangerous, t"
+  },
+  {
+   "id": "1187",
+   "title": "Arbitrage Trading Explained",
+   "summary": "One-line definition video: arbitrage is buying the same product in one market and selling in another"
+  },
+  {
+   "id": "1198",
+   "title": "Types of Traders in Stock Market",
+   "summary": "Intro to derivatives-market participants: arbitrageurs, hedgers, speculators - the three groups that"
+  },
+  {
+   "id": "1212",
+   "title": "Derivatives in Stock Market",
+   "summary": "Defines a derivative via the milk-curd-buttermilk-butter chain: something derived from an underlying"
+  },
+  {
+   "id": "1213",
+   "title": "Future vs Forward",
+   "summary": "Forward = bilateral contract, price fixed today for future execution; futures are the same but margi"
+  },
+  {
+   "id": "1232",
+   "title": "The Types of Derivatives",
+   "summary": "Micro-lesson listing five major derivative types in financial markets: forwards, futures, options, s"
+  }
+ ],
+ "09-calls-and-puts": [
+  {
+   "id": "0003",
+   "title": "Options Buying vs Selling - Which is Better For You",
+   "summary": "Debunks the buyer-favorable myth: seller pays margin via collateral (no cash), wins by probability, "
+  },
+  {
+   "id": "0024",
+   "title": "Options Trading Basics - Explained with Practical Examples",
+   "summary": "Foundational primer: calls and puts taught through a Virat Kohli cricket-betting analogy and a busin"
+  },
+  {
+   "id": "0025",
+   "title": "Option Buying & Selling - Advantages & Disadvantages Explained",
+   "summary": "Systematic demolition of the three buyer advantages (low premium, limited risk, unlimited reward): c"
+  },
+  {
+   "id": "0036",
+   "title": "Cash Secured Put for High Income",
+   "summary": "Teaches the cash-secured put end to end: sell a put at a strike you are happy to own, collect premiu"
+  },
+  {
+   "id": "0052",
+   "title": "Trading Stocks vs Indices - Which Is Better",
+   "summary": "Argues index options beat stock options: indices cannot crash 50-60% in a day (DHFL -65%, Infibeam -"
+  },
+  {
+   "id": "0064",
+   "title": "This Simple ADJUSTMENT TRADE Turned My LOSS into PROFIT!",
+   "summary": "Firefighting walkthrough on an ICICI Bank call-ratio position after a results miss: original 350/380"
+  },
+  {
+   "id": "0068",
+   "title": "Q&A 2: Margins, MTM vs Option Margin, Expiry Settlement",
+   "summary": "Q&A clarifying mechanics: buy/sell quantities are always equal (TV 'delivery buying' is interpretati"
+  },
+  {
+   "id": "0073",
+   "title": "Q&A 3: Retirement Money, Expiry Mechanics, LEAPS, Hedge Funds",
+   "summary": "Q&A: age-percentage debt rule and SIP/SWP for a retiree down 35%; short straddle as favorite strateg"
+  },
+  {
+   "id": "0089",
+   "title": "Synthetic Futures: Futures Payoff Without Futures Costs",
+   "summary": "Teaches synthetic futures: long = buy ATM call + sell ATM put; short reversed. Demonstrates on June "
+  },
+  {
+   "id": "0094",
+   "title": "Q&A: Scam Detection, Settlement Mechanics, Option Styles, SLB",
+   "summary": "Q&A: retrofit trade-call scams and fake cloned channels; T+2 settlement and margin-shortfall penalti"
+  },
+  {
+   "id": "0100",
+   "title": "Q&A: Blue Chips, SLB, Option Styles, Positional Stop-Loss, Patience",
+   "summary": "Q&A: blue-chip etymology from casino chips; SLB as delivery backstop; American vs European styles an"
+  },
+  {
+   "id": "0106",
+   "title": "Q&A: Option Seller Returns, Margin Penalties, Safety Myths and Reverse Arbitrage",
+   "summary": "Q&A batch: no fixed monthly returns as an option seller (HNI pattern: FD/debt-fund collateral is the"
+  },
+  {
+   "id": "0108",
+   "title": "Dividend Adjustment Mechanics and a Dividend-Capture Arbitrage",
+   "summary": "Market recap (HDFC Bank deposit-growth gap-up, Reliance+HDFC Bank over half the Nifty rally, FIIs an"
+  },
+  {
+   "id": "0110",
+   "title": "Synthetic Future vs Two ATM Calls: Delta Is Not the Whole Story",
+   "summary": "Debunks the 'two 0.5-delta calls equal a 1-delta future' fallacy. A synthetic future (long call + sh"
+  },
+  {
+   "id": "0111",
+   "title": "Q&A: STT, Time Decay, Covered-Call Margins, Bharat Bond and the NSE Co-location Ban",
+   "summary": "Q&A batch: STT mechanics on sellers; time decay proportional to expiry (weekly day-1 = 20% of decay,"
+  },
+  {
+   "id": "0117",
+   "title": "I Trade with NO Stop Loss, My Worst Investment, INFY Trade Update - Q&A",
+   "summary": "Q&A: why he trades without a predetermined stop-loss (restaurant analogy, adjust instead), derivativ"
+  },
+  {
+   "id": "0121",
+   "title": "My Investments, How I Predict NIFTY Range, Option Scalping - Q&A",
+   "summary": "Q&A: covered calls need dynamic management or upside opportunity cost wins; option scalping = rapid "
+  },
+  {
+   "id": "0124",
+   "title": "Buying CALL vs Selling PUT - There's a HUGE Difference",
+   "summary": "Foundational payoff teaching: selling a put is not buying a call. Across five scenarios (strong/mode"
+  },
+  {
+   "id": "0132",
+   "title": "Boring Episode... #AskPRSundar 12",
+   "summary": "Q&A episode: expiry-day mechanics for hedged shorts (removing the long leg makes the short naked; in"
+  },
+  {
+   "id": "0136",
+   "title": "Stock Price Prediction with ADR / American Depository Receipt!",
+   "summary": "ADR explainer anchored on ICICI Bank's 10 August 2020 QIP: targeted 15,000 crore, drew ~62,000 crore"
+  }
+ ],
+ "10-greeks": [
+  {
+   "id": "0110",
+   "title": "Synthetic Future vs Two ATM Calls: Delta Is Not the Whole Story",
+   "summary": "Debunks the 'two 0.5-delta calls equal a 1-delta future' fallacy. A synthetic future (long call + sh"
+  },
+  {
+   "id": "0124",
+   "title": "Buying CALL vs Selling PUT - There's a HUGE Difference",
+   "summary": "Foundational payoff teaching: selling a put is not buying a call. Across five scenarios (strong/mode"
+  },
+  {
+   "id": "0401",
+   "title": "Option Greeks 1: Delta (Mission Options E18)",
+   "summary": "Curriculum episode defining delta as the option-price change per unit move in the underlying: ATM ~0"
+  },
+  {
+   "id": "0427",
+   "title": "Option Greeks #2: Gamma (Mission Options E19)",
+   "summary": "Gamma explained as the rate of change of delta: on violent news (corporate-tax-cut rally, COVID cras"
+  },
+  {
+   "id": "0441",
+   "title": "Option Greeks #4: Theta & Rho (Mission Options E21)",
+   "summary": "Theta as non-uniform time decay: ~2%/day with 50 days left vs ~50% with 2 days; rain-probability ana"
+  },
+  {
+   "id": "0455",
+   "title": "Implied Volatility, IV Rank, IV Percentile Explained (Mission Options E22)",
+   "summary": "Foundational lesson on implied volatility: definition, put-vs-call IV asymmetry, volatility skew in "
+  },
+  {
+   "id": "0778",
+   "title": "TCS Trading Strategy Ahead of Q3 Results (Live Trade)",
+   "summary": "Pre-earnings TCS structure built live: a 1:3 call ratio (buy 3800C, sell three 4000C) with the extra"
+  },
+  {
+   "id": "0810",
+   "title": "What Exactly Causes Huge Volatility Near Expiry - The Gamma Effect",
+   "summary": "Explains the gamma effect - violent premium multiplication in expiry week (a 28-rupee Nifty put to 1"
+  },
+  {
+   "id": "1172",
+   "title": "Gamma Effect",
+   "summary": "Defines the gamma effect as a violent premium move toward expiry: a 10-rupee Bank Nifty 38,000 call "
+  },
+  {
+   "id": "1201",
+   "title": "PE_CE vs PA_CA",
+   "summary": "Explains why Indian option symbols are PE/CE: they denote European-style put/call options, distingui"
+  },
+  {
+   "id": "1226",
+   "title": "What Is Delta?",
+   "summary": "Micro-lesson defining delta as the change in an option's price for a one-unit change in the underlyi"
+  },
+  {
+   "id": "1830",
+   "title": "High-Profit Bearish Option Strategy - Best Time to Execute",
+   "summary": "Explains his 3-line proprietary trend indicator turning red (17 Aug 2023), exiting the July bullish "
+  }
+ ],
+ "11-implied-volatility": [
+  {
+   "id": "0024",
+   "title": "Options Trading Basics - Explained with Practical Examples",
+   "summary": "Foundational primer: calls and puts taught through a Virat Kohli cricket-betting analogy and a busin"
+  },
+  {
+   "id": "0028",
+   "title": "The Effect of Falling VIX on Option Prices",
+   "summary": "Data-proven lesson: with Nifty down 500+ points, VIX collapsing 65 to ~55 made even deep puts lose v"
+  },
+  {
+   "id": "0030",
+   "title": "Why PUT Premium Didn't Fall Proportionally (7/4 Market Report)",
+   "summary": "Explains the violent up-move anomaly: strangle sellers trapped by a ~10% rally are forced to buy bac"
+  },
+  {
+   "id": "0048",
+   "title": "IndusInd Bank Earnings Trade - Strategy in Advance",
+   "summary": "Contrasts results timing and IV: Infosys declares after hours (ATM IV ~67) while IndusInd declares i"
+  },
+  {
+   "id": "0054",
+   "title": "Monthly Review - April 2020 Trades and Views",
+   "summary": "Monthly P&L review: April profit 66.3 lakh on ~95 lakh starting capital after 45 lakh in first two w"
+  },
+  {
+   "id": "0135",
+   "title": "Why GOLD CRASHED + Heavy Impact on Indian Stock Market!",
+   "summary": "Gold crashed 6% in a day (silver -15%) days after Russia's COVID-vaccine announcement, from its ~$2,"
+  },
+  {
+   "id": "0168",
+   "title": "TCS Buyback: Don't Chase the News - Sell the IV Spike",
+   "summary": "TCS buyback at an all-time high puzzles everyone; SEBI's 75% promoter cap caps it at ~10% of public "
+  },
+  {
+   "id": "0219",
+   "title": "Option Chain & Pay-Off Chart - Mission Options E08",
+   "summary": "Guided tour of the NSE option chain (strike grid, bid/ask, LTP, IV, volume, open interest) and first"
+  },
+  {
+   "id": "0240",
+   "title": "Intrinsic Value & Time Value (Mission Options E10)",
+   "summary": "Foundational lesson: option value = intrinsic + time value. Intrinsic = spot minus strike for calls,"
+  },
+  {
+   "id": "0244",
+   "title": "Best Option Strategies for Budget 2021",
+   "summary": "Full event-strategy masterclass: 10 years of budget data show close-to-close moves under 2% (only ex"
+  },
+  {
+   "id": "0288",
+   "title": "Q&A: Process Over Product, Cross-Hedging, IV vs VIX, Income Stocks",
+   "summary": "Q&A batch: no-goals/process philosophy; cyclical-defensive and growth-value bull-bear mapping; cross"
+  },
+  {
+   "id": "0291",
+   "title": "Q&A: The Correction-Waiting Trap, IV Crush, and Owning Your Losses",
+   "summary": "Q&A: 'waiting for the big correction' guarantees never investing (Nifty 12,400\u21927,500\u219215,000 arc); Ma"
+  },
+  {
+   "id": "0429",
+   "title": "Option Greeks #3: Vega (Mission Options E20)",
+   "summary": "Vega/VIX explained: expected one-month movement priced into premiums; April 2020 (India VIX ~60) car"
+  },
+  {
+   "id": "0455",
+   "title": "Implied Volatility, IV Rank, IV Percentile Explained (Mission Options E22)",
+   "summary": "Foundational lesson on implied volatility: definition, put-vs-call IV asymmetry, volatility skew in "
+  },
+  {
+   "id": "1001",
+   "title": "Long Term Bitcoin Trading Strategy - September Expiry",
+   "summary": "Live construction of a September-expiry BTC structure: long 35k call ratio-financed (1:4) with 55k c"
+  },
+  {
+   "id": "1436",
+   "title": "Indian Stock Market Outlook 2023",
+   "summary": "Derives the 2023 Nifty target of 21,000: 15-year candle study shows down years are followed by green"
+  },
+  {
+   "id": "1470",
+   "title": "Adani Margin Call - Domino Effect",
+   "summary": "Adani FPO anatomy: anchor book ~\u20b96,000 cr ~1.5x oversubscribed, retail response pathetic once the st"
+  },
+  {
+   "id": "1842",
+   "title": "This Is the Wrong Time for Long-Term Options",
+   "summary": "Rule: avoid long-dated (LEAPS-style) options until the Election Commission announces poll dates; the"
+  },
+  {
+   "id": "1881",
+   "title": "The No-Loss Option Strategy That Trumps Fixed Return Instruments",
+   "summary": "Deconstructs market-linked debentures: Rs 95 of Rs 100 goes into 8-9% debt producing the 'assured' R"
+  },
+  {
+   "id": "1922",
+   "title": "INFY & TCS Earnings Trade Strategy Simplified",
+   "summary": "Teaches the earnings straddle framework using live examples: TCS fell ~2% post-results yet short str"
+  }
+ ],
+ "12-margins": [
+  {
+   "id": "0003",
+   "title": "Options Buying vs Selling - Which is Better For You",
+   "summary": "Debunks the buyer-favorable myth: seller pays margin via collateral (no cash), wins by probability, "
+  },
+  {
+   "id": "0025",
+   "title": "Option Buying & Selling - Advantages & Disadvantages Explained",
+   "summary": "Systematic demolition of the three buyer advantages (low premium, limited risk, unlimited reward): c"
+  },
+  {
+   "id": "0026",
+   "title": "How to Pledge Mutual Funds to get Trading Margin (Collateral)",
+   "summary": "Mechanics of collateral: only demat-form mutual funds can be pledged; folio-form units need conversi"
+  },
+  {
+   "id": "0042",
+   "title": "Infosys Earnings Trade - Outcome Review",
+   "summary": "Post-mortem of the Infosys earnings structure: stock fell ~3% after results yet every leg netted a p"
+  },
+  {
+   "id": "0049",
+   "title": "Franklin Templeton Issue - Something You Did Not Know About",
+   "summary": "Franklin Templeton wound up six debt schemes (~30,000 crore) after redemption pressure; explains the"
+  },
+  {
+   "id": "0052",
+   "title": "Trading Stocks vs Indices - Which Is Better",
+   "summary": "Argues index options beat stock options: indices cannot crash 50-60% in a day (DHFL -65%, Infibeam -"
+  },
+  {
+   "id": "0056",
+   "title": "How To Check Margins For Options - Exposure, Span, Premium",
+   "summary": "Margin calculator walkthrough: futures margin (1.40 lakh) is not option margin (1.19 lakh for 10,000"
+  },
+  {
+   "id": "0059",
+   "title": "Mutual Funds vs ETFs - All You Need To Know",
+   "summary": "ETFs beat mutual funds for traders: near-zero expense ratio, intraday exchange trading, minimal tran"
+  },
+  {
+   "id": "0061",
+   "title": "Q&A 1 - Brokers, Stop-Losses, Bharat Bond, 50% Cash Rule",
+   "summary": "First Q&A: stop-loss doctrine (slow poison vs quick poison), square-off vs counter-strategy depends "
+  },
+  {
+   "id": "0068",
+   "title": "Q&A 2: Margins, MTM vs Option Margin, Expiry Settlement",
+   "summary": "Q&A clarifying mechanics: buy/sell quantities are always equal (TV 'delivery buying' is interpretati"
+  },
+  {
+   "id": "0071",
+   "title": "CASH vs FUTURES Market - What's Best for INVESTMENT?",
+   "summary": "Quantified case for taking long-term equity exposure via futures plus a debt collateral stack: ~Rs 7"
+  },
+  {
+   "id": "0073",
+   "title": "Q&A 3: Retirement Money, Expiry Mechanics, LEAPS, Hedge Funds",
+   "summary": "Q&A: age-percentage debt rule and SIP/SWP for a retiree down 35%; short straddle as favorite strateg"
+  },
+  {
+   "id": "0076",
+   "title": "Bharat Bond ETF - Unbelievably Good For LOW RISK Income + Other Perks",
+   "summary": "Explains Bharat Bond: a debt ETF holding only PSU bonds maturing before scheme maturity; 0.0005% exp"
+  },
+  {
+   "id": "0080",
+   "title": "F&O Traders Can Now Earn 3X Money - New Margin Rules by SEBI",
+   "summary": "Walks through SEBI's new margining on real examples: naked ATM options now ~1.0-1.3 lakh (up from 80"
+  },
+  {
+   "id": "0082",
+   "title": "Liquid BeES vs Nifty BeES for LOW RISK Investment - Which is BEST?",
+   "summary": "Contrasts the two flagship ETFs: Nifty BeES = equity (index returns, dividends rare - last in 2015),"
+  },
+  {
+   "id": "0084",
+   "title": "#AskPR 4 - Second Wave of Selling, FII Data During Market, Weekly Hedges",
+   "summary": "Q&A: debunks the short-selling 'ban' (practical cap ~500 crore plus margin), warns against 2008-patt"
+  },
+  {
+   "id": "0088",
+   "title": "Q&A: Lot Sizes, Collateral, Hedging Doctrine, Expiry-Day Selling",
+   "summary": "Q&A session: hedging as non-negotiable doctrine, SEBI lot-size revision mechanics, collateral/pledgi"
+  },
+  {
+   "id": "0089",
+   "title": "Synthetic Futures: Futures Payoff Without Futures Costs",
+   "summary": "Teaches synthetic futures: long = buy ATM call + sell ATM put; short reversed. Demonstrates on June "
+  },
+  {
+   "id": "0094",
+   "title": "Q&A: Scam Detection, Settlement Mechanics, Option Styles, SLB",
+   "summary": "Q&A: retrofit trade-call scams and fake cloned channels; T+2 settlement and margin-shortfall penalti"
+  },
+  {
+   "id": "0098",
+   "title": "Limited-Risk Call Ratio: A Two-Month View With Defined Loss",
+   "summary": "Builds a limited-risk call ratio on the post-COVID rally: buy 1x 10,500 Aug CE @360, sell 3x 11,000 "
+  }
+ ],
+ "13-short-straddles": [
+  {
+   "id": "0003",
+   "title": "Options Buying vs Selling - Which is Better For You",
+   "summary": "Debunks the buyer-favorable myth: seller pays margin via collateral (no cash), wins by probability, "
+  },
+  {
+   "id": "0025",
+   "title": "Option Buying & Selling - Advantages & Disadvantages Explained",
+   "summary": "Systematic demolition of the three buyer advantages (low premium, limited risk, unlimited reward): c"
+  },
+  {
+   "id": "0027",
+   "title": "Market Prediction using India VIX - All You Need To Know",
+   "summary": "VIX masterclass during COVID: definition (expected 30-day movement, not a fear gauge that must rise "
+  },
+  {
+   "id": "0030",
+   "title": "Why PUT Premium Didn't Fall Proportionally (7/4 Market Report)",
+   "summary": "Explains the violent up-move anomaly: strangle sellers trapped by a ~10% rally are forced to buy bac"
+  },
+  {
+   "id": "0034",
+   "title": "How I Made 45 Lakhs in 6 Days by Trading (with proof)",
+   "summary": "P&L transparency episode: ~50% return in six April-2020 sessions driven by VIX collapse 86->50 plus "
+  },
+  {
+   "id": "0036",
+   "title": "Cash Secured Put for High Income",
+   "summary": "Teaches the cash-secured put end to end: sell a put at a strike you are happy to own, collect premiu"
+  },
+  {
+   "id": "0037",
+   "title": "Do I Trade Based on Open Interest - Reply to Critics",
+   "summary": "Replies to ROI/margin critics by showing scale: ~23 lakh quantity through one broker in a day, about"
+  },
+  {
+   "id": "0040",
+   "title": "Infosys Earnings Trade Strategy (Live)",
+   "summary": "Pre-results Infosys structure: short straddle at 650, converted to an iron fly with long 720CE/580PE"
+  },
+  {
+   "id": "0042",
+   "title": "Infosys Earnings Trade - Outcome Review",
+   "summary": "Post-mortem of the Infosys earnings structure: stock fell ~3% after results yet every leg netted a p"
+  },
+  {
+   "id": "0048",
+   "title": "IndusInd Bank Earnings Trade - Strategy in Advance",
+   "summary": "Contrasts results timing and IV: Infosys declares after hours (ATM IV ~67) while IndusInd declares i"
+  },
+  {
+   "id": "0054",
+   "title": "Monthly Review - April 2020 Trades and Views",
+   "summary": "Monthly P&L review: April profit 66.3 lakh on ~95 lakh starting capital after 45 lakh in first two w"
+  },
+  {
+   "id": "0063",
+   "title": "NIFTY Options Trading Strategy LIVE TRADE - May 2020",
+   "summary": "Live bullish Nifty trade: after booking profit on naked 9000/8700 puts, builds a call-ratio (long 94"
+  },
+  {
+   "id": "0073",
+   "title": "Q&A 3: Retirement Money, Expiry Mechanics, LEAPS, Hedge Funds",
+   "summary": "Q&A: age-percentage debt rule and SIP/SWP for a retiree down 35%; short straddle as favorite strateg"
+  },
+  {
+   "id": "0077",
+   "title": "Monthly P&L Review - Trades in May 2020 (76 Lakhs in 2 Months)",
+   "summary": "Monthly trade review: ~10 lakh May profit on ~95 lakh capital (76 lakh total in two months, ~80%). D"
+  },
+  {
+   "id": "0080",
+   "title": "F&O Traders Can Now Earn 3X Money - New Margin Rules by SEBI",
+   "summary": "Walks through SEBI's new margining on real examples: naked ATM options now ~1.0-1.3 lakh (up from 80"
+  },
+  {
+   "id": "0103",
+   "title": "June 2020 Monthly Review: A Losing Month, Audited Honestly",
+   "summary": "Monthly accountability review: April-May +76 lakh on ~95 lakh capital, June lost ~1.2 lakh. Loss att"
+  },
+  {
+   "id": "0104",
+   "title": "Reliance Futures Trade - Doubling Stock Profit Through Hedging and Firefighting",
+   "summary": "Reconciles a Reliance long-futures position: June 2020 rally from 1460 to 1784 gave ~3 lakh stock pr"
+  },
+  {
+   "id": "0105",
+   "title": "HDFC Bank Short Straddle Without Hedging - Did It Work",
+   "summary": "Case study of an unhedged HDFC Bank 1000-strike short straddle sold June 9 at ~87 (call 49 + put 39)"
+  },
+  {
+   "id": "0109",
+   "title": "TCS Earnings Trade Shared In Advance: IV-Crush Combo",
+   "summary": "Pre-results TCS structure: sold 2 lots of 2000 PE, bought 2 lots 2300 CE at 47.75, financed by selli"
+  },
+  {
+   "id": "0114",
+   "title": "Infosys Earnings Live Trade: Defined-Risk Iron Structure via Basket Order",
+   "summary": "Live pre-results Infosys trade executed on-screen with basket orders: buy 800 PE, sell 770 PE (1 lot"
+  }
+ ],
+ "14-spreads-ratios": [
+  {
+   "id": "0028",
+   "title": "The Effect of Falling VIX on Option Prices",
+   "summary": "Data-proven lesson: with Nifty down 500+ points, VIX collapsing 65 to ~55 made even deep puts lose v"
+  },
+  {
+   "id": "0060",
+   "title": "ICICI Bank Earnings Trade - Live Strategy Shared In Advance",
+   "summary": "Live pre-earnings trade: buy 1 lot 350CE (~2,440) and sell 2 lots 380CE (~1,190) - near-zero cost ra"
+  },
+  {
+   "id": "0063",
+   "title": "NIFTY Options Trading Strategy LIVE TRADE - May 2020",
+   "summary": "Live bullish Nifty trade: after booking profit on naked 9000/8700 puts, builds a call-ratio (long 94"
+  },
+  {
+   "id": "0064",
+   "title": "This Simple ADJUSTMENT TRADE Turned My LOSS into PROFIT!",
+   "summary": "Firefighting walkthrough on an ICICI Bank call-ratio position after a results miss: original 350/380"
+  },
+  {
+   "id": "0098",
+   "title": "Limited-Risk Call Ratio: A Two-Month View With Defined Loss",
+   "summary": "Builds a limited-risk call ratio on the post-COVID rally: buy 1x 10,500 Aug CE @360, sell 3x 11,000 "
+  },
+  {
+   "id": "0108",
+   "title": "Dividend Adjustment Mechanics and a Dividend-Capture Arbitrage",
+   "summary": "Market recap (HDFC Bank deposit-growth gap-up, Reliance+HDFC Bank over half the Nifty rally, FIIs an"
+  },
+  {
+   "id": "0109",
+   "title": "TCS Earnings Trade Shared In Advance: IV-Crush Combo",
+   "summary": "Pre-results TCS structure: sold 2 lots of 2000 PE, bought 2 lots 2300 CE at 47.75, financed by selli"
+  },
+  {
+   "id": "0114",
+   "title": "Infosys Earnings Live Trade: Defined-Risk Iron Structure via Basket Order",
+   "summary": "Live pre-results Infosys trade executed on-screen with basket orders: buy 800 PE, sell 770 PE (1 lot"
+  },
+  {
+   "id": "0115",
+   "title": "The Power of Short Straddle: Shifting Strikes and Ratio Spreads in July 2020",
+   "summary": "Members-first review of three July structures: Bank Nifty short straddle started at 21500 (2400 comb"
+  },
+  {
+   "id": "0120",
+   "title": "ITC Earnings Trade Option Strategy - Upto 20% Profit or 5% Dividend",
+   "summary": "Live pre-results ITC structure: buy 2 lots 197.5CE at 6.55, sell 4 lots 205CE at 3.50, plus sell 2 l"
+  },
+  {
+   "id": "0126",
+   "title": "SBI Trading Strategy before Q1 Results 2020 - Live Trade",
+   "summary": "Live pre-results SBI structure: buy 180CE at 16.70, sell 3x 210CE at 4.65 (1:3 call ratio), sell 160"
+  },
+  {
+   "id": "0139",
+   "title": "PAIR TRADING Explained - A Fail Proof Strategy?",
+   "summary": "Pair trading as a market-neutral structure: long one instrument, short another (often same sector, e"
+  },
+  {
+   "id": "0148",
+   "title": "Monthly Trades Review - August 2020 (P&L Report)",
+   "summary": "Monthly account review: +28 lakh for August (1.11 to 1.39 crore), ~1 lakh per session in a 600-700 p"
+  },
+  {
+   "id": "0165",
+   "title": "September 2020 P&L Review: 150% YTD Through the Volatility",
+   "summary": "Monthly account review: ~\u20b91.49 cr profit YTD on ~\u20b91 cr capital (~150%) despite September's Bank Nift"
+  },
+  {
+   "id": "0228",
+   "title": "ITM, ATM, OTM Explained - Mission Options E09",
+   "summary": "Mission Options E09: classifies strikes as ITM/ATM/OTM relative to spot with NSE chain color-coding "
+  },
+  {
+   "id": "0244",
+   "title": "Best Option Strategies for Budget 2021",
+   "summary": "Full event-strategy masterclass: 10 years of budget data show close-to-close moves under 2% (only ex"
+  },
+  {
+   "id": "0246",
+   "title": "Budget 2021 LIVE Trading",
+   "summary": "Live budget-day trade log: sold 10x 14,700CE @ Rs 8, sold 10x 13,500PE @ ~Rs 137, bought 5x 13,800PE"
+  },
+  {
+   "id": "0662",
+   "title": "Muhurat 2021 Live Trading and a Long-Dated Combo",
+   "summary": "Muhurat-session live trade walkthrough: Fed taper (Nov 3, 2021) passed without a crash \u2014 'markets do"
+  },
+  {
+   "id": "0778",
+   "title": "TCS Trading Strategy Ahead of Q3 Results (Live Trade)",
+   "summary": "Pre-earnings TCS structure built live: a 1:3 call ratio (buy 3800C, sell three 4000C) with the extra"
+  },
+  {
+   "id": "0799",
+   "title": "Ethereum Long-Term Options Strategy",
+   "summary": "Crypto options status update: a 2,000 USDT free-capital book grew to about 7,535 USDT (~350%) in 2-3"
+  }
+ ],
+ "15-calendars": [
+  {
+   "id": "0155",
+   "title": "Q&A: Mutual Fund vs Hedge Fund, REITs, Quitting Trading, F&O Mechanics",
+   "summary": "Rapid-fire Q&A: REIT collateral limits, cost of rolling Bank Nifty futures for a year (~100 pt/month"
+  },
+  {
+   "id": "0481",
+   "title": "Best Option Trading Strategy for Low VIX Market (ITM Put Calendar)",
+   "summary": "The 2013 taper-tantrum lesson - low VIX strangles blew up 1 crore in a day - becomes the low-VIX rul"
+  },
+  {
+   "id": "0662",
+   "title": "Muhurat 2021 Live Trading and a Long-Dated Combo",
+   "summary": "Muhurat-session live trade walkthrough: Fed taper (Nov 3, 2021) passed without a crash \u2014 'markets do"
+  },
+  {
+   "id": "0967",
+   "title": "4 Highly Profitable Strategies - Live Trades & Updates",
+   "summary": "Reviews four crypto option positions: ETH ratio (+35% in <3 months on $1,200), two BTC ratios (+40% "
+  },
+  {
+   "id": "1322",
+   "title": "Why Nifty Will NOT Hit 35,000 by 2023: Pattern Matching vs Fundamentals",
+   "summary": "Technicians extrapolating 2008 and 2020 (crash then +110-120% in 12-15 months) project Nifty 35,000 "
+  },
+  {
+   "id": "1749",
+   "title": "Nifty at 20,000: techno-fundamental case and a put calendar",
+   "summary": "Builds a case for Nifty 20,000 in 3-4 months (heavyweight catch-up, rolling-return mean reversion, s"
+  },
+  {
+   "id": "1809",
+   "title": "Long-term ratio spreads for a mildly bearish market",
+   "summary": "Designs long-dated (December) ratio structures for a slightly bearish view: buy 21,000PE, sell 3\u00d7 19"
+  },
+  {
+   "id": "1854",
+   "title": "All 5 Strategies I Shared in Aug 2023 with Logic & P&L",
+   "summary": "Reviews five August 2023 paper trades: bearish Oct combo (+5% in 2 weeks), 2 Aug combo (+13-14% on R"
+  },
+  {
+   "id": "2065",
+   "title": "The Only Strategy That Works Now: A Term-Structure Put Calendar",
+   "summary": "India VIX reads only ~1-month options, so June 2024's election-loaded IV was invisible in it: calls "
+  },
+  {
+   "id": "2723",
+   "title": "Option Strategy: Call Calendar",
+   "summary": "Teaches the call calendar: sell an ATM call in the near expiry, buy the same-strike call in a far ex"
+  },
+  {
+   "id": "2734",
+   "title": "Option Strategy: Put Calendar",
+   "summary": "Put-calendar variant: buy a put in the far monthly series, sell puts in near weekly expiries, rollin"
+  },
+  {
+   "id": "2994",
+   "title": "BUDGET Strategy 1 - Reverse Call Calendar",
+   "summary": "Budget straddle premium ~900 points (4% of Nifty); IV collapsed from 9.2 to 15 (65% rally); reverse "
+  },
+  {
+   "id": "3001",
+   "title": "Budget Strategy 3 - ITM Put Calendar",
+   "summary": "ITM put calendar spread for budget: sell near-month put, buy far-month put at same strike; profits f"
+  }
+ ],
+ "16-butterflies": [
+  {
+   "id": "0244",
+   "title": "Best Option Strategies for Budget 2021",
+   "summary": "Full event-strategy masterclass: 10 years of budget data show close-to-close moves under 2% (only ex"
+  },
+  {
+   "id": "0654",
+   "title": "Reliance Result-Based Butterfly Trade Review",
+   "summary": "Reviews an October 2021 Reliance earnings trade: 1-5-4 call butterfly (buy 2600CE, sell 5x2800CE, bu"
+  },
+  {
+   "id": "1854",
+   "title": "All 5 Strategies I Shared in Aug 2023 with Logic & P&L",
+   "summary": "Reviews five August 2023 paper trades: bearish Oct combo (+5% in 2 weeks), 2 Aug combo (+13-14% on R"
+  },
+  {
+   "id": "2911",
+   "title": "CRYPTO STRATEGY",
+   "summary": "Delta Exchange India vs global; Bitcoin 91,000 short straddle gave >100% profit in 1 week; put ratio"
+  },
+  {
+   "id": "2935",
+   "title": "CALL BUTTERFLY Strategy - The Effective Way",
+   "summary": "Bitcoin range-bound; previous strategies (short straddle +100%, put ratio, call butterfly) all worke"
+  }
+ ],
+ "17-hedges": [
+  {
+   "id": "0040",
+   "title": "Infosys Earnings Trade Strategy (Live)",
+   "summary": "Pre-results Infosys structure: short straddle at 650, converted to an iron fly with long 720CE/580PE"
+  },
+  {
+   "id": "0061",
+   "title": "Q&A 1 - Brokers, Stop-Losses, Bharat Bond, 50% Cash Rule",
+   "summary": "First Q&A: stop-loss doctrine (slow poison vs quick poison), square-off vs counter-strategy depends "
+  },
+  {
+   "id": "0071",
+   "title": "CASH vs FUTURES Market - What's Best for INVESTMENT?",
+   "summary": "Quantified case for taking long-term equity exposure via futures plus a debt collateral stack: ~Rs 7"
+  },
+  {
+   "id": "0078",
+   "title": "My Reliance Investment - Follow Up #1",
+   "summary": "First follow-up of a long-term Reliance position managed through futures plus options: bought May fu"
+  },
+  {
+   "id": "0088",
+   "title": "Q&A: Lot Sizes, Collateral, Hedging Doctrine, Expiry-Day Selling",
+   "summary": "Q&A session: hedging as non-negotiable doctrine, SEBI lot-size revision mechanics, collateral/pledgi"
+  },
+  {
+   "id": "0091",
+   "title": "Violent Session: Dow Futures Shock, VIX Above 30, Hedged Put Selling",
+   "summary": "Post-market: overnight Dow futures -1000+ triggered bank-led selling (ICICI -5.5%); FII streak-selli"
+  },
+  {
+   "id": "0098",
+   "title": "Limited-Risk Call Ratio: A Two-Month View With Defined Loss",
+   "summary": "Builds a limited-risk call ratio on the post-COVID rally: buy 1x 10,500 Aug CE @360, sell 3x 11,000 "
+  },
+  {
+   "id": "0104",
+   "title": "Reliance Futures Trade - Doubling Stock Profit Through Hedging and Firefighting",
+   "summary": "Reconciles a Reliance long-futures position: June 2020 rally from 1460 to 1784 gave ~3 lakh stock pr"
+  },
+  {
+   "id": "0129",
+   "title": "My Trades in July 2020 - How I Made 35 Lakhs - Monthly Review",
+   "summary": "Monthly P&L review: cumulative profit reached about 1.12 crore on 95 lakh capital in four months (Ap"
+  },
+  {
+   "id": "0132",
+   "title": "Boring Episode... #AskPRSundar 12",
+   "summary": "Q&A episode: expiry-day mechanics for hedged shorts (removing the long leg makes the short naked; in"
+  },
+  {
+   "id": "0140",
+   "title": "STOCK Recommendation of the Month - BPCL Analysis",
+   "summary": "Follow-up on the ITC call (bought ~198, now ~170, -15%): thesis unchanged - dividend yield above FD "
+  },
+  {
+   "id": "0143",
+   "title": "BULLDEX - Bullion Index, Gold & Silver Futures Trading",
+   "summary": "Introduces MCX BULLDEX bullion-index futures launched 24 Aug 2020: 70.52% gold / 29.48% silver weigh"
+  },
+  {
+   "id": "0148",
+   "title": "Monthly Trades Review - August 2020 (P&L Report)",
+   "summary": "Monthly account review: +28 lakh for August (1.11 to 1.39 crore), ~1 lakh per session in a 600-700 p"
+  },
+  {
+   "id": "0155",
+   "title": "Q&A: Mutual Fund vs Hedge Fund, REITs, Quitting Trading, F&O Mechanics",
+   "summary": "Rapid-fire Q&A: REIT collateral limits, cost of rolling Bank Nifty futures for a year (~100 pt/month"
+  },
+  {
+   "id": "0156",
+   "title": "Stock Recommendation: Power Finance Corporation (PFC) - Deep-Value PSU + Covered Calls",
+   "summary": "Growth-vs-value framework: high-dividend stocks trade sideways, so pair them with covered call selli"
+  },
+  {
+   "id": "0165",
+   "title": "September 2020 P&L Review: 150% YTD Through the Volatility",
+   "summary": "Monthly account review: ~\u20b91.49 cr profit YTD on ~\u20b91 cr capital (~150%) despite September's Bank Nift"
+  },
+  {
+   "id": "0169",
+   "title": "Stock Recommendation of the Month: Detailed Share Analysis",
+   "summary": "Follow-up on earlier ITC recommendation (down 15%) explaining dividend-yield logic and hedged buying"
+  },
+  {
+   "id": "0230",
+   "title": "Q&A: Part-Time Trading, Corrections, Pledging, Taxation",
+   "summary": "Q&A session: part-time-to-full-time trading transition, studies vs trading, when the 10% correction "
+  },
+  {
+   "id": "0288",
+   "title": "Q&A: Process Over Product, Cross-Hedging, IV vs VIX, Income Stocks",
+   "summary": "Q&A batch: no-goals/process philosophy; cyclical-defensive and growth-value bull-bear mapping; cross"
+  },
+  {
+   "id": "0320",
+   "title": "Hedge Funds vs Mutual Funds vs PMS",
+   "summary": "India's managed-money menu: MFs (any amount, cash-only, 1:1 hedging, now covered calls on Nifty-50 s"
+  }
+ ],
+ "18-firefighting": [
+  {
+   "id": "0030",
+   "title": "Why PUT Premium Didn't Fall Proportionally (7/4 Market Report)",
+   "summary": "Explains the violent up-move anomaly: strangle sellers trapped by a ~10% rally are forced to buy bac"
+  },
+  {
+   "id": "0050",
+   "title": "IndusInd Bank Rises 17% Despite Bad Results - Why",
+   "summary": "IndusInd Bank profit fell 77% but stock closed ~15-17% higher because market expected 95% fall - exp"
+  },
+  {
+   "id": "0063",
+   "title": "NIFTY Options Trading Strategy LIVE TRADE - May 2020",
+   "summary": "Live bullish Nifty trade: after booking profit on naked 9000/8700 puts, builds a call-ratio (long 94"
+  },
+  {
+   "id": "0064",
+   "title": "This Simple ADJUSTMENT TRADE Turned My LOSS into PROFIT!",
+   "summary": "Firefighting walkthrough on an ICICI Bank call-ratio position after a results miss: original 350/380"
+  },
+  {
+   "id": "0077",
+   "title": "Monthly P&L Review - Trades in May 2020 (76 Lakhs in 2 Months)",
+   "summary": "Monthly trade review: ~10 lakh May profit on ~95 lakh capital (76 lakh total in two months, ~80%). D"
+  },
+  {
+   "id": "0078",
+   "title": "My Reliance Investment - Follow Up #1",
+   "summary": "First follow-up of a long-term Reliance position managed through futures plus options: bought May fu"
+  },
+  {
+   "id": "0103",
+   "title": "June 2020 Monthly Review: A Losing Month, Audited Honestly",
+   "summary": "Monthly accountability review: April-May +76 lakh on ~95 lakh capital, June lost ~1.2 lakh. Loss att"
+  },
+  {
+   "id": "0104",
+   "title": "Reliance Futures Trade - Doubling Stock Profit Through Hedging and Firefighting",
+   "summary": "Reconciles a Reliance long-futures position: June 2020 rally from 1460 to 1784 gave ~3 lakh stock pr"
+  },
+  {
+   "id": "0105",
+   "title": "HDFC Bank Short Straddle Without Hedging - Did It Work",
+   "summary": "Case study of an unhedged HDFC Bank 1000-strike short straddle sold June 9 at ~87 (call 49 + put 39)"
+  },
+  {
+   "id": "0115",
+   "title": "The Power of Short Straddle: Shifting Strikes and Ratio Spreads in July 2020",
+   "summary": "Members-first review of three July structures: Bank Nifty short straddle started at 21500 (2400 comb"
+  },
+  {
+   "id": "0122",
+   "title": "How I Made 1 Crore in 4 Months - Potential of Option Selling",
+   "summary": "P&L showcase: claims Rs 1.05 cr profit April-July 2020 on Rs 95 L capital (~110% in 4 months), Rs 66"
+  },
+  {
+   "id": "0126",
+   "title": "SBI Trading Strategy before Q1 Results 2020 - Live Trade",
+   "summary": "Live pre-results SBI structure: buy 180CE at 16.70, sell 3x 210CE at 4.65 (1:3 call ratio), sell 160"
+  },
+  {
+   "id": "0127",
+   "title": "How I Turned HUGE LOSS into PROFIT by FIREFIGHTING - Infosys Trade",
+   "summary": "Full firefighting case: bearish Infosys put spread + call spread faced a 780->915 (+20%) two-day run"
+  },
+  {
+   "id": "0129",
+   "title": "My Trades in July 2020 - How I Made 35 Lakhs - Monthly Review",
+   "summary": "Monthly P&L review: cumulative profit reached about 1.12 crore on 95 lakh capital in four months (Ap"
+  },
+  {
+   "id": "0131",
+   "title": "My Trading Technique to MAXIMIZE Profits by 350% (6L to 21L) in RELIANCE",
+   "summary": "Reliance long-futures case study: entry ~1400 (May 2020), price ~2000 by 3 August 2020. Pure cash-ma"
+  },
+  {
+   "id": "0165",
+   "title": "September 2020 P&L Review: 150% YTD Through the Volatility",
+   "summary": "Monthly account review: ~\u20b91.49 cr profit YTD on ~\u20b91 cr capital (~150%) despite September's Bank Nift"
+  },
+  {
+   "id": "0199",
+   "title": "My View Went Terribly Wrong, Still Made 1.5 Lakhs - Options Firefighting",
+   "summary": "Live firefighting case study: a short Bajaj Finance/Finserv future plus sold call went against the p"
+  },
+  {
+   "id": "0246",
+   "title": "Budget 2021 LIVE Trading",
+   "summary": "Live budget-day trade log: sold 10x 14,700CE @ Rs 8, sold 10x 13,500PE @ ~Rs 137, bought 5x 13,800PE"
+  },
+  {
+   "id": "0412",
+   "title": "Execution Speed: Terminal Workflows for Crisis Exits",
+   "summary": "Demonstrates professional terminal workflows - filtered net positions, bulk and selective square-off"
+  },
+  {
+   "id": "0487",
+   "title": "10% ROI in ADANIENT Despite Huge Crash - Adjustments Masterclass",
+   "summary": "A 15-18 lakh rupee month on Adani Enterprise straddles despite a >10% stock fall and a wrong bullish"
+  }
+ ],
+ "19-event-playbook": [
+  {
+   "id": "0040",
+   "title": "Infosys Earnings Trade Strategy (Live)",
+   "summary": "Pre-results Infosys structure: short straddle at 650, converted to an iron fly with long 720CE/580PE"
+  },
+  {
+   "id": "0042",
+   "title": "Infosys Earnings Trade - Outcome Review",
+   "summary": "Post-mortem of the Infosys earnings structure: stock fell ~3% after results yet every leg netted a p"
+  },
+  {
+   "id": "0048",
+   "title": "IndusInd Bank Earnings Trade - Strategy in Advance",
+   "summary": "Contrasts results timing and IV: Infosys declares after hours (ATM IV ~67) while IndusInd declares i"
+  },
+  {
+   "id": "0050",
+   "title": "IndusInd Bank Rises 17% Despite Bad Results - Why",
+   "summary": "IndusInd Bank profit fell 77% but stock closed ~15-17% higher because market expected 95% fall - exp"
+  },
+  {
+   "id": "0060",
+   "title": "ICICI Bank Earnings Trade - Live Strategy Shared In Advance",
+   "summary": "Live pre-earnings trade: buy 1 lot 350CE (~2,440) and sell 2 lots 380CE (~1,190) - near-zero cost ra"
+  },
+  {
+   "id": "0087",
+   "title": "Corporate Earnings Results Schedule & Dividends - How, When, Where to Check",
+   "summary": "Where-to-find tutorial: BSE results calendar, NSE company pages, and Moneycontrol's earnings page wi"
+  },
+  {
+   "id": "0092",
+   "title": "Border Clash Day: Knee-Jerk Pricing and the Premium Truth Test",
+   "summary": "India-China border clash hits mid-session: Bank Nifty gap-up 700 then -1200 then +600 whipsaw; Nifty"
+  },
+  {
+   "id": "0093",
+   "title": "Galwan Correction: Official Toll, PM Speech Misread, Short Covering",
+   "summary": "Corrects the Galwan toll to ~20 Indian dead with similar Chinese losses; explains unarmed de-escalat"
+  },
+  {
+   "id": "0109",
+   "title": "TCS Earnings Trade Shared In Advance: IV-Crush Combo",
+   "summary": "Pre-results TCS structure: sold 2 lots of 2000 PE, bought 2 lots 2300 CE at 47.75, financed by selli"
+  },
+  {
+   "id": "0114",
+   "title": "Infosys Earnings Live Trade: Defined-Risk Iron Structure via Basket Order",
+   "summary": "Live pre-results Infosys trade executed on-screen with basket orders: buy 800 PE, sell 770 PE (1 lot"
+  },
+  {
+   "id": "0120",
+   "title": "ITC Earnings Trade Option Strategy - Upto 20% Profit or 5% Dividend",
+   "summary": "Live pre-results ITC structure: buy 2 lots 197.5CE at 6.55, sell 4 lots 205CE at 3.50, plus sell 2 l"
+  },
+  {
+   "id": "0126",
+   "title": "SBI Trading Strategy before Q1 Results 2020 - Live Trade",
+   "summary": "Live pre-results SBI structure: buy 180CE at 16.70, sell 3x 210CE at 4.65 (1:3 call ratio), sell 160"
+  },
+  {
+   "id": "0168",
+   "title": "TCS Buyback: Don't Chase the News - Sell the IV Spike",
+   "summary": "TCS buyback at an all-time high puzzles everyone; SEBI's 75% promoter cap caps it at ~10% of public "
+  },
+  {
+   "id": "0208",
+   "title": "Huge Market Risk in January 2021 - Make or Break for Global Markets!",
+   "summary": "December 2020: after a 3,000-point Nifty rally (Sept expiry ~10,800 to ~13,800) and ~50% Bank Nifty "
+  },
+  {
+   "id": "0229",
+   "title": "The History & Future of Crude Oil",
+   "summary": "Crude oil macro history: 2003-08 run from ~$10 to $150, US fracking self-sufficiency by 2017-18 brea"
+  },
+  {
+   "id": "0237",
+   "title": "Market Outlook Feb 2021 - Prepare for Budget 2021",
+   "summary": "Corporate earnings are the core driver; monsoon/elections are only enabling factors. Reliance's comm"
+  },
+  {
+   "id": "0244",
+   "title": "Best Option Strategies for Budget 2021",
+   "summary": "Full event-strategy masterclass: 10 years of budget data show close-to-close moves under 2% (only ex"
+  },
+  {
+   "id": "0246",
+   "title": "Budget 2021 LIVE Trading",
+   "summary": "Live budget-day trade log: sold 10x 14,700CE @ Rs 8, sold 10x 13,500PE @ ~Rs 137, bought 5x 13,800PE"
+  },
+  {
+   "id": "0284",
+   "title": "US Rate Hikes and the Taper Tantrum Template",
+   "summary": "QE and taper mechanics: post-2008 and post-2020 Fed bond-buying injected liquidity that flowed into "
+  },
+  {
+   "id": "0541",
+   "title": "Taper Tantrum vs the Real Cause: China",
+   "summary": "Argues the week's fall was blamed on Fed taper talk but the true pressure was China: Hong Kong in be"
+  }
+ ],
+ "20-budgets-elections": [
+  {
+   "id": "0070",
+   "title": "MARKET CRASHED - TRUTH Behind the Rs 20 Lakh Crore Package",
+   "summary": "Market reaction to the Atmanirbhar package: Nifty broke the key 9,000 support as FIIs sold over Rs 4"
+  },
+  {
+   "id": "0208",
+   "title": "Huge Market Risk in January 2021 - Make or Break for Global Markets!",
+   "summary": "December 2020: after a 3,000-point Nifty rally (Sept expiry ~10,800 to ~13,800) and ~50% Bank Nifty "
+  },
+  {
+   "id": "0237",
+   "title": "Market Outlook Feb 2021 - Prepare for Budget 2021",
+   "summary": "Corporate earnings are the core driver; monsoon/elections are only enabling factors. Reliance's comm"
+  },
+  {
+   "id": "0239",
+   "title": "India-China Border Tensions - Reason for Crash?",
+   "summary": "Unexplained two-day Bank Nifty fall (-6%) resolved as news of a Sikkim border clash - price moved be"
+  },
+  {
+   "id": "0657",
+   "title": "FII Selling vs Government: The Tax Tug-of-War",
+   "summary": "Argues Oct-Nov 2021's India-specific FII selloff (\u20b920,000cr in 8-9 sessions, timed block prints) was"
+  },
+  {
+   "id": "0685",
+   "title": "Three Things That Can Make or Break the Market",
+   "summary": "Macro triage for late 2021: (1) Baltic Dry Index's 50% one-month fall is mean reversion after a 100%"
+  },
+  {
+   "id": "0714",
+   "title": "FII vs Government - The War Continues",
+   "summary": "Frames relentless FII selling (~95,000 crore since April 2021) as a war between foreign portfolio in"
+  },
+  {
+   "id": "0772",
+   "title": "Indian Stock Market 2022 - FIIs, Fed, Retail Fund Flow, Elections",
+   "summary": "Year-ahead 2022 outlook: 2021 scoreboard, the crash-rebound asymmetry (only two 100%-plus years, bot"
+  },
+  {
+   "id": "0958",
+   "title": "TCS Earnings Strategy Live Trade",
+   "summary": "Earnings-week IT strategy ahead of TCS results (11-Apr) and Infosys (13-Apr). Context: TCS range 3,4"
+  },
+  {
+   "id": "1425",
+   "title": "Stock Market 2022 Review",
+   "summary": "2022 review: Nifty +4-5% but rupee -11-12% (negative in dollars); Dow -9%, S&P -20%, Nasdaq -33%, Te"
+  },
+  {
+   "id": "1436",
+   "title": "Indian Stock Market Outlook 2023",
+   "summary": "Derives the 2023 Nifty target of 21,000: 15-year candle study shows down years are followed by green"
+  },
+  {
+   "id": "1466",
+   "title": "Budget 2023 - Abolish These Unfair Taxes",
+   "summary": "Pre-budget tax argument: dividend and LTCG are double taxation because the company already paid tax "
+  },
+  {
+   "id": "1469",
+   "title": "2 Events That Can Destroy Indian Markets in 2023",
+   "summary": "Two 2023 risks: (1) LTCG tinkering - removal but taxation at slab (~35%) or 3-year holding period wo"
+  },
+  {
+   "id": "1470",
+   "title": "Adani Margin Call - Domino Effect",
+   "summary": "Adani FPO anatomy: anchor book ~\u20b96,000 cr ~1.5x oversubscribed, retail response pathetic once the st"
+  },
+  {
+   "id": "1495",
+   "title": "More Trouble for Indian Markets in 2023: Outlook Revision",
+   "summary": "Revises the January 2023 bullish outlook (21,000 target) after FIIs sold over 60,000 crore (USD 7-7."
+  },
+  {
+   "id": "1690",
+   "title": "Parliamentary Elections Preponed to 2023",
+   "summary": "Market-lens election analysis: 2018 five-state losses triggered FII selling; Feb-2019 Balakot strike"
+  },
+  {
+   "id": "1842",
+   "title": "This Is the Wrong Time for Long-Term Options",
+   "summary": "Rule: avoid long-dated (LEAPS-style) options until the Election Commission announces poll dates; the"
+  },
+  {
+   "id": "1933",
+   "title": "NIFTY On Course to 25,000 by 2025!",
+   "summary": "Post-crash rebound thesis: Lehman (-50% then +100% in a year) and COVID (-40% to 7500 then 18,600) p"
+  },
+  {
+   "id": "2055",
+   "title": "The Logic Behind Nifty 24K in 2024",
+   "summary": "Derives a ~24,000 Nifty target for 2024 from four independent arguments: India VIX-implied move (~12"
+  },
+  {
+   "id": "2128",
+   "title": "The Absolute Worst Time to Buy Stocks",
+   "summary": "Pre-2024-election risk assessment: markets at ATH with mid/small-cap froth (fund managers refusing m"
+  }
+ ],
+ "21-wars-black-swans": [
+  {
+   "id": "0002",
+   "title": "Irrational Market Behavior - Analysis",
+   "summary": "Debut analysis video: DHFL bond sale panic drags housing finance stocks; speaker argues capitulation"
+  },
+  {
+   "id": "0031",
+   "title": "Why Markets NOT Falling Despite BAD News",
+   "summary": "Against unanimous retail bearishness in COVID: lead-vs-lag indicators, the good/very-good/bad/very-b"
+  },
+  {
+   "id": "0035",
+   "title": "Coronavirus Lockdown Extension Effect on Stock Market",
+   "summary": "PM announced a further 19-day lockdown. Argues the move was 90% expected, so already priced; SGX Nif"
+  },
+  {
+   "id": "0038",
+   "title": "How Gold Impacts the Stock Market",
+   "summary": "Historical framing of gold: price fixed by UK for a century, market data from 1973; three spikes - 1"
+  },
+  {
+   "id": "0041",
+   "title": "How Crude Oil Prices Fell Below $0",
+   "summary": "Explains the historic negative WTI print: contracts marked for physical delivery with storage full f"
+  },
+  {
+   "id": "0049",
+   "title": "Franklin Templeton Issue - Something You Did Not Know About",
+   "summary": "Franklin Templeton wound up six debt schemes (~30,000 crore) after redemption pressure; explains the"
+  },
+  {
+   "id": "0066",
+   "title": "MARKETS in LONG TERM - Bullish or Bearish?",
+   "summary": "Century-scale argument against crash calls: 100 years of Dow history shows every major crash (1929 ~"
+  },
+  {
+   "id": "0091",
+   "title": "Violent Session: Dow Futures Shock, VIX Above 30, Hedged Put Selling",
+   "summary": "Post-market: overnight Dow futures -1000+ triggered bank-led selling (ICICI -5.5%); FII streak-selli"
+  },
+  {
+   "id": "0092",
+   "title": "Border Clash Day: Knee-Jerk Pricing and the Premium Truth Test",
+   "summary": "India-China border clash hits mid-session: Bank Nifty gap-up 700 then -1200 then +600 whipsaw; Nifty"
+  },
+  {
+   "id": "0093",
+   "title": "Galwan Correction: Official Toll, PM Speech Misread, Short Covering",
+   "summary": "Corrects the Galwan toll to ~20 Indian dead with similar Chinese losses; explains unarmed de-escalat"
+  },
+  {
+   "id": "0135",
+   "title": "Why GOLD CRASHED + Heavy Impact on Indian Stock Market!",
+   "summary": "Gold crashed 6% in a day (silver -15%) days after Russia's COVID-vaccine announcement, from its ~$2,"
+  },
+  {
+   "id": "0144",
+   "title": "HUGE MARKET CRASH Coming? RBI Governor's Comments Explained (Confirmation Bias)",
+   "summary": "RBI Governor Shaktikanta Das said markets are disconnected from reality with excess liquidity feedin"
+  },
+  {
+   "id": "0154",
+   "title": "Market CRASH or CORRECTION - Major Volatility Change",
+   "summary": "After Nifty corrected 11,800 to ~11,200 and Bank Nifty 3,000+, asks crash vs correction: March 2020 "
+  },
+  {
+   "id": "0159",
+   "title": "US Dollar Index (DXY) Explained",
+   "summary": "DXY primer: a 1973-vintage index of dollar strength vs six currencies (EUR 57.6%, JPY 13.6%, GBP 11."
+  },
+  {
+   "id": "0166",
+   "title": "Robinhood Traders: The Lockdown Newbie Wave and 30-Year Bear Markets",
+   "summary": "The Robinhood phenomenon mapped to India: 300% jump in Zerodha's new demat accounts, 2.6M CDSL accou"
+  },
+  {
+   "id": "0171",
+   "title": "Huge Market Crash - Why, What Next",
+   "summary": "Post-market analysis of a 300-point Nifty fall: Supreme Court loan-moratorium interest-on-interest u"
+  },
+  {
+   "id": "0208",
+   "title": "Huge Market Risk in January 2021 - Make or Break for Global Markets!",
+   "summary": "December 2020: after a 3,000-point Nifty rally (Sept expiry ~10,800 to ~13,800) and ~50% Bank Nifty "
+  },
+  {
+   "id": "0239",
+   "title": "India-China Border Tensions - Reason for Crash?",
+   "summary": "Unexplained two-day Bank Nifty fall (-6%) resolved as news of a Sikkim border clash - price moved be"
+  },
+  {
+   "id": "0243",
+   "title": "GameStop Controversy Explained",
+   "summary": "GameStop/AMC short squeeze: retail Reddit crowd (WallStreetBets, ~4.5M members) forced hedge funds l"
+  },
+  {
+   "id": "0685",
+   "title": "Three Things That Can Make or Break the Market",
+   "summary": "Macro triage for late 2021: (1) Baltic Dry Index's 50% one-month fall is mean reversion after a 100%"
+  }
+ ],
+ "22-chronicle-2018-2020": [
+  {
+   "id": "0002",
+   "title": "Irrational Market Behavior - Analysis",
+   "summary": "Debut analysis video: DHFL bond sale panic drags housing finance stocks; speaker argues capitulation"
+  },
+  {
+   "id": "0054",
+   "title": "Monthly Review - April 2020 Trades and Views",
+   "summary": "Monthly P&L review: April profit 66.3 lakh on ~95 lakh starting capital after 45 lakh in first two w"
+  },
+  {
+   "id": "0065",
+   "title": "Rely on RELIANCE - Detailed Stock Analysis",
+   "summary": "Two-year Reliance thesis: refinery scale and superior GRMs plus the Jio pivot from commodity to tele"
+  },
+  {
+   "id": "0066",
+   "title": "MARKETS in LONG TERM - Bullish or Bearish?",
+   "summary": "Century-scale argument against crash calls: 100 years of Dow history shows every major crash (1929 ~"
+  },
+  {
+   "id": "0070",
+   "title": "MARKET CRASHED - TRUTH Behind the Rs 20 Lakh Crore Package",
+   "summary": "Market reaction to the Atmanirbhar package: Nifty broke the key 9,000 support as FIIs sold over Rs 4"
+  },
+  {
+   "id": "0072",
+   "title": "Reliance Rights Entitlement + the Fat-Finger Spike",
+   "summary": "Explains the 8,950PE flash spike (0.50 to ~20 in minutes) as a probable fat-finger market buy, citin"
+  },
+  {
+   "id": "0086",
+   "title": "Escaping Market Risks - June 8 Market Report",
+   "summary": "Euphoric gap-up morning (Nifty +200, Bank Nifty +500) fizzled: pre-market blog call that Nifty futur"
+  },
+  {
+   "id": "0112",
+   "title": "7500 or 15000 First: The Lehman Analogy Against the Doomsayers",
+   "summary": "Counters technical analysts calling for a 7500 retest: after the October 2008 Lehman low (2252), Nif"
+  },
+  {
+   "id": "0116",
+   "title": "Don't Invest in Share Market Before Watching This - Beginners Beware",
+   "summary": "Counters the 'invest for long term' reflex: Nifty top-50 averaged ~11x over 1994-2020 (doubling slow"
+  },
+  {
+   "id": "0119",
+   "title": "Will NIFTY Touch 7500 or 15000 First - Part 2",
+   "summary": "Defends the 15000-before-7500 call: consensus is dangerous (99% polled bearish, market rallied); Nif"
+  },
+  {
+   "id": "0181",
+   "title": "Market Predictions for Next 1 Year - Samvat 2077 Forecast",
+   "summary": "Deepavali year-ahead forecast: shows 2008-2020 was the longest consolidation (Nifty 6,000->12,000; u"
+  },
+  {
+   "id": "0191",
+   "title": "Bears Killed Again - What Really Happened with HDFC & RIL",
+   "summary": "Nifty hits fresh all-time high; debunks MSCI-rebalancing explanation (global peers rallied more), cr"
+  },
+  {
+   "id": "0197",
+   "title": "NIFTY Financial Services (FinNifty) - A New Index for F&O",
+   "summary": "Pre-launch explainer for Nifty Financial Services derivatives (launched 11 Jan 2021): 20 banks/insur"
+  },
+  {
+   "id": "0202",
+   "title": "Nifty P/E at 37 - Market Crash Very Soon?",
+   "summary": "Nifty P/E hit a record 37.16 (P/B 3.82, dividend yield 1.18). Argues crash calls from P/E alone are "
+  },
+  {
+   "id": "0208",
+   "title": "Huge Market Risk in January 2021 - Make or Break for Global Markets!",
+   "summary": "December 2020: after a 3,000-point Nifty rally (Sept expiry ~10,800 to ~13,800) and ~50% Bank Nifty "
+  },
+  {
+   "id": "0215",
+   "title": "Understand Market Cycle or You Cannot Win - Part 3 (bull, bear and sideways markets)",
+   "summary": "Defines the three market cycles - bull, bear and sideways ('bunny') - and price correction vs time c"
+  },
+  {
+   "id": "0217",
+   "title": "NIFTY Might Cross 50,000 Within 5 Years - How",
+   "summary": "Bull-market arithmetic: price = EPS x PE. 2003-07 the Nifty rose ~7x on only ~30% PE expansion (20 t"
+  },
+  {
+   "id": "0243",
+   "title": "GameStop Controversy Explained",
+   "summary": "GameStop/AMC short squeeze: retail Reddit crowd (WallStreetBets, ~4.5M members) forced hedge funds l"
+  },
+  {
+   "id": "0250",
+   "title": "Can a GameStop Saga Happen in India? + Weekly Roundup",
+   "summary": "Why India is nearly immune to GameStop-style squeezes: illiquid SLB (lending income taxed as 'other "
+  },
+  {
+   "id": "0354",
+   "title": "The Bankrupt-to-21,000-Crore Company Story (#Inspires)",
+   "summary": "Story of a white-cement company in a remote Rajasthan village: a CEO's favor to a friend seeded a pr"
+  }
+ ],
+ "23-chronicle-2021-2022": [
+  {
+   "id": "0283",
+   "title": "Bonds, Interest Rates and the Stock Market: The Two-Sided Coin",
+   "summary": "Why rising rates can coexist with roaring bulls: 2003-07 Sensex went ~3,000 to ~21,000 while RBI hik"
+  },
+  {
+   "id": "0284",
+   "title": "US Rate Hikes and the Taper Tantrum Template",
+   "summary": "QE and taper mechanics: post-2008 and post-2020 Fed bond-buying injected liquidity that flowed into "
+  },
+  {
+   "id": "0541",
+   "title": "Taper Tantrum vs the Real Cause: China",
+   "summary": "Argues the week's fall was blamed on Fed taper talk but the true pressure was China: Hong Kong in be"
+  },
+  {
+   "id": "0589",
+   "title": "5 Things That Can Make or Break Markets",
+   "summary": "Dissects five headline headwinds: Evergrande (~$300bn debt) is not Lehman - a developer default vs a"
+  },
+  {
+   "id": "0837",
+   "title": "Adani Stocks' Surge (Short Clip)",
+   "summary": "Short clip: Adani Wilmar listed and hit a 20% upper circuit the day after listing, lifting Adani Ent"
+  },
+  {
+   "id": "1145",
+   "title": "Could NIFTY Crash Below 16000 Again - Market Outlook for 2022 H2",
+   "summary": "H2-2022 outlook: extreme fear is gone after 2,000-point rally from the 15,200 low; calls 2022 the wo"
+  },
+  {
+   "id": "1216",
+   "title": "Markets Will Shoot Up 100%?",
+   "summary": "Only two 100%+ post-bottom rallies in history: after Lehman 2008 and COVID 2020 - because the falls "
+  },
+  {
+   "id": "1225",
+   "title": "Russia-Germany Gas War: Markets Overreact to Headlines",
+   "summary": "Analysis of Russia's indefinite shutdown of Nord Stream 1 (announced as 'maintenance' then 'leakage'"
+  },
+  {
+   "id": "1239",
+   "title": "Market Outlook 1-2 Years: Retail Has Changed the Rules",
+   "summary": "Outlook episode (recorded 3 Sep 2022 per transcript): explains why India fell only 15-16% from 18,00"
+  },
+  {
+   "id": "1283",
+   "title": "What Went Wrong With a Diversified Model Portfolio in 2022",
+   "summary": "Review of a small 8-instrument model portfolio (about 7,800 rupees) built at Diwali 2021 near Nifty "
+  },
+  {
+   "id": "1322",
+   "title": "Why Nifty Will NOT Hit 35,000 by 2023: Pattern Matching vs Fundamentals",
+   "summary": "Technicians extrapolating 2008 and 2020 (crash then +110-120% in 12-15 months) project Nifty 35,000 "
+  },
+  {
+   "id": "1343",
+   "title": "Nifty 21K or 35K: The Medium-Term Bull Case",
+   "summary": "Debunks his own 35,000 clickbait: 2008 and 2020 crashes fell 50%/40% before doubling, but 2022's dip"
+  },
+  {
+   "id": "1344",
+   "title": "NIFTY at 35000 - Clarification",
+   "summary": "Two-minute clarification repeating that 35,000 was deliberate clickbait and the realistic stated tar"
+  },
+  {
+   "id": "1392",
+   "title": "The Long-Dated Options Combo from the Conference Circuit",
+   "summary": "Walks through a Dec-2023-expiry combo demoed at conferences: long 16,000CE (2,450), short 2x 20,000C"
+  },
+  {
+   "id": "1425",
+   "title": "Stock Market 2022 Review",
+   "summary": "2022 review: Nifty +4-5% but rupee -11-12% (negative in dollars); Dow -9%, S&P -20%, Nasdaq -33%, Te"
+  },
+  {
+   "id": "2270b",
+   "title": "The Budget That Will Ruin the Stock Market",
+   "summary": "Post-Budget-2024 reaction: STT up ~60% on futures/~40% on options (options rate ~6x over the years),"
+  },
+  {
+   "id": "2312b",
+   "title": "Will Markets Crash? (Dialogue Episode)",
+   "summary": "Dialogue episode diagnosing euphoria: 25% rally on mutual-fund flows while informed FIIs sell; 10 IP"
+  }
+ ],
+ "24-chronicle-2023-2024": [
+  {
+   "id": "0515",
+   "title": "Nifty 16000",
+   "summary": "Very short/truncated transcript. Post-correction view: normal correction, expects Nifty to cross 16,"
+  },
+  {
+   "id": "0518",
+   "title": "Will Nifty Reach 17-18K or Crash by December 2021",
+   "summary": "Vindicates his 16K call and builds a three-part bull case for 17-18K by Dec 2021: (1) FII buying Oct"
+  },
+  {
+   "id": "0598",
+   "title": "End of Bull Run? No, Just the Beginning",
+   "summary": "Maps 2020-21 onto 2000-07: dot-com crash \u2192 bottom \u2192 100%+ rally \u2194 COVID crash \u2192 7,500 bottom \u2192 rally"
+  },
+  {
+   "id": "1239",
+   "title": "Market Outlook 1-2 Years: Retail Has Changed the Rules",
+   "summary": "Outlook episode (recorded 3 Sep 2022 per transcript): explains why India fell only 15-16% from 18,00"
+  },
+  {
+   "id": "1436",
+   "title": "Indian Stock Market Outlook 2023",
+   "summary": "Derives the 2023 Nifty target of 21,000: 15-year candle study shows down years are followed by green"
+  },
+  {
+   "id": "1714",
+   "title": "Why NIFTY May Hit 22,000 by Oct 2024 - Hot Take",
+   "summary": "Bullish roadmap to Nifty 22,000 by Oct-2024 Diwali: two years of zero index return (18,600 Oct-2021 "
+  },
+  {
+   "id": "1739",
+   "title": "HDFC-HDFC Bank merger: index mechanics and forced flows",
+   "summary": "Explains why the merger is 'too big to merge': Nifty weightage transfer mechanics (HDFC to 0%, redis"
+  },
+  {
+   "id": "1746",
+   "title": "AI and the case for IT-stock outperformance",
+   "summary": "Argues Nifty's ~0% two-year return sets up mean reversion; Nasdaq 100 up ~50% in a year and NVIDIA d"
+  },
+  {
+   "id": "1749",
+   "title": "Nifty at 20,000: techno-fundamental case and a put calendar",
+   "summary": "Builds a case for Nifty 20,000 in 3-4 months (heavyweight catch-up, rolling-return mean reversion, s"
+  },
+  {
+   "id": "1809",
+   "title": "Long-term ratio spreads for a mildly bearish market",
+   "summary": "Designs long-dated (December) ratio structures for a slightly bearish view: buy 21,000PE, sell 3\u00d7 19"
+  },
+  {
+   "id": "1933",
+   "title": "NIFTY On Course to 25,000 by 2025!",
+   "summary": "Post-crash rebound thesis: Lehman (-50% then +100% in a year) and COVID (-40% to 7500 then 18,600) p"
+  },
+  {
+   "id": "2032",
+   "title": "2023 Market Rewind: What the Year Taught",
+   "summary": "Reviews 2023's anatomy - inherited downtrend into a March bottom (~16,800), a 3-4 month rally to ~18"
+  },
+  {
+   "id": "2043",
+   "title": "Is Now the Right Time to Buy Stocks? Cycles, Valuations and Patience",
+   "summary": "At all-time highs he sides with cautious professionals: PMS houses pausing inflows, pre-election pop"
+  },
+  {
+   "id": "2055",
+   "title": "The Logic Behind Nifty 24K in 2024",
+   "summary": "Derives a ~24,000 Nifty target for 2024 from four independent arguments: India VIX-implied move (~12"
+  },
+  {
+   "id": "2176",
+   "title": "Nifty Heading Towards 24,000 or 18,000?",
+   "summary": "2024 outlook: India up only ~1% YTD vs Japan +22%, Vietnam +12.8%, US +10%; local headlines (SEBI fr"
+  },
+  {
+   "id": "2582",
+   "title": "Time to Invest in Mid Caps?",
+   "summary": "Mid/small-cap cycle anatomy using 2016-18 (+99% in 671 days then ~50% washout) and 2022-24 (+148% in"
+  },
+  {
+   "id": "2593",
+   "title": "Will Markets Recover Ever?",
+   "summary": "Argues this fall is not valuation-driven but a one-factor event: relentless FII selling (3+ lakh cro"
+  }
+ ],
+ "25-chronicle-2025-2026": [
+  {
+   "id": "0229",
+   "title": "The History & Future of Crude Oil",
+   "summary": "Crude oil macro history: 2003-08 run from ~$10 to $150, US fracking self-sufficiency by 2017-18 brea"
+  },
+  {
+   "id": "0772",
+   "title": "Indian Stock Market 2022 - FIIs, Fed, Retail Fund Flow, Elections",
+   "summary": "Year-ahead 2022 outlook: 2021 scoreboard, the crash-rebound asymmetry (only two 100%-plus years, bot"
+  },
+  {
+   "id": "0845",
+   "title": "Ukraine-Russia War - Stock Market Crash Coming?",
+   "summary": "War explainer plus market view: NATO/Crimea background, ~1 lakh troops on borders, Brent at 7-8 year"
+  },
+  {
+   "id": "0864",
+   "title": "The TRUTH Behind Russia vs Ukraine - Will Markets Crash?",
+   "summary": "Argues the war panic is really energy politics: Europe's gas dependence, Nord Stream 2 ($11B, 1,250 "
+  },
+  {
+   "id": "1094",
+   "title": "Mid-2022 Market Outlook: Fed Hikes, Inflation Data as the Market's Metronome",
+   "summary": "Reviews 2022's three legs down (Ukraine war to 15,700 on 8 March; first Fed hike + CPI shock, 17,400"
+  },
+  {
+   "id": "1474",
+   "title": "The Hindenburg Effect: Further Market Crash Likely?",
+   "summary": "Dissects Hindenburg's three stated short positions: Adani US-dollar bonds (expensive ~10-11% to borr"
+  },
+  {
+   "id": "1483",
+   "title": "Why ADANIENT Fell Worse Than Other Adani Stocks",
+   "summary": "ADANIENT crashed 30%+30%+40% across three sessions because it was the only shortable Adani stock: gr"
+  },
+  {
+   "id": "1495",
+   "title": "More Trouble for Indian Markets in 2023: Outlook Revision",
+   "summary": "Revises the January 2023 bullish outlook (21,000 target) after FIIs sold over 60,000 crore (USD 7-7."
+  },
+  {
+   "id": "1520",
+   "title": "Adani vs George Soros: Anatomy of a Short-Seller Assault",
+   "summary": "Frames the Adani crisis as a Soros-style assault on a bubble: Hindenburg claimed 85% overvaluation w"
+  },
+  {
+   "id": "1521",
+   "title": "Adani vs George Soros (Duplicate Upload)",
+   "summary": "Verbatim duplicate of the same-day Adani-vs-Soros episode (same transcript content: Hindenburg 85% c"
+  },
+  {
+   "id": "1522",
+   "title": "Retail Loses the War: FII Selling vs Retail Exhaustion",
+   "summary": "Two-year ledger: FIIs sold ~4.5 lakh crore (real ~5 lakh crore net of Adani-linked FII inflows) whil"
+  },
+  {
+   "id": "1534",
+   "title": "Ten Headwinds That Can Make or Break Indian Markets (2023)",
+   "summary": "The self-described eternal bull turns cautious and lists ten headwinds: 5-lakh-crore FII selling; Hi"
+  },
+  {
+   "id": "1714",
+   "title": "Why NIFTY May Hit 22,000 by Oct 2024 - Hot Take",
+   "summary": "Bullish roadmap to Nifty 22,000 by Oct-2024 Diwali: two years of zero index return (18,600 Oct-2021 "
+  },
+  {
+   "id": "1829",
+   "title": "Clear Downtrend - Was Michael Burry Right?",
+   "summary": "Post-market: bearish tape confirmed; teaches the standing intraday rule (in a downtrend, fade 100-12"
+  },
+  {
+   "id": "2354a",
+   "title": "Crash Coming! Do Not Invest Right Now!",
+   "summary": "Rest-of-2024 outlook in three layers: fundamentals (Nov-2023 state-election rally ~30%, the 9.3% ele"
+  },
+  {
+   "id": "2358a",
+   "title": "Indian Market - Rest of 2024 Has a Lot in Store!",
+   "summary": "Recorded just after the Fed's surprise 50bp first cut: explains the 2020-2024 hiking cycle (10-11 hi"
+  },
+  {
+   "id": "2366b",
+   "title": "The Budget That Will Ruin Stock Market!",
+   "summary": "Post-Budget 2024 analysis: three negatives landed together \u2014 STT hike, STCG 15\u219220%, LTCG 10\u219212.5%; e"
+  },
+  {
+   "id": "2383",
+   "title": "Catching Falling Knife",
+   "summary": "Markets fell drastically from October; media interviews predicted challenging period after September"
+  },
+  {
+   "id": "2420",
+   "title": "Nifty Further CRASH to 22000",
+   "summary": "Nifty from 22,000 to 26,000+ then back to 24,000 (50% Fibonacci retracement); technical analysis sub"
+  },
+  {
+   "id": "2428",
+   "title": "Nifty NEXT YEAR 28000",
+   "summary": "Year review: Nov-Dec 2023 rally (3,000 pts), Jan-May 2024 consolidation, Jun-Sep sharp rally, Oct co"
+  }
+ ],
+ "26-retail-scams": [
+  {
+   "id": "0094",
+   "title": "Q&A: Scam Detection, Settlement Mechanics, Option Styles, SLB",
+   "summary": "Q&A: retrofit trade-call scams and fake cloned channels; T+2 settlement and margin-shortfall penalti"
+  },
+  {
+   "id": "0122",
+   "title": "How I Made 1 Crore in 4 Months - Potential of Option Selling",
+   "summary": "P&L showcase: claims Rs 1.05 cr profit April-July 2020 on Rs 95 L capital (~110% in 4 months), Rs 66"
+  },
+  {
+   "id": "0125",
+   "title": "New SEBI Rules for Pledging - Collateral Margin System",
+   "summary": "Explains the new pledge system: previously shares moved to the broker's pool demat, enabling misuse "
+  },
+  {
+   "id": "0164",
+   "title": "Mazagon Dock IPO: Retail Allotment Rules and the Sell-Half-Keep-Half Wealth Rule",
+   "summary": "IPO mechanics built on retail-rule tweaks: allotment now favors minimum applications, so apply minim"
+  },
+  {
+   "id": "0165",
+   "title": "September 2020 P&L Review: 150% YTD Through the Volatility",
+   "summary": "Monthly account review: ~\u20b91.49 cr profit YTD on ~\u20b91 cr capital (~150%) despite September's Bank Nift"
+  },
+  {
+   "id": "0186",
+   "title": "How People Lost Huge Money by Ignoring This Simple Indication",
+   "summary": "Case study of Lakshmi Vilas Bank: RBI wrote off equity and mandated DBS takeover on Nov 17, 2020, ye"
+  },
+  {
+   "id": "0243",
+   "title": "GameStop Controversy Explained",
+   "summary": "GameStop/AMC short squeeze: retail Reddit crowd (WallStreetBets, ~4.5M members) forced hedge funds l"
+  },
+  {
+   "id": "0264",
+   "title": "How Your Broker Is Stealing Your Money (5 Methods)",
+   "summary": "Five broker-cheating methods from personal experience: inflated 'transaction charges' masking broker"
+  },
+  {
+   "id": "0271",
+   "title": "Broker Scams Part 2: Stamp Duty, Square-Off Algorithms and Margin Double-Blocking",
+   "summary": "Three more broker abuses: collecting Tamil Nadu's stayed \u20b9600/cr stamp duty while courts held it at "
+  },
+  {
+   "id": "0278",
+   "title": "How Trainers and Traders Lure You: Workshop Scams and Fake P&L",
+   "summary": "Anatomy of trainer lures: hidden software costs (\u20b940,000 fee plus \u20b960,000/year software on a \u20b92 lakh"
+  },
+  {
+   "id": "0303",
+   "title": "Why NO To Trading E02: Trading Is NOT a Zero-Sum Game",
+   "summary": "The club-card parable shows the house's cut turns repeated play into structural loss; STT, brokerage"
+  },
+  {
+   "id": "0304",
+   "title": "Why NO To Trading E03: The Typical Journey to Failure",
+   "summary": "The canonical failure arc: buy stagnant stocks, jump to leveraged futures, blow up on an un-hedgeabl"
+  },
+  {
+   "id": "0314",
+   "title": "How Trainers Mislead You with P&L Reports",
+   "summary": "Anatomy of fake flexes: a claimed Rs90-lakh year was 20L trading + 70L investment; margin-blocked le"
+  },
+  {
+   "id": "0415",
+   "title": "From 1 Lakh to 1 Crore in 5 Years?",
+   "summary": "Debunks 1L\u21921cr-in-10-years poll fantasy via compounding math (100x per decade = 10,000x in 30 years,"
+  },
+  {
+   "id": "0454",
+   "title": "How to Make 500% in 2 Months (debunk)",
+   "summary": "Anti-hype episode: 500%-in-2-months is a clickbait debunk; the Zerodha-founder anecdote (\u20b92L\u2192\u20b92cr el"
+  },
+  {
+   "id": "0487",
+   "title": "10% ROI in ADANIENT Despite Huge Crash - Adjustments Masterclass",
+   "summary": "A 15-18 lakh rupee month on Adani Enterprise straddles despite a >10% stock fall and a wrong bullish"
+  },
+  {
+   "id": "0503",
+   "title": "The Story of a Greedy Option Buyer (Sun TV Physical Settlement Saga)",
+   "summary": "A stock option came under ban on expiry eve and the put seller could not square off: buyers demanded"
+  },
+  {
+   "id": "0504",
+   "title": "Income Tax Return Filing for F&O Traders and Investors",
+   "summary": "Tax-heads primer: intraday = speculative (slab rates), STCG 15%, LTCG 10% beyond 1 lakh, F&O = busin"
+  },
+  {
+   "id": "0531",
+   "title": "10+ Hidden Charges by Brokers",
+   "summary": "Catalogues broker charges beyond brokerage using his own ledger: pledging markups (CDSL costs Rs 5 v"
+  },
+  {
+   "id": "0709",
+   "title": "We Tried Futures & Options in Crypto and Made 45% ROI in 1 Month",
+   "summary": "A beginner trader ran crypto options on an unregulated exchange with a 2,000 USDT trading credit and"
+  }
+ ],
+ "27-regulation": [
+  {
+   "id": "0080",
+   "title": "F&O Traders Can Now Earn 3X Money - New Margin Rules by SEBI",
+   "summary": "Walks through SEBI's new margining on real examples: naked ATM options now ~1.0-1.3 lakh (up from 80"
+  },
+  {
+   "id": "0125",
+   "title": "New SEBI Rules for Pledging - Collateral Margin System",
+   "summary": "Explains the new pledge system: previously shares moved to the broker's pool demat, enabling misuse "
+  },
+  {
+   "id": "0130",
+   "title": "Margin for Buying/Selling Shares - New SEBI Rule is Funny!",
+   "summary": "Explains SEBI's cash-market margin changes effective 1 August 2020: upfront margin now required even"
+  },
+  {
+   "id": "0134",
+   "title": "MY APPEAL TO SEBI - How New Margin Rules Will Create Chaos!",
+   "summary": "Critique of SEBI's peak-margin framework: intraday leverage phased out (from Dec 1 2020, brokers cou"
+  },
+  {
+   "id": "0137",
+   "title": "F&O Trading Ban Explained!",
+   "summary": "Mechanics of the F&O ban (Market Wide Position Limit): MWPL = 20% of free-float market cap; a stock "
+  },
+  {
+   "id": "0150",
+   "title": "Loan Moratorium Supreme Court Case - 3 Possibilities",
+   "summary": "Explains the COVID loan-moratorium interest-waiver case before the Supreme Court after the six-month"
+  },
+  {
+   "id": "0158",
+   "title": "SEBI Multi-Cap Rejig: Why No Crash and No Smallcap Boom",
+   "summary": "SEBI's 25/25/25 multi-cap mandate is skewered with a cake-fairness analogy: top-500 market cap is ~8"
+  },
+  {
+   "id": "0250",
+   "title": "Can a GameStop Saga Happen in India? + Weekly Roundup",
+   "summary": "Why India is nearly immune to GameStop-style squeezes: illiquid SLB (lending income taxed as 'other "
+  },
+  {
+   "id": "0271",
+   "title": "Broker Scams Part 2: Stamp Duty, Square-Off Algorithms and Margin Double-Blocking",
+   "summary": "Three more broker abuses: collecting Tamil Nadu's stayed \u20b9600/cr stamp duty while courts held it at "
+  },
+  {
+   "id": "0285",
+   "title": "SEBI Peak Margin Rules: The Seller Squeeze and Structural VIX",
+   "summary": "Peak margin (~15% on index futures vs ~5% international norm) ended broker intraday limits, forcing "
+  },
+  {
+   "id": "0327",
+   "title": "Why No Hedge Funds in India",
+   "summary": "Explains why Indian hedge funds (AIF Category III) barely exist: 2x leverage cap computed on contrac"
+  },
+  {
+   "id": "0385",
+   "title": "SEBI's Intraday Leverage Phase-Out: Winners and Losers",
+   "summary": "Explains SEBI's phased removal of broker intraday leverage and peak-margin penalties; shows why opti"
+  },
+  {
+   "id": "0585",
+   "title": "The End of Freak Trades: NSE Bans Stop-Loss-Market Orders",
+   "summary": "Explains freak trades via NSE officials' own webinar material: futures circuit ladder 10%\u219220%\u219230% ta"
+  },
+  {
+   "id": "0657",
+   "title": "FII Selling vs Government: The Tax Tug-of-War",
+   "summary": "Argues Oct-Nov 2021's India-specific FII selloff (\u20b920,000cr in 8-9 sessions, timed block prints) was"
+  },
+  {
+   "id": "0714",
+   "title": "FII vs Government - The War Continues",
+   "summary": "Frames relentless FII selling (~95,000 crore since April 2021) as a war between foreign portfolio in"
+  },
+  {
+   "id": "0747",
+   "title": "Equity Options vs Crypto Options - Complete Guide",
+   "summary": "Systematic equity-vs-crypto options comparison: standardized lot sizes vs coin units, cash settlemen"
+  },
+  {
+   "id": "0805",
+   "title": "Open Letter to the Finance Minister - Budget 2022",
+   "summary": "Pre-budget policy letter: STT history (introduced 2004 in lieu of LTCG; LTCG reinstated 2018 while S"
+  },
+  {
+   "id": "0873",
+   "title": "Higher Taxes For Option Traders",
+   "summary": "STT history: introduced at 0.17%, reduced to 0.1% after recommendations, then raised 5x to 0.5% for "
+  },
+  {
+   "id": "0922",
+   "title": "TRUTH Behind 50% Cash Margin & Peak Margin Penalty - BROKER SCAM Part 2",
+   "summary": "Two regulatory clarifications from primary documents: (1) SEBI circular of 20-Jul-2021, para 18 - th"
+  },
+  {
+   "id": "1074",
+   "title": "A Reform Proposal: Ban Stock Futures, Force Covered Calls and Cash-Secured Puts",
+   "summary": "Arguing India's F&O-to-cash volume ratio (~100x, world's highest, >90x from options) is dangerous, t"
+  }
+ ],
+ "28-taxation": [
+  {
+   "id": "0067",
+   "title": "Charity Donations - TAX SAVING is a MYTH",
+   "summary": "Explains donation-tax mechanics using his charity webinar: PM/CM fund donations get 100% exemption b"
+  },
+  {
+   "id": "0071",
+   "title": "CASH vs FUTURES Market - What's Best for INVESTMENT?",
+   "summary": "Quantified case for taking long-term equity exposure via futures plus a debt collateral stack: ~Rs 7"
+  },
+  {
+   "id": "0073",
+   "title": "Q&A 3: Retirement Money, Expiry Mechanics, LEAPS, Hedge Funds",
+   "summary": "Q&A: age-percentage debt rule and SIP/SWP for a retiree down 35%; short straddle as favorite strateg"
+  },
+  {
+   "id": "0081",
+   "title": "Taxation for Trading Income - Intraday, F&O, Long-Term",
+   "summary": "Tax primer: cash-market gains taxed at 15% STCG / 10% LTCG above 1 lakh (post-2018), while F&O profi"
+  },
+  {
+   "id": "0111",
+   "title": "Q&A: STT, Time Decay, Covered-Call Margins, Bharat Bond and the NSE Co-location Ban",
+   "summary": "Q&A batch: STT mechanics on sellers; time decay proportional to expiry (weekly day-1 = 20% of decay,"
+  },
+  {
+   "id": "0162",
+   "title": "ESG Criteria and Why High-Dividend Stocks (ITC) Underperform",
+   "summary": "ITC at ~\u20b9180 with 5.5%+ yield still falls despite universal analyst backing: ESG screens (tobacco) e"
+  },
+  {
+   "id": "0200",
+   "title": "Don't Buy Majesco Shares - Dividend Stripping Explained",
+   "summary": "Majeco declared a 9,740% dividend (974/share, near the market price) while selling its business. Deb"
+  },
+  {
+   "id": "0216",
+   "title": "7.5 Crores / $1 Million in 9 Months - Options Trading Success Story",
+   "summary": "New-year P&L showcase across multiple family and company accounts summing ~7.52 crore for 2020, with"
+  },
+  {
+   "id": "0230",
+   "title": "Q&A: Part-Time Trading, Corrections, Pledging, Taxation",
+   "summary": "Q&A session: part-time-to-full-time trading transition, studies vs trading, when the 10% correction "
+  },
+  {
+   "id": "0287",
+   "title": "Should You Buy Gold in 2021? The Three-Input Price Function",
+   "summary": "Vindication of an Aug-2020 'gold peaked' call: gold below $1,700 vs Bank of America's $3,000/18-mont"
+  },
+  {
+   "id": "0327",
+   "title": "Why No Hedge Funds in India",
+   "summary": "Explains why Indian hedge funds (AIF Category III) barely exist: 2x leverage cap computed on contrac"
+  },
+  {
+   "id": "0504",
+   "title": "Income Tax Return Filing for F&O Traders and Investors",
+   "summary": "Tax-heads primer: intraday = speculative (slab rates), STCG 15%, LTCG 10% beyond 1 lakh, F&O = busin"
+  },
+  {
+   "id": "0563",
+   "title": "7 Myths and Realities of F&O Taxation (2021 Rules)",
+   "summary": "Debunks seven F&O tax myths: losses must still be filed on time (carry-forward requires deadline fil"
+  },
+  {
+   "id": "0630",
+   "title": "Taxation for Cryptocurrency Investing & Trading in India",
+   "summary": "Pre-2022-budget crypto tax explainer: investor (few trades/yr) taxed as capital gains vs trader (hun"
+  },
+  {
+   "id": "0665",
+   "title": "Seven Ways to Keep Income-Tax Notices Away",
+   "summary": "Explains the post-filing pipeline (CPU Bengaluru processing, defect notices, demand notices) and the"
+  },
+  {
+   "id": "0697",
+   "title": "Six Tax-Saving Rules for F&O Traders",
+   "summary": "Practical F&O taxation: claim all business-incidental expenses (broadband, mobile, brokerage, deprec"
+  },
+  {
+   "id": "0721",
+   "title": "Salaried Person in F&O, Presumptive Taxation, Turnover Calculation, Audit Requirement",
+   "summary": "Tax-expert Q&A on F&O taxation: government employees should obtain departmental permission; salaried"
+  },
+  {
+   "id": "0733",
+   "title": "Old vs New Tax Regime, No Setting Off Losses in F&O, Trading as Individual vs Company",
+   "summary": "Tax Q&A part 2: choosing old vs new regime by cash-flow goal; salaried may switch regimes yearly whi"
+  },
+  {
+   "id": "0760",
+   "title": "Predicting Income for Advance Tax, Presumptive Taxation, Expense Limits",
+   "summary": "Tax Q&A part 3: advance tax is pay-as-you-earn per quarter, not a full-year guess; agriculture incom"
+  },
+  {
+   "id": "0805",
+   "title": "Open Letter to the Finance Minister - Budget 2022",
+   "summary": "Pre-budget policy letter: STT history (introduced 2004 in lieu of LTCG; LTCG reinstated 2018 while S"
+  }
+ ],
+ "29-investing-vs-trading": [
+  {
+   "id": "0026",
+   "title": "How to Pledge Mutual Funds to get Trading Margin (Collateral)",
+   "summary": "Mechanics of collateral: only demat-form mutual funds can be pledged; folio-form units need conversi"
+  },
+  {
+   "id": "0031",
+   "title": "Why Markets NOT Falling Despite BAD News",
+   "summary": "Against unanimous retail bearishness in COVID: lead-vs-lag indicators, the good/very-good/bad/very-b"
+  },
+  {
+   "id": "0036",
+   "title": "Cash Secured Put for High Income",
+   "summary": "Teaches the cash-secured put end to end: sell a put at a strike you are happy to own, collect premiu"
+  },
+  {
+   "id": "0046",
+   "title": "Proof That Experts' Stock Recommendations Are Useless",
+   "summary": "Builds the case that expert stock-picking barely beats chance: hundreds of coexisting technical meth"
+  },
+  {
+   "id": "0058",
+   "title": "Investing In Stocks vs Mutual Funds",
+   "summary": "Compares direct stocks vs mutual funds: MFs give averaging, diversification (200-300 stocks), lower "
+  },
+  {
+   "id": "0059",
+   "title": "Mutual Funds vs ETFs - All You Need To Know",
+   "summary": "ETFs beat mutual funds for traders: near-zero expense ratio, intraday exchange trading, minimal tran"
+  },
+  {
+   "id": "0061",
+   "title": "Q&A 1 - Brokers, Stop-Losses, Bharat Bond, 50% Cash Rule",
+   "summary": "First Q&A: stop-loss doctrine (slow poison vs quick poison), square-off vs counter-strategy depends "
+  },
+  {
+   "id": "0065",
+   "title": "Rely on RELIANCE - Detailed Stock Analysis",
+   "summary": "Two-year Reliance thesis: refinery scale and superior GRMs plus the Jio pivot from commodity to tele"
+  },
+  {
+   "id": "0066",
+   "title": "MARKETS in LONG TERM - Bullish or Bearish?",
+   "summary": "Century-scale argument against crash calls: 100 years of Dow history shows every major crash (1929 ~"
+  },
+  {
+   "id": "0071",
+   "title": "CASH vs FUTURES Market - What's Best for INVESTMENT?",
+   "summary": "Quantified case for taking long-term equity exposure via futures plus a debt collateral stack: ~Rs 7"
+  },
+  {
+   "id": "0073",
+   "title": "Q&A 3: Retirement Money, Expiry Mechanics, LEAPS, Hedge Funds",
+   "summary": "Q&A: age-percentage debt rule and SIP/SWP for a retiree down 35%; short straddle as favorite strateg"
+  },
+  {
+   "id": "0076",
+   "title": "Bharat Bond ETF - Unbelievably Good For LOW RISK Income + Other Perks",
+   "summary": "Explains Bharat Bond: a debt ETF holding only PSU bonds maturing before scheme maturity; 0.0005% exp"
+  },
+  {
+   "id": "0078",
+   "title": "My Reliance Investment - Follow Up #1",
+   "summary": "First follow-up of a long-term Reliance position managed through futures plus options: bought May fu"
+  },
+  {
+   "id": "0081",
+   "title": "Taxation for Trading Income - Intraday, F&O, Long-Term",
+   "summary": "Tax primer: cash-market gains taxed at 15% STCG / 10% LTCG above 1 lakh (post-2018), while F&O profi"
+  },
+  {
+   "id": "0082",
+   "title": "Liquid BeES vs Nifty BeES for LOW RISK Investment - Which is BEST?",
+   "summary": "Contrasts the two flagship ETFs: Nifty BeES = equity (index returns, dividends rare - last in 2015),"
+  },
+  {
+   "id": "0094",
+   "title": "Q&A: Scam Detection, Settlement Mechanics, Option Styles, SLB",
+   "summary": "Q&A: retrofit trade-call scams and fake cloned channels; T+2 settlement and margin-shortfall penalti"
+  },
+  {
+   "id": "0100",
+   "title": "Q&A: Blue Chips, SLB, Option Styles, Positional Stop-Loss, Patience",
+   "summary": "Q&A: blue-chip etymology from casino chips; SLB as delivery backstop; American vs European styles an"
+  },
+  {
+   "id": "0112",
+   "title": "7500 or 15000 First: The Lehman Analogy Against the Doomsayers",
+   "summary": "Counters technical analysts calling for a 7500 retest: after the October 2008 Lehman low (2252), Nif"
+  },
+  {
+   "id": "0116",
+   "title": "Don't Invest in Share Market Before Watching This - Beginners Beware",
+   "summary": "Counters the 'invest for long term' reflex: Nifty top-50 averaged ~11x over 1994-2020 (doubling slow"
+  },
+  {
+   "id": "0117",
+   "title": "I Trade with NO Stop Loss, My Worst Investment, INFY Trade Update - Q&A",
+   "summary": "Q&A: why he trades without a predetermined stop-loss (restaurant analogy, adjust instead), derivativ"
+  }
+ ],
+ "30-real-assets": [
+  {
+   "id": "0038",
+   "title": "How Gold Impacts the Stock Market",
+   "summary": "Historical framing of gold: price fixed by UK for a century, market data from 1973; three spikes - 1"
+  },
+  {
+   "id": "0059",
+   "title": "Mutual Funds vs ETFs - All You Need To Know",
+   "summary": "ETFs beat mutual funds for traders: near-zero expense ratio, intraday exchange trading, minimal tran"
+  },
+  {
+   "id": "0076",
+   "title": "Bharat Bond ETF - Unbelievably Good For LOW RISK Income + Other Perks",
+   "summary": "Explains Bharat Bond: a debt ETF holding only PSU bonds maturing before scheme maturity; 0.0005% exp"
+  },
+  {
+   "id": "0082",
+   "title": "Liquid BeES vs Nifty BeES for LOW RISK Investment - Which is BEST?",
+   "summary": "Contrasts the two flagship ETFs: Nifty BeES = equity (index returns, dividends rare - last in 2015),"
+  },
+  {
+   "id": "0106",
+   "title": "Q&A: Option Seller Returns, Margin Penalties, Safety Myths and Reverse Arbitrage",
+   "summary": "Q&A batch: no fixed monthly returns as an option seller (HNI pattern: FD/debt-fund collateral is the"
+  },
+  {
+   "id": "0111",
+   "title": "Q&A: STT, Time Decay, Covered-Call Margins, Bharat Bond and the NSE Co-location Ban",
+   "summary": "Q&A batch: STT mechanics on sellers; time decay proportional to expiry (weekly day-1 = 20% of decay,"
+  },
+  {
+   "id": "0120",
+   "title": "ITC Earnings Trade Option Strategy - Upto 20% Profit or 5% Dividend",
+   "summary": "Live pre-results ITC structure: buy 2 lots 197.5CE at 6.55, sell 4 lots 205CE at 3.50, plus sell 2 l"
+  },
+  {
+   "id": "0135",
+   "title": "Why GOLD CRASHED + Heavy Impact on Indian Stock Market!",
+   "summary": "Gold crashed 6% in a day (silver -15%) days after Russia's COVID-vaccine announcement, from its ~$2,"
+  },
+  {
+   "id": "0140",
+   "title": "STOCK Recommendation of the Month - BPCL Analysis",
+   "summary": "Follow-up on the ITC call (bought ~198, now ~170, -15%): thesis unchanged - dividend yield above FD "
+  },
+  {
+   "id": "0143",
+   "title": "BULLDEX - Bullion Index, Gold & Silver Futures Trading",
+   "summary": "Introduces MCX BULLDEX bullion-index futures launched 24 Aug 2020: 70.52% gold / 29.48% silver weigh"
+  },
+  {
+   "id": "0162",
+   "title": "ESG Criteria and Why High-Dividend Stocks (ITC) Underperform",
+   "summary": "ITC at ~\u20b9180 with 5.5%+ yield still falls despite universal analyst backing: ESG screens (tobacco) e"
+  },
+  {
+   "id": "0172",
+   "title": "The State of Real Estate in 2021 (India): Best Time to Invest?",
+   "summary": "Argues Indian real estate is for consumption, not investment: cousin's one-crore flat worth less aft"
+  },
+  {
+   "id": "0210",
+   "title": "Stock Recommendation of the Month - Share Analysis of Sun TV",
+   "summary": "Detailed fundamental case for Sun TV: 65-70% operating margins (claimed India's highest among listed"
+  },
+  {
+   "id": "0223",
+   "title": "Don't Buy Gold in 2021 Before Watching This!",
+   "summary": "Gold framework for India: local price = international dollar price x USD/INR + import duty. Duty wen"
+  },
+  {
+   "id": "0229",
+   "title": "The History & Future of Crude Oil",
+   "summary": "Crude oil macro history: 2003-08 run from ~$10 to $150, US fracking self-sufficiency by 2017-18 brea"
+  },
+  {
+   "id": "0257",
+   "title": "How HNI Traders Make Money (Bharat Bond + Pledging)",
+   "summary": "HNI playbook: park capital in Bharat Bond ETF (6.95% vs ~6% FD, indexation after 3 years, only 6% ha"
+  },
+  {
+   "id": "0282",
+   "title": "How Bond Prices Work: Yield vs Interest, Market-Rate Mechanics",
+   "summary": "Bond pricing via a non-callable FD analogy: accreted interest raises fair value over time; when mark"
+  },
+  {
+   "id": "0283",
+   "title": "Bonds, Interest Rates and the Stock Market: The Two-Sided Coin",
+   "summary": "Why rising rates can coexist with roaring bulls: 2003-07 Sensex went ~3,000 to ~21,000 while RBI hik"
+  },
+  {
+   "id": "0284",
+   "title": "US Rate Hikes and the Taper Tantrum Template",
+   "summary": "QE and taper mechanics: post-2008 and post-2020 Fed bond-buying injected liquidity that flowed into "
+  },
+  {
+   "id": "0287",
+   "title": "Should You Buy Gold in 2021? The Three-Input Price Function",
+   "summary": "Vindication of an Aug-2020 'gold peaked' call: gold below $1,700 vs Bank of America's $3,000/18-mont"
+  }
+ ],
+ "31-crypto": [
+  {
+   "id": "0630",
+   "title": "Taxation for Cryptocurrency Investing & Trading in India",
+   "summary": "Pre-2022-budget crypto tax explainer: investor (few trades/yr) taxed as capital gains vs trader (hun"
+  },
+  {
+   "id": "0709",
+   "title": "We Tried Futures & Options in Crypto and Made 45% ROI in 1 Month",
+   "summary": "A beginner trader ran crypto options on an unregulated exchange with a 2,000 USDT trading credit and"
+  },
+  {
+   "id": "0747",
+   "title": "Equity Options vs Crypto Options - Complete Guide",
+   "summary": "Systematic equity-vs-crypto options comparison: standardized lot sizes vs coin units, cash settlemen"
+  },
+  {
+   "id": "0799",
+   "title": "Ethereum Long-Term Options Strategy",
+   "summary": "Crypto options status update: a 2,000 USDT free-capital book grew to about 7,535 USDT (~350%) in 2-3"
+  },
+  {
+   "id": "0825",
+   "title": "Bitcoin Wide-Breakeven Options Strategy",
+   "summary": "Crypto-crash aftermath and rebuild: a 7,500 USDT book fell to 4,500, was topped up to ~21,000, and s"
+  },
+  {
+   "id": "0844",
+   "title": "Taxation for Crypto Investing & Trading - After Budget 2022",
+   "summary": "Post-Budget-2022 explainer of India's new digital-asset tax regime: flat 30% on gains, no expense de"
+  },
+  {
+   "id": "0863",
+   "title": "Exploring Opportunity in Crypto Options (exchange CEO interview)",
+   "summary": "Live interview with a crypto-exchange CEO: compares ATM short-straddle premiums on Bank Nifty (~2,50"
+  },
+  {
+   "id": "0879",
+   "title": "Bitcoin Trading Strategy Amid Russia War",
+   "summary": "With Russia-Ukraine priced in, a premium-funded Bitcoin call ratio spread on June expiry: buy 40,000"
+  },
+  {
+   "id": "0883",
+   "title": "Potential of Crypto Options",
+   "summary": "An account started with 2,000 USDT grew to ~7,535 USDT (+350% in 2-3 months) using high-risk crypto "
+  },
+  {
+   "id": "0921",
+   "title": "High Reward Bitcoin Trading Strategy (April Expiry)",
+   "summary": "BTC stuck in $35,000-45,000 range after the ~$69,000 top. Structure: short 40K straddle, buy 30K put"
+  },
+  {
+   "id": "0967",
+   "title": "4 Highly Profitable Strategies - Live Trades & Updates",
+   "summary": "Reviews four crypto option positions: ETH ratio (+35% in <3 months on $1,200), two BTC ratios (+40% "
+  },
+  {
+   "id": "1001",
+   "title": "Long Term Bitcoin Trading Strategy - September Expiry",
+   "summary": "Live construction of a September-expiry BTC structure: long 35k call ratio-financed (1:4) with 55k c"
+  },
+  {
+   "id": "1062",
+   "title": "Simple BTC Short Strangle with Adjustment Discipline (Delta Exchange)",
+   "summary": "Bitcoin fell from ~$48-49K to ~$26-27K, stabilizing near $30K. A BTC short straddle at 34,000 (colle"
+  },
+  {
+   "id": "1118",
+   "title": "Vauld Freeze: Business Failure vs Fraud, Crypto Counterparty Risk Explained",
+   "summary": "After Vauld's Singapore-court moratorium (1-month withdrawal freeze, later extendable), the speaker "
+  },
+  {
+   "id": "1144",
+   "title": "Ethereum Short Strangle: 25% in 2 Months on a Wide Range",
+   "summary": "Returns to crypto options as global volatility calms post-Fed: sells ETH $1,000 put and $4,000 call "
+  },
+  {
+   "id": "1204",
+   "title": "Don't Buy Gold in 2022 Before Watching This!",
+   "summary": "Bearish 8-10 year gold thesis: Indian gold price = international price x USD/INR x tax. Stablecoins "
+  },
+  {
+   "id": "1251",
+   "title": "High Reward Crypto Trading Strategy + August ETH Strategy Follow-Up",
+   "summary": "Executes an Ethereum October short straddle (ETH ~$1,582): sells 1600 call (~$188) and 1600 put (~$2"
+  },
+  {
+   "id": "1305",
+   "title": "A Wide No-Loss-Zone Bitcoin Strategy (Oct 2022)",
+   "summary": "Sponsored crypto video: with BTC in a 17,000-25,000 range and a mildly bearish view, buy a deep-ITM "
+  },
+  {
+   "id": "1334",
+   "title": "Crypto Options Strategy: Paired Bearish and Bullish Combos",
+   "summary": "Reviews a bearish BTC combo (long 22,000PE vs short 15,000/25,000/30,000 strikes) that stayed near b"
+  },
+  {
+   "id": "1367",
+   "title": "BTC Short Strangle Amid the FTX Crash",
+   "summary": "With FTX's bankruptcy crushing crypto (BTC ~70,000 to ~15-16,000) while equities recovered, sells a "
+  }
+ ]
+}

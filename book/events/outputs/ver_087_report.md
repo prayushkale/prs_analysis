@@ -1,0 +1,1 @@
+Phase 3 resume wave ready — 20 children on `deepseek-v4-flash` (no thinking suffix, ≤20 concurrent stays under in-flight budget). Firing:

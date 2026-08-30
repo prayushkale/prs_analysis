@@ -1,0 +1,91 @@
+# Chapter 14
+## Content Stats
+specials=54, dailies=0, weeklies=0
+lessons=199, strategies=69, events_ref=0, verified_claims=105
+## Strategies
+- Falling-VIX combo (call ratio + put ratio)
+- Strike-selection framework (ITM vs ATM vs OTM)
+- BTC September ratio structure
+- Bitcoin call ratio spread + short put (premium-funded)
+- Defensive-sector allocation at rich valuations
+- Crypto call/put ratio (fragmentary)
+- ITC pre-earnings call ratio with put floor
+- Put back spread
+- Ethereum call ratio financed by short puts (long-term)
+- BTC 40k straddle with financed wings
+- BTC winged short straddle (put ratio + call ratio around straddle)
+- Covered-call income stack on beaten-down stock
+- Earnings short straddle (framework)
+- Long-dated combo: call ratio + cash-secured put (Dec-2022 expiry)
+- IndusInd 1:3 call ratio with put-funded margin hedge and ladder rescue
+- Naked ITM put + far call reference (Bank Nifty)
+- Low-VIX combo (call ratio + support puts, margin-optimized)
+- Bearish put ratio combo (Dec series)
+- Post-crash call ratio (Dec-2021)
+- Put ratio (moderately bullish)
+- TCS earnings call-ratio with double caps (iron-fly-like credit structure)
+- December double ratio
+- Bullish call ratio combo (Dec series)
+- Bitcoin wide-breakeven combo (June)
+- Dividend capture via cash-futures arbitrage
+- Hedged monthly book through expiry stress
+- ETH call ratio 1:3 with put balance
+- Call ratio spread
+- TCS earnings combo (put sale + call ratio with financed long call)
+- Call back spread
+- ICICI Bank call ratio (1x2) for earnings
+- Long-dated call ratio (bullish, financing legs)
+- Election pair bet (Adani vs Nifty)
+- Results-day vol-crush strangle (SBI)
+- Long-dated ratio combo (LEAPS-style)
+- Infosys earnings iron structure (put debit spread + call ratio credit wings)
+- Call ratio spread (financed directional)
+- Limited-risk call ratio spread (1:3:2)
+- Budget-day short straddle with 30% stop-loss
+- Nifty long / Bank Nifty short pair
+- HDFC results-day strangle + OTM call tail
+- Flat-stock option hedging income
+- Hedged long-term combo (funded protective put)
+- ETH long call ratio + short puts
+- ETH no-credit no-debit call ratio + protective put
+- Put ratio spread
+- Budget-day ratio structure (live)
+- Bearish ratio-biased strangle (Oct series)
+- Nifty call ratio with put sale (bullish skew)
+- Put ratio spread with support defense (Nifty)
+- FD-Funded Call Spread
+- BTC call ratio with put legs
+- Adani Enterprises pre-results call ratio
+- Sun Pharma short straddle
+- Shifting short straddle (Bank Nifty)
+- TCS call ratio + put spread (earnings)
+- Combined non-directional (both ratios)
+- BTC call ratio (funded)
+- OTM credit-sale adjustment on a losing ratio
+- 6-month bearish combo (retrospective)
+- Call financed by put (conviction long)
+- Put-financed directional call (bull call financed by short put)
+- Put butterfly (capped ratio)
+- SBI results call-ratio with put floor
+- Put ratio spread with split strikes + insurance call
+- Nifty/Bank Nifty put ladders into budget
+- TCS earnings call-ratio with financed wings
+- Covered call on value stock
+- Call ratio (1x2)
+
+## Key Lessons
+- In a falling-VIX environment, correct directional views still lose money - vega swamps delta for option buyers.
+- Weekly, monthly and far-month puts ALL fell or stagnated during a 500-point drop - the effect is structural, not decay n
+- Do not buy naked options when VIX is falling; run structures that own a short premium leg.
+- Television-expert option-buying advice during high VIX is exactly the trap to avoid.
+- Structure pre-earnings trades around the stock's one-month high/low band
+- Buying 1 and selling 2 at a higher strike creates a near-zero-cost position with capped downside
+- Far-out risk (above 410) is acceptable only when the stock has shown no ability to get there
+- Success needs two things: an edge (view/skill) and a hedge.
+- Sell far OTM calls to finance a directional long - no out-of-pocket premium, capped upside is the accepted cost.
+- A short straddle in a quiet regime can yield high-single-digit monthly returns on margin.
+- Bank Nifty read-through: one big bank's results miss drags peers awaiting their own results.
+- When a thesis breaks, sell a further OTM option to convert the position into a net credit instead of accepting the plann
+- Stock options move violently; small-capital traders should stick to indices.
+- Announce the risk of a trade before the event, then adjust mechanically after - not emotionally.
+- Turn a 'resistance holds' view into a credit ratio spread; add far calls to cap the unlimited-risk tail.
