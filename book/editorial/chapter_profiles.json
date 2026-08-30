@@ -1,0 +1,591 @@
+[
+ {
+  "chapter": 1,
+  "title": "Why Most Traders Lose",
+  "transcript_count": 149,
+  "top_themes": [
+   "psychology",
+   "position sizing",
+   "return expectations",
+   "trainer scams",
+   "transaction costs",
+   "SIP"
+  ],
+  "strategy_count": 8,
+  "sample_lessons": [
+   "Low expectations after a peer's weak results skew the surprise odds positive for the next reporter.",
+   "Little money and losable: buy. Large capital and steady profit: sell.",
+   "Index resilience despite a 20% fall in its biggest weight shows breadth strength - rotation beats concentration."
+  ]
+ },
+ {
+  "chapter": 2,
+  "title": "The Anatomy of a Trader's Failure",
+  "transcript_count": 116,
+  "top_themes": [
+   "position sizing",
+   "trainer scams",
+   "firefighting",
+   "adjustment-ladder",
+   "physical settlement",
+   "hedging"
+  ],
+  "strategy_count": 8,
+  "sample_lessons": [
+   "Low expectations after a peer's weak results skew the surprise odds positive for the next reporter.",
+   "Compare markets only within the same structure: pre-2000 India had no derivatives, no demat speed, and ring-based broker",
+   "Small-capital traders are the target demographic of return-claim scams."
+  ]
+ },
+ {
+  "chapter": 3,
+  "title": "Discipline, Process, and Surviving First",
+  "transcript_count": 167,
+  "top_themes": [
+   "position sizing",
+   "psychology",
+   "P&L transparency",
+   "hedging",
+   "values",
+   "charity"
+  ],
+  "strategy_count": 8,
+  "sample_lessons": [
+   "Perspective evolves in stages; in markets, recognizing how little you control is a form of maturity.",
+   "Low expectations after a peer's weak results skew the surprise odds positive for the next reporter.",
+   "Index resilience despite a 20% fall in its biggest weight shows breadth strength - rotation beats concentration."
+  ]
+ },
+ {
+  "chapter": 4,
+  "title": "The Engine Room: FII/DII Flows",
+  "transcript_count": 2722,
+  "top_themes": [
+   "FII flows",
+   "FII selling",
+   "currency",
+   "underperformance",
+   "global cues",
+   "market outlook"
+  ],
+  "strategy_count": 8,
+  "sample_lessons": [
+   "Results season makes the index hostage to sequential sector results; one bad heavyweight can break months-old supports.",
+   "When Nifty is flat but breadth is strong, money is rotating down the cap curve.",
+   "Markets climb the wall of worry - when all uncertainty is resolved it is time to sell, not buy."
+  ]
+ },
+ {
+  "chapter": 5,
+  "title": "Volatility Is a Regime, Not a Number",
+  "transcript_count": 2703,
+  "top_themes": [
+   "volatility",
+   "sector rotation",
+   "FII flows",
+   "India VIX",
+   "COVID 2020",
+   "VIX regimes"
+  ],
+  "strategy_count": 8,
+  "sample_lessons": [
+   "Results season makes the index hostage to sequential sector results; one bad heavyweight can break months-old supports.",
+   "When Nifty is flat but breadth is strong, money is rotating down the cap curve.",
+   "Markets climb the wall of worry - when all uncertainty is resolved it is time to sell, not buy."
+  ]
+ },
+ {
+  "chapter": 6,
+  "title": "Reading the Option Chain",
+  "transcript_count": 2688,
+  "top_themes": [
+   "open interest",
+   "volatility",
+   "option chain",
+   "India VIX",
+   "expected move",
+   "option selling placement"
+  ],
+  "strategy_count": 8,
+  "sample_lessons": [
+   "Results season makes the index hostage to sequential sector results; one bad heavyweight can break months-old supports.",
+   "When Nifty is flat but breadth is strong, money is rotating down the cap curve.",
+   "Markets climb the wall of worry - when all uncertainty is resolved it is time to sell, not buy."
+  ]
+ },
+ {
+  "chapter": 7,
+  "title": "Microstructure: Gaps, Expiries and the Last Half Hour",
+  "transcript_count": 2713,
+  "top_themes": [
+   "market microstructure",
+   "SEBI regulation",
+   "liquidity",
+   "regulation",
+   "circuit limits",
+   "physical delivery"
+  ],
+  "strategy_count": 5,
+  "sample_lessons": [
+   "Results season makes the index hostage to sequential sector results; one bad heavyweight can break months-old supports.",
+   "When Nifty is flat but breadth is strong, money is rotating down the cap curve.",
+   "Markets climb the wall of worry - when all uncertainty is resolved it is time to sell, not buy."
+  ]
+ },
+ {
+  "chapter": 8,
+  "title": "Why Derivatives Exist",
+  "transcript_count": 21,
+  "top_themes": [
+   "derivatives",
+   "market participants",
+   "arbitrage",
+   "collateral efficiency",
+   "forwards vs futures",
+   "mark to market"
+  ],
+  "strategy_count": 4,
+  "sample_lessons": [
+   "In a forward the price is decided today for future delivery; futures add standardization and daily settlement.",
+   "Leverage cuts both ways: 10% margin makes a 1% stock move a 10% account move",
+   "Stocks can crash 40-70% in a day (DHFL, Infibeam); option buyers' loss stays at premium while cash/futures holders take "
+  ]
+ },
+ {
+  "chapter": 9,
+  "title": "Calls and Puts",
+  "transcript_count": 62,
+  "top_themes": [
+   "physical settlement",
+   "option selling",
+   "option buying",
+   "collateral",
+   "expiry mechanics",
+   "LEAPS"
+  ],
+  "strategy_count": 8,
+  "sample_lessons": [
+   "Trust only calls published before the level triggers; 'I said this morning in my private group' posts are retrofit scams",
+   "The decisive seller advantage is collateral: margin posted in interest-bearing instruments instead of idle cash.",
+   "Little money and losable: buy. Large capital and steady profit: sell."
+  ]
+ },
+ {
+  "chapter": 10,
+  "title": "The Greeks, Demystified",
+  "transcript_count": 12,
+  "top_themes": [
+   "option greeks",
+   "delta",
+   "greeks",
+   "gamma",
+   "gamma effect",
+   "synthetic future"
+  ],
+  "strategy_count": 6,
+  "sample_lessons": [
+   "IV percentile (share of days IV was lower) beats IV rank when a one-off spike distorts the 1-year range.",
+   "Selling a call is likewise not buying a put; the asymmetry is identical on the bearish side.",
+   "On any single day the two calls may lose less than the future - the difference appears over weeks of churn, when decay c"
+  ]
+ },
+ {
+  "chapter": 11,
+  "title": "Implied Volatility: The Real Price of Options",
+  "transcript_count": 22,
+  "top_themes": [
+   "implied volatility",
+   "market efficiency",
+   "LEAPS",
+   "option basics",
+   "call options",
+   "put options"
+  ],
+  "strategy_count": 8,
+  "sample_lessons": [
+   "Margin calls cascade: trader MTM calls force square-offs; promoter pledge top-ups force share sales - both amplify falls",
+   "The ATM straddle premium as % of spot IS the market's expected move: sellers profit if the actual move stays inside it, ",
+   "Television-expert option-buying advice during high VIX is exactly the trap to avoid."
+  ]
+ },
+ {
+  "chapter": 12,
+  "title": "Margins, Collateral and the Machinery",
+  "transcript_count": 89,
+  "top_themes": [
+   "collateral",
+   "physical settlement",
+   "pledging",
+   "option selling",
+   "regulation",
+   "margin rules"
+  ],
+  "strategy_count": 8,
+  "sample_lessons": [
+   "Little money and losable: buy. Large capital and steady profit: sell.",
+   "Collateral lets you meet margin obligations while your capital keeps earning - the structural edge of sellers.",
+   "Option sellers receive premium in cash while posting margin via collateral, so the premium itself can earn interest - a "
+  ]
+ },
+ {
+  "chapter": 13,
+  "title": "The Seller's Edge: Short Straddles & Strangles",
+  "transcript_count": 79,
+  "top_themes": [
+   "short straddle",
+   "option selling",
+   "crypto options",
+   "position sizing",
+   "firefighting",
+   "collateral"
+  ],
+  "strategy_count": 8,
+  "sample_lessons": [
+   "The decisive seller advantage is collateral: margin posted in interest-bearing instruments instead of idle cash.",
+   "Margin is dynamic: decaying premium releases blocked funds; losses top up margin without forced cash until booked.",
+   "Broker intraday leverage was phased out: extra limit cut from multiples to one-third by June 2021, then to zero."
+  ]
+ },
+ {
+  "chapter": 14,
+  "title": "Controlled Direction: Spreads & Ratio Spreads",
+  "transcript_count": 54,
+  "top_themes": [
+   "call ratio",
+   "crypto options",
+   "ratio spread",
+   "ratio spreads",
+   "earnings trade",
+   "call ratio spread"
+  ],
+  "strategy_count": 8,
+  "sample_lessons": [
+   "A far-dated put can be fully funded by selling far-OTM calls, turning a leveraged long into a near-zero-premium protecte",
+   "Combine a call ratio (buy 1, sell 2 far) with a cash-secured put: no downside loss in a wide band, uncapped-ish profit i",
+   "Markets don't crash twice for the same reason: first time is a surprise, second is experience (2013 taper \u221220% vs 2021 t"
+  ]
+ },
+ {
+  "chapter": 15,
+  "title": "Time Is the Trade: Calendar Spreads",
+  "transcript_count": 13,
+  "top_themes": [
+   "put calendar",
+   "calendar spread",
+   "calendar spreads",
+   "call ratio",
+   "long-dated options",
+   "weekly rolling"
+  ],
+  "strategy_count": 8,
+  "sample_lessons": [
+   "Same failure mode as all calendars: a strong directional move or an IV collapse hurts; the structure is for consolidatio",
+   "Nifty's long-run average is ~9%/yr since 1995 \u2014 50%+ years follow 40-50% crashes; do not extrapolate boom years.",
+   "Know your margin with and without the financing legs: 2 lakh with the strangle vs 70K without changes both risk sizing a"
+  ]
+ },
+ {
+  "chapter": 16,
+  "title": "Butterflies & Condors",
+  "transcript_count": 5,
+  "top_themes": [
+   "crypto",
+   "Bitcoin",
+   "call butterfly",
+   "event strategy",
+   "back spread",
+   "ratio spread"
+  ],
+  "strategy_count": 8,
+  "sample_lessons": [
+   "Anchor strategy legs to the stock's all-time high: profit zone below the ATH, limited loss above it.",
+   "A strategy need not be held to expiry \u2014 exit into post-event strength or adjust; firefighting beats stubbornness.",
+   "Call butterfly at lower end of range: limited risk, captures upside if breakout happens"
+  ]
+ },
+ {
+  "chapter": 17,
+  "title": "Portfolio Protection: Hedges That Actually Hedge",
+  "transcript_count": 52,
+  "top_themes": [
+   "hedging",
+   "covered calls",
+   "dividend yield",
+   "crypto options",
+   "broker selection",
+   "covered call"
+  ],
+  "strategy_count": 8,
+  "sample_lessons": [
+   "A 10\u201311% dividend yield creates its own floor: at half the price the yield doubles to 20\u201325%, drawing buyers before cata",
+   "A far-dated put can be fully funded by selling far-OTM calls, turning a leveraged long into a near-zero-premium protecte",
+   "Wealth sequence: trade actively to compound, then convert to buy-and-hold - 'buy 1000 shares and forget it'."
+  ]
+ },
+ {
+  "chapter": 18,
+  "title": "Firefighting: Rescue and Adjustment",
+  "transcript_count": 47,
+  "top_themes": [
+   "firefighting",
+   "position sizing",
+   "short straddle",
+   "adjustments",
+   "hedging",
+   "crypto options"
+  ],
+  "strategy_count": 8,
+  "sample_lessons": [
+   "A far-dated put can be fully funded by selling far-OTM calls, turning a leveraged long into a near-zero-premium protecte",
+   "Wealth sequence: trade actively to compound, then convert to buy-and-hold - 'buy 1000 shares and forget it'.",
+   "Annualize honestly: 3.6%/month is ~43% p.a., still above what most businesses earn - set expectations, not lottery hopes"
+  ]
+ },
+ {
+  "chapter": 19,
+  "title": "The Event Playbook",
+  "transcript_count": 69,
+  "top_themes": [
+   "earnings trade",
+   "budget",
+   "FII flows",
+   "hedging",
+   "market outlook",
+   "short covering"
+  ],
+  "strategy_count": 8,
+  "sample_lessons": [
+   "Markets react to headlines, but prices already reflect prepared fundamentals - check the physical data (storage, alterna",
+   "Check the vote-counting calendar: weekend counting means uncageable 10-20% gaps; weekday counting allows stop-loss manag",
+   "Expected result times are historical averages - only Infosys-class companies reliably hit them; build timing buffers int"
+  ]
+ },
+ {
+  "chapter": 20,
+  "title": "Budgets and Elections: Case Files 2019\u20132025",
+  "transcript_count": 41,
+  "top_themes": [
+   "budget",
+   "FII flows",
+   "elections",
+   "election",
+   "FII selling",
+   "election risk"
+  ],
+  "strategy_count": 8,
+  "sample_lessons": [
+   "Check the vote-counting calendar: weekend counting means uncageable 10-20% gaps; weekday counting allows stop-loss manag",
+   "Margin calls cascade: trader MTM calls force square-offs; promoter pledge top-ups force share sales - both amplify falls",
+   "Markets react to surprise, not to party: 2004 shock loss -30%, 2009 shock win +20%, expected wins 2014/2019 barely moved"
+  ]
+ },
+ {
+  "chapter": 21,
+  "title": "Wars, Crashes and Black Swans",
+  "transcript_count": 49,
+  "top_themes": [
+   "FII selling",
+   "market history",
+   "volatility",
+   "underperformance",
+   "currency",
+   "geopolitics"
+  ],
+  "strategy_count": 6,
+  "sample_lessons": [
+   "Markets react to headlines, but prices already reflect prepared fundamentals - check the physical data (storage, alterna",
+   "Capital controls signal weakness: the world's richest economy proposing a 5% tax on outward remittances inverts the usua",
+   "HDFC Bank's index weightage is so large that a 10-rupee move shifts Bank Nifty ~200 points"
+  ]
+ },
+ {
+  "chapter": 22,
+  "title": "2018\u20132020: Tariff Tantrums, a Crash, and a Miracle",
+  "transcript_count": 110,
+  "top_themes": [
+   "market history",
+   "election",
+   "market cycles",
+   "FII flows",
+   "market reaction",
+   "FII selling"
+  ],
+  "strategy_count": 6,
+  "sample_lessons": [
+   "Low expectations after a peer's weak results skew the surprise odds positive for the next reporter.",
+   "Index resilience despite a 20% fall in its biggest weight shows breadth strength - rotation beats concentration.",
+   "One-day crash is too little data to declare trend reversal - wait for FII data and global reaction."
+  ]
+ },
+ {
+  "chapter": 23,
+  "title": "2021\u20132022: Liquidity Boom, Inflation Bust",
+  "transcript_count": 966,
+  "top_themes": [
+   "market outlook",
+   "Fed",
+   "FII flows",
+   "targets",
+   "market stages",
+   "interest rates"
+  ],
+  "strategy_count": 5,
+  "sample_lessons": [
+   "In extended bull runs, always carry a small short or hedge against coordinated profit-booking.",
+   "In a tightening cycle, weak demand data is bullish for equities - 'good news is bad news' inverted.",
+   "Consensus call-writing into a support zone is fuel for a violent short-covering rally."
+  ]
+ },
+ {
+  "chapter": 24,
+  "title": "2023\u20132024: The Bull Run and Its First Crack",
+  "transcript_count": 1005,
+  "top_themes": [
+   "market outlook",
+   "FII flows",
+   "mean reversion",
+   "market cycles",
+   "valuation premium",
+   "correction"
+  ],
+  "strategy_count": 8,
+  "sample_lessons": [
+   "India VIX embeds event premiums: when post-event expiries enter the calculation, VIX rises mechanically - don't read it ",
+   "When breadth diverges from the index, the index's fall is a narrow positioning event, not a market verdict",
+   "When listing bull vs bear cases, count the option sellers: time decay is the third contestant that quietly wins rangebou"
+  ]
+ },
+ {
+  "chapter": 25,
+  "title": "2025\u20132026: Tariffs, Jane Street and the New Regime",
+  "transcript_count": 695,
+  "top_themes": [
+   "FII selling",
+   "outlook",
+   "currency",
+   "FII flows",
+   "market outlook",
+   "underperformance"
+  ],
+  "strategy_count": 8,
+  "sample_lessons": [
+   "Never carry shorts into a binary policy event; cover or hedge before it.",
+   "In binary news weeks, avoid initiating on either side; expect an early DII support attempt, then follow the close.",
+   "New budget rules can quietly change strategy economics (MTF interest no longer deductible)."
+  ]
+ },
+ {
+  "chapter": 26,
+  "title": "How Retail Gets Cheated",
+  "transcript_count": 56,
+  "top_themes": [
+   "scams",
+   "position sizing",
+   "physical settlement",
+   "trainer scams",
+   "transaction costs",
+   "regulation"
+  ],
+  "strategy_count": 8,
+  "sample_lessons": [
+   "Trust only calls published before the level triggers; 'I said this morning in my private group' posts are retrofit scams",
+   "There is no holy-grail strategy - anyone selling guaranteed strategies is running a fraud.",
+   "After NSE integrated premium into displayed margin, most brokers still block premium again on top - locking trader capit"
+  ]
+ },
+ {
+  "chapter": 27,
+  "title": "The Regulator's Dilemma",
+  "transcript_count": 59,
+  "top_themes": [
+   "regulation",
+   "SEBI regulation",
+   "STT",
+   "taxation",
+   "collateral",
+   "peak margin"
+  ],
+  "strategy_count": 8,
+  "sample_lessons": [
+   "Broker intraday leverage was phased out: extra limit cut from multiples to one-third by June 2021, then to zero.",
+   "Regulation trend-reading: each SEBI round since 2018 raised costs for leveraged retail; position sizing must assume leve",
+   "India taxes F&O profits in the year earned but cash-equity losses only offset cash gains for 8 years - hedged portfolios"
+  ]
+ },
+ {
+  "chapter": 28,
+  "title": "Taxes: The Trader's Real Opponent",
+  "transcript_count": 719,
+  "top_themes": [
+   "taxation",
+   "STT",
+   "indexation",
+   "capital gains tax",
+   "capital gains",
+   "presumptive taxation"
+  ],
+  "strategy_count": 8,
+  "sample_lessons": [
+   "Never carry shorts into a binary policy event; cover or hedge before it.",
+   "In binary news weeks, avoid initiating on either side; expect an early DII support attempt, then follow the close.",
+   "New budget rules can quietly change strategy economics (MTF interest no longer deductible)."
+  ]
+ },
+ {
+  "chapter": 29,
+  "title": "Investing vs Trading: Choosing Your Game",
+  "transcript_count": 138,
+  "top_themes": [
+   "value investing",
+   "dividend yield",
+   "taxation",
+   "sector rotation",
+   "collateral",
+   "diversification"
+  ],
+  "strategy_count": 8,
+  "sample_lessons": [
+   "Individual accounts can carry trading losses forward ~8 years against future profits; corporate accounts face MAT (~18%)",
+   "Profits rotate: index-doublers book into physical assets, real estate revives, and the wealth effect returns to equities",
+   "Power Grid's ~14% price gain was really ~28% total return once its ~13 rupees dividend was counted - always evaluate tot"
+  ]
+ },
+ {
+  "chapter": 30,
+  "title": "The Hard Assets Debate",
+  "transcript_count": 58,
+  "top_themes": [
+   "taxation",
+   "gold",
+   "real estate",
+   "indexation",
+   "collateral",
+   "interest rates"
+  ],
+  "strategy_count": 8,
+  "sample_lessons": [
+   "Higher duty widens the smuggling arbitrage; the 2021 cut to 10% narrowed it.",
+   "Demanding decades-old purchase bills for heirloom and wedding gold is unenforceable; exemptions for small loans (Rs 2-5 ",
+   "Dividend-yield investing is a patience game: price declines raise the yield and attract institutions - the thesis streng"
+  ]
+ },
+ {
+  "chapter": 31,
+  "title": "Crypto as a Satellite, Not a Religion",
+  "transcript_count": 33,
+  "top_themes": [
+   "crypto options",
+   "call ratio",
+   "short straddle",
+   "crypto",
+   "exchange mechanics",
+   "leverage"
+  ],
+  "strategy_count": 8,
+  "sample_lessons": [
+   "Crypto F&O is treated as business income, allowing netting across coins and expense offset - changing the practical econ",
+   "India's 30% flat tax + 1% TDS per trade makes frequent crypto trading structurally penalized for residents; zero-tax dom",
+   "A call ratio (buy 1 ITM, sell 2 OTM, optionally funded by a short put) monetizes a bounded rally with limited cash outla"
+  ]
+ }
+]

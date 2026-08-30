@@ -1,0 +1,938 @@
+[
+ {
+  "id": "0002",
+  "date": "2018-09-22",
+  "type": "special",
+  "summary": "Debut analysis video: DHFL bond sale panic drags housing finance stocks; speaker argues capitulation marks a bottom and irrational markets reward skilled traders.",
+  "lessons": [
+   "Markets bottom after big panic selling (capitulation); overreaction to one name often marks a multi-week low.",
+   "Panic in one bond/stock drags the whole sector down with it - contagion is mechanical, not fundamental."
+  ],
+  "strategies": [],
+  "quotes": [
+   "When people are optimistic they will pay the price of a diamond for a pebble; when pessimistic, they will not pay the price of a pebble for a diamond."
+  ]
+ },
+ {
+  "id": "0003",
+  "date": "2018-09-23",
+  "type": "special",
+  "summary": "Debunks the buyer-favorable myth: seller pays margin via collateral (no cash), wins by probability, and can hedge/adjust; buyer is a lottery ticket. Small capital buys, big capital sells.",
+  "lessons": [
+   "For every option bought one is sold - if buying were strictly better, no seller would exist.",
+   "Seller pays margin as collateral (FDs/shares), so cash outlay can be near zero; buyer pays premium in cash."
+  ],
+  "strategies": [
+   {
+    "name": "Collateral-funded option selling (framework)",
+    "construction": "Sell options against collateral: bank FD, shares, mutual funds or bank guarantee pledged to the broker",
+    "numbers": "Buyer pays 2,000-3,000 premium cash vs seller margin ~80,000-90,000 (as stated) but pledgable in kind",
+    "best_regime": "Traders with large capital seeking steady returns",
+    "adjustments": "Losing short can be adjusted via short futures or selling calls on the other side",
+    "risks": "Margin calls on booked losses; losses can exceed premium received if unhedged"
+   }
+  ],
+  "quotes": [
+   "With limited capital, if you want unlimited profit, either the risk is very high or the probability is very low."
+  ]
+ },
+ {
+  "id": "0024",
+  "date": "2020-01-03",
+  "type": "special",
+  "summary": "Foundational primer: calls and puts taught through a Virat Kohli cricket-betting analogy and a business-profit story; explains strike, premium, expiry and how expectation moves premium before price does.",
+  "lessons": [
+   "An option is asymmetric betting: buyer risks only the premium; seller pays 1:1 per point beyond the strike.",
+   "Premium moves on expectation, not just price - a batter racing toward a century raises the 'premium' before the century exists."
+  ],
+  "strategies": [],
+  "quotes": [
+   "The expectation will shoot up... though he has not hit the century, the premium rises as he scores more runs."
+  ]
+ },
+ {
+  "id": "0025",
+  "date": "2020-01-03",
+  "type": "special",
+  "summary": "Systematic demolition of the three buyer advantages (low premium, limited risk, unlimited reward): collateral funding, 20% win probability, profit-booking dilemma, and the lottery/robbery framing of risk-reward-probability.",
+  "lessons": [
+   "'Limited risk, unlimited reward' always pairs with very low probability (lottery) or very high risk (robbery).",
+   "Seller's real risk is bounded by the trading capital actually deployed, not theoretical unlimited loss."
+  ],
+  "strategies": [],
+  "quotes": [
+   "Every day I switch on TV, I find some people die of accidents. Are we going to say getting out of the house is unlimited risk?"
+  ]
+ },
+ {
+  "id": "0028",
+  "date": "2020-04-05",
+  "type": "special",
+  "summary": "Data-proven lesson: with Nifty down 500+ points, VIX collapsing 65 to ~55 made even deep puts lose value - buyers lost despite right direction. Prescribes buy+sell ratio structures instead of naked longs in falling VIX.",
+  "lessons": [
+   "In a falling-VIX environment, correct directional views still lose money - vega swamps delta for option buyers.",
+   "Weekly, monthly and far-month puts ALL fell or stagnated during a 500-point drop - the effect is structural, not decay noise."
+  ],
+  "strategies": [
+   {
+    "name": "Falling-VIX combo (call ratio + put ratio)",
+    "construction": "Bought 8,200CE, sold 3x 9,000CE; bought 8,000PE, sold 7,400PE + 7,300PE (as stated)",
+    "numbers": "Sold ~3x quantity on the far leg both sides",
+    "best_regime": "Falling VIX with a directional view; benefits from vega collapse on the short legs",
+    "adjustments": "Not stated",
+    "risks": "Upside loss above 9,000 on the 3:1 call ratio; downside acceleration through 7,300 on the put ratio"
+   }
+  ],
+  "quotes": [
+   "Even if his view is correct and the Nifty has fallen 500 points, he is still sitting with a loss - that is the effect of falling VIX."
+  ]
+ },
+ {
+  "id": "0030",
+  "date": "2020-04-07",
+  "type": "special",
+  "summary": "Explains the violent up-move anomaly: strangle sellers trapped by a ~10% rally are forced to buy back far puts to free margin and re-sell closer strikes - creating put-premium distortion. Never deploy all margin; short strangle is the most dangerous strategy.",
+  "lessons": [
+   "In violent moves, premiums behave abnormally because losing-side sellers are forced to square up and roll - not because the market 'should' behave that way.",
+   "Never deploy all margin in a strangle; spare cash lets you sell closer strikes without buying back the far leg at the worst price."
+  ],
+  "strategies": [
+   {
+    "name": "Strangle roll-under-stress mechanics",
+    "construction": "Short 9,000CE + 7,000PE written Friday around spot 8,000; on a violent rally, buy back 7,000PE (releasing margin) and sell 7,500/8,000PE instead",
+    "numbers": "Legs 1,000 points either side of spot; roll targets 500-1,000 points closer",
+    "best_regime": "After violent directional moves when the losing leg must be repositioned",
+    "adjustments": "Roll the losing short leg closer using either spare cash (preferred) or margin released by squaring the far leg",
+    "risks": "Forced buyback at inflated premiums; whipsaw if the market reverses immediately"
+   }
+  ],
+  "quotes": [
+   "Always remember, when markets move violently, do not expect option premiums to behave in the normal course."
+  ]
+ },
+ {
+  "id": "0031",
+  "date": "2020-04-11",
+  "type": "special",
+  "summary": "Against unanimous retail bearishness in COVID: lead-vs-lag indicators, the good/very-good/bad/very-bad news quadrant, consensus danger, efficient markets ('you are last to know'), and why heavy put buying at high premium is a losing game.",
+  "lessons": [
+   "Markets price the lead indicator (next few months) - current bad news is already in the price (efficient market: you are last to know).",
+   "Very good news invites profit booking; very bad news invites policy rescue - so both can be sell/buy signals respectively."
+  ],
+  "strategies": [],
+  "quotes": [
+   "Good news is a good news; very good news is a bad news. Bad news is a bad news; very bad news is a good news."
+  ]
+ },
+ {
+  "id": "0034",
+  "date": "2020-04-14",
+  "type": "special",
+  "summary": "P&L transparency episode: ~50% return in six April-2020 sessions driven by VIX collapse 86->50 plus a bullish view; demonstrates position-level losses coexisting with net profit, and strike/expiry diversification; explicitly warns viewers not to copy the risk.",
+  "lessons": [
+   "High-VIX regimes let low-volume sellers earn outsized returns as VIX collapses - the profit engine is vega plus view, not volume.",
+   "Spread risk across many strikes (6,500 through 8,500 puts) and multiple expiries (weekly/May/June) - never concentrate one strike."
+  ],
+  "strategies": [
+   {
+    "name": "Strike-and-expiry put ladder (illustrative, high risk)",
+    "construction": "Sold puts at 6,500 / 7,000 / 7,300 / 7,400 / 7,500 / 7,800 / 8,500 across weekly, May and June expiries; small stock-option positions (IndusInd 800 qty @22.52; ~2,300PE on a NBFC stock, 4 lots @220)",
+    "numbers": "Capital ~95 lakh -> ~45 lakh profit in 6 sessions (~50%); sold Jun 7,000PE @475, May 6,500PE @210 (closed 80), May 7,000PE @324 (closed 117)",
+    "best_regime": "Extreme high VIX with stabilizing market (COVID April 2020)",
+    "adjustments": "Laddered entries across expiries instead of single-strike concentration",
+    "risks": "Aggressive directional sizing; a renewed crash through the ladder strikes would produce large losses; explicitly not replicable by retail"
+   }
+  ],
+  "quotes": [
+   "We also lose. What matters is whether, at the end of the day, the profits are more than the losses."
+  ]
+ },
+ {
+  "id": "0035",
+  "date": "2020-04-14",
+  "type": "special",
+  "summary": "PM announced a further 19-day lockdown. Argues the move was 90% expected, so already priced; SGX Nifty traded ~200 points above the India close; herd put-buyers set up for a premium collapse even if prices fell.",
+  "lessons": [
+   "Markets can absorb good or bad news but not uncertainty; once an outcome is known, clarity itself re-prices risk.",
+   "When 90% expect a fall, the fall is already priced - consensus trades usually fail."
+  ],
+  "strategies": [
+   {
+    "name": "Multi-strike, multi-expiry put selling (April 2020)",
+    "construction": "Sold put options spread across various strike prices and expiry periods rather than one strike",
+    "numbers": "7500PE sold around Rs.75 during a morning dip; SGX Nifty ~9200 vs ~9000 close",
+    "best_regime": "Ultra-bearish consensus with the negative surprise already announced",
+    "adjustments": "Exited or rolled by expiry; profit disclosed in a later review video",
+    "risks": "Losses if the market breaks below the sold strikes; premium is the cap on profit"
+   }
+  ],
+  "quotes": [
+   "Markets can take good news, markets can take bad news, but markets just cannot take the uncertainty."
+  ]
+ },
+ {
+  "id": "0036",
+  "date": "2020-04-15",
+  "type": "special",
+  "summary": "Teaches the cash-secured put end to end: sell a put at a strike you are happy to own, collect premium, take delivery if assigned. Shows live positions (Bajaj Finance, IndusInd, Nifty puts) and a claimed Rs.45 lakh FY21 profit in three weeks.",
+  "lessons": [
+   "Sell puts only at prices where you are happy to take delivery - the premium is income, the strike is your target entry.",
+   "Far-month puts pay large premiums and give delivery intent when the market reaches your buy zone."
+  ],
+  "strategies": [
+   {
+    "name": "Cash Secured Put",
+    "construction": "Sell a put at the strike where you want to own the stock; keep the full cash ready for delivery",
+    "numbers": "Bajaj Finance 1800PE sold at Rs.100 (2 lots, Rs.50,000 collected); Nifty Apr 7500PE ~Rs.57; Dec-2020 6000PE ~Rs.200; ~Rs.19 lakh premium collected; claimed Rs.45 lakh FY21 P&L in 3 weeks",
+    "best_regime": "Sideways-to-up markets, or when you want a lower entry price in a quality stock",
+    "adjustments": "Square off the put and buy shares in the open market instead of physical delivery; exit any time before expiry",
+    "risks": "Profit capped at premium; stock can fall far below strike; requires full cash backing of the strike"
+   }
+  ],
+  "quotes": [
+   "If you are prepared to take delivery and the price does not fall below the strike, every month you can be making money."
+  ]
+ },
+ {
+  "id": "0037",
+  "date": "2020-04-16",
+  "type": "special",
+  "summary": "Replies to ROI/margin critics by showing scale: ~23 lakh quantity through one broker in a day, about 1.5% of the 8700PE contract's day volume; argues absolute profit and capital-handling skill matter more than percentage ROI.",
+  "lessons": [
+   "Absolute profit matters more than ROI percentage - the real skill is the amount of capital you can handle.",
+   "With intraday limits the deployed capital is the broker's; judge the trade by loss potential, not ROI optics."
+  ],
+  "strategies": [],
+  "quotes": [
+   "I do not look at open interest. I create open interest."
+  ]
+ },
+ {
+  "id": "0040",
+  "date": "2020-04-20",
+  "type": "special",
+  "summary": "Pre-results Infosys structure: short straddle at 650, converted to an iron fly with long 720CE/580PE wings, wings financed by selling double quantity of 750CE and 550PE. Payoff: max ~Rs.3.58 lakh (15%) at 650, protection zones 710/590.",
+  "lessons": [
+   "Enter earnings trades the day before results and exit once the event resolves; hold further only with a stop-loss.",
+   "Finance protective wings by selling double quantity of farther strikes so the hedge costs nothing from pocket."
+  ],
+  "strategies": [
+   {
+    "name": "Infosys earnings iron fly with financed wings",
+    "construction": "Sell 650CE + 650PE (5 lots); buy 720CE + 580PE; sell 2x 750CE (10 lots) and 2x 550PE to finance the wings",
+    "numbers": "650CE @31, 650PE @27.50, 720CE @7.35, 580PE @8.40, 750CE @4, 550PE @4.46; max profit ~Rs.3.58 lakh (~15%) if Infosys closes at 650; protection 710 up / 590 down",
+    "best_regime": "Results eve with elevated implied volatility",
+    "adjustments": "Exit after results or keep far wings with a stop-loss; watch volatility crush",
+    "risks": "Beyond 750/550 the financing legs turn the risk unlimited again; overnight gap risk"
+   }
+  ],
+  "quotes": [
+   "This is the second strategy, iron fly - a limited risk strategy."
+  ]
+ },
+ {
+  "id": "0046",
+  "date": "2020-04-25",
+  "type": "special",
+  "summary": "Builds the case that expert stock-picking barely beats chance: hundreds of coexisting technical methods cannot all work; Malkiel's blindfolded-monkey argument; WSJ dartboard contest (61% expert pick wins, only 51% beat the Dow); 2018 rerun where dart picks returned 17.3% vs experts -4.4% vs S&P +11%.",
+  "lessons": [
+   "If hundreds of technical methods coexist, most cannot work - treat technical analysis as one input, never the system.",
+   "In the WSJ decade-long dartboard contest, pros beat the darts 61% of the time but beat the Dow only 51% of the time."
+  ],
+  "strategies": [],
+  "quotes": [
+   "Technical analysis is part of the trading system, not the heart of the trading system."
+  ]
+ },
+ {
+  "id": "0048",
+  "date": "2020-04-26",
+  "type": "special",
+  "summary": "Contrasts results timing and IV: Infosys declares after hours (ATM IV ~67) while IndusInd declares intraday (ATM IV ~140). Plan: sell May-series 400CE+400PE straddle, hedge with current-month 500CE/300PE; net ~Rs.94.55/share (Rs.37,800/lot) on ~Rs.60,000 margin.",
+  "lessons": [
+   "For high-IV stocks, sell the next-month straddle - richer premium with relatively smaller risk - and hedge with current-month wings.",
+   "Results timing matters: after-hours declarations carry gap risk, intraday declarations let you react."
+  ],
+  "strategies": [
+   {
+    "name": "IndusInd Bank earnings hedged straddle (May series)",
+    "construction": "Sell May 400CE @62 + 400PE @52; buy current-month 500CE @4.25 + 300PE @5.25 as protection",
+    "numbers": "Net premium ~Rs.94.55/share = Rs.37,800 per lot; margin ~Rs.60,000; >50% return if IndusInd closes near 400 at May expiry",
+    "best_regime": "High-IV stock ahead of results; next-month premium rich relative to risk",
+    "adjustments": "Exit opportunity after the results; avoid holding the full month",
+    "risks": "Very large move beyond the wings; one month is a long time in trading"
+   }
+  ],
+  "quotes": [
+   "One month is a very long time in trading."
+  ]
+ },
+ {
+  "id": "0050",
+  "date": "2020-04-28",
+  "type": "special",
+  "summary": "IndusInd Bank profit fell 77% but stock closed ~15-17% higher because market expected 95% fall - expectation vs absolute drives expiry-day moves. Precedent: Bank of Baroda +25% after worst-ever loss. Teaches adjustment philosophy and the bus/pothole analogy.",
+  "lessons": [
+   "Prices move on results versus expectations, not on absolute results - better-than-feared can rally",
+   "On expiry day, stocks can move opposite to results as shorts cover"
+  ],
+  "strategies": [
+   {
+    "name": "IndusInd earnings-day iron-fly style combo",
+    "construction": "Sell 400CE + sell 400PE, buy 500CE + buy 300PE (current month)",
+    "numbers": "profit down 77% vs expected 95% fall; stock closed ~15-17% higher",
+    "best_regime": "earnings day when heavy short positioning built up",
+    "adjustments": "speaker's own adjustments not disclosed; states adjustments depend on additional capital",
+    "risks": "big gap moves on expiry; adjustments need reserve capital"
+   }
+  ],
+  "quotes": [
+   "It is not the 50,000 or the 500 - it is what you get versus your expectation."
+  ]
+ },
+ {
+  "id": "0051",
+  "date": "2020-04-29",
+  "type": "special",
+  "summary": "Two case studies where technicians were trapped: RBI's May 2018 FII window opening in HDFC Bank (cash-futures arb by funds crushed late buyers) and the 2011 flash crash from a broker's basket-order error (Nifty -15% intraday, futures only -3-4%). Conclusion: no single system works.",
+  "lessons": [
+   "Look at everything - news, flows, regulation - never one indicator alone",
+   "When a known buying window opens, front-runners buy in cash and short futures; late chart-followers get trapped"
+  ],
+  "strategies": [],
+  "quotes": [
+   "No particular system works in the stock market. If any one system worked, everybody would be following that."
+  ]
+ },
+ {
+  "id": "0052",
+  "date": "2020-04-30",
+  "type": "special",
+  "summary": "Argues index options beat stock options: indices cannot crash 50-60% in a day (DHFL -65%, Infibeam -70% did), index margins are half of stock margins for similar contract size, far-strike liquidity is deep, no physical delivery, panic exits always available.",
+  "lessons": [
+   "Return on margin matters, not how much the underlying moves - index gives 6-7% on margin vs 4% for a stock moving twice as much",
+   "Stocks can gap 50-70% overnight; indices are circuit-protected"
+  ],
+  "strategies": [],
+  "quotes": [
+   "At the end of the day, what matters is the return on our investment. It is not how many percent the underlying moves."
+  ]
+ },
+ {
+  "id": "0054",
+  "date": "2020-05-02",
+  "type": "special",
+  "summary": "Monthly P&L review: April profit 66.3 lakh on ~95 lakh starting capital after 45 lakh in first two weeks; attributes windfall to India VIX collapse 80-85 to ~40 and Nifty clearing the 38.2% Fibonacci retracement (9300-9400) toward 9900-10000; March also +50 lakh selling calls.",
+  "lessons": [
+   "High collapsing VIX plus a clear directional view is where option sellers make windfall profits - not repeatable monthly",
+   "Know when to exit: he closed nearly all positions after the Fibonacci target hit"
+  ],
+  "strategies": [
+   {
+    "name": "Put-selling ladder in collapsing-VIX rebound",
+    "construction": "Sold puts across strikes from ~6,100 to 9,000 during April 2020 recovery",
+    "numbers": "April profit 66,30,478 on ~95L capital; VIX 80-85 -> 55-60 -> ~40; June 9000PE sold at 500, closed 180",
+    "best_regime": "post-crash VIX collapse with market refusing to make new lows",
+    "adjustments": "not detailed in this episode",
+    "risks": "windfall not repeatable; VIX normalizes; requires conviction view"
+   }
+  ],
+  "quotes": [
+   "A trader can make profit even in a falling market and lose money even in a rising market - it is the view of the trader that is more important."
+  ]
+ },
+ {
+  "id": "0060",
+  "date": "2020-05-08",
+  "type": "special",
+  "summary": "Live pre-earnings trade: buy 1 lot 350CE (~2,440) and sell 2 lots 380CE (~1,190) - near-zero cost ratio. Max profit if ICICI closes 350-380 (month high 392, resistance 390-400), downside loss capped ~825, risk only above 410.",
+  "lessons": [
+   "Structure pre-earnings trades around the stock's one-month high/low band",
+   "Buying 1 and selling 2 at a higher strike creates a near-zero-cost position with capped downside"
+  ],
+  "strategies": [
+   {
+    "name": "ICICI Bank call ratio (1x2) for earnings",
+    "construction": "Buy 1 lot 350CE at ~2,440; sell 2 lots 380CE at ~1,190",
+    "numbers": "near-zero net cost (~40-50 paise paid); max loss downside ~825; max profit zone 350-380; unlimited risk above 410; margin ~1.5 lakh net (2.53 lakh naked 380CE)",
+    "best_regime": "mildly bullish stock pinned below known resistance into results",
+    "adjustments": "not shown in this episode; speaker flags adjustment need if it gaps above 410",
+    "risks": "gap above the sold strike doubles exposure; earnings gaps both ways"
+   }
+  ],
+  "quotes": []
+ },
+ {
+  "id": "0061",
+  "date": "2020-05-09",
+  "type": "special",
+  "summary": "First Q&A: stop-loss doctrine (slow poison vs quick poison), square-off vs counter-strategy depends on extra capital and skill, discount vs full-service brokers, basket/simultaneous orders, the 50% cash-equivalent rule applied at broker level, Bharat Bond/Liquid BeES as cash equivalents, hedging without adjustments is risky.",
+  "lessons": [
+   "Stop-loss is non-negotiable: hit it and you can recover; blow up and you cannot (slow poison vs quick poison)",
+   "Square-off vs counter-strategy is decided by two questions: do you have additional capital and additional skill?"
+  ],
+  "strategies": [],
+  "quotes": [
+   "If you put a stop loss, it is like slow poison. If you don't put a stop loss, it is like quick poison."
+  ]
+ },
+ {
+  "id": "0064",
+  "date": "2020-05-12",
+  "type": "special",
+  "summary": "Firefighting walkthrough on an ICICI Bank call-ratio position after a results miss: original 350/380 call spread risked ~Rs 0.50/share; by selling 400CE at 3.65 once the stock weakened, the position flipped to net credit and profit. Advises small traders to stick to indices.",
+  "lessons": [
+   "When a thesis breaks, sell a further OTM option to convert the position into a net credit instead of accepting the planned loss.",
+   "Stock options move violently; small-capital traders should stick to indices."
+  ],
+  "strategies": [
+   {
+    "name": "OTM credit-sale adjustment on a losing ratio",
+    "construction": "Existing: long 350CE, short 2x 380CE (max loss ~0.50/share ~ Rs 800/lot). Adjustment: sell 1x 400CE at ~3.65",
+    "numbers": "Pre-adjustment loss ~Rs 3,000; post-adjustment profit ~Rs 2,000 per lot",
+    "best_regime": "After a results miss confirms the directional view is dead",
+    "adjustments": "Collected credit exceeds the defined max loss; no further action needed unless stock reverses hard",
+    "risks": "New short call adds upside risk; acceptable because view is now neutral-bearish"
+   }
+  ],
+  "quotes": []
+ },
+ {
+  "id": "0065",
+  "date": "2020-05-13",
+  "type": "special",
+  "summary": "Two-year Reliance thesis: refinery scale and superior GRMs plus the Jio pivot from commodity to telecom/retail argue for a PE re-rating from ~25 toward 40-50, implying Rs 2,500-3,000; documents the Jio stake-sale wave and the Rs 1,257 rights issue; buy on fundamentals, time on technicals, or use cash-secured puts/SIP.",
+  "lessons": [
+   "Commodity businesses get PE ~10-11; telecom/retail get 40-150+ - business-mix change drives re-rating more than earnings alone.",
+   "Choose WHAT to buy from fundamentals; choose WHEN from technicals, cash-secured puts, or SIP."
+  ],
+  "strategies": [],
+  "quotes": [
+   "The biggest risk in your life is not taking any risk."
+  ]
+ },
+ {
+  "id": "0066",
+  "date": "2020-05-14",
+  "type": "special",
+  "summary": "Century-scale argument against crash calls: 100 years of Dow history shows every major crash (1929 ~90%, dot-com, Lehman) was followed by a powerful rebound; India's 1992/2000/2008/2020 parallels; Nifty PE ~16 sits in the historical buy zone (15-16) vs 28-30 sell zone; advises staggered ETF investing and cash-secured puts; '7500 bottom already made'.",
+  "lessons": [
+   "Markets are unpredictable short-term but mean-revert upward across decades - every crash has been the entry for the next bull.",
+   "PE 15-16 has historically been an accumulation zone; 28-30 a distribution zone for Indian indices."
+  ],
+  "strategies": [
+   {
+    "name": "Staggered index investing with cash-secured puts",
+    "construction": "SIP into a Nifty 50 ETF; optionally place cash-secured puts at desired lower entries",
+    "numbers": "Nifty PE ~16 (May 2020); historical buy zone 15-16, sell zone 28-30; Dow 1929 crash ~90%; 1982-2000 bull ~15x",
+    "best_regime": "Post-crash pessimism; long horizon",
+    "adjustments": "Add on further 5-10% falls",
+    "risks": "Multi-year drawdowns; requires no-liquidity-needs capital"
+   }
+  ],
+  "quotes": [
+   "A bull market is born out of pessimism, grows out of skepticism, matures out of optimism and dies out of euphoria."
+  ]
+ },
+ {
+  "id": "0068",
+  "date": "2020-05-16",
+  "type": "special",
+  "summary": "Q&A clarifying mechanics: buy/sell quantities are always equal (TV 'delivery buying' is interpretation); futures settle daily via MTM while option sellers' margin = span + premium value, rising with the option price; NSE uses a 10% risk-free rate in IV; June-2020 hedged margins ~one-third of naked; expiry settlement uses last-half-hour weighted average, not last traded price.",
+  "lessons": [
+   "Futures: daily MTM cash transfer. Options: buyer pays premium once; seller's margin floats with the option's price.",
+   "Expiry settlement price is the weighted average of the last half hour - an ITM option can expire worthless despite a favorable last traded price."
+  ],
+  "strategies": [],
+  "quotes": []
+ },
+ {
+  "id": "0071",
+  "date": "2020-05-20",
+  "type": "special",
+  "summary": "Quantified case for taking long-term equity exposure via futures plus a debt collateral stack: ~Rs 7.5 lakh in Bharat Bond/FD earns ~Rs 50k interest while the long futures roll costs ~Rs 30k/year in premium - net ~Rs 10-20k saving vs cash buying; hedging via short call costs only incremental margin (~Rs 50k vs Rs 1.75 lakh); also covers lot-size, rollover and tax trade-offs.",
+  "lessons": [
+   "For large capital, long futures funded by pledged debt instruments beats cash buying: interest income exceeds the cost-of-carry premium.",
+   "A short call against a long futures position needs only incremental margin - cash-market holders pay far more to run the same hedge."
+  ],
+  "strategies": [
+   {
+    "name": "Futures-plus-collateral long-term long",
+    "construction": "Buy 1 lot long futures; park notional value in FD/Bharat Bond; pledge for collateral margin",
+    "numbers": "Reliance example: ~7.5L notional; premium ~Rs 5/share/month (~30k/yr); interest ~50k/yr at 7-7.5%; net saving ~10-20k/yr; incremental short-call margin ~50k vs 1.75L for cash holder",
+    "best_regime": "Large capital, long-term bullish, willing to manage monthly rollovers",
+    "adjustments": "Sell one OTM call monthly against the long for income; exit stock/futures on strength if assigned economics improve",
+    "risks": "Monthly rollover discipline; gap/MTM risk on the futures leg; lot-size minimum locks ~7.5L capital"
+   }
+  ],
+  "quotes": [
+   "The mistake is not with the matchstick; the mistake is with you - leverage is not gambling, misuse is."
+  ]
+ },
+ {
+  "id": "0073",
+  "date": "2020-05-23",
+  "type": "special",
+  "summary": "Q&A: age-percentage debt rule and SIP/SWP for a retiree down 35%; short straddle as favorite strategy; ITM stock options must be squared off (physical delivery) while index options settle in cash at the half-hour VWAP; prefer LEAPS for low-monitoring office-goers; square off OTM options at 5 paise for clean tax statements; India lacks hedge funds because AIF Cat III has no tax pass-through; never sell options expiring the next day.",
+  "lessons": [
+   "Keep roughly your-age-percent in debt; deploy lump sums via SIP, withdraw via SWP.",
+   "Trade indices, not stocks: ITM stock options that lapse trigger physical delivery; index options are cash-settled."
+  ],
+  "strategies": [],
+  "quotes": []
+ },
+ {
+  "id": "0077",
+  "date": "2020-05-29",
+  "type": "special",
+  "summary": "Monthly trade review: ~10 lakh May profit on ~95 lakh capital (76 lakh total in two months, ~80%). Dissects three large losses (Nifty future and two call options, ~12 lakh combined), a profitable ratio spread, cash-secured puts in ICICI/HDFC Bank, and corrects an earlier mistaken March figure.",
+  "lessons": [
+   "Never benchmark one month against the last - the market 'is like God; take what it gives'. Expectation inflation destroys discipline.",
+   "Index-only trading survives regime changes: when SEBI raised stock-option margins from June 2020, index positions kept the margin edge."
+  ],
+  "strategies": [
+   {
+    "name": "Cash-secured puts (ICICI 300PE, HDFC 840PE)",
+    "construction": "Sell puts below market with full cash set aside for delivery",
+    "numbers": "+33,000 ICICI and +28,000 HDFC in May 2020",
+    "best_regime": "moderately bullish with stocks near support",
+    "adjustments": "take delivery if assigned; roll if view changes",
+    "risks": "sharp breakdown below strike forces delivery at loss"
+   }
+  ],
+  "quotes": [
+   "People lose money because they do not want to lose money - they expect zero-loss calls, which is impossible."
+  ]
+ },
+ {
+  "id": "0079",
+  "date": "2020-05-31",
+  "type": "weekly",
+  "summary": "Bank Nifty shot up ~2,400 points vindicating oversold call; Nifty expired 9,490; bear cases (China, GDP fear, zero auto sales, virus, border) systematically rebutted; FIIs turned buyers last 2 sessions; June target 10,000-10,200.",
+  "lessons": [
+   "Markets worry about lead indicators (reopening), not lag indicators (GDP).",
+   "Known news (zero auto sales) is already priced - markets react only to surprises (efficient market hypothesis)."
+  ],
+  "strategies": [],
+  "quotes": []
+ },
+ {
+  "id": "0080",
+  "date": "2020-06-01",
+  "type": "special",
+  "summary": "Walks through SEBI's new margining on real examples: naked ATM options now ~1.0-1.3 lakh (up from 80-90k), but hedged spreads collapse to ~25-35k, cross-margined straddles to ~1.05 lakh, straddle-with-wings to ~45-55k, and an ITM put calendar under 30k - pushing traders toward hedged, index, defined-risk structures.",
+  "lessons": [
+   "Under the new framework the margin system itself pays you to hedge: protection 200-300 points away cuts margin ~70%.",
+   "Cross-margining makes a short straddle cost little more than its single costlier leg - portfolio margin logic arrives in India."
+  ],
+  "strategies": [
+   {
+    "name": "Hedged short option (spread)",
+    "construction": "Sell 10,000C / buy 10,200C (200pt); variants 300-400pt",
+    "numbers": "~25,000-32,000 margin vs 80-90k naked; max risk = spread width",
+    "best_regime": "any directional credit view",
+    "adjustments": "roll wings as market trends",
+    "risks": "max loss = width x lot; premium give-up"
+   }
+  ],
+  "quotes": [
+   "Options trading is not about which strike you sell - it is about risk management, margin management and position sizing."
+  ]
+ },
+ {
+  "id": "0081",
+  "date": "2020-06-02",
+  "type": "special",
+  "summary": "Tax primer: cash-market gains taxed at 15% STCG / 10% LTCG above 1 lakh (post-2018), while F&O profits are business income taxed at slab rates with full expense deduction. Compares individual vs corporate accounts: ~42% top personal rate vs 22-25% corporate, but MAT ~18% limits corporate loss set-off.",
+  "lessons": [
+   "F&O income is business income: slab rates hurt, but expense deduction (broadband, office, salaries, depreciation) and loss set-off often win.",
+   "Individual accounts can carry trading losses forward ~8 years against future profits; corporate accounts face MAT (~18%) even in profit years, limiting set-off value."
+  ],
+  "strategies": [],
+  "quotes": [
+   "Go and make profit first, then come to me - the auditor's answer to every F&O tax question."
+  ]
+ },
+ {
+  "id": "0082",
+  "date": "2020-06-04",
+  "type": "special",
+  "summary": "Contrasts the two flagship ETFs: Nifty BeES = equity (index returns, dividends rare - last in 2015), Liquid BeES = debt in government securities with interest paid as additional units, price pinned at ~1,000, and no STT/stamp duty/exchange charges; notes the collateral-haircut irony (5% for equity vs 10% for the risk-free debt product).",
+  "lessons": [
+   "Liquid BeES functions as cash-equivalent collateral: interest accrues as extra units, price pinned near 1,000, zero STT/stamp duty.",
+   "India's collateral-haircut paradox: risky equity ETF gets 5% haircut while government-debt Liquid BeES gets 10% - know the rules before pledging."
+  ],
+  "strategies": [
+   {
+    "name": "Liquid BeES cash-component collateral",
+    "construction": "Buy Liquid BeES; pledge as the cash component of margin",
+    "numbers": "price ~1,000 +/- 1 paisa; interest via additional units monthly; no STT/stamp duty",
+    "best_regime": "any time idle capital sits in a trading account",
+    "adjustments": "n/a",
+    "risks": "haircut 10%; liquidity depth"
+   }
+  ],
+  "quotes": [
+   "In computing they say what you see is what you get - Liquid BeES is exactly that: you pay 1,000, you get one unit."
+  ]
+ },
+ {
+  "id": "0084",
+  "date": "2020-06-06",
+  "type": "special",
+  "summary": "Q&A: debunks the short-selling 'ban' (practical cap ~500 crore plus margin), warns against 2008-pattern confirmation bias with the market at record highs, explains weekly-hedge rollover mechanics, options-vs-futures collateral treatment for MTM losses, margin-shortfall penalty slabs, and tells small-capital traders to avoid F&O.",
+  "lessons": [
+   "Confirmation bias: when you want a crash you will find reasons - trade the market that is, not the pattern that 'should' repeat.",
+   "Options-seller MTM losses can be adjusted against collateral until booked; futures MTM must be paid in cash daily - know which instrument your capital can carry."
+  ],
+  "strategies": [
+   {
+    "name": "Monthly short option + weekly protective hedge",
+    "construction": "Sell far-month option; buy near-week option slightly OTM below breakeven; re-buy weekly",
+    "numbers": "9,000PE July sold (>100 premium), 8,900PE weekly bought; margin ~50,000 vs >1,00,000 unhedged",
+    "best_regime": "credit selling with black-swan protection",
+    "adjustments": "roll weekly wing; broker far-strike restrictions are the friction",
+    "risks": "weekly wing expires worthless after rallies; rollover cost creep"
+   }
+  ],
+  "quotes": [
+   "People expect a crash because they studied 2008 - the market is not obliged to repeat anyone's pattern."
+  ]
+ },
+ {
+  "id": "0086",
+  "date": "2020-06-08",
+  "type": "special",
+  "summary": "Euphoric gap-up morning (Nifty +200, Bank Nifty +500) fizzled: pre-market blog call that Nifty future would break 10,200 at least once played out; session closed as a Doji via the weighted-average close; RBI nod for IndusInd open-market buys lifted it early while HDFC/Kotak/Reliance were sold hard from highs; FII +813 cr vs DII -1,238 cr; view: consolidation with positive bias, supports 9,900/9,700.",
+  "lessons": [
+   "Euphoric gaps attract profit-booking: 'a bull market dies of euphoria' - fade the open, respect the close.",
+   "The printed close is a last-half-hour weighted average - comparing it to yesterday's true close can fake a 'Doji' or fake momentum."
+  ],
+  "strategies": [],
+  "quotes": [
+   "A bull market is born out of pessimism, grows out of skepticism, matures out of optimism and dies out of euphoria."
+  ]
+ },
+ {
+  "id": "0087",
+  "date": "2020-06-10",
+  "type": "special",
+  "summary": "Where-to-find tutorial: BSE results calendar, NSE company pages, and Moneycontrol's earnings page with expected announcement times (today/tomorrow only); explains IV-crush premium-selling around results; covers dividend/bonus/split calendars (Colgate 1600% dividend, GE Shipping, Sinclairs Hotel split) and aggregate earnings-season statistics.",
+  "lessons": [
+   "Results timing is tradable information: premium sellers position minutes before announcements to capture the IV crush.",
+   "Expected result times are historical averages - only Infosys-class companies reliably hit them; build timing buffers into event trades."
+  ],
+  "strategies": [],
+  "quotes": [
+   "After results, implied volatility crashes - and the premium with it. That is the trade."
+  ]
+ },
+ {
+  "id": "0088",
+  "date": "2020-06-12",
+  "type": "special",
+  "summary": "Q&A session: hedging as non-negotiable doctrine, SEBI lot-size revision mechanics, collateral/pledging differences across brokers, expiry-day-only intraday selling, pre-market mechanics, and repeated refusals to comment on unhedged directional follower positions.",
+  "lessons": [
+   "Always pair an option sale with an option purchase: margin drops sharply and black-swan loss is capped.",
+   "Lot sizes are revised to keep contract value inside the SEBI band of 5-10 lakh, reviewed every six months."
+  ],
+  "strategies": [
+   {
+    "name": "Hedged short put",
+    "construction": "Sell near put + buy a further-OTM put same expiry",
+    "numbers": "Speaker example: sold 9400-put style positions; hedge put cuts margin drastically and caps loss",
+    "best_regime": "Any short-put view; mandatory insurance",
+    "adjustments": "Not advised live; know risk-reward before entry",
+    "risks": "Unhedged version: margin cascade and uncapped gap risk"
+   }
+  ],
+  "quotes": [
+   "If you want to be successful in stock market, you need to have hedge."
+  ]
+ },
+ {
+  "id": "0091",
+  "date": "2020-06-15",
+  "type": "special",
+  "summary": "Post-market: overnight Dow futures -1000+ triggered bank-led selling (ICICI -5.5%); FII streak-selling 6000+ crore in four sessions; India VIX +5.69% above 30; speaker sold 1600 puts hedged with 1500 puts and Bank Nifty call ladder 21500-23000; range view 9500 support / 10350-10500 resistance.",
+  "lessons": [
+   "FIIs buy in streaks and sell in streaks; the risk-on/risk-off flip, not the level, creates volatility.",
+   "VIX above 30 signals a high-volatility regime: violent intraday swings inside a stable range."
+  ],
+  "strategies": [
+   {
+    "name": "Hedged put sale (index)",
+    "construction": "Sell 1600 put, buy 1500 put (June expiry); Bank Nifty call ladder 21500/22000/22500/23000 with weekly hedges",
+    "numbers": "FII context: -6000 crore in 4 sessions; VIX 30+",
+    "best_regime": "High-VIX range with defined support",
+    "adjustments": "Weekly hedge rolls to cut margin",
+    "risks": "Range break below support"
+   }
+  ],
+  "quotes": [
+   "If they start buying they will keep on buying; if they start selling they will keep on selling."
+  ]
+ },
+ {
+  "id": "0092",
+  "date": "2020-06-16",
+  "type": "special",
+  "summary": "India-China border clash hits mid-session: Bank Nifty gap-up 700 then -1200 then +600 whipsaw; Nifty -150 from highs. Speaker argues knee-jerk not war: no firing, stone-pelting clash; option premiums stayed calm - the market's own verdict; Reliance hit all-time high; buy-the-dip framing.",
+  "lessons": [
+   "If option premiums do not rise on bad news, the market is pricing a knee-jerk, not a trend change.",
+   "A country already fighting a pandemic will not open a second front; separate sentiment shock from fundamental risk."
+  ],
+  "strategies": [],
+  "quotes": [
+   "Smart people will not have more than one enemy at a time."
+  ]
+ },
+ {
+  "id": "0093",
+  "date": "2020-06-18",
+  "type": "special",
+  "summary": "Corrects the Galwan toll to ~20 Indian dead with similar Chinese losses; explains unarmed de-escalation context; PM address line misread as retaliation promise caused a 150-point fall to ~9850; next day clarity plus short covering drove Bank Nifty +1000 from low and Nifty past 10,100; Reliance fresh ATH.",
+  "lessons": [
+   "First-day casualty reports are often wrong; wait for official confirmation before repricing geopolitical risk.",
+   "Misread political statements create 150-point air pockets; clarity plus short covering reverses them within days."
+  ],
+  "strategies": [],
+  "quotes": []
+ },
+ {
+  "id": "0094",
+  "date": "2020-06-20",
+  "type": "special",
+  "summary": "Q&A: retrofit trade-call scams and fake cloned channels; T+2 settlement and margin-shortfall penalties; physical settlement on expiry; European vs American option styles; stock lending & borrowing as a delivery backstop; hedging vs edge; starting-capital philosophy; patience principle via Reliance's decade-long consolidation.",
+  "lessons": [
+   "Trust only calls published before the level triggers; 'I said this morning in my private group' posts are retrofit scams.",
+   "India runs European-style options; early-exercise assignment would make hedged books unmanageable overnight."
+  ],
+  "strategies": [],
+  "quotes": [
+   "Edge cannot be taught; hedge can be. Edge comes from experience."
+  ]
+ },
+ {
+  "id": "0098",
+  "date": "2020-06-25",
+  "type": "special",
+  "summary": "Builds a limited-risk call ratio on the post-COVID rally: buy 1x 10,500 Aug CE @360, sell 3x 11,000 Aug CE, buy 2x 11,500 Aug CE; net credit ~1,900; margin ~63,000 effective; max profit ~37,000 at Nifty 11,000; breakeven 11,253; max loss ~37,000 above 11,500; anchored on 200-DMA + 50% Fibonacci resistance.",
+  "lessons": [
+   "Turn a 'resistance holds' view into a credit ratio spread; add far calls to cap the unlimited-risk tail.",
+   "Net-credit gating: if the structure is a debit in the near expiry, step out to the far month where it pays you."
+  ],
+  "strategies": [
+   {
+    "name": "Limited-risk call ratio spread (1:3:2)",
+    "construction": "Buy 1x 10,500 CE (Aug), sell 3x 11,000 CE (Aug), buy 2x 11,500 CE (Aug)",
+    "numbers": "Net credit ~Rs 1,900; margin ~Rs 65,000 (Rs 63,000 effective); max profit ~Rs 37,000 at Nifty 11,000; upper breakeven 11,253; max loss ~Rs 37,000 above 11,500",
+    "best_regime": "After a sharp rally, into strong resistance (200-DMA + 50% retracement of 12,400->7,500)",
+    "adjustments": "Exit all legs together; partial exit leaves naked short calls",
+    "risks": "Sustained breakout above 11,500 hits max loss; requires two-month view"
+   }
+  ],
+  "quotes": []
+ },
+ {
+  "id": "0100",
+  "date": "2020-06-27",
+  "type": "special",
+  "summary": "Q&A: blue-chip etymology from casino chips; SLB as delivery backstop; American vs European styles and assignment risk; no exchange-resident stop-loss for delivery trades in India; breakeven limits unknowable pre-expiry; long-term patience (Reliance flat 2008-17, then 3.5x); discretionary trading produced best and worst single days (\u00b110% of capital).",
+  "lessons": [
+   "'Blue chip' comes from the casino's highest-value chip - the term predates markets.",
+   "No exchange-held stop-loss for delivery positions in India; brokers simulate GTC by re-placing daily."
+  ],
+  "strategies": [],
+  "quotes": [
+   "Equity needs patience: some stocks give ten years of return in the last two years."
+  ]
+ },
+ {
+  "id": "0103",
+  "date": "2020-06-30",
+  "type": "special",
+  "summary": "Monthly accountability review: April-May +76 lakh on ~95 lakh capital, June lost ~1.2 lakh. Loss attribution: SBI trade -2 lakh (1.83 profit + 3.62 loss legs) and expiry-day sale of 10,000 calls at Rs 4 stopped out at Rs 23 for -2.82 lakh; without those two trades the month was +3.6 lakh.",
+  "lessons": [
+   "Publish losses as loudly as wins: two high-risk trades turned a winning month into a small loss.",
+   "Expiry-day naked short calls sold at Rs 4 and stopped at Rs 23 show the tail risk of cheap-option selling."
+  ],
+  "strategies": [
+   {
+    "name": "Expiry-day naked call selling (documented failure)",
+    "construction": "Sell 10,000 CE on weekly expiry day (18 June 2020) in size at Rs 4",
+    "numbers": "Entry ~Rs 4, stop-loss exit ~Rs 23, loss ~Rs 2.82 lakh",
+    "best_regime": "High-probability decay days only, with strict size",
+    "adjustments": "Stop-loss enforced",
+    "risks": "Low-premium options have violent multi-fold spikes; this is the canonical blowup pattern"
+   }
+  ],
+  "quotes": []
+ },
+ {
+  "id": "0105",
+  "date": "2020-07-03",
+  "type": "special",
+  "summary": "Case study of an unhedged HDFC Bank 1000-strike short straddle sold June 9 at ~87 (call 49 + put 39) for two lots. HDFC Bank closed at 1035 on June 25: collected ~87,000, returned ~35,000 - about 50,000 profit. The combined straddle premium never closed above entry despite a violently volatile June.",
+  "lessons": [
+   "In a high-volatility month, a short straddle can still win if the combined premium never closes above entry - track daily premium, not just spot.",
+   "Unhedged straddles demand discipline: the position survived 800-1,000 point Bank Nifty swings only because premium stayed inside the entry band."
+  ],
+  "strategies": [
+   {
+    "name": "Unhedged short straddle on a single stock",
+    "construction": "Sell 1000 CE (49) + sell 1000 PE (39) on HDFC Bank, 2 lots (1000 qty), June 9 2020, hold to near expiry",
+    "numbers": "Premium collected ~87,000; returned ~35,000; profit ~50,000; stock closed 1035 on June 25; daily combined premium stayed below 87 through expiry",
+    "best_regime": "High IV with range-bound expectation around a support level (1000)",
+    "adjustments": "None taken in this trade - held naked; would need firefighting if spot ran beyond breakevens",
+    "risks": "Unlimited loss beyond 1087/913; a single-stock gap through breakevens is the failure mode"
+   }
+  ],
+  "quotes": [
+   "in a high volatile market, it always makes sense to do a short straddle"
+  ]
+ },
+ {
+  "id": "0106",
+  "date": "2020-07-04",
+  "type": "special",
+  "summary": "Q&A batch: no fixed monthly returns as an option seller (HNI pattern: FD/debt-fund collateral is the primary income, trading is a bonus); margin shortfall penalty slabs; no safe strategy and no permanently strong company; minimum capital views; index fund vs futures; physical-delivery discipline; arbitrage vs reverse arbitrage on discounted futures.",
+  "lessons": [
+   "Anchor option-selling expectations to collateral yield: primary income is interest on pledged debt funds; trading profit is supplementary and irregular.",
+   "Margin shortfall penalty: 0.5% of shortfall below 1 lakh, 1% above it, rising to 5% if the breach repeats beyond five sessions - never overtrade your collateral."
+  ],
+  "strategies": [
+   {
+    "name": "Collateral-funded option selling (HNI pattern)",
+    "construction": "Pledge debt mutual funds/bank FDs as collateral; sell options against the margin; keep interest as primary return",
+    "numbers": "Stated pattern: 6-7% interest on debt funds while trading on pledged limit",
+    "best_regime": "Wealthy, income-focused sellers who accept trading as a bonus stream",
+    "adjustments": "Not applicable - structural allocation",
+    "risks": "Trading losses eat the collateral cushion; interest is not guaranteed against credit events"
+   }
+  ],
+  "quotes": [
+   "stock market is not for the people who are expecting a regular or fixed return"
+  ]
+ },
+ {
+  "id": "0109",
+  "date": "2020-07-08",
+  "type": "special",
+  "summary": "Pre-results TCS structure: sold 2 lots of 2000 PE, bought 2 lots 2300 CE at 47.75, financed by selling 4 lots 2400 CE plus 1 lot 2500 CE. Margin 3.65 lakh, breakevens 1988-2508, ~82% probability of profit, max profit ~65,000. Thesis: TCS is low-beta; post-result IV crush pays the defined-risk combo.",
+  "lessons": [
+   "Ahead of results, IV is elevated - defined-risk structures that are short premium profit from the post-result IV crush even if the move is small.",
+   "Finance a long call by ratio-selling farther calls plus a protective put sale: net premium near zero with a wide 1988-2508 profit zone."
+  ],
+  "strategies": [
+   {
+    "name": "TCS earnings combo (put sale + call ratio with financed long call)",
+    "construction": "Sell 2 lots 2000 PE; buy 2 lots 2300 CE @47.75; sell 4 lots 2400 CE; sell 1 lot 2500 CE",
+    "numbers": "Margin 3,65,000; breakevens 1988-2508; probability of profit ~82%; max profit ~65,000; result after 5:30 pm, reaction next session",
+    "best_regime": "Pre-earnings IV elevation on a low-beta large cap expected to move modestly",
+    "adjustments": "Stop-loss or fire-fight if stock breaches wings; exit after IV crush realizes",
+    "risks": "Gap beyond 2508 on exceptional results; assignment/liquidity on stock options"
+   }
+  ],
+  "quotes": [
+   "usually ahead of the results, implied volatility will be higher... when the implied volatility falls, we are likely to make some profit"
+  ]
+ },
+ {
+  "id": "0111",
+  "date": "2020-07-10",
+  "type": "special",
+  "summary": "Q&A batch: STT mechanics on sellers; time decay proportional to expiry (weekly day-1 = 20% of decay, expiry day = 100%); covered calls against physical shares still need full margin in India (no cash-F&O link) but a long futures leg reduces it to exposure margin; Bharat Bond 1 vs 2 (yield, premium, pledge-ability delay); NSE's six-month co-location ban on new contracts had just ended; bear/bull defined by 20% thresholds.",
+  "lessons": [
+   "Time decay is proportional to remaining time: a one-week option loses ~20% of its value on day one, but ~100% on expiry day - expiry-day selling harvests decay that weekly sellers spread across days.",
+   "India charges full span+exposure margin on covered calls against demat shares (no cash-F&O link); holding a long future instead cuts the short call's span to zero - only exposure margin applies."
+  ],
+  "strategies": [
+   {
+    "name": "Covered call via futures leg (margin-optimized)",
+    "construction": "Hold long futures instead of physical shares; sell calls against it",
+    "numbers": "Stated: span margin zero for the covered call against long futures; exposure margin ~2% index, ~3.5% stock options",
+    "best_regime": "Large holders wanting option income without physical-settlement complexity",
+    "adjustments": "Roll calls up as futures rally",
+    "risks": "Futures MTM swings; margin calls if exposure margin rules change"
+   }
+  ],
+  "quotes": [
+   "when running a casino is more profitable, why do people choose to be gamblers?"
+  ]
+ },
+ {
+  "id": "0112",
+  "date": "2020-07-11",
+  "type": "special",
+  "summary": "Counters technical analysts calling for a 7500 retest: after the October 2008 Lehman low (2252), Nifty doubled within a year and the low was never retested; the COVID candle's high was 11400 - once crossed, it may never be retested. COVID fell less than 50% (vs 2008's >50%), so recovery may be slower, but 15000 arrives before 7500. Investment timing: invest when you have surplus cash; exit when you need the money.",
+  "lessons": [
+   "Post-crash lows of true panic candles (2008, 2020) are historically not retested once the recovery candle's high is crossed - drawdown bottoming behaves asymmetrically.",
+   "The depth of the crash sets the pace of recovery: 2008's >50% fall doubled in a year; 2020's shallower fall implies a slower but persistent recovery."
+  ],
+  "strategies": [],
+  "quotes": [
+   "the right time to invest is when you have surplus cash. The right time to exit is when you need the money"
+  ]
+ },
+ {
+  "id": "0114",
+  "date": "2020-07-14",
+  "type": "special",
+  "summary": "Live pre-results Infosys trade executed on-screen with basket orders: buy 800 PE, sell 770 PE (1 lot each), sell 2 lots 830 CE, buy 2 lots 900 CE. Max profit 43,000, max loss 1.6 lakh (only above 900 at expiry), ~71% probability, breakeven 833, net credit ~7,000. Context: Bank Nifty down 1,600 points in three sessions on HDFC Bank leadership-exit news; Infosys near its 850 all-time high.",
+  "lessons": [
+   "Define maximum loss before the event: this structure capped loss at 1.6 lakh only in the extreme above-900 scenario, with no downside risk below 770.",
+   "Multi-leg entries via basket orders remove legging risk and execution hesitation - prepare strikes, quantities and side before the event day."
+  ],
+  "strategies": [
+   {
+    "name": "Infosys earnings iron structure (put debit spread + call ratio credit wings)",
+    "construction": "Buy 800 PE (1 lot); sell 770 PE (1 lot); sell 830 CE (2 lots); buy 900 CE (2 lots)",
+    "numbers": "Max profit 43,000; max loss 1,60,000 (only if stock closes above 900 at expiry); probability ~71%; breakeven 833; net credit ~7,000",
+    "best_regime": "Pre-earnings on a momentum stock near highs where a moderate move is likelier than a blowout",
+    "adjustments": "Stop-loss exit if stock runs through upper wing pre-event; roll after IV crush",
+    "risks": "Strong beat-and-raise above 900 creates the defined max loss; low liquidity in stock options"
+   }
+  ],
+  "quotes": [
+   "there is no downside risk and upside risk is only above 833"
+  ]
+ },
+ {
+  "id": "0115",
+  "date": "2020-07-16",
+  "type": "special",
+  "summary": "Members-first review of three July structures: Bank Nifty short straddle started at 21500 (2400 combined premium), shifted to 22000 then 22500 as the market rallied, plus weekly reference trades (~8 lakh on ~1 crore); Nifty put ratio spread (buy 10500 PE 750 qty @430; sell double 10000/9500/9000 PEs, lower breakeven 9500) netting ~4.23 lakh including weeklies; and a naked ITM 22000 PE + 25000 CE reference on 80 lakh capital. Core claim: static backtests miss shifting strikes plus weekly overlays - no system works unadjusted.",
+  "lessons": [
+   "A short straddle is a living position: when the market trends, shift the straddle to the new ATM instead of nursing the old strike - movement with the market is the edge backtests cannot capture.",
+   "Ratio spreads with a defended support (9500) win in both directions: the long put lost 1.84 lakh as the market rallied, but repeated short-put rounds returned ~4.24 lakh plus weekly overlay."
+  ],
+  "strategies": [
+   {
+    "name": "Shifting short straddle (Bank Nifty)",
+    "construction": "Sell ATM straddle monthly (21500 @2400 combined); shift to 22000, then 22500 as market trends; run weekly ATM reference trades alongside",
+    "numbers": "~3.5 lakh straddle profit + ~1.76 lakh weekly profits \u2248 8 lakh on ~1 crore capital in ~2 weeks (July 2020)",
+    "best_regime": "Trending or wide-range months where the index keeps moving away from the initial ATM",
+    "adjustments": "Shift straddle up/down on sustained moves; close weekly legs before direction flips",
+    "risks": "Whipsaw periods cause repeated shifts with slippage; uncapped loss if a shift is missed"
+   }
+  ],
+  "quotes": [
+   "we don't take any short straddle and sit until the end of the month... we keep shifting the straddle"
+  ]
+ },
+ {
+  "id": "0116",
+  "date": "2020-07-17",
+  "type": "special",
+  "summary": "Counters the 'invest for long term' reflex: Nifty top-50 averaged ~11x over 1994-2020 (doubling slower than 6 years) while risk-free debt doubled in ~6; only stock-pickers or entry-exit timers should invest; Anil Ambani group stocks lost 95-99%.",
+  "lessons": [
+   "Nifty top-50 average return 1994-2020 did not double in 6 years, underperforming risk-free debt instruments doubling in ~6.",
+   "Index survivorship inflates returns: failing companies are ejected, so you average only the winning horses."
+  ],
+  "strategies": [],
+  "quotes": [
+   "Stock market is only for two people: those who can pick the stock that performs, or those who know when to get in and out."
+  ]
+ }
+]

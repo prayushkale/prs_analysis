@@ -1,1 +1,1 @@
-Claim 5 fully verified (25% Apple/Samsung, 50% EU threat, June 1 timeline, extended talks by May 25). Claim 6 (Reliance Q4/GDR) unverified via search — let me try direct sources: Reliance Q4 FY22 results were April 22, 2022 (not May), and the GDR detail is odd. Let me query more specifically:
+The pre-processor actually worked — manuscript.md is now clean. The previous book.typ was stale. Regenerating and compiling:

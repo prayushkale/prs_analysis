@@ -1,0 +1,71 @@
+# Chapter 18
+## Content Stats
+specials=47, dailies=0, weeklies=0
+lessons=171, strategies=49, events_ref=0, verified_claims=105
+## Strategies
+- Intraday fade-the-bounce rule
+- BTC short straddle + bearish call overlay
+- Call ratio butterfly (1-5-4) on Reliance before results
+- Cash-secured puts on quality stocks
+- Infosys earnings rescue via straddle conversion
+- Cash-secured puts (ICICI 300PE, HDFC 840PE)
+- Zero-cost portfolio collar
+- Deep-ITM short straddle with far-month protective put
+- Pair trade (long stock / short index future)
+- Paired BTC combos (bearish + bullish)
+- IndusInd earnings-day iron-fly style combo
+- Adani Ent short-call rescue ladder
+- IndusInd 1:3 call ratio with put-funded margin hedge and ladder rescue
+- Naked ITM put + far call reference (Bank Nifty)
+- Hedged long stock/futures with call ladder + straddle conversion
+- Put ratio spread (9100PE bought / 8500PE sold)
+- Infosys bearish iron-condor-style spread + firefighting ladder
+- Put ratio (moderately bullish)
+- Long-dated call ratio (bullish, financing legs)
+- Bank Nifty short straddle with adjustments
+- Hedged monthly book through expiry stress
+- Long-dated ratio combo (LEAPS-style)
+- Intraday short straddle (referenced, not fully taught)
+- Call ratio spread (financed directional)
+- Budget-day short straddle with 30% stop-loss
+- HDFC results-day strangle + OTM call tail
+- Hedged long-term combo (funded protective put)
+- Bank Nifty butterfly via basket order (demonstration)
+- Reliance hedged futures
+- Unhedged short straddle on a single stock
+- Expiry-day naked call selling (documented failure)
+- Budget-day ratio structure (live)
+- Bearish ratio-biased strangle (Oct series)
+- light-volume crypto options (details truncated in source)
+- Nifty call ratio with put sale (bullish skew)
+- Put ratio spread with support defense (Nifty)
+- Futures + rolling short straddle on a long-term holding
+- High-beta stock short straddle with strike ladder
+- Adani Enterprises pre-results call ratio
+- Sun Pharma short straddle
+- Shifting short straddle (Bank Nifty)
+- Strangle roll-under-stress mechanics
+- Short-stock rescue ladder (firefighting)
+- OTM credit-sale adjustment on a losing ratio
+- HDFC merger straddle disaster (case study)
+- SBI results call-ratio with put floor
+- Nifty/Bank Nifty put ladders into budget
+- Reliance long futures + rolling option ladder
+- Biocon earnings straddle
+
+## Key Lessons
+- In violent moves, premiums behave abnormally because losing-side sellers are forced to square up and roll - not because 
+- Never deploy all margin in a strangle; spare cash lets you sell closer strikes without buying back the far leg at the wo
+- Short strangle is called the most dangerous strategy - unlimited one-sided loss with both legs naked.
+- Margin-release mechanics (square far leg, sell nearer leg) explain bid-ask distortions during panics.
+- Prices move on results versus expectations, not on absolute results - better-than-feared can rally
+- On expiry day, stocks can move opposite to results as shorts cover
+- Never copy someone's strategy blindly unless you have their capital and skills (bus-pothole analogy)
+- Without extra capital and adjustment skills, your only tool is a stop-loss in your mind
+- Success needs two things: an edge (view/skill) and a hedge.
+- Sell far OTM calls to finance a directional long - no out-of-pocket premium, capped upside is the accepted cost.
+- A short straddle in a quiet regime can yield high-single-digit monthly returns on margin.
+- Bank Nifty read-through: one big bank's results miss drags peers awaiting their own results.
+- When a thesis breaks, sell a further OTM option to convert the position into a net credit instead of accepting the plann
+- Stock options move violently; small-capital traders should stick to indices.
+- Announce the risk of a trade before the event, then adjust mechanically after - not emotionally.

@@ -1,0 +1,99 @@
+# Chapter 13
+## Content Stats
+specials=79, dailies=0, weeklies=0
+lessons=281, strategies=77, events_ref=0, verified_claims=105
+## Strategies
+- Dec-2023 18,000 short straddle (demonstration size)
+- US long-dated option selling (account structure)
+- VIX-based expected-move strangle placement
+- BTC Put Ratio
+- Infosys earnings rescue via straddle conversion
+- Cash Secured Put
+- Cash-secured puts (ICICI 300PE, HDFC 840PE)
+- Put ratio spread (9100PE bought / 8500PE sold)
+- Far-OTM safe option selling (fragmentary)
+- Intraday short straddle (referenced, not fully taught)
+- Budget-day short straddle with 30% stop-loss
+- ATM straddle range projection
+- Unhedged short straddle on a single stock
+- Expiry-day naked call selling (documented failure)
+- Bearish ratio-biased strangle (Oct series)
+- Put ratio spread with support defense (Nifty)
+- News-pop short straddle
+- Calendar inversion (long near-week straddle, short far-week straddle)
+- Short straddle with far wings
+- Strangle roll-under-stress mechanics
+- Put ratio spread with split strikes + insurance call
+- TCS earnings call-ratio with financed wings
+- Long-term options ladder (US)
+- Covered straddle on index heavyweight (HDFC Bank)
+- Value stock + covered call income engine
+- Cash-secured puts on quality stocks
+- Hedged short option (spread)
+- December double ratio
+- Infosys bearish iron-condor-style spread + firefighting ladder
+- Infosys earnings iron fly with financed wings
+- BTC financed bearish combo (Oct 2022 expiry)
+- Bank Nifty short straddle with adjustments
+- Bitcoin Short Straddle
+- Infosys earnings iron structure (put debit spread + call ratio credit wings)
+- HDFC results-day strangle + OTM call tail
+- Call calendar (with weekly rolling)
+- Strike-and-expiry put ladder (illustrative, high risk)
+- ETH far-wing strangle (prior trade)
+- Cash-secured put as a value entry
+- Nifty/Bank Nifty put ladders into budget
+- Put-selling ladder in collapsing-VIX rebound
+- IndusInd Bank earnings hedged straddle (May series)
+- Pledged-corpus income engine (personal-finance structure)
+- Earnings short straddle (framework)
+- Hedged long stock/futures with call ladder + straddle conversion
+- Dec-2023 financed combo (16,000CE / 2x 20,000CE / 3x 13,000PE)
+- Hedged long-term combo (funded protective put)
+- Reliance hedged futures
+- Nifty call ratio with put sale (bullish skew)
+- BTC Short Straddle
+- High-beta stock short straddle with strike ladder
+- Collateral-funded option selling (framework)
+- Shifting short straddle (Bank Nifty)
+- ITM put calendar
+- 6-month bearish combo (retrospective)
+- HDFC merger straddle disaster (case study)
+- BTC short straddle + bearish call overlay
+- Biocon earnings straddle
+- ETH wide short strangle + double far-call
+- Hedged vs unhedged decision framework
+- Post-earnings leg-by-leg review of the hedged straddle
+- Deep-ITM short straddle with far-month protective put
+- Paired BTC combos (bearish + bullish)
+- Adani Ent short-call rescue ladder
+- Naked ITM put + far call reference (Bank Nifty)
+- Low-VIX combo (call ratio + support puts, margin-optimized)
+- Put ratio (moderately bullish)
+- Hedged monthly book through expiry stress
+- TCS earnings combo (put sale + call ratio with financed long call)
+- Results-day vol-crush strangle (SBI)
+- ETH short straddle (monthly)
+- BTC Call Butterfly
+- Call ratio spread (financed directional)
+- BTC short strangle (wide)
+- ITM put calendar (low-VIX regime)
+- Reliance long futures + rolling option ladder
+- Cash-secured put entry on BPCL
+
+## Key Lessons
+- For every option bought one is sold - if buying were strictly better, no seller would exist.
+- Seller pays margin as collateral (FDs/shares), so cash outlay can be near zero; buyer pays premium in cash.
+- Probability decides long-run winners: buyer wins in only one of five market scenarios, seller in most.
+- Sellers can adjust/hedge a losing position (short futures, sell calls); a buyer has no equivalent fix.
+- Little money and losable: buy. Large capital and steady profit: sell.
+- 'Limited risk, unlimited reward' always pairs with very low probability (lottery) or very high risk (robbery).
+- Seller's real risk is bounded by the trading capital actually deployed, not theoretical unlimited loss.
+- Buyer psychology fails at profit booking - 10 to 50 to zero on expiry day; seller's capped profit removes greed.
+- Nifty never moves far enough in a month for 'unlimited' to matter; few hundred points is the real range.
+- Consistent buying needs extraordinary skill; selling needs extraordinary capital.
+- VIX measures expected one-month movement; it can fall in a falling market when the fall is narrow (heavyweights only, br
+- Monthly expected move = VIX / sqrt(12); place short strikes beyond that band (example: VIX 60 -> ~17% band).
+- VIX is derived from option prices - the straddle premium is a live cross-check of the VIX-implied range.
+- High VIX favors sellers who keep distance; low VIX means the market is priced for calm and strikes must come closer.
+- In violent moves, premiums behave abnormally because losing-side sellers are forced to square up and roll - not because 

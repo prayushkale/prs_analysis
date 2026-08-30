@@ -1,0 +1,73 @@
+# Chapter 17
+## Content Stats
+specials=52, dailies=0, weeklies=0
+lessons=213, strategies=52, events_ref=0, verified_claims=105
+## Strategies
+- Protective put (vehicle-insurance hedge)
+- Long-dated Nifty short strangle (annual range)
+- Long-term options ladder (US)
+- Zero-Risk BeES Collar
+- Bitcoin call ratio spread + short put (premium-funded)
+- Value stock + covered call income engine
+- Hedged short put
+- Cash-secured puts on quality stocks
+- Hedged vs unhedged decision framework
+- US long-dated option selling (account structure)
+- Zero-cost collar on Nifty BeES with ladder averaging
+- Ethereum call ratio financed by short puts (long-term)
+- Hedged put sale (index)
+- Covered-call income stack on beaten-down stock
+- SGB + short MCX gold futures hedged carry
+- Sector momentum with hedged pledging framework
+- Deep-ITM short straddle with far-month protective put
+- BeES + Protective Put
+- Long-dated combo: call ratio + cash-secured put (Dec-2022 expiry)
+- Zero-cost portfolio collar
+- Pair trade (long stock / short index future)
+- Bullion index equity hedge
+- Election result collar (portfolio hedge)
+- Hedged long stock/futures with call ladder + straddle conversion
+- Post-crash call ratio (Dec-2021)
+- Sell-on-rally stance for investors
+- Infosys earnings iron fly with financed wings
+- Far-OTM safe option selling (fragmentary)
+- Bitcoin wide-breakeven combo (June)
+- Bank Nifty short straddle with adjustments
+- Hedged monthly book through expiry stress
+- Collateral-funded far-OTM weekly selling (HNI pattern, warned)
+- Covered call on ITC
+- Covered call on high-dividend stock (ITC illustration)
+- Covered call on TLT (NRI/US treasuries)
+- Post-result speculative put (lottery)
+- Limited-risk call ratio spread (1:3:2)
+- Hedged long-term combo (funded protective put)
+- Flat-stock option hedging income
+- Reliance hedged futures
+- Long put (directional / insurance)
+- Crisis-week far-OTM strangle (Sensex)
+- Futures-plus-collateral long-term long
+- Bank Nifty rollover analysis
+- Crypto premium selling (beginner account)
+- Value-stock covered call combo
+- Futures + rolling short straddle on a long-term holding
+- Futures overlay hedge (pre-event)
+- Covered call on value stock
+- Cash-secured put entry on BPCL
+- Biocon earnings straddle
+
+## Key Lessons
+- Enter earnings trades the day before results and exit once the event resolves; hold further only with a stop-loss.
+- Finance protective wings by selling double quantity of farther strikes so the hedge costs nothing from pocket.
+- A naked short straddle is high risk; the same view becomes limited-risk when converted to an iron fly.
+- Stop-loss is non-negotiable: hit it and you can recover; blow up and you cannot (slow poison vs quick poison)
+- Square-off vs counter-strategy is decided by two questions: do you have additional capital and additional skill?
+- The 50% cash-equivalent requirement applies at broker level; brokers may pass it to clients (Zerodha does)
+- Cash equivalents: FD, Liquid BeES, liquid funds; Bharat Bond (~5% haircut) may qualify with some brokers
+- Run many small strategies across instruments so a rescue in one can be funded by closing another
+- For large capital, long futures funded by pledged debt instruments beats cash buying: interest income exceeds the cost-o
+- A short call against a long futures position needs only incremental margin - cash-market holders pay far more to run the
+- Leverage is not inherently gambling: buying with Rs 100 while committing only Rs 20, keeping the rest safe, is capital e
+- Futures gains are business income (expenses deductible); cash equity gets 10% LTCG / 15% STCG - pick the instrument with
+- Hedging skill converts a 35-40k directional profit into ~1.6 lakh on the same view - the edge is in management, not pred
+- Fund long-term equity exposure with futures + collateral: park the cash-equivalent in interest-bearing debt instruments,
+- Wealth sequence: trade actively to compound, then convert to buy-and-hold - 'buy 1000 shares and forget it'.
