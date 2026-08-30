@@ -1,3 +1,8 @@
 .DS_Store
 .commandcode/
 PRS Data.zip
+
+# Extracted / redundant data artifacts (source zip is tracked as split parts)
+PRS_Data.zip
+PRS Data/
+__MACOSX/
